@@ -1,0 +1,524 @@
+[
+  {
+    "MARC_Code": "afa",
+    "Language_Name": "Afroasiatic (Other)",
+    "Canonical_Display_Language": "Afroasiatic (Other)",
+    "Aliases": "afroasiatic | afro-asiatic | afroasiatic languages",
+    "Member_Languages": "angas | bidiyo | bura-pabir | daba | dangaleat | day | gabr | gamo | glavda | goemai | gude | guruntum-mbaaru | hedi | huba | jongor | kamwe | kanakuru | kapsiki | kara | mada | mafa | male | masa | miship | miya | musgu | muyang | nancere | ngizim | paduko | ron | saya | sheko | southern mofu | tera | tumak | tupuri | uldeme | wandala | yemsa | zaar | zulgo",
+    "LCC_Subclass": "PJ",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "apa",
+    "Language_Name": "Apache languages",
+    "Canonical_Display_Language": "Apache languages",
+    "Aliases": "apache | apache languages | western apache | mescalero apache | chiricahua apache",
+    "Member_Languages": "chiricahua | mescalero | white mountain apache | apache",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "aus",
+    "Language_Name": "Australian languages",
+    "Canonical_Display_Language": "Australian languages",
+    "Aliases": "australian languages | australian language | australian aboriginal languages",
+    "Member_Languages": "adnyamathanha | alawa | alyawarra | anindilyakwa | awabakal | bandjalang | bidjara | biri | burarra | butchulla | darling river dialects | dhungutti | djaru | djinang | djingili | eastern arrernte | garawa | gidabal | gubbi-gubbi | gugada | gumatj | gungabula | gunian | gunwinggu | gupapuyngu | guugu yimithirr | iwaidja | jaminjung | kala lagaw ya | kalkatungu | kattang | kitja | kuku-yalanji | kuuku ya'u | kwini | malgana | mandjildjara | mangarayi | maranunggu | marringarr | martu wangka | murrinhpatha | nakara | narangga | narrinyeri | ngaanyatjarra | ngandi | ngangikurunggurr | ngarinyin | ngarla | ngarluma | nukunu | nunggubuyu | peek whuurung | pintupi | pitjantjatjara | proto mirndi | ritharrngu | tharrkari | tiwi | umpila | walmajarri | wandarang | wan'guri | warlpiri | warumungu | western arrernte | western desert | wik-munkan | wik-ngathan | worora | wunambal | yandruwandha | yanyuwa | yawuru | yidiny | yindjibarndi | yinhawangka | yualyai | yugambeh",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "bad",
+    "Language_Name": "Banda languages",
+    "Canonical_Display_Language": "Banda languages",
+    "Aliases": "banda | banda languages",
+    "Member_Languages": "banda | linda",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "bai",
+    "Language_Name": "Bamileke languages",
+    "Canonical_Display_Language": "Bamileke languages",
+    "Aliases": "bamileke | bamileke languages | bamiléké | bamileke",
+    "Member_Languages": "bandjoun | fe'fe' | ngyemboon | yemba",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "bat",
+    "Language_Name": "Baltic (Other)",
+    "Canonical_Display_Language": "Baltic (Other)",
+    "Aliases": "baltic languages | baltic language",
+    "Member_Languages": "curonian | proto-baltic | prussian",
+    "LCC_Subclass": "PG",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "ber",
+    "Language_Name": "Berber (Other)",
+    "Canonical_Display_Language": "Berber",
+    "Aliases": "berber | tamazight | amazigh | berber languages",
+    "Member_Languages": "mzab | rif | shilha | tamazight | taznatit",
+    "LCC_Subclass": "PJ",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "bih",
+    "Language_Name": "Bihari (Other)",
+    "Canonical_Display_Language": "Bihari",
+    "Aliases": "bihari languages | bihari language",
+    "Member_Languages": "bajjika | kudmali | panchpargania",
+    "LCC_Subclass": "PK",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "bnt",
+    "Language_Name": "Bantu (Other)",
+    "Canonical_Display_Language": "Bantu (Other)",
+    "Aliases": "bantu languages | bantu language",
+    "Member_Languages": "abo | aduma | aka | asu | bafia | bakundu | bati | bekwil | bembe | benga | bisa | bobangi | bolia | boma | bomitaba | bondei | bube | bubi | budu | bukusu | bulu | camtho | chaga | chokwe | chopi | comorian | diriku | doko | duruma | embu | enahara | fipa | fuliru | ganguela | geviya | giryama | gisu | gungu | gusii | gweno | gwere | ha | haya | hehe | hunde | ikizu | ila | jita | kahe | kako | kalanga | kanyok | kaonde | kare | kele | kete | kom | kombe | komo | koonzime | kuria | kwangali | kwese | kwiri | lala | lega | lenje | logooli | lomwe | londo | lucazi | luvale | luyana | luyia | maka | makhuwa | makonde | makwe | mashami | mbala | mbete | mbo | mbosi | mbukushu | mbunda | meru | mijikenda languages | mituku | mkaa̕ | mochi | mpiemo | mpongwe | mpur | myene | nambya | nande | ndau | ndumu | ngonde | ngul | nsenga | ntomba | nyaneka | nyanga | nyaturu | nyole | nyungwe | nzebi | pangwa | pelende | pende | pokomo | punu | rangi | ronga | ruri | ruund | saamia | sakata | salampasu | sanga | sangu | sena | shambala | shi | shimaore | simbiti | soga | songye | subiya | suku | sumbwa | taita | talinga-bwisi | teke | tembo | temi | tetela | tharaka | tiene | tiriki | tonga | tooro | tsogo | tswa | tunen | yaka | yanzi | yombe | zanaki | zigula | zinza",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "cai",
+    "Language_Name": "Central American Indian (Other)",
+    "Canonical_Display_Language": "Central American Indian",
+    "Aliases": "central american indian languages | central american indian language",
+    "Member_Languages": "amuzgo | boruca | bribri | cabecar | cahita | cahuilla | chatino | chiapane | chinantecan languages | chocho | chontal | cochimi | comanche | cora | cuicatec | cuitlateco | cupeño | eudeve | garifuna | guarijío | guatuso | guaymi | hopi | huave | huichol | ixcateco | jicaque | kawaiisu | kiowa | lenca | mangue | matagalpa | mayo | mazateco | miskito | mixe | mixtec | opata | panamint | pima | popoloca | rama | seri | serrano | sierra popoluca | southern paiute | sumo | tarahumara | tarascan | tepehuan | terraba | tewa | tlapanec | tohono o'odham | totonac | trique | ulva | ute | xinca | yaqui | zoque",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "cau",
+    "Language_Name": "Caucasian (Other)",
+    "Canonical_Display_Language": "Caucasian (Other)",
+    "Aliases": "caucasian languages | caucasian language",
+    "Member_Languages": "abazin | bats | bezhta | botlikh | budukh | chamalal | dido | ginukh | hunzib | kubachi | lak | laz | mingrelian | svan | tabasaran | tsakhur | ubykh | udi",
+    "LCC_Subclass": "PK",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "cel",
+    "Language_Name": "Celtic (Other)",
+    "Canonical_Display_Language": "Celtic (Other)",
+    "Aliases": "celtic languages | celtic | celtic language",
+    "Member_Languages": "celtiberian | gaulish | proto-celtic | welsh, middle | welsh, old",
+    "LCC_Subclass": "PB",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "cmc",
+    "Language_Name": "Chamic languages",
+    "Canonical_Display_Language": "Chamic languages",
+    "Aliases": "chamic languages | cham languages",
+    "Member_Languages": "cham | haroi | jarai | rade | roglai",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "cpe",
+    "Language_Name": "Creoles and Pidgins, English-based (Other)",
+    "Canonical_Display_Language": "Creoles and Pidgins (English-based)",
+    "Aliases": "english-based creoles | english creoles | english-based creole languages",
+    "Member_Languages": "bamyili creole | djuka | fitzroy valley kriol | hawaiian pidgin english | jamaican creole | krio | kriol | pidgin english | pijin | saramaccan | sea islands creole",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "cpf",
+    "Language_Name": "Creoles and Pidgins, French-based (Other)",
+    "Canonical_Display_Language": "Creoles and Pidgins (French-based)",
+    "Aliases": "french-based creoles | french creoles | french-based creole languages",
+    "Member_Languages": "dominican french creole | louisiana french creole | mauritian french creole | michif | reunionese french creole | seychellois french creole",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "cpp",
+    "Language_Name": "Creoles and Pidgins, Portuguese-based (Other)",
+    "Canonical_Display_Language": "Creoles and Pidgins (Portuguese-based)",
+    "Aliases": "portuguese-based creoles | portuguese creoles | portuguese-based creole languages",
+    "Member_Languages": "annobon | cape verde creole | crioulo | indo-portuguese",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "crp",
+    "Language_Name": "Creoles and Pidgins (Other)",
+    "Canonical_Display_Language": "Creoles and Pidgins (Other)",
+    "Aliases": "creoles and pidgins | creole languages | pidgin languages",
+    "Member_Languages": "ambonese malay | betawi | chabacano | fanakalo | kituba | naga pidgin | petjo | san basilio del palenque spanish creole | unami jargon",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "cus",
+    "Language_Name": "Cushitic (Other)",
+    "Canonical_Display_Language": "Cushitic (Other)",
+    "Aliases": "cushitic languages | cushitic language",
+    "Member_Languages": "alaba | burji | dasenech | gedeo | hadiya | iraqw | kambata | qebena | rendille | tunni",
+    "LCC_Subclass": "PJ",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "dra",
+    "Language_Name": "Dravidian (Other)",
+    "Canonical_Display_Language": "Dravidian (Other)",
+    "Aliases": "dravidian languages | dravidian language",
+    "Member_Languages": "abujhmaria | alu kurumba | brahui | gadaba | kodagu | kolami | kota | kui | kuvi | malto | manda | pengo | toda | tulu",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "esk",
+    "Language_Name": "Eskimo languages",
+    "Canonical_Display_Language": "Eskimo languages",
+    "Aliases": "eskimo languages",
+    "Member_Languages": "greenlandic | inuktitut | inupiaq | central yupik | pacific gulf yupik | sirinek | yuit",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "fiu",
+    "Language_Name": "Finno-Ugrian (Other)",
+    "Canonical_Display_Language": "Finno-Ugrian (Other)",
+    "Aliases": "finno-ugrian languages",
+    "Member_Languages": "ingrian | khanty | livonian | ludic | mansi | mordvin | veps",
+    "LCC_Subclass": "PH",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "gem",
+    "Language_Name": "Germanic (Other)",
+    "Canonical_Display_Language": "Germanic (Other)",
+    "Aliases": "germanic",
+    "Member_Languages": "danish, old | dutch, old | frisian, old | old saxon | pennsylvania german | swedish, old | walser",
+    "LCC_Subclass": "PT",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "him",
+    "Language_Name": "Western Pahari languages",
+    "Canonical_Display_Language": "Western Pahari",
+    "Aliases": "western pahari | himachali | pahari",
+    "Member_Languages": "bhadrawahi | bhalesi | chambeali | jaunsari | kullu pahari | mandeali | sirmauri",
+    "LCC_Subclass": "PK",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "inc",
+    "Language_Name": "Indic (Other)",
+    "Canonical_Display_Language": "Indic (Other)",
+    "Aliases": "indic languages",
+    "Member_Languages": "adiwasi garasia | ahirani | apabhraṃśa | avahattha | bashgali | bhantu | bhili | bote-majhi | chakma | chamthi | changari | chinali | chodri | danuwar rai | darai | dehawali | domaaki | dungra bhil | fiji hindi | garasiya | garhwali | halbi | hindustani | indus kohistani | kalami | khandesi | khowar | kumaoni | kupia | madari | mawchi | memoni | nayki | parya | rajbangsi | rathvi | shina | suriname hindustani | tharu | vaagri boli | vanzari | veddah | waigali | wotapuri-katarqalai",
+    "LCC_Subclass": "PK",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "ine",
+    "Language_Name": "Indo-European (Other)",
+    "Canonical_Display_Language": "Indo-European (Other)",
+    "Aliases": "indo-european | indo european languages | proto-indo-european | *pie | pie | proto indo european",
+    "Member_Languages": "carian | dacian | luwian | lycian | lydian | macedonian | messapic | palaic | phrygian | proto-indo-european | thracian | tokharian | venetic | yuezhi",
+    "LCC_Subclass": "PA",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "ira",
+    "Language_Name": "Iranian (Other)",
+    "Canonical_Display_Language": "Iranian (Other)",
+    "Aliases": "iranian languages",
+    "Member_Languages": "bactrian | badzhuv | bakhtiari | bartang | ephthalite | gilaki | gurani | hazaragi | ishkashmi | judeo-tat | khorezmi | khuf | laki | māzandarānī | median | munji | natanzi | ormuri | parachi | parthian | roshan | sarikoli | sarmatian | shughni | talysh | tat | wakhi | yaghnobi | yazghulami | zebaki",
+    "LCC_Subclass": "PK",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "iro",
+    "Language_Name": "Iroquoian (Other)",
+    "Canonical_Display_Language": "Iroquoian",
+    "Aliases": "iroquoian languages",
+    "Member_Languages": "cayuga | oneida | onondaga | seneca | tuscarora | wyandot",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "kar",
+    "Language_Name": "Karen languages",
+    "Canonical_Display_Language": "Karen languages",
+    "Aliases": "karen",
+    "Member_Languages": "kayah | pwo karen | sgaw karen | taungthu",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "khi",
+    "Language_Name": "Khoisan (Other)",
+    "Canonical_Display_Language": "Khoisan (Other)",
+    "Aliases": "khoisan languages",
+    "Member_Languages": "ju/'hoan | khoikhoi | korana | nama | nharo | san languages | !xõ",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "kro",
+    "Language_Name": "Kru (Other)",
+    "Canonical_Display_Language": "Kru (Other)",
+    "Aliases": "kru languages",
+    "Member_Languages": "bakwé | bassa | bete | dida | grebo | godié | jabo | krahn | kuwaa | neyo | wê",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "map",
+    "Language_Name": "Austronesian (Other)",
+    "Canonical_Display_Language": "Austronesian (Other)",
+    "Aliases": "austronesian languages | austronesian",
+    "Member_Languages": "adzera | ajie | ambrym | amis | anesu | apma | areare | arop-lokep | arosi | atayal | bajau | bakumpai | balaesang | banjar hulu | barangas | bareë | begak | berawan | biliau | bimanese | bolaang mongondow | buang | bugotu | bukar sadong | bunama | bunun | buol | bwaidoga | bwatoo | camuhi | carolinian | daa | dawawa | dehu | dobel | dobu | dumbea | duri | dusun | east makian | east uvean | enggano | enim | eromanga | favorlang | futuna-aniwa | gapapaiwa | gedaged | gumasi | halia | ham | hote | iai (loyalty islands) | iamalele | ida'an | iduna | irahutu | kaidipang | kaili | kaiwa (papua new guinea) | kambera | kapingamarangi | kara (papua new guinea) | katingan | kaulong | kayan (borneo) | kayu agung | kemak | kerinci | kiput | kiriwinian | koluwawa | komodo | kubu | kuni | kurada | kutai | kwara'ae | lamenu | lampung | lau | lavongai | lembak bilide | lenakel | lettri igona | lewo | lindrou | lundayeh | manam | mandak | mandara (papua new guinea) | mangap | manggarai | mangseng | marquesan | mekeo | mele-fila | mentawai | mokilese | mori | mortlockese | motu | mouk | mukawa | muna | nakanai | nali | napu | nemi | nengone | ngada | ngaju | ngatik | nguna | notsi | nuaulu | nukuoro | numfor | paiwan | pala | paranan | pasir (lawangan) | pazeh | pendau | petats | pileni | puluwat | puyuma | ramoaaina | rejang | rennellese | roti | rotuman | rukai | rungus | saaroa | sangen | sangil | sangir | saposa | sawu | sedik | semendo | serawai | sigi | sikka | siladang | sinagoro | sio | sissano | sobei | sokop | sonsorol-tobi | suau | sumba | sumbawa | sursurunga | suwawa | tagal murut | tagula | takuu | talaud | tanga | tavara | tawoyan | teop | tidore | tikopia | timor | timugon | tinputz | titan | tolai | tolaki | tombulu | tondano | tonsea | toraja | toraja sa'dan | tuamotuan | tubetube | ulithi | uma | urak lawoi̕ | uripiv | wampar | wandamen | wewewa | woleaian | wolio | yabim | yamdena",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "mis",
+    "Language_Name": "Miscellaneous languages",
+    "Canonical_Display_Language": "Miscellaneous languages",
+    "Aliases": "miscellaneous languages",
+    "Member_Languages": "andamanese | burushaski | chukchi | etruscan | gilyak | hattic | hurrian | iberian | indus script | jarawa | kamchadal | ket | koryak | manipravalam | mysian | nancowry | nenets | nganasan | nicobarese | palan | shelta | urartian | yugh | yukaghir",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "mkh",
+    "Language_Name": "Mon-Khmer (Other)",
+    "Canonical_Display_Language": "Mon-Khmer (Other)",
+    "Aliases": "mon-khmer languages",
+    "Member_Languages": "bahnar | blang | chrau | cua | hrê | jah hut | jeh | katu | koho | khmu' | mon | pacoh | pnar | sedang",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "mno",
+    "Language_Name": "Manobo languages",
+    "Canonical_Display_Language": "Manobo languages",
+    "Aliases": "manobo",
+    "Member_Languages": "agusan manobo | ata manobo | binukid manobo | cotabato manobo | dibabawon | higaonon | ilianen manobo | kagayanen | matigsalug | subanon | western bukidnon manobo",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "mun",
+    "Language_Name": "Munda (Other)",
+    "Canonical_Display_Language": "Munda",
+    "Aliases": "munda languages",
+    "Member_Languages": "asuri | bhumij | ho | kharia | korwa | mundari | santali",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "myn",
+    "Language_Name": "Mayan languages",
+    "Canonical_Display_Language": "Mayan languages",
+    "Aliases": "mayan languages",
+    "Member_Languages": "achi | akatek | awakateko | cakchikel | ch'ol | chontal | chorti | huastec | ixil | jacalteca | kanjobal | kekchi | mopan | quiché | tzeltal | tzotzil | yucatec",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "nai",
+    "Language_Name": "North American Indian (Other)",
+    "Canonical_Display_Language": "North American Indian",
+    "Aliases": "north american indian languages",
+    "Member_Languages": "alabama | arikara | atsugewi | beothuk | chitimacha | chickasaw | chimariko | chumash | coahuilteco | coos | crow | eyak | hualapai | kiliwa | konomihu | sarsi | tillamook | wintu | yuma",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "nic",
+    "Language_Name": "Niger-Kordofanian (Other)",
+    "Canonical_Display_Language": "Niger-Kordofanian (Other)",
+    "Aliases": "niger-kordofanian languages",
+    "Member_Languages": "abidji | abua | ahanta | aja | ananin (gros ventre ref. is algonquian, ignore) | anano (carries sai elsewhere, ignore) | anango | anufo | anyi | avikam | awutu | babungo | bamun | bandial | balanta-ganja | balanta-kentohe | bamana (mandekan)→bambara (but bai list elsewhere) | bandjalang | basari | bedik | bekwarra | biali | birom | bissa | blowo | bobo fing | boomu | brissa | bua languages | bwamu | ci gbe | cross river mbembe | degema | denya | diola | djimini | dogon | eggon | ejagham | ekpeye | engenni | esuulaalu | farefare | fali | falor | gen-gbe | gbagyi | gbandi | gbaya | gikyode | gonja | gua | gurma | guyuk | idoma | igede | ikwere | izere | jju | jukun | jowulu | kaansa | kabiye | kana | kagoro | kasem | kissi | konkomba | konni | konni/koma | kuba (ambiguous elsewhere) | kuwaa | malémbe | moore | nateni | nupe | senufo | tem | vagala | yacouba (dan)",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "nub",
+    "Language_Name": "Nubian languages",
+    "Canonical_Display_Language": "Nubian languages",
+    "Aliases": "nubian languages",
+    "Member_Languages": "dilling | dongola-kenuz",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "oto",
+    "Language_Name": "Otomian languages",
+    "Canonical_Display_Language": "Otomian languages",
+    "Aliases": "otomian languages",
+    "Member_Languages": "chichimeca-jonaz | matlatzinca | mazahua | ocuiltec | otomi | pame",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "paa",
+    "Language_Name": "Papuan (Other)",
+    "Canonical_Display_Language": "Papuan (Other)",
+    "Aliases": "papuan languages",
+    "Member_Languages": "abau | abulas | agarabe | alamblak | ama | amele | ampale | aneme wake | anggor | ankave | aomie | asaro | asmat | au | auyana | awa | bahinemo | baining | barai | baruya | bauzi | benabena | berik | biangai | bimin | binumarien | bisorio | blagar | bom | buin | bunak | burum | chuave | daga | daribi | dedua | duna | eipo | enga | ese | faiwol | fasu | folopa | fore | gadsup | gahuku | galela | gimi | gogodala | golin | gope | gresi | guhu-samane | gwahatike | gwedena | halopa | huli | iatmul | imbongu | inanwatan | inoke | irumu | iwam | iyo | kalabra | kalam | kaluli | kamano | kamasau | kamtuk | kanite | kapauku | kasua | kâte | kelon | ketengban | kewa | kobon | komba | komunku | kongara | korape | kosena | kovai | kunimaipa | kwerba | lambau | lunambe | mai brat | manambu | mape | meax | medlpa | menya | mianmin | migabac | miyemu | monumbo | mountain arapesh | mountain koiari | mpur | mugil | nabak | nankina | narak | nasioi | nek | nii | notu | oksapmin | olo | ono | orokaiva | orokolo | orya | pay | pinai-hagahai | purari | rawa | rotokas | saberi | sahu | samo | sawos | selepet | sentani | siane | siroi | siwai | sona | suena | sulka | tabla | tairora | tani | tauya | telefol | tepera | ternate | tewa | tifal | timbe | toaripi | tobelo | umbu-ungu | urii | usarufa | waffa | wantoat | washkuk | wasi | were | west makian | wiru | woisika | yabiyufa | yagaria | yangoru | yareba | yau | yessan-mayo | yongkom | yopno | yui | zia",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "phi",
+    "Language_Name": "Philippine (Other)",
+    "Canonical_Display_Language": "Philippine (Other)",
+    "Aliases": "philippine languages",
+    "Member_Languages": "abaknon | agta | agutaynon | aklanon | alangan | amganad ifugao | atta | ayangan ifugao | bagobo | balangao | balangingì | banton | batad ifugao | bilaan | bolinao | bontoc | botolan sambal | caluyanun | central bontoc | central subanen | cuyunon | dumagat | eastern bontoc | eastern ifugao | gaddang | ibaloi | ibanag | ifugao | ilongot | isinay | isneg | itawis | itbayat | ivatan | jama mapun | kalamian | kalinga languages | kankanay | kinaray-a | lower tanudan kalinga | magindanao | mamanwa | mangyan | mansaka | maranao | masbateno | mayoyao ifugao | melebuganon | northern kankanay | palawano | pangutaran sama | sama sibutu | sambali | southern bontoc | southern subanen | subanun | sulod | sulu | tagakaolo | tagbanua | tausug | tboli | tina sambal | tiruray | tuwali | western subanon | yakan",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "pra",
+    "Language_Name": "Prakrit languages",
+    "Canonical_Display_Language": "Prakrit languages",
+    "Aliases": "prakrit",
+    "Member_Languages": "ardhamagadhi prakrit | gandhari prakrit | maharashtri prakrit | sauraseni prakrit",
+    "LCC_Subclass": "PK",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "roa",
+    "Language_Name": "Romance (Other)",
+    "Canonical_Display_Language": "Romance (Other)",
+    "Aliases": "romance languages",
+    "Member_Languages": "anglo-norman | cajun french | franco-provençal | franco-venetian | italian, old | ladin | portuñol | spanish, old",
+    "LCC_Subclass": "PC",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "sai",
+    "Language_Name": "South American Indian (Other)",
+    "Canonical_Display_Language": "South American Indian",
+    "Aliases": "south american indian languages",
+    "Member_Languages": "achagua | achuar | aguaruna | alacaluf | amahuaca | amuesha | andoque | apalai | apinagé | arabela | araona | arecuna | arekena | bakairi | baniwa | barasana del norte | barasana del sur | bora | bororo | cacua | caduveo | caingua | callahuaya | campa | camsa | canamari | cañari | candoshi | canella | capanahua | caquinte | caraja | carapana | cashibo | cashinawa | catio | cauqui | cavineño | cayapa | cayapo | chacobo | chamacoco | chamí | chamicuro | chana | chayahuita | chimane | chipaya | chiquito | cholon | chontaquiro | choroti | chulupí | cocama | cofán | colorado | coreguaje | cuaiquer | cubeo | cuiba | culina | cumana | cuna | damana | desana | emerillon | epena saija | ese ejja | fulnio | gavião | goajiro | guahibo | guanano | guarayo | guayabero | guayaki | hixkaryana | huambisa | huao | ica | ipurina | iquito | itonama | jaminaua | jaruára | jupda | kagaba | kaingang | kariri | karitiana | lengua | lule | maca | machiguenga | macuna | macusi | mamaindê | masacali | mascoi | mashco | mataco | maue | mayoruna | moguex | mojo | moro | moseten | motilon | muinane | munduruku | murui | nambicuara | nomatsiguenga | ocaina | orejón | paez | palicur | pamoa | panare | panobo | paraujano | paressi | patamona | pemón | piapoco | piaroa | pilaga | piratapuyo | puinave | puquina | purupuru | resigero | rikbaktsa | saliva | sanapaná | secoya | sharanahua | shipibo-conibo | shuar | sicuane | sioni | siriano | tacana | tanimuca-retuama | tapirapé | tariana | tenetehara | tenharim | toba | trio | tucano | tucuna | tunebo | tuyuca | urarina | uru | urubu | vilela | waiwai | warao | waunana | wayampi | witoto | xavante | yagua | yahgan | yanomamo | yaruro | yecuana | yucuna | yunca | yupa | yuruti | zoró",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "sal",
+    "Language_Name": "Salishan languages",
+    "Canonical_Display_Language": "Salishan languages",
+    "Aliases": "salishan languages",
+    "Member_Languages": "bella coola | colville | comox | cowlitz | kalispel | lillooet | ntlakyapamuk | okanagan | quinault | salish | sechelt | shuswap | squawmish | stalo",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "sgn",
+    "Language_Name": "Sign languages",
+    "Canonical_Display_Language": "Sign languages",
+    "Aliases": "sign languages",
+    "Member_Languages": "american sign language | australasian signed english | austrian sign language | british sign language | czech sign language | danish sign language | estonian sign language | french belgian sign language | icelandic sign language | jordanian sign language",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "sio",
+    "Language_Name": "Siouan (Other)",
+    "Canonical_Display_Language": "Siouan",
+    "Aliases": "siouan languages",
+    "Member_Languages": "biloxi | chiwere | crow | dhegiha | hidatsa | mandan | ofo | omaha | oto | tutelo | winnebago | woccon",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "sit",
+    "Language_Name": "Sino-Tibetan (Other)",
+    "Canonical_Display_Language": "Sino-Tibetan (Other)",
+    "Aliases": "sino-tibetan languages",
+    "Member_Languages": "abor | achang | akha | angami | ao | apatani | arakanese | bai | balti | bantawa | baram | belhariya | bodo | chamling | chang | chepang | chothe naga | dafla | deori | dhimal | digaro | dimasa | dänjong-kä | dungan | gallong | garo | gurung | haka chin | hamr | jero | kabui | khaling | khiamniungan | kok borok | konyak | kuki | kusunda | ladakhi | lahu | laizo | lepcha | limbu | lisu | magar | miju | mikir | mishmi | monpa | nocte | naga languages | padam | paite | rabha | rawang | rgyalrong | rongmei | sampang | singpho | sunwar | tamang | tangkhul | tangsa | tangut | tenyidie | thado | thakali | thami | thulung | tiddim chin | tshangla | vaiphei | wambule | yi | zang zung | zangskari",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "sla",
+    "Language_Name": "Slavic (Other)",
+    "Canonical_Display_Language": "Slavic (Other)",
+    "Aliases": "slavic languages",
+    "Member_Languages": "belarusian, old | chakavian | church slavic | czech, old | kashubian | pomeranian | rusyn | slovincian",
+    "LCC_Subclass": "PG",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "ssa",
+    "Language_Name": "Nilo-Saharan (Other)",
+    "Canonical_Display_Language": "Nilo-Saharan (Other)",
+    "Aliases": "nilo-saharan languages",
+    "Member_Languages": "barea | beri | gumuz | kanuri | kunama | lugbara | sandawe",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "tai",
+    "Language_Name": "Tai (Other)",
+    "Canonical_Display_Language": "Tai (Other)",
+    "Aliases": "tai languages",
+    "Member_Languages": "shan | tai dam | tai lue | tai nüa | tai yuan",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "tup",
+    "Language_Name": "Tupi languages",
+    "Canonical_Display_Language": "Tupi languages",
+    "Aliases": "tupi languages",
+    "Member_Languages": "guarani | kokama | omagua | siriono | tupinambá",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "tut",
+    "Language_Name": "Altaic (Other)",
+    "Canonical_Display_Language": "Altaic (Other)",
+    "Aliases": "altaic languages",
+    "Member_Languages": "chagatai | khalaj | old turkish | teleut",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "wak",
+    "Language_Name": "Wakashan languages",
+    "Canonical_Display_Language": "Wakashan languages",
+    "Aliases": "wakashan languages",
+    "Member_Languages": "haisla | kwak'wala | makah | nuu-chah-nulth | nitinaht",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "wen",
+    "Language_Name": "Sorbian (Other)",
+    "Canonical_Display_Language": "Sorbian",
+    "Aliases": "sorbian",
+    "Member_Languages": "lower sorbian | upper sorbian",
+    "LCC_Subclass": "PG",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "ypk",
+    "Language_Name": "Yupik languages",
+    "Canonical_Display_Language": "Yupik languages",
+    "Aliases": "yupik | yup’ik",
+    "Member_Languages": "central yupik | cup'ig | pacific gulf yupik | sirinek | yuit",
+    "LCC_Subclass": "PM",
+    "Search_Type": "collective"
+  },
+  {
+    "MARC_Code": "znd",
+    "Language_Name": "Zande languages",
+    "Canonical_Display_Language": "Zande languages",
+    "Aliases": "zande",
+    "Member_Languages": "nzakara | zande",
+    "LCC_Subclass": "PL",
+    "Search_Type": "collective"
+  }
+]
