@@ -3132,7 +3132,7 @@
    "Has_Literature_Range": "y",
    "LCC_Literature_Ranges": "PC3322.A1-PC3359.999",
    "Search_Type": "range",
-   "Disambiguation": "Occitan/Langue d'oc/Provençal  (to 1500)"
+   "Disambiguation": "Occitan/Langue d'oc (1500-present)"
  },
  {
    "MARC_Code": "oci",
@@ -3143,7 +3143,7 @@
    "Has_Literature_Range": "y",
    "LCC_Literature_Ranges": "PC3393-PC3415.999",
    "Search_Type": "range",
-   "Disambiguation": "Occitan/Langue d'oc (1500-present)"
+   "Disambiguation": "Occitan/Langue d'oc/Provençal  (to 1500)"
  },
  {
    "MARC_Code": "xal",
