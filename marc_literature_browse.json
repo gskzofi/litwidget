@@ -1,0 +1,134 @@
+[
+  {
+    "MARC_Code": "eng",
+    "Language_Name": "English",
+    "options": [
+      {
+        "button_text": "Collections of British Literature",
+        "subject_heading": "English literature—Collections of English literature",
+        "call_number_start": "PR1098",
+        "call_number_end": "PR1369.23"
+      },
+      {
+        "button_text": "British Literature 1500–1640",
+        "subject_heading": "English literature—English renaissance (1500-1640)",
+        "call_number_start": "PR2199",
+        "call_number_end": "PR3195"
+      },
+      {
+        "button_text": "British Literature 1640–1770",
+        "subject_heading": "English literature—17th and 18th centuries (1640-1770)",
+        "call_number_start": "PR3291",
+        "call_number_end": "PR3785"
+      },
+      {
+        "button_text": "British Literature 1770–1900",
+        "subject_heading": "English literature—19th century, 1770/1800-1890/1900",
+        "call_number_start": "PR3991",
+        "call_number_end": "PR5990"
+      },
+      {
+        "button_text": "British Literature 1900–1960",
+        "subject_heading": "English literature—1900-1960",
+        "call_number_start": "PR6000",
+        "call_number_end": "PR6049"
+      },
+      {
+        "button_text": "British Literature 1960–2000",
+        "subject_heading": "English literature—1961-2000",
+        "call_number_start": "PR6050",
+        "call_number_end": "PR6076"
+      },
+      {
+        "button_text": "British Literature 2001–present",
+        "subject_heading": "English literature—2001-",
+        "call_number_start": "PR6100",
+        "call_number_end": "PR6126"
+      },
+      {
+        "button_text": "English Literature Beyond Great Britain and the US",
+        "subject_heading": "English literature outside of Great Britain",
+        "call_number_start": "PR9080",
+        "call_number_end": "PR9680"
+      },
+      {
+        "button_text": "Collections of American Literature",
+        "subject_heading": "American literature—Collections of American literature",
+        "call_number_start": "PS501",
+        "call_number_end": "PS509"
+      },
+      {
+        "button_text": "17th and 18th Century American Literature",
+        "subject_heading": "American literature—Individual authors—Colonial period (17th and 18th centuries)",
+        "call_number_start": "PS700",
+        "call_number_end": "PS893"
+      },
+      {
+        "button_text": "19th Century American Literature",
+        "subject_heading": "American literature—Individual authors—19th century",
+        "call_number_start": "PS991",
+        "call_number_end": "PS3390"
+      },
+      {
+        "button_text": "American Literature 1900–1960",
+        "subject_heading": "American literature—Individual authors—1900-1960",
+        "call_number_start": "PS3500",
+        "call_number_end": "PS3549"
+      },
+      {
+        "button_text": "American Literature 1960–2000",
+        "subject_heading": "American literature—Individual authors—1961-2000",
+        "call_number_start": "PS3550",
+        "call_number_end": "PS3576"
+      },
+      {
+        "button_text": "American Literature 2001–present",
+        "subject_heading": "American literature—Individual authors—2001-",
+        "call_number_start": "PS3600",
+        "call_number_end": "PS3626"
+      }
+    ]
+  },
+  {
+    "MARC_Code": "ice",
+    "Language_Name": "Icelandic",
+    "options": [
+      {
+        "button_text": "Icelandic Folk Literature",
+        "subject_heading": "Modern Icelandic literature—Folk literature—Collections",
+        "call_number_start": "PT7430",
+        "call_number_end": "PT7438"
+      },
+      {
+        "button_text": "Collections of Icelandic Literature",
+        "subject_heading": "Modern Icelandic literature—Collections of modern Icelandic literature",
+        "call_number_start": "PT7450",
+        "call_number_end": "PT7453"
+      },
+      {
+        "button_text": "16th–18th Century Icelandic Literature",
+        "subject_heading": "Modern Icelandic literature—Individual authors or works—16th-18th centuries",
+        "call_number_start": "PT7500",
+        "call_number_end": "PT7501"
+      },
+      {
+        "button_text": "19th–20th Century Icelandic Literature",
+        "subject_heading": "Modern Icelandic literature—Individual authors or works—19th-20th centuries",
+        "call_number_start": "PT7510",
+        "call_number_end": "PT7511"
+      },
+      {
+        "button_text": "21st Century Icelandic Literature",
+        "subject_heading": "Modern Icelandic literature—Individual authors or works—21st century",
+        "call_number_start": "PT7512",
+        "call_number_end": "PT7513"
+      },
+      {
+        "button_text": "Provincial, Local, and Foreign Icelandic Literature",
+        "subject_heading": "Modern Icelandic literature—Icelandic literature: Provincial, local, foreign",
+        "call_number_start": "PT7520",
+        "call_number_end": "PT7521"
+      }
+    ]
+  }
+]
