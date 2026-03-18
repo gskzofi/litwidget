@@ -3295,7 +3295,7 @@
    "Aliases": "panjabi | punjabi | ਪੰਜਾਬੀ | پنجابی | panjabi language",
    "LCC_Subclass": "PK",
    "Has_Literature_Range": "y",
-   "LCC_Literature_Ranges": "PK2654.5-PK2659.999 | PK2270.45-PK2270.9.999",
+   "LCC_Literature_Ranges": "PK2654.5-PK2659.999",
    "Search_Type": "range",
    "Disambiguation": ""
  },
