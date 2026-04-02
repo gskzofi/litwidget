@@ -1,2363 +1,2041 @@
 [
   {
-    "marc_code": "afr",
-    "language_name": "Afrikaans",
+    "MARC_Code": "afr",
+    "Language_Name": "Afrikaans",
+    "language_facet": "Afrikaans",
     "options": [
       {
         "button_text": "Collections of Afrikaans Literature",
-        "call_number_ranges": "PT6550-PT6575.999|PT6580.A-PT6580.ZZZZ",
-        "order": 1
+        "call_number_ranges": "PT6550-PT6575.999|PT6580.A-PT6580.ZZZZ"
       },
       {
         "button_text": "Afrikaans Literature to 1960",
-        "call_number_ranges": "PT6590-PT6590.999",
-        "order": 2
+        "call_number_ranges": "PT6590-PT6590.999"
       },
       {
         "button_text": "Afrikaans Literature 1961-2000",
-        "call_number_ranges": "PT6592-PT6592.999",
-        "order": 3
+        "call_number_ranges": "PT6592-PT6592.999"
       },
       {
         "button_text": "Afrikaans Literature 2001-present",
-        "call_number_ranges": "PT6593-PT6593.999",
-        "order": 4
+        "call_number_ranges": "PT6593-PT6593.999"
       },
       {
         "button_text": "Afrikaans Literature in Translation",
-        "call_number_ranges": "PT6555.A-PT6555.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PT6555.A-PT6555.ZZZZ"
       },
       {
         "button_text": "Afrikaans Folklore",
         "call_number_ranges": "GR359.2.A47-GR359.2.A47.999|PT6540-PT6545.999",
-        "subject_heading_or": "Afrikaners--Folklore",
-        "order": 6
+        "subject_heading_or": "Afrikaners--Folklore"
       },
       {
         "button_text": "Children's Literature in Afrikaans",
-        "call_number_ranges": "PT6547-PT6547.999|PZ11-PZ18",
-        "order": 7
+        "call_number_ranges": "PT6547-PT6547.999|PZ11-PZ18.999"
       }
     ]
   },
   {
-    "marc_code": "akk",
-    "language_name": "Akkadian",
+    "MARC_Code": "akk",
+    "Language_Name": "Akkadian",
+    "language_facet": "Akkadian",
     "options": [
       {
         "button_text": "Collections of Akkadian Literature",
         "call_number_ranges": "PJ3701-PJ3701.999|PJ3711-PJ3711.999|PJ3719-PJ3719.999|PJ3721-PJ3721.999|PJ3725-PJ3725.999|PJ3728-PJ3728.999|PJ3751-PJ3751.999|PJ3801-PJ3801.999|PJ3881-PJ3881.999|PJ3951-PJ3951.999|PJ3953-PJ3953.999|PJ3971-PJ3971.999",
-        "subject_heading_or": "Akkadian  literature--Collections",
-        "order": 1
+        "subject_heading_or": "Akkadian  literature--Collections"
       },
       {
         "button_text": "Akkadian Epic Poetry",
-        "call_number_ranges": "PJ3761-PJ3771.999",
-        "order": 2
+        "call_number_ranges": "PJ3761-PJ3771.999"
       },
       {
         "button_text": "Akkadian Historical Texts",
         "call_number_ranges": "PJ3811-PJ3855.999",
-        "subject_heading_or": "Assyria--History--Sources",
-        "order": 3
+        "subject_heading_or": "Assyria--History--Sources"
       },
       {
         "button_text": "Akkadian Incantations, Magic, & Omens",
-        "call_number_ranges": "PJ3791-PJ3791.999",
-        "order": 4
+        "call_number_ranges": "PJ3791-PJ3791.999"
       },
       {
         "button_text": "Akkadian Inscriptions and Seals",
-        "call_number_ranges": "PJ3721-PJ3721.999|PJ3815-PJ3837.999|PJ3931-PJ3931.999|CD5348-CD5348.999|NK5563-NK5563.999",
-        "order": 5
+        "call_number_ranges": "PJ3721-PJ3721.999|PJ3815-PJ3837.999|PJ3931-PJ3931.999|CD5348-CD5348.999|NK5563-NK5563.999"
       },
       {
         "button_text": "Akkadian Letters",
-        "call_number_ranges": "PJ3881-PJ3881.999|PJ3921.D5-PJ3921.D5.999|PJ3921.M3-PJ3921.M3.999",
-        "order": 6
+        "call_number_ranges": "PJ3881-PJ3881.999|PJ3921.D5-PJ3921.D5.999|PJ3921.M3-PJ3921.M3.999"
       },
       {
         "button_text": "Akkadian Lyric Poetry",
-        "call_number_ranges": "PJ3781-PJ3785.999",
-        "order": 7
+        "call_number_ranges": "PJ3781-PJ3785.999"
       },
       {
         "button_text": "Akkadian Moral Literature",
-        "call_number_ranges": "PJ3941-PJ3941.999",
-        "order": 8
+        "call_number_ranges": "PJ3941-PJ3941.999"
       },
       {
         "button_text": "Akkadian Philological Texts",
-        "call_number_ranges": "PJ3911-PJ3911.999",
-        "order": 9
+        "call_number_ranges": "PJ3911-PJ3911.999"
       },
       {
         "button_text": "Akkadian Prose",
-        "call_number_ranges": "PJ3801-PJ3801.999|PJ3811-PJ3811.999",
-        "order": 10
+        "call_number_ranges": "PJ3801-PJ3801.999|PJ3811-PJ3811.999"
       },
       {
         "button_text": "Akkadian Scientific Literature",
-        "call_number_ranges": "PJ3921-PJ3921.999",
-        "order": 11
+        "call_number_ranges": "PJ3921-PJ3921.999"
       }
     ]
   },
   {
-    "marc_code": "alb",
-    "language_name": "Albanian",
+    "MARC_Code": "alb",
+    "Language_Name": "Albanian",
+    "language_facet": "Albanian",
     "options": [
       {
         "button_text": "Collections of Albanian Literature",
-        "call_number_ranges": "PG9613-PG9619|PG9631.A-PG9631.ZZZZ|PG9634.A-PG9634.ZZZZ|PG9636-PG9650.999",
-        "subject_heading_or": "Albanian literature--Collections",
-        "order": 1
+        "call_number_ranges": "PG9613-PG9619.999|PG9631.A-PG9631.ZZZZ|PG9634.A-PG9634.ZZZZ|PG9636-PG9650.999",
+        "subject_heading_or": "Albanian literature--Collections"
       },
       {
         "button_text": "Albanian Literature: Individual Authors and Works",
-        "call_number_ranges": "PG9621.A-PG9621.ZZZZ",
-        "order": 2
+        "call_number_ranges": "PG9621.A-PG9621.ZZZZ"
       },
       {
         "button_text": "Albanian Literature in Translation",
-        "call_number_ranges": "PG9665.A-PG9665.ZZZZ",
-        "order": 3
+        "call_number_ranges": "PG9665.A-PG9665.ZZZZ"
       },
       {
         "button_text": "Albanian Folklore",
         "call_number_ranges": "PG9611-PG9612.6.ZZZZ",
-        "subject_heading_or": "Albania--Folklore|Folk literature, Albanian",
-        "order": 4
+        "subject_heading_or": "Albania--Folklore|Folk literature, Albanian"
       },
       {
         "button_text": "Children's Literature in Albanian",
-        "call_number_ranges": "PG9612.8-PG9612.8.999|PZ90.A4",
-        "order": 5
+        "call_number_ranges": "PG9612.8-PG9612.8.999|PZ90.A4-PZ90.A4.999"
       }
     ]
   },
   {
-    "marc_code": "ara",
-    "language_name": "Arabic",
+    "MARC_Code": "ara",
+    "Language_Name": "Arabic",
+    "language_facet": "Arabic",
     "options": [
       {
         "button_text": "Collections of Arabic Literature",
         "call_number_ranges": "PJ7601-PJ7625.999|PJ7571-PJ7572.999|PJ7671-PJ7672.999|PJ8000-PJ8519.999",
-        "subject_heading_or": "Arabic literature--Collections",
-        "order": 1
+        "subject_heading_or": "Arabic literature--Collections"
       },
       {
         "button_text": "Arabic Literature 2001-present",
-        "call_number_ranges": "PJ7900-PJ7976.999",
-        "order": 2
+        "call_number_ranges": "PJ7900-PJ7976.999"
       },
       {
         "button_text": "Modern Arabic Literature (1801-2000)",
-        "call_number_ranges": "PJ7800.A-PJ7876.999",
-        "order": 3
+        "call_number_ranges": "PJ7800.A-PJ7876.999"
       },
       {
         "button_text": "Medieval & Ottoman Literature (1258-1800)",
-        "call_number_ranges": "PJ7658-PJ7765.ZZZZ",
-        "order": 4
+        "call_number_ranges": "PJ7658-PJ7765.ZZZZ"
       },
       {
         "button_text": "Abbasid Literature (750-1258)",
-        "call_number_ranges": "PJ7701.1-PJ7755.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PJ7701.1-PJ7755.ZZZZ"
       },
       {
         "button_text": "Early Islamic & Umayyad Literature (622-750)",
-        "call_number_ranges": "PJ7648-PJ7700.ZZZZ",
-        "order": 6
+        "call_number_ranges": "PJ7648-PJ7700.ZZZZ"
       },
       {
         "button_text": "Pre-Islamic Arabic Literature (to 660)",
-        "call_number_ranges": "PJ7633-PJ7698.ZZZZ",
-        "order": 7
+        "call_number_ranges": "PJ7633-PJ7698.ZZZZ"
       },
       {
         "button_text": "Arabic Literature in Translation",
-        "call_number_ranges": "PJ7694-PJ7695.999",
-        "order": 8
+        "call_number_ranges": "PJ7694-PJ7695.999"
       },
       {
         "button_text": "Arabic Folk Literature",
-        "call_number_ranges": "PJ7680|GR268.A73|GR275|GR286.2.A72|GR293-GR295.ZZZZ",
-        "subject_heading_or": "Folk literature, Arabic|Arabs--Folklore",
-        "order": 9
+        "call_number_ranges": "PJ7680-PJ7680.999|GR268.A73-GR268.A73.999|GR275-GR275.999|GR286.2.A72-GR286.2.A72.999|GR293-GR295.ZZZZ",
+        "subject_heading_or": "Folk literature, Arabic|Arabs--Folklore"
       },
       {
         "button_text": "Children's Literature in Arabic",
-        "call_number_ranges": "PJ7585-PJ7585.999|PZ10.72-PZ10.78",
-        "order": 10
+        "call_number_ranges": "PJ7585-PJ7585.999|PZ10.72-PZ10.78.999"
       }
     ]
   },
   {
-    "marc_code": "baq",
-    "language_name": "Basque",
+    "MARC_Code": "baq",
+    "Language_Name": "Basque",
+    "language_facet": "Basque",
     "options": [
       {
         "button_text": "Basque Literature: Collections",
         "call_number_ranges": "PH5301-PH5301.999|PH5303.A-PH5303.ZZZZ|PH5311-PH5311.999|PH5321-PH5321.999|PH5331-PH5331.999",
-        "subject_heading_or": "Basque Literature--Collections",
-        "order": 1
+        "subject_heading_or": "Basque Literature--Collections"
       },
       {
         "button_text": "Basque Literature: Individual Authors and Works",
-        "call_number_ranges": "PH5339.A-PH5339.ZZZZ",
-        "order": 2
+        "call_number_ranges": "PH5339.A-PH5339.ZZZZ"
       },
       {
         "button_text": "Basque Literature in Translation",
-        "call_number_ranges": "PH5397-PH5398.999",
-        "order": 3
+        "call_number_ranges": "PH5397-PH5398.999"
       },
       {
         "button_text": "Basque Folk Literature",
         "call_number_ranges": "GR137.3-GR137.3.999",
-        "subject_heading_or": "Folk literature, Basque",
-        "order": 4
+        "subject_heading_or": "Folk literature, Basque"
       },
       {
         "button_text": "Basque Children's Literature",
-        "call_number_ranges": "PH5298-PH5298.999",
-        "order": 5
+        "call_number_ranges": "PH5298-PH5298.999"
       }
     ]
   },
   {
-    "marc_code": "bul",
-    "language_name": "Bulgarian",
+    "MARC_Code": "bul",
+    "Language_Name": "Bulgarian",
+    "language_facet": "Bulgarian",
     "options": [
       {
         "button_text": "Collections of Bulgarian Literature",
         "call_number_ranges": "PG1000.17-PG1000.18.999|PG1020-PG1024.999|PG1042-PG1042.999|PG1044-PG1044.999|PG1044.5-PG1044.5.999|PG1047-PG1047.999|PG1070-PG1070.999",
-        "subject_heading_or": "Bulgarian literature--Collections",
-        "order": 1
+        "subject_heading_or": "Bulgarian literature--Collections"
       },
       {
         "button_text": "Bulgarian Literature: 2001-present",
-        "call_number_ranges": "PG1039-PG1039.36.999",
-        "order": 2
+        "call_number_ranges": "PG1039-PG1039.36.999"
       },
       {
         "button_text": "Bulgarian Literature: 1961-2000",
-        "call_number_ranges": "PG1038-PG1038.36.999",
-        "order": 3
+        "call_number_ranges": "PG1038-PG1038.36.999"
       },
       {
         "button_text": "Bulgarian Literature: 1801-1960",
-        "call_number_ranges": "PG1036-PG1037.999",
-        "order": 4
+        "call_number_ranges": "PG1036-PG1037.999"
       },
       {
         "button_text": "Bulgarian Literature: Early through 1800",
-        "call_number_ranges": "PG1035.A1-PG1035.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PG1035.A1-PG1035.ZZZZ"
       },
       {
         "button_text": "Bulgarian Literature in Translation",
-        "call_number_ranges": "PG1145-PG1146.999",
-        "order": 6
+        "call_number_ranges": "PG1145-PG1146.999"
       },
       {
         "button_text": "Bulgarian Folk Literature",
         "call_number_ranges": "PG1012.5-PG1016.22.999|GR253-GR253.999",
-        "subject_heading_or": "Bulgaria--Folklore|Folk literature, Bulgarian",
-        "order": 7
+        "subject_heading_or": "Bulgaria--Folklore|Folk literature, Bulgarian"
       },
       {
         "button_text": "Children's Literature in Bulgarian",
-        "call_number_ranges": "PG1019-PG1019.999|PZ70.B7-PZ70.B8",
-        "order": 8
+        "call_number_ranges": "PG1019-PG1019.999|PZ70.B7-PZ70.B8"
       }
     ]
   },
   {
-    "marc_code": "cat",
-    "language_name": "Catalan",
+    "MARC_Code": "cat",
+    "Language_Name": "Catalan",
+    "language_facet": "Catalan",
     "options": [
       {
         "button_text": "Collections of Catalan Literature",
         "call_number_ranges": "PC3925-PC3930.999|PC3945-PC3955.999",
-        "subject_heading_or": "Catalan literature--Collections",
-        "order": 1
+        "subject_heading_or": "Catalan literature--Collections"
       },
       {
         "button_text": "Catalan Literature: Individual Authors and Works",
-        "call_number_ranges": "PC3937-PC3942.436.999",
-        "order": 2
+        "call_number_ranges": "PC3937-PC3942.436.999"
       },
       {
         "button_text": "Catalan Literature in Translation",
-        "call_number_ranges": "PC3975-PC3976.999",
-        "order": 3
+        "call_number_ranges": "PC3975-PC3976.999"
       },
       {
         "button_text": "Catalan Folk Literature",
-        "call_number_ranges": "GR237.C3",
-        "subject_heading_or": "Folk literature, Catalan|Catalans--Folklore|Legends--Spain--Catalonia",
-        "order": 4
+        "call_number_ranges": "GR237.C3-GR237.C3.999",
+        "subject_heading_or": "Folk literature, Catalan|Catalans--Folklore|Legends--Spain--Catalonia"
       }
     ]
   },
   {
-    "marc_code": "chi",
-    "language_name": "Chinese",
+    "MARC_Code": "chi",
+    "Language_Name": "Chinese",
+    "language_facet": "Chinese",
     "options": [
       {
         "button_text": "Collections of Chinese Literature",
-        "call_number_ranges": "PL2450-PL2653.999|PL3030-PL3032",
-        "subject_heading_or": "Chinese literature--Collections",
-        "order": 1
+        "call_number_ranges": "PL2450-PL2653.999|PL3030-PL3032.999",
+        "subject_heading_or": "Chinese literature--Collections"
       },
       {
         "button_text": "Chinese Literature: 2001-present",
-        "call_number_ranges": "PL2930-PL2979",
-        "order": 2
+        "call_number_ranges": "PL2930-PL2979.999"
       },
       {
         "button_text": "Chinese Literature: 1949-2000",
-        "call_number_ranges": "PL2832.5-PL2929.5",
-        "order": 3
+        "call_number_ranges": "PL2832.5-PL2929.5.999"
       },
       {
         "button_text": "Chinese Literature: 1912-1949",
-        "call_number_ranges": "PL2801-PL2807.999",
-        "order": 4
+        "call_number_ranges": "PL2801-PL2807.999"
       },
       {
         "button_text": "Chinese Literature: Qing Dynasty (1644-1912)",
-        "call_number_ranges": "PL2699-PL2735.999",
-        "order": 5
+        "call_number_ranges": "PL2699-PL2735.999"
       },
       {
         "button_text": "Chinese Literature: Qin-Tang Dynasties (221 BC-907)",
-        "call_number_ranges": "PL2663-PL2677.999",
-        "order": 6
+        "call_number_ranges": "PL2663-PL2677.999"
       },
       {
         "button_text": "Chinese Literature: Song-Ming Dynasties (907-1644)",
-        "call_number_ranges": "PL2678-PL2698.999",
-        "order": 7
+        "call_number_ranges": "PL2678-PL2698.999"
       },
       {
         "button_text": "Confucian Canon & Chinese Classics",
-        "call_number_ranges": "PL2471-PL2489.6.999",
-        "order": 8
+        "call_number_ranges": "PL2471-PL2489.6.999"
       },
       {
         "button_text": "Chinese Inscriptions & Oracle Bones",
-        "call_number_ranges": "PL2447-PL2448.999|PL2456-PL2457.999",
-        "order": 9
+        "call_number_ranges": "PL2447-PL2448.999|PL2456-PL2457.999"
       },
       {
         "button_text": "Chinese Literature: Early to 221 BC",
-        "call_number_ranges": "PL2661-PL2662.999",
-        "order": 10
+        "call_number_ranges": "PL2661-PL2662.999"
       },
       {
         "button_text": "Chinese Literature in Translation",
-        "call_number_ranges": "PL2658-PL2659.999",
-        "order": 11
+        "call_number_ranges": "PL2658-PL2659.999"
       },
       {
         "button_text": "Chinese Folk Literature",
         "call_number_ranges": "PL2445-PL2446.9.999|GR334-GR336.999",
-        "subject_heading_or": "Folk literature, Chinese|China--Folklore",
-        "order": 12
+        "subject_heading_or": "Folk literature, Chinese|China--Folklore"
       },
       {
         "button_text": "Children's Literature in Chinese",
-        "call_number_ranges": "PL2449-PL2449.999|PZ10.82-PZ10.88",
-        "order": 13
+        "call_number_ranges": "PL2449-PL2449.999|PZ10.82-PZ10.88.999"
       }
     ]
   },
   {
-    "marc_code": "hrv|scr",
-    "language_name": "Croatian",
+    "MARC_Code": "hrv|scr",
+    "Language_Name": "Croatian",
+    "language_facet": "Croatian",
     "options": [
       {
         "button_text": "Collections of Croatian Literature",
         "call_number_ranges": "PG1613-PG1616.999|PG1640-PG1657.999",
-        "subject_heading_or": "Croatian literature--Collections",
-        "order": 1
+        "subject_heading_or": "Croatian literature--Collections"
       },
       {
         "button_text": "Croatian Folk Literature",
-        "call_number_ranges": "PG1630-PG1639.999|GR263.C77-GR263.C779.999|GR254",
-        "subject_heading_or": "Croatia--Folklore|Folk literature, Croatia",
-        "order": 2
+        "call_number_ranges": "PG1630-PG1639.999|GR263.C77-GR263.C779.999|GR254-GR254.999",
+        "subject_heading_or": "Croatia--Folklore|Folk literature, Croatia"
       },
       {
         "button_text": "Children's Literature in Croatian",
-        "call_number_ranges": "PG1612.7-PG1612.7.999",
-        "order": 3
+        "call_number_ranges": "PG1612.7-PG1612.7.999"
       },
       {
         "button_text": "Croatian Literature: Individual Authors",
-        "call_number_ranges": "PG1618-PG1620.36.999|PG1658-PG1658.999",
-        "order": 4
+        "call_number_ranges": "PG1618-PG1620.36.999|PG1658-PG1658.999"
       },
       {
         "button_text": "Croatian Literature in Translation",
-        "call_number_ranges": "PG1695-PG1696.Z9ZZZ",
-        "order": 5
+        "call_number_ranges": "PG1695-PG1696.Z9ZZZ"
       }
     ]
   },
   {
-    "marc_code": "dan",
-    "language_name": "Danish",
+    "MARC_Code": "dan",
+    "Language_Name": "Danish",
+    "language_facet": "Danish",
     "options": [
       {
         "button_text": "Collections of Danish Literature",
         "call_number_ranges": "PT7945-PT8046.999",
-        "subject_heading_or": "Danish literature--Collections",
-        "order": 1
+        "subject_heading_or": "Danish literature--Collections"
       },
       {
         "button_text": "Danish Literature 2001-present",
-        "call_number_ranges": "PT8177-PT8177.36.999",
-        "order": 2
+        "call_number_ranges": "PT8177-PT8177.36.999"
       },
       {
         "button_text": "Danish Literature 1961-2000",
-        "call_number_ranges": "PT8176-PT8176.36.999",
-        "order": 3
+        "call_number_ranges": "PT8176-PT8176.36.999"
       },
       {
         "button_text": "Danish Literature 1900-1960",
-        "call_number_ranges": "PT8174-PT8175.999",
-        "order": 4
+        "call_number_ranges": "PT8174-PT8175.999"
       },
       {
         "button_text": "19th Century Danish Literature",
-        "call_number_ranges": "PT8100-PT8167.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PT8100-PT8167.ZZZZ"
       },
       {
         "button_text": "16th-18th Century Danish Literature",
-        "call_number_ranges": "PT8060-PT8098",
-        "order": 6
+        "call_number_ranges": "PT8060-PT8098.999"
       },
       {
         "button_text": "Danish Folk Literature",
         "call_number_ranges": "PT7915-PT7930.ZZZZ|GR209-GR211.ZZZZ",
-        "subject_heading_or": "Denmark--Folklore|Folk literature, Denmark",
-        "order": 7
+        "subject_heading_or": "Denmark--Folklore|Folk literature, Denmark"
       },
       {
         "button_text": "Children's Literature in Danish",
-        "call_number_ranges": "PT7935-PT7935.ZZZZ|PZ51-PZ54.3",
-        "order": 8
+        "call_number_ranges": "PT7935-PT7935.ZZZZ|PZ51-PZ54.3.999"
       },
       {
         "button_text": "Old Danish Literature (ca.1100-ca.1540)",
-        "call_number_ranges": "PT8050-PT8050.999",
-        "order": 9
+        "call_number_ranges": "PT8050-PT8050.999"
       }
     ]
   },
   {
-    "marc_code": "dut",
-    "language_name": "Dutch",
+    "MARC_Code": "dut",
+    "Language_Name": "Dutch",
+    "language_facet": "Dutch",
     "options": [
       {
         "button_text": "Collections of Dutch Literature",
         "call_number_ranges": "PT5400-PT5409.ZZZZ",
-        "subject_heading_or": "Dutch literature--Collections",
-        "order": 1
+        "subject_heading_or": "Dutch literature--Collections"
       },
       {
         "button_text": "Dutch Literature in Translation",
-        "call_number_ranges": "PT5410-PT5414.ZZZZ",
-        "order": 2
+        "call_number_ranges": "PT5410-PT5414.ZZZZ"
       },
       {
         "button_text": "Dutch Literature 1800-1960",
-        "call_number_ranges": "PT5800-PT5880.999",
-        "order": 4
+        "call_number_ranges": "PT5800-PT5880.999"
       },
       {
         "button_text": "16th-18th Century Dutch Literature",
-        "call_number_ranges": "PT5600-PT5739.999",
-        "order": 5
+        "call_number_ranges": "PT5600-PT5739.999"
       },
       {
         "button_text": "Children's Literature in Dutch",
-        "call_number_ranges": "PZ11-PZ18",
-        "order": 6
+        "call_number_ranges": "PZ11-PZ18.999"
       },
       {
         "button_text": "Dutch Folk Literature",
         "call_number_ranges": "PT5351-PT5395.ZZZZ|GR180-GR182.999",
-        "subject_heading_or": "Folk literature, Dutch|Netherlands--Folklore",
-        "order": 7
+        "subject_heading_or": "Folk literature, Dutch|Netherlands--Folklore"
       },
       {
         "button_text": "Dutch Literature 2001-present",
-        "call_number_ranges": "PT5882-PT5882.36.999",
-        "order": 8
+        "call_number_ranges": "PT5882-PT5882.36.999"
       },
       {
         "button_text": "Dutch Literature 1961-2000",
-        "call_number_ranges": "PT5881-PT5881.36.999",
-        "order": 9
+        "call_number_ranges": "PT5881-PT5881.36.999"
       }
     ]
   },
   {
-    "marc_code": "dut|dum",
-    "language_name": "Dutch",
+    "MARC_Code": "dut|dum",
+    "Language_Name": "Dutch",
+    "language_facet": [
+      "Dutch",
+      "Dutch, Middle (ca. 1050-1350)"
+    ],
     "options": [
       {
         "button_text": "Medieval Dutch Literature",
-        "call_number_ranges": "PT5420-PT5444| PT5555-PT5595",
-        "order": 3
+        "call_number_ranges": "PT5420-PT5444.999|PT5555-PT5595.999"
       }
     ]
   },
   {
-    "marc_code": "eng",
-    "language_name": "English",
+    "MARC_Code": "eng",
+    "Language_Name": "English",
+    "language_facet": "English",
     "options": [
       {
         "button_text": "Collections of American Literature",
-        "call_number_ranges": "PS501-PS509",
-        "subject_heading_or": "American literature--Collections",
-        "order": 1
+        "call_number_ranges": "PS501-PS509.999",
+        "subject_heading_or": "American literature--Collections"
       },
       {
         "button_text": "Collections of British Literature",
-        "call_number_ranges": "PR1098-PR1369.23",
-        "subject_heading_or": "British literature--Collections",
-        "order": 2
+        "call_number_ranges": "PR1098-PR1369.23.999",
+        "subject_heading_or": "British literature--Collections"
       },
       {
         "button_text": "American Literature 2001-present",
-        "call_number_ranges": "PS3600-PS3626",
-        "order": 3
+        "call_number_ranges": "PS3600-PS3626.999"
       },
       {
         "button_text": "American Literature 1960-2000",
-        "call_number_ranges": "PS3550-PS3576",
-        "order": 4
+        "call_number_ranges": "PS3550-PS3576.999"
       },
       {
         "button_text": "American Literature 1900-1960",
-        "call_number_ranges": "PS3500-PS3549",
-        "order": 5
+        "call_number_ranges": "PS3500-PS3549.999"
       },
       {
         "button_text": "19th Century American Literature",
-        "call_number_ranges": "PS991-PS3390",
-        "order": 6
+        "call_number_ranges": "PS991-PS3390.999"
       },
       {
         "button_text": "17th and 18th Century American Literature",
-        "call_number_ranges": "PS700-PS893",
-        "order": 7
+        "call_number_ranges": "PS700-PS893.999"
       },
       {
         "button_text": "British Literature 2001-present",
-        "call_number_ranges": "PR6100-PR6126",
-        "order": 8
+        "call_number_ranges": "PR6100-PR6126.999"
       },
       {
         "button_text": "British Literature 1960-2000",
-        "call_number_ranges": "PR6050-PR6076",
-        "order": 9
+        "call_number_ranges": "PR6050-PR6076.999"
       },
       {
         "button_text": "British Literature 1900-1960",
-        "call_number_ranges": "PR6000-PR6049",
-        "order": 10
+        "call_number_ranges": "PR6000-PR6049.999"
       },
       {
         "button_text": "British Literature 1770-1900",
-        "call_number_ranges": "PR3991-PR5990",
-        "order": 11
+        "call_number_ranges": "PR3991-PR5990.999"
       },
       {
         "button_text": "British Literature 1640-1770",
-        "call_number_ranges": "PR3291-PR3785",
-        "order": 12
+        "call_number_ranges": "PR3291-PR3785.999"
       },
       {
         "button_text": "British Literature 1500-1640",
-        "call_number_ranges": "PR2199-PR3195",
-        "order": 13
+        "call_number_ranges": "PR2199-PR3195.999"
       },
       {
         "button_text": "English Literature Outside of Great Britain and the US",
-        "call_number_ranges": "PR9080-PR9680",
-        "order": 14
+        "call_number_ranges": "PR9080-PR9680.999"
       },
       {
         "button_text": "American Folk Literature",
-        "call_number_ranges": "GR105-GR112",
-        "subject_heading_or": "United States--Folklore|Folk literature, American",
-        "order": 15
+        "call_number_ranges": "GR105-GR112.999",
+        "subject_heading_or": "United States--Folklore|Folk literature, American"
       },
       {
         "button_text": "British Folk Literature",
-        "call_number_ranges": "GR140-GR153",
-        "subject_heading_or": "Great Britain--Folklore|Folk literature, British|England--Folklore|Folk literature, English",
-        "order": 16
+        "call_number_ranges": "GR140-GR153.999",
+        "subject_heading_or": "Great Britain--Folklore|Folk literature, British|England--Folklore|Folk literature, English"
       },
       {
         "button_text": "Children's Literature in English",
-        "call_number_ranges": "PR990|PZ5-10.32",
-        "order": 17
+        "call_number_ranges": "PR990-PR990.999|PZ5-10.32-PZ5-10.32.999"
       }
     ]
   },
   {
-    "marc_code": "fin",
-    "language_name": "Finnish",
+    "MARC_Code": "fin",
+    "Language_Name": "Finnish",
+    "language_facet": "Finnish",
     "options": [
       {
         "button_text": "Collections of Finnish Literature",
         "call_number_ranges": "PH341-PH351.999",
-        "subject_heading_or": "Finnish literature--Collections",
-        "order": 1
+        "subject_heading_or": "Finnish literature--Collections"
       },
       {
         "button_text": "Finnish Literature 1801-2000",
-        "call_number_ranges": "PH355-PH355.ZZZZ",
-        "order": 2
+        "call_number_ranges": "PH355-PH355.ZZZZ"
       },
       {
         "button_text": "Finnish Folk Literature",
         "call_number_ranges": "GR200-GR201.2.999",
-        "subject_heading_or": "Finland--Folklore|Folk literature, Finnish",
-        "order": 3
+        "subject_heading_or": "Finland--Folklore|Folk literature, Finnish"
       },
       {
         "button_text": "Finnish Literature in Translation",
-        "call_number_ranges": "PH401-PH405.999",
-        "order": 4
+        "call_number_ranges": "PH401-PH405.999"
       },
       {
         "button_text": "Finnish Literature to 1800",
-        "call_number_ranges": "PH353-PH353.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PH353-PH353.ZZZZ"
       },
       {
         "button_text": "Finnish Literature 2001-present",
-        "call_number_ranges": "PH356-PH356.ZZZZ",
-        "order": 6
+        "call_number_ranges": "PH356-PH356.ZZZZ"
       }
     ]
   },
   {
-    "marc_code": "fre",
-    "language_name": "French",
+    "MARC_Code": "fre",
+    "Language_Name": "French",
+    "language_facet": "French",
     "options": [
       {
         "button_text": "Collections of French Literature",
-        "call_number_ranges": "PQ801-821|PQ1100-1297",
-        "subject_heading_or": "French literature--Collections",
-        "order": 1
+        "call_number_ranges": "PQ801-821-PQ801-821.999|PQ1100-1297-PQ1100-1297.999",
+        "subject_heading_or": "French literature--Collections"
       },
       {
         "button_text": "French Literature 2001-present",
-        "call_number_ranges": "PQ2700-PQ2726|PQ1147-1148.ZZZZ|PQ1185|PQ1224",
-        "order": 2
+        "call_number_ranges": "PQ2700-PQ2726.999|PQ1147-1148.ZZZZ-PQ1147-1148.ZZZZ.999|PQ1185-PQ1185.999|PQ1224-PQ1224.999"
       },
       {
         "button_text": "French Literature 1960-2000",
-        "call_number_ranges": "PQ2660-PQ2686|PQ1141-PQ1145.ZZZZ|PQ1184|PQ1223-PQ1223.ZZZZ",
-        "order": 3
+        "call_number_ranges": "PQ2660-PQ2686.999|PQ1141-PQ1145.ZZZZ|PQ1184-PQ1184.999|PQ1223-PQ1223.ZZZZ"
       },
       {
         "button_text": "French Literature 1900-1960",
-        "call_number_ranges": "PQ2600-PQ2651|PQ1141-PQ1145.ZZZZ|PQ1184|PQ1223-PQ1223.ZZZZ",
-        "order": 4
+        "call_number_ranges": "PQ2600-PQ2651.999|PQ1141-PQ1145.ZZZZ|PQ1184-PQ1184.999|PQ1223-PQ1223.ZZZZ"
       },
       {
         "button_text": "19th Century French Literature",
-        "call_number_ranges": "PQ2149-PQ2551|PQ1136-PQ1139|PQ1163|PQ1181-PQ1183|PQ1222",
-        "order": 5
+        "call_number_ranges": "PQ2149-PQ2551.999|PQ1136-PQ1139.999|PQ1163-PQ1163.999|PQ1181-PQ1183.999|PQ1222-PQ1222.999"
       },
       {
         "button_text": "18th Century French Literature",
-        "call_number_ranges": "PQ1947-PQ2147|PQ1131-PQ1135.ZZZZ|PQ1221",
-        "order": 6
+        "call_number_ranges": "PQ1947-PQ2147.999|PQ1131-PQ1135.ZZZZ|PQ1221-PQ1221.999"
       },
       {
         "button_text": "17th Century French Literature",
-        "call_number_ranges": "PQ1710-PQ1935|PQ1126-PQ1130.ZZZZ|PQ1220",
-        "order": 7
+        "call_number_ranges": "PQ1710-PQ1935.999|PQ1126-PQ1130.ZZZZ|PQ1220-PQ1220.999"
       },
       {
         "button_text": "16th Century French Literature",
-        "call_number_ranges": "PQ1600-PQ1713|PQ1121-PQ1125|PQ1219",
-        "order": 8
+        "call_number_ranges": "PQ1600-PQ1713.999|PQ1121-PQ1125.999|PQ1219-PQ1219.999"
       },
       {
         "button_text": "French Literature Outside of France",
-        "call_number_ranges": "PQ3809-3999",
-        "order": 9
+        "call_number_ranges": "PQ3809-3999-PQ3809-3999.999"
       },
       {
         "button_text": "French Folk Literature",
-        "call_number_ranges": "GR160-162.5|PQ781-PQ841",
-        "subject_heading_or": "France--Folklore|Folk literature, French",
-        "order": 10
+        "call_number_ranges": "GR160-162.5-GR160-162.5.999|PQ781-PQ841.999",
+        "subject_heading_or": "France--Folklore|Folk literature, French"
       },
       {
         "button_text": "Children's Literature in French",
-        "call_number_ranges": "PQ845|PZ21-PZ28",
-        "order": 11
+        "call_number_ranges": "PQ845-PQ845.999|PZ21-PZ28.999"
       }
     ]
   },
   {
-    "marc_code": "ger",
-    "language_name": "German",
+    "MARC_Code": "ger",
+    "Language_Name": "German",
+    "language_facet": "German",
     "options": [
       {
         "button_text": "Collections of German Literature",
-        "call_number_ranges": "PT1100-1374",
-        "subject_heading_or": "German literature--Collections",
-        "order": 1
+        "call_number_ranges": "PT1100-1374-PT1100-1374.999",
+        "subject_heading_or": "German literature--Collections"
       },
       {
         "button_text": "German Literature 2001-present",
-        "call_number_ranges": "PT2700-2728",
-        "order": 2
+        "call_number_ranges": "PT2700-2728-PT2700-2728.999"
       },
       {
         "button_text": "German Literature 1961-2000",
-        "call_number_ranges": "PT2660-2688",
-        "order": 3
+        "call_number_ranges": "PT2660-2688-PT2660-2688.999"
       },
       {
         "button_text": "German Literature 1870-1960",
-        "call_number_ranges": "PT2600-2653",
-        "order": 4
+        "call_number_ranges": "PT2600-2653-PT2600-2653.999"
       },
       {
         "button_text": "German Literature 1700-1870",
-        "call_number_ranges": "PT1799-2592",
-        "order": 5
+        "call_number_ranges": "PT1799-2592-PT1799-2592.999"
       },
       {
         "button_text": "German Literature ca. 1500-1700",
-        "call_number_ranges": "PT1701-1797",
-        "order": 6
+        "call_number_ranges": "PT1701-1797-PT1701-1797.999"
       },
       {
         "button_text": "German Literature Outside of Germany",
-        "call_number_ranges": "PT3808-3971.2",
-        "order": 7
+        "call_number_ranges": "PT3808-3971.2-PT3808-3971.2.999"
       },
       {
         "button_text": "German Folk Literature",
-        "call_number_ranges": "PT881-951|GR165-GR169.2",
-        "subject_heading_or": "Germany--Folklore|Folk literature, German",
-        "order": 8
+        "call_number_ranges": "PT881-951-PT881-951.999|GR165-GR169.2.999",
+        "subject_heading_or": "Germany--Folklore|Folk literature, German"
       },
       {
         "button_text": "Children's Literature in German",
-        "call_number_ranges": "PT1021|PZ31-PZ38",
-        "order": 9
+        "call_number_ranges": "PT1021-PT1021.999|PZ31-PZ38.999"
       }
     ]
   },
   {
-    "marc_code": "grc",
-    "language_name": "Greek (Ancient)",
+    "MARC_Code": "grc",
+    "Language_Name": "Greek (Ancient)",
+    "language_facet": "Greek, Ancient",
     "options": [
       {
         "button_text": "Collections of Ancient Greek Literature",
-        "call_number_ranges": "PA3300-3516",
-        "subject_heading_or": "Ancient Greek  literature--Collections",
-        "order": 1
+        "call_number_ranges": "PA3300-3516-PA3300-3516.999",
+        "subject_heading_or": "Ancient Greek  literature--Collections"
       },
       {
         "button_text": "Collections of Both Greek and Latin Authors",
-        "call_number_ranges": "PA3401-PA3516",
-        "order": 2
+        "call_number_ranges": "PA3401-PA3516.999"
       },
       {
         "button_text": "Byzantine Greek Literature",
-        "call_number_ranges": "PA5101-PA5198",
-        "order": 3
+        "call_number_ranges": "PA5101-PA5198.999"
       },
       {
         "button_text": "Ancient Greek Literature in Translation",
-        "call_number_ranges": "PA3601-PA3681",
-        "order": 4
+        "call_number_ranges": "PA3601-PA3681.999"
       },
       {
         "button_text": "Ancient Greek Literature (to 600CE): Individual Authors",
-        "call_number_ranges": "PA3818-PA4500",
-        "order": 5
+        "call_number_ranges": "PA3818-PA4500.999"
       }
     ]
   },
   {
-    "marc_code": "gre",
-    "language_name": "Greek (Modern)",
+    "MARC_Code": "gre",
+    "Language_Name": "Greek (Modern)",
+    "language_facet": "Greek, Modern",
     "options": [
       {
         "button_text": "Collections of Greek Literature",
-        "call_number_ranges": "PA5270-PA5298",
-        "subject_heading_or": "Greek literature--Collections",
-        "order": 1
+        "call_number_ranges": "PA5270-PA5298.999",
+        "subject_heading_or": "Greek literature--Collections"
       },
       {
         "button_text": "Greek Literature 1600-1960",
-        "call_number_ranges": "PA5609-PA5610",
-        "order": 2
+        "call_number_ranges": "PA5609-PA5610.999"
       },
       {
         "button_text": "Children's Literature in Greek",
-        "call_number_ranges": "PZ90.G7",
-        "order": 3
+        "call_number_ranges": "PZ90.G7-PZ90.G7.999"
       },
       {
         "button_text": "Greek Folk Literature",
         "call_number_ranges": "GR170-GR170.3.ZZZZ",
-        "subject_heading_or": "Greece--Folklore|Folk literature, Greek",
-        "order": 4
+        "subject_heading_or": "Greece--Folklore|Folk literature, Greek"
       },
       {
         "button_text": "Greek Literature 1961-2000",
-        "call_number_ranges": "PA5611-5637",
-        "order": 5
+        "call_number_ranges": "PA5611-5637-PA5611-5637.999"
       }
     ]
   },
   {
-    "marc_code": "hin",
-    "language_name": "Hindi",
+    "MARC_Code": "hin",
+    "Language_Name": "Hindi",
+    "language_facet": "Hindi",
     "options": [
       {
         "button_text": "Collections of Hindi Literature",
-        "call_number_ranges": "PK2046-PK2078.2",
-        "subject_heading_or": "Hindi literature--Collections",
-        "order": 1
+        "call_number_ranges": "PK2046-PK2078.2.999",
+        "subject_heading_or": "Hindi literature--Collections"
       },
       {
         "button_text": "Hindi Literature 2001-present",
-        "call_number_ranges": "PK2099.1-PK2099.46",
-        "order": 2
+        "call_number_ranges": "PK2099.1-PK2099.46.999"
       },
       {
         "button_text": "Hindi Literature 1961-2000",
-        "call_number_ranges": "PK2098.1-PK2098.46",
-        "order": 3
+        "call_number_ranges": "PK2098.1-PK2098.46.999"
       },
       {
         "button_text": "Hindi Literature 1900-1960",
-        "call_number_ranges": "PK2098.A-PK2098.ZZZZ",
-        "order": 4
+        "call_number_ranges": "PK2098.A-PK2098.ZZZZ"
       },
       {
         "button_text": "Hindi Literature 1800-1899",
-        "call_number_ranges": "PK2097.A-PK2097.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PK2097.A-PK2097.ZZZZ"
       },
       {
         "button_text": "Hindi Literature 1600-1800",
-        "call_number_ranges": "PK2096.A-PK2096.ZZZZ",
-        "order": 6
+        "call_number_ranges": "PK2096.A-PK2096.ZZZZ"
       },
       {
         "button_text": "Hindi Literature to ca. 1600",
-        "call_number_ranges": "PK2095.A-PK2095.ZZZZ",
-        "order": 7
+        "call_number_ranges": "PK2095.A-PK2095.ZZZZ"
       },
       {
         "button_text": "Hindi Literature Outside of India",
-        "call_number_ranges": "PK2104.5-PK2140",
-        "order": 8
+        "call_number_ranges": "PK2104.5-PK2140.999"
       },
       {
         "button_text": "Hindi Literature in Translation",
-        "call_number_ranges": "PK2141-PK2142",
-        "order": 9
+        "call_number_ranges": "PK2141-PK2142.999"
       },
       {
         "button_text": "Hindi Folk Literature",
-        "call_number_ranges": "PK2081-2091|GR305-GR305.7",
-        "subject_heading_or": "Folk literature, Hindi|India--Folklore",
-        "order": 10
+        "call_number_ranges": "PK2081-2091-PK2081-2091.999|GR305-GR305.7.999",
+        "subject_heading_or": "Folk literature, Hindi|India--Folklore"
       },
       {
         "button_text": "Children's Literature in Hindi",
-        "call_number_ranges": "PZ90.H5",
-        "order": 11
+        "call_number_ranges": "PZ90.H5-PZ90.H5.999"
       }
     ]
   },
   {
-    "marc_code": "hun",
-    "language_name": "Hungarian",
+    "MARC_Code": "hun",
+    "Language_Name": "Hungarian",
+    "language_facet": "Hungarian",
     "options": [
       {
         "button_text": "Collections of Hungarian Literature",
-        "call_number_ranges": "PH3132-PH3188",
-        "subject_heading_or": "Hungarian literature--Collections",
-        "order": 1
+        "call_number_ranges": "PH3132-PH3188.999",
+        "subject_heading_or": "Hungarian literature--Collections"
       },
       {
         "button_text": "Hungarian Literature 2001-present",
-        "call_number_ranges": "PH3132-PH3426.999",
-        "order": 2
+        "call_number_ranges": "PH3132-PH3426.999"
       },
       {
         "button_text": "Hungarian Literature to ca. 1800",
-        "call_number_ranges": "PH3193-PH3194",
-        "order": 3
+        "call_number_ranges": "PH3193-PH3194.999"
       },
       {
         "button_text": "Hungarian Literature 1801-2000",
-        "call_number_ranges": "PH3201-PH3381",
-        "order": 4
+        "call_number_ranges": "PH3201-PH3381.999"
       },
       {
         "button_text": "Hungarian Literature Outside of Hungary",
-        "call_number_ranges": "PH3407-PH3426",
-        "order": 5
+        "call_number_ranges": "PH3407-PH3426.999"
       },
       {
         "button_text": "Hungarian Literature in Translation",
-        "call_number_ranges": "PH3441-PH3442",
-        "order": 6
+        "call_number_ranges": "PH3441-PH3442.999"
       },
       {
         "button_text": "Hungarian Folk Literature",
-        "call_number_ranges": "GR154.5-GR154.8",
-        "subject_heading_or": "Folk literature, Hungarian|Hungary--Folklore",
-        "order": 7
+        "call_number_ranges": "GR154.5-GR154.8.999",
+        "subject_heading_or": "Folk literature, Hungarian|Hungary--Folklore"
       },
       {
         "button_text": "Children's Literature in Hungarian",
-        "call_number_ranges": "PZ90.H8|PH3130",
-        "order": 8
+        "call_number_ranges": "PZ90.H8-PZ90.H8.999|PH3130-PH3130.999"
       }
     ]
   },
   {
-    "marc_code": "ice",
-    "language_name": "Icelandic",
+    "MARC_Code": "ice",
+    "Language_Name": "Icelandic",
+    "language_facet": "Icelandic",
     "options": [
       {
         "button_text": "Collections of Icelandic Literature",
         "call_number_ranges": "PT7450-PT7453.999|PT7520-PT7540.999|PT7541-PT7550.999",
-        "subject_heading_or": "Icelandic literature--Collections",
-        "order": 1
+        "subject_heading_or": "Icelandic literature--Collections"
       },
       {
         "button_text": "21st Century Icelandic Literature",
-        "call_number_ranges": "PT7512-PT7513.999",
-        "order": 2
+        "call_number_ranges": "PT7512-PT7513.999"
       },
       {
         "button_text": "19th-20th Century Icelandic Literature",
-        "call_number_ranges": "PT7510-PT7511.999",
-        "order": 3
+        "call_number_ranges": "PT7510-PT7511.999"
       },
       {
         "button_text": "16th-18th Century Icelandic Literature",
-        "call_number_ranges": "PT7500-PT7501.999",
-        "order": 4
+        "call_number_ranges": "PT7500-PT7501.999"
       },
       {
         "button_text": "Icelandic Folk Literature",
-        "call_number_ranges": "PT7430-PT7438.999|GR215",
-        "subject_heading_or": "Folk Literature, Icelandic|Iceland--Folklore",
-        "order": 5
+        "call_number_ranges": "PT7430-PT7438.999|GR215-GR215.999",
+        "subject_heading_or": "Folk Literature, Icelandic|Iceland--Folklore"
       },
       {
         "button_text": "Children's Literature in Icelandic",
-        "call_number_ranges": "PT7442-PT7442.999|PZ55-PZ56",
-        "order": 6
+        "call_number_ranges": "PT7442-PT7442.999|PZ55-PZ56.999"
       }
     ]
   },
   {
-    "marc_code": "gle|iri",
-    "language_name": "Irish",
+    "MARC_Code": "gle|iri",
+    "Language_Name": "Irish",
+    "language_facet": "Irish",
     "options": [
       {
         "button_text": "Collections of Irish Literature",
-        "call_number_ranges": "PB1345-PB1383|PB1395-PB1396.5.ZZZZ",
-        "order": 1
+        "call_number_ranges": "PB1345-PB1383.999|PB1395-PB1396.5.ZZZZ"
       },
       {
         "button_text": "Irish Literature 2001-present",
-        "call_number_ranges": "PB1400-PB1400.ZZZZ",
-        "order": 2
+        "call_number_ranges": "PB1400-PB1400.ZZZZ"
       },
       {
         "button_text": "Irish Literature to 1800",
-        "call_number_ranges": "PB1397-PB1398.ZZZZ|PB1347-PB1351",
-        "order": 3
+        "call_number_ranges": "PB1397-PB1398.ZZZZ|PB1347-PB1351.999"
       },
       {
         "button_text": "Irish Literature 1800-2000",
-        "call_number_ranges": "PB1399-PB1399.ZZZZ",
-        "order": 4
+        "call_number_ranges": "PB1399-PB1399.ZZZZ"
       },
       {
         "button_text": "Irish Literature Outside of Ireland",
-        "call_number_ranges": "PB1396.3-PB1396.5.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PB1396.3-PB1396.5.ZZZZ"
       },
       {
         "button_text": "Irish Literature in Translation",
-        "call_number_ranges": "PB1421-PB1433|PB1441|PB1445|PB1449-PB1449.ZZZZ",
-        "order": 6
+        "call_number_ranges": "PB1421-PB1433.999|PB1441-PB1441.999|PB1445-PB1445.999|PB1449-PB1449.ZZZZ"
       },
       {
         "button_text": "Irish Folk Literature",
-        "call_number_ranges": "GR153.4-GR153.6|PB1383",
-        "subject_heading_or": "Folk literature, Irish|Ireland--Folklore",
-        "order": 7
+        "call_number_ranges": "GR153.4-GR153.6.999|PB1383-PB1383.999",
+        "subject_heading_or": "Folk literature, Irish|Ireland--Folklore"
       },
       {
         "button_text": "Children's Literature in Irish",
-        "call_number_ranges": "PZ90.I7",
-        "order": 8
+        "call_number_ranges": "PZ90.I7-PZ90.I7.999"
       }
     ]
   },
   {
-    "marc_code": "ita",
-    "language_name": "Italian",
+    "MARC_Code": "ita",
+    "Language_Name": "Italian",
+    "language_facet": "Italian",
     "options": [
       {
         "button_text": "Collections of Italian Literature",
-        "call_number_ranges": "PQ4201-PQ4263 |PQ5901-PQ5904",
-        "subject_heading_or": "Italian literature--Collections",
-        "order": 1
+        "call_number_ranges": "PQ4201-PQ4263.999|PQ5901-PQ5904.999",
+        "subject_heading_or": "Italian literature--Collections"
       },
       {
         "button_text": "Italian Literature in Translation",
-        "call_number_ranges": "PQ4205-PQ4206",
-        "order": 2
+        "call_number_ranges": "PQ4205-PQ4206.999"
       },
       {
         "button_text": "Italian Literature 2001-present",
-        "call_number_ranges": "PQ4900-PQ4926|PQ4204.2",
-        "order": 3
+        "call_number_ranges": "PQ4900-PQ4926.999|PQ4204.2-PQ4204.2.999"
       },
       {
         "button_text": "Italian Literature 1961-2000",
-        "call_number_ranges": "PQ4860-PQ4886",
-        "order": 4
+        "call_number_ranges": "PQ4860-PQ4886.999"
       },
       {
         "button_text": "Italian Literature 1901-1960",
-        "call_number_ranges": "PQ4800-PQ4851",
-        "order": 5
+        "call_number_ranges": "PQ4800-PQ4851.999"
       },
       {
         "button_text": "Italian Literature 1701-1900",
-        "call_number_ranges": "PQ4675-PQ4734",
-        "order": 6
+        "call_number_ranges": "PQ4675-PQ4734.999"
       },
       {
         "button_text": "Italian Literature 1400-1700",
-        "call_number_ranges": "PQ4561-PQ4639",
-        "order": 7
+        "call_number_ranges": "PQ4561-PQ4639.999"
       },
       {
         "button_text": "Italian Literature to 1400",
-        "call_number_ranges": "PQ4265-PQ4556",
-        "order": 8
+        "call_number_ranges": "PQ4265-PQ4556.999"
       },
       {
         "button_text": "Italian Literature Outside of Italy",
-        "call_number_ranges": "PQ5941-PQ5999",
-        "order": 9
+        "call_number_ranges": "PQ5941-PQ5999.999"
       },
       {
         "button_text": "Italian Folk Literature",
-        "call_number_ranges": "GR175-GR176|PQ4186-4199",
-        "subject_heading_or": "Folk literature, Italian|Italy--Folklore",
-        "order": 10
+        "call_number_ranges": "GR175-GR176.999|PQ4186-4199-PQ4186-4199.999",
+        "subject_heading_or": "Folk literature, Italian|Italy--Folklore"
       },
       {
         "button_text": "Children's Literature in Italian",
-        "call_number_ranges": "PZ41-PZ48|PQ4199.5",
-        "order": 11
+        "call_number_ranges": "PZ41-PZ48.999|PQ4199.5-PQ4199.5.999"
       }
     ]
   },
   {
-    "marc_code": "jpn",
-    "language_name": "Japanese",
+    "MARC_Code": "jpn",
+    "Language_Name": "Japanese",
+    "language_facet": "Japanese",
     "options": [
       {
         "button_text": "Collections of Japanese Literature",
-        "call_number_ranges": "PL752-PL783|PL885-PL887",
-        "order": 1
+        "call_number_ranges": "PL752-PL783.999|PL885-PL887.999"
       },
       {
         "button_text": "Japanese Literature: Reiwa Period, 2019-",
-        "call_number_ranges": "PL878.3-PL880.9",
-        "order": 2
+        "call_number_ranges": "PL878.3-PL880.9.999"
       },
       {
         "button_text": "Japanese Literature: Heisei Period, 1989-2018",
-        "call_number_ranges": "PL867-878",
-        "order": 3
+        "call_number_ranges": "PL867-878-PL867-878.999"
       },
       {
         "button_text": "Japanese Literature: Sh?wa Period, 1945-1989",
-        "call_number_ranges": "PL844-PL866",
-        "order": 4
+        "call_number_ranges": "PL844-PL866.999"
       },
       {
         "button_text": "Japanese Literature: Sh?wa Period, 1926-1945",
-        "call_number_ranges": "PL821-PL866",
-        "order": 5
+        "call_number_ranges": "PL821-PL866.999"
       },
       {
         "button_text": "Japanese Literature: Meiji-Taish? Period, 1868-1926",
-        "call_number_ranges": "PL800-820",
-        "order": 6
+        "call_number_ranges": "PL800-820-PL800-820.999"
       },
       {
         "button_text": "Japanese Literature: Late Edo Period, 1789-1867",
-        "call_number_ranges": "PL796-799.ZZZZ",
-        "order": 7
+        "call_number_ranges": "PL796-799.ZZZZ-PL796-799.ZZZZ.999"
       },
       {
         "button_text": "Japanese Literature: Early Edo Period, 1600-1788",
-        "call_number_ranges": "PL793-795.ZZZZ",
-        "order": 8
+        "call_number_ranges": "PL793-795.ZZZZ-PL793-795.ZZZZ.999"
       },
       {
         "button_text": "Japanese Literature: Kamakura through Momoyama Periods, 1185-1660",
-        "call_number_ranges": "PL790-792.ZZZZ",
-        "order": 9
+        "call_number_ranges": "PL790-792.ZZZZ-PL790-792.ZZZZ.999"
       },
       {
         "button_text": "Japanese Literature: Heian Period, 794-1185",
-        "call_number_ranges": "PL787-789.ZZZZ",
-        "order": 10
+        "call_number_ranges": "PL787-789.ZZZZ-PL787-789.ZZZZ.999"
       },
       {
         "button_text": "Japanese Literature: Early to 794",
-        "call_number_ranges": "PL784-PL786.ZZZZ",
-        "order": 11
+        "call_number_ranges": "PL784-PL786.ZZZZ"
       },
       {
         "button_text": "Japanese Literature Outside of Japan",
-        "call_number_ranges": "PL888-PL889.ZZZZ",
-        "order": 12
+        "call_number_ranges": "PL888-PL889.ZZZZ"
       },
       {
         "button_text": "Japanese Literature in Translation",
-        "call_number_ranges": "PL782-PL783",
-        "order": 13
+        "call_number_ranges": "PL782-PL783.999"
       },
       {
         "button_text": "Japanese Folk Literature",
-        "call_number_ranges": "GR339-GR341",
-        "subject_heading_or": "Folk Literature, Japanese|Japan--Folklore",
-        "order": 14
+        "call_number_ranges": "GR339-GR341.999",
+        "subject_heading_or": "Folk Literature, Japanese|Japan--Folklore"
       },
       {
         "button_text": "Children's Literature in Japanese",
-        "call_number_ranges": "PZ49.2-PZ49.8",
-        "order": 15
+        "call_number_ranges": "PZ49.2-PZ49.8.999"
       }
     ]
   },
   {
-    "marc_code": "kor",
-    "language_name": "Korean",
+    "MARC_Code": "kor",
+    "Language_Name": "Korean",
+    "language_facet": "Korean",
     "options": [
       {
         "button_text": "Collections of Korean Literature",
-        "call_number_ranges": "PL969.8-PL985|PL997.A3-PL997.5.ZZZZ",
-        "order": 1
+        "call_number_ranges": "PL969.8-PL985.999|PL997.A3-PL997.5.ZZZZ"
       },
       {
         "button_text": "Korean Literature 2001-present",
-        "call_number_ranges": "PL994-PL994.98",
-        "order": 2
+        "call_number_ranges": "PL994-PL994.98.999"
       },
       {
         "button_text": "Korean Literature 1945-2000",
-        "call_number_ranges": "PL992-PL993.98",
-        "order": 3
+        "call_number_ranges": "PL992-PL993.98.999"
       },
       {
         "button_text": "Korean Literature 1919-1945",
-        "call_number_ranges": "PL991-PL991.98",
-        "order": 4
+        "call_number_ranges": "PL991-PL991.98.999"
       },
       {
         "button_text": "Korean Literature 1894-1919",
-        "call_number_ranges": "PL990-PL990.98",
-        "order": 5
+        "call_number_ranges": "PL990-PL990.98.999"
       },
       {
         "button_text": "Korean Literature 1598-1894",
-        "call_number_ranges": "PL989-PL989.98",
-        "order": 6
+        "call_number_ranges": "PL989-PL989.98.999"
       },
       {
         "button_text": "Korean Literature 1392-1598",
-        "call_number_ranges": "PL988-PL988.96",
-        "order": 7
+        "call_number_ranges": "PL988-PL988.96.999"
       },
       {
         "button_text": "Korean Literature: Kory? period, 935-1392",
-        "call_number_ranges": "PL987.A1-PL987.ZZZZ",
-        "order": 8
+        "call_number_ranges": "PL987.A1-PL987.ZZZZ"
       },
       {
         "button_text": "Korean Literature to 935CE",
-        "call_number_ranges": "PL986-986.ZZZZ",
-        "order": 9
+        "call_number_ranges": "PL986-986.ZZZZ-PL986-986.ZZZZ.999"
       },
       {
         "button_text": "North Korean Literature",
-        "call_number_ranges": "PL997.A25-PL997.A26",
-        "order": 10
+        "call_number_ranges": "PL997.A25-PL997.A26"
       },
       {
         "button_text": "Korean Literature Outside Korea",
-        "call_number_ranges": "PL998-PL998.ZZZZ",
-        "order": 11
+        "call_number_ranges": "PL998-PL998.ZZZZ"
       },
       {
         "button_text": "Korean Literature in Translation",
-        "call_number_ranges": "PL984-PL985",
-        "order": 12
+        "call_number_ranges": "PL984-PL985.999"
       },
       {
         "button_text": "Korean Folk Literature",
-        "call_number_ranges": "GR342-GR342.5",
-        "subject_heading_or": "Folk Literature, Korean|Korea--Folklore",
-        "order": 13
+        "call_number_ranges": "GR342-GR342.5.999",
+        "subject_heading_or": "Folk Literature, Korean|Korea--Folklore"
       },
       {
         "button_text": "Children's Literature in Korean",
-        "call_number_ranges": "PZ50.52-PZ50.58|PL969.5",
-        "order": 14
+        "call_number_ranges": "PZ50.52-PZ50.58.999|PL969.5-PL969.5.999"
       }
     ]
   },
   {
-    "marc_code": "lat",
-    "language_name": "Latin",
+    "MARC_Code": "lat",
+    "Language_Name": "Latin",
+    "language_facet": "Latin",
     "options": [
       {
         "button_text": "Collections of Latin Literature",
-        "call_number_ranges": "PA6100-PA6140.A3|PA6098-PA6098.ZZZZ|PA8101-PA8149",
-        "order": 1
+        "call_number_ranges": "PA6100-PA6140.A3|PA6098-PA6098.ZZZZ|PA8101-PA8149.999"
       },
       {
         "button_text": "Collections of Both Greek and Latin Authors",
-        "call_number_ranges": "PA3401-PA3516",
-        "order": 2
+        "call_number_ranges": "PA3401-PA3516.999"
       },
       {
         "button_text": "Modern Latin Literature (1350-present)",
-        "call_number_ranges": "PA8112|PA8200-PA8445",
-        "order": 3
+        "call_number_ranges": "PA8112-PA8112.999|PA8200-PA8445.999"
       },
       {
         "button_text": "Modern Latin Literature (1350-present)",
-        "call_number_ranges": "PA8450-PA8595|PA8114-PA8117",
-        "order": 4
+        "call_number_ranges": "PA8450-PA8595.999|PA8114-PA8117.999"
       },
       {
         "button_text": "Roman Literature",
-        "call_number_ranges": "PA6202-PA6971|PA6100-PA6140.A3",
-        "order": 5
+        "call_number_ranges": "PA6202-PA6971.999|PA6100-PA6140.A3"
       },
       {
         "button_text": "Latin Literature in Translation",
-        "call_number_ranges": "PA6155-PA6191|PA8160-PA8199",
-        "order": 6
+        "call_number_ranges": "PA6155-PA6191.999|PA8160-PA8199.999"
       },
       {
         "button_text": "Children's Literature in Latin",
-        "call_number_ranges": "PZ90.L3",
-        "order": 7
+        "call_number_ranges": "PZ90.L3-PZ90.L3.999"
       }
     ]
   },
   {
-    "marc_code": "lav",
-    "language_name": "Latvian",
+    "MARC_Code": "lav",
+    "Language_Name": "Latvian",
+    "language_facet": "Latvian",
     "options": [
       {
         "button_text": "Collections of Latvian Literature",
-        "call_number_ranges": "PG9031-PG9045|PG9102-PG9105.ZZZZ",
-        "order": 1
+        "call_number_ranges": "PG9031-PG9045.999|PG9102-PG9105.ZZZZ"
       },
       {
         "button_text": "Latvian Literature 2001-present",
-        "call_number_ranges": "PG9050-PG9050.36",
-        "order": 2
+        "call_number_ranges": "PG9050-PG9050.36.999"
       },
       {
         "button_text": "Latvian Literature 1961-2000",
-        "call_number_ranges": "PG9049-PG9049.36",
-        "order": 3
+        "call_number_ranges": "PG9049-PG9049.36.999"
       },
       {
         "button_text": "Latvian Literature to 1960",
-        "call_number_ranges": "PG9048-PG9048.ZZZZ",
-        "order": 4
+        "call_number_ranges": "PG9048-PG9048.ZZZZ"
       },
       {
         "button_text": "Latvian Literature Outside of Latvia",
-        "call_number_ranges": "PG9108-PG9120",
-        "order": 5
+        "call_number_ranges": "PG9108-PG9120.999"
       },
       {
         "button_text": "Latvian Folk Literature",
-        "call_number_ranges": "GR204.5|PG9014-PG9019",
-        "subject_heading_or": "Folk Literature, Latvian|Latvia--Folklore",
-        "order": 6
+        "call_number_ranges": "GR204.5-GR204.5.999|PG9014-PG9019.999",
+        "subject_heading_or": "Folk Literature, Latvian|Latvia--Folklore"
       },
       {
         "button_text": "Children's Literature in Latvian",
-        "call_number_ranges": "PZ90.L4|PG9020",
-        "order": 7
+        "call_number_ranges": "PZ90.L4-PZ90.L4.999|PG9020-PG9020.999"
       }
     ]
   },
   {
-    "marc_code": "nds|ger",
-    "language_name": "Low German",
+    "MARC_Code": "nds|ger",
+    "Language_Name": "Low German",
     "options": [
       {
         "button_text": "Collections of Low German Literature",
-        "call_number_ranges": "PT4831-PT4836",
-        "subject_heading_or": "Low German literature--Collections",
-        "order": 1
+        "call_number_ranges": "PT4831-PT4836.999",
+        "subject_heading_or": "Low German literature--Collections"
       },
       {
         "button_text": "Low German Literature: Individual Authors",
-        "call_number_ranges": "PT4846-PT4890",
-        "order": 2
+        "call_number_ranges": "PT4846-PT4890.999"
       },
       {
         "button_text": "Low German Literature in Translation",
-        "call_number_ranges": "PT4896-PT4897",
-        "order": 3
+        "call_number_ranges": "PT4896-PT4897.999"
       },
       {
         "button_text": "Low German Folk Literature",
-        "call_number_ranges": "PT4830|GR167.A-GR167.Z",
-        "subject_heading_or": "Folk literature, Low German",
-        "order": 4
+        "call_number_ranges": "PT4830-PT4830.999|GR167.A-GR167.Z",
+        "subject_heading_or": "Folk literature, Low German"
       }
+    ],
+    "language_facet": [
+      "Low German",
+      "German"
     ]
   },
   {
-    "marc_code": "nor|nob|nno",
-    "language_name": "Norwegian",
+    "MARC_Code": "nor|nob|nno",
+    "Language_Name": "Norwegian",
     "options": [
       {
         "button_text": "Collections of Norwegian Literature|PT9025-PT9055",
-        "call_number_ranges": "PT8645-PT8733",
-        "order": 1
+        "call_number_ranges": "PT8645-PT8733.999"
       },
       {
         "button_text": "Norwegian Literature 2001-",
-        "call_number_ranges": "PT8952-PT8952.36",
-        "order": 2
+        "call_number_ranges": "PT8952-PT8952.36.999"
       },
       {
         "button_text": "Norwegian Literature 1961-2000",
-        "call_number_ranges": "PT8951-PT8951.36",
-        "order": 3
+        "call_number_ranges": "PT8951-PT8951.36.999"
       },
       {
         "button_text": "Norwegian Literature 1900-1960",
-        "call_number_ranges": "PT8949-PT8950",
-        "order": 4
+        "call_number_ranges": "PT8949-PT8950.999"
       },
       {
         "button_text": "19th Century Norwegian Literature",
-        "call_number_ranges": "PT8600-PT9155.999",
-        "order": 5
+        "call_number_ranges": "PT8600-PT9155.999"
       },
       {
         "button_text": "16th-18th Century Norwegian Literature",
-        "call_number_ranges": "PT8750-PT8775",
-        "order": 6
+        "call_number_ranges": "PT8750-PT8775.999"
       },
       {
         "button_text": "Norwegian Literature (Nynorsk / Landsm--l)",
-        "call_number_ranges": "PT9025-PT9094",
-        "order": 7
+        "call_number_ranges": "PT9025-PT9094.999"
       },
       {
         "button_text": "Norwegian Literature Outside of Norway",
-        "call_number_ranges": "PT9105-PT9155.ZZZZ",
-        "order": 8
+        "call_number_ranges": "PT9105-PT9155.ZZZZ"
       },
       {
         "button_text": "Norwegian Folk Literature",
-        "call_number_ranges": "GR220-GR222.ZZZZ|PT8615-8637",
-        "subject_heading_or": "Folk Literature, Norwegian|Norway--Folklore",
-        "order": 9
+        "call_number_ranges": "GR220-GR222.ZZZZ|PT8615-8637-PT8615-8637.999",
+        "subject_heading_or": "Folk Literature, Norwegian|Norway--Folklore"
       },
       {
         "button_text": "Children's Literature in Norwegian (Landsm--l/Nynorsk)",
-        "call_number_ranges": "PZ54.4-PZ54.9|PT8640",
-        "order": 10
+        "call_number_ranges": "PZ54.4-PZ54.9.999|PT8640-PT8640.999"
       }
-    ]
+    ],
+    "language_facet": [
+      "Norwegian",
+      "Norwegian (Bokmål)",
+      "Norwegian (Nynorsk)"
+    ],
+    "language_note": "Norwegian literature at IU Libraries is cataloged under a general Norwegian heading. Note that <strong>Nynorsk</strong> has its own call number range for literature (PT9025–PT9094), but Nynorsk works may also appear in other categories."
   },
   {
-    "marc_code": "lan|pro",
-    "language_name": "Occitan",
+    "MARC_Code": "lan|pro",
+    "Language_Name": "Occitan",
     "options": [
       {
         "button_text": "Collections of Occitan Literature",
-        "call_number_ranges": "PC3322.A1-PC3327",
-        "subject_heading_or": "Occitan literature--Collections",
-        "order": 1
+        "call_number_ranges": "PC3322.A1-PC3327.999",
+        "subject_heading_or": "Occitan literature--Collections"
       },
       {
         "button_text": "Occitan: Individual Authors and Works",
-        "call_number_ranges": "PC3328-PC3359.999",
-        "order": 2
+        "call_number_ranges": "PC3328-PC3359.999"
       },
       {
         "button_text": "Occitan Literature in Translation",
-        "call_number_ranges": "PC3364.2-PC3366",
-        "order": 3
+        "call_number_ranges": "PC3364.2-PC3366.999"
       },
       {
         "button_text": "Occitan Folk Literature",
-        "call_number_ranges": "GR162.L2",
-        "subject_heading_or": "Folk Literature, Occitan|Folklore--France--Languedoc",
-        "order": 4
+        "call_number_ranges": "GR162.L2-GR162.L2.999",
+        "subject_heading_or": "Folk Literature, Occitan|Folklore--France--Languedoc"
       }
+    ],
+    "language_facet": [
+      "Occitan",
+      "Provençal"
     ]
   },
   {
-    "marc_code": "non|ice|nor|nob|nno",
-    "language_name": "Old Norse",
+    "MARC_Code": "non|ice|nor|nob|nno",
+    "Language_Name": "Old Norse",
     "options": [
       {
         "button_text": "Collections of Old Norse Literature",
-        "call_number_ranges": "PT7220-PT7262.5",
-        "subject_heading_or": "Old Norse literature--Collections",
-        "order": 1
+        "call_number_ranges": "PT7220-PT7262.5.999",
+        "subject_heading_or": "Old Norse literature--Collections"
       },
       {
         "button_text": "Old Norse Literature: Individual Authors and Works (to 1540)",
-        "call_number_ranges": "PT7326-PT7338",
-        "order": 2
+        "call_number_ranges": "PT7326-PT7338.999"
       },
       {
         "button_text": "Old Norse Sagas and Historical Works",
-        "call_number_ranges": "PT7263-PT7296",
-        "order": 3
+        "call_number_ranges": "PT7263-PT7296.999"
       },
       {
         "button_text": "Old Norse Religious, Scholarly, and Other Works",
-        "call_number_ranges": "PT7298-PT7320.ZZZZ |",
-        "order": 4
+        "call_number_ranges": "PT7298-PT7320.ZZZZ"
       }
-    ]
+    ],
+    "language_facet": [
+      "Old Norse",
+      "Icelandic",
+      "Norwegian"
+    ],
+    "language_note": "Old Norse literature includes both <strong>Old Icelandic</strong> and <strong>Old Norwegian</strong> texts. These traditions share a common literary heritage and are classified together."
   },
   {
-    "marc_code": "pli",
-    "language_name": "Pali",
+    "MARC_Code": "pli",
+    "Language_Name": "Pali",
+    "language_facet": "Pali",
     "options": [
       {
         "button_text": "Collections of Pali Literature",
-        "call_number_ranges": "PK4541-PK4591",
-        "subject_heading_or": "Pali literature--Collections",
-        "order": 1
+        "call_number_ranges": "PK4541-PK4591.999",
+        "subject_heading_or": "Pali literature--Collections"
       },
       {
         "button_text": "Pali Literature: Individual Authors and Works",
-        "call_number_ranges": "PK4541-PK4591.999",
-        "order": 2
+        "call_number_ranges": "PK4541-PK4591.999"
       },
       {
         "button_text": "Pali Outside of India & Sri Lanka",
-        "call_number_ranges": "PK4641-PK4681",
-        "order": 3
+        "call_number_ranges": "PK4641-PK4681.999"
       },
       {
         "button_text": "Pali Literature In Translation",
-        "call_number_ranges": "PK4621-PK4631",
-        "order": 4
+        "call_number_ranges": "PK4621-PK4631.999"
       }
     ]
   },
   {
-    "marc_code": "per|fas|tgk",
-    "language_name": "Persian",
+    "MARC_Code": "per|fas|tgk",
+    "Language_Name": "Persian",
     "options": [
       {
         "button_text": "Collections of Persian Literature",
-        "call_number_ranges": "PK6428-PK6250",
-        "subject_heading_or": "Persian literature--Collections",
-        "order": 1
+        "call_number_ranges": "PK6428-PK6250.999",
+        "subject_heading_or": "Persian literature--Collections"
       },
       {
         "button_text": "Persian Literature 2001-present",
-        "call_number_ranges": "PK6562-PK6562.36.999",
-        "order": 2
+        "call_number_ranges": "PK6562-PK6562.36.999"
       },
       {
         "button_text": "Persian Literature 1870-2000",
-        "call_number_ranges": "PK6561-PK6561.ZZZZ",
-        "order": 3
+        "call_number_ranges": "PK6561-PK6561.ZZZZ"
       },
       {
         "button_text": "Persian Literature to 1870",
-        "call_number_ranges": "PK6428-PK6599.999",
-        "order": 4
+        "call_number_ranges": "PK6428-PK6599.999"
       },
       {
         "button_text": "Dari Literature",
-        "call_number_ranges": "PK6878.45-PK6878.9.ZZZZ|PK6427.6.A3",
-        "order": 5
+        "call_number_ranges": "PK6878.45-PK6878.9.ZZZZ|PK6427.6.A3-PK6427.6.A3.999"
       },
       {
         "button_text": "Persian Literature of South Asia",
-        "call_number_ranges": "PK6427.6.B35|PK6427.6.I4|PK6427.6.I5|PK6427.6.P3|PK6427.6.K3",
-        "subject_heading_or": "Persian literature--India|Persian literature--Pakistan|Mughal empire--literature",
-        "order": 6
+        "call_number_ranges": "PK6427.6.B35-PK6427.6.B35.999|PK6427.6.I4-PK6427.6.I4.999|PK6427.6.I5-PK6427.6.I5.999|PK6427.6.P3-PK6427.6.P3.999|PK6427.6.K3-PK6427.6.K3.999",
+        "subject_heading_or": "Persian literature--India|Persian literature--Pakistan|Mughal empire--literature"
       },
       {
         "button_text": "Tajiki Literature",
-        "call_number_ranges": "PK6978-PK6978.9.999|PK6427.6.T3",
-        "order": 7
+        "call_number_ranges": "PK6978-PK6978.9.999|PK6427.6.T3-PK6427.6.T3.999"
       },
       {
         "button_text": "Persian Folk Literature (includes Iran, Tajikistan, Azerbaijan, Afghanistan)",
-        "call_number_ranges": "GR290-291.2|GR300.5-GR300.52|GR302.5-GR302.9|PK6599",
-        "subject_heading_or": "Folk Literature, Persian|Iran--Folklore|Afghanistan--Folklore|Tajikistan--Folklore",
-        "order": 8
+        "call_number_ranges": "GR290-291.2-GR290-291.2.999|GR300.5-GR300.52.999|GR302.5-GR302.9.999|PK6599-PK6599.999",
+        "subject_heading_or": "Folk Literature, Persian|Iran--Folklore|Afghanistan--Folklore|Tajikistan--Folklore"
       },
       {
         "button_text": "Children's Literature in Persian",
-        "call_number_ranges": "PZ90.P4|PK6426.5",
-        "order": 9
+        "call_number_ranges": "PZ90.P4-PZ90.P4.999|PK6426.5-PK6426.5.999"
       }
-    ]
+    ],
+    "language_facet": [
+      "Persian",
+      "Tajik"
+    ],
+    "language_note": "Persian literature at IU Libraries includes works in <strong>Farsi</strong> (Iranian Persian), <strong>Dari</strong> (Afghan Persian), and <strong>Tajiki</strong> (Tajik Persian). These are considered varieties of the same literary language and are cataloged together."
   },
   {
-    "marc_code": "pol",
-    "language_name": "Polish",
+    "MARC_Code": "pol",
+    "Language_Name": "Polish",
+    "language_facet": "Polish",
     "options": [
       {
         "button_text": "Collections of Polish Literature",
-        "call_number_ranges": "PG7132-PG7156",
-        "subject_heading_or": "Polish literature--Collections",
-        "order": 1
+        "call_number_ranges": "PG7132-PG7156.999",
+        "subject_heading_or": "Polish literature--Collections"
       },
       {
         "button_text": "Polish Literature 2001-present",
-        "call_number_ranges": "PG7200-PG7226|PG7135.15",
-        "order": 2
+        "call_number_ranges": "PG7200-PG7226.999|PG7135.15-PG7135.15.999"
       },
       {
         "button_text": "Polish Literature 1961-2000",
-        "call_number_ranges": "PG7159-PG7185",
-        "order": 3
+        "call_number_ranges": "PG7159-PG7185.999"
       },
       {
         "button_text": "Polish Literature 1801-1960",
-        "call_number_ranges": "PG7158-PG7158.ZZZZ",
-        "order": 4
+        "call_number_ranges": "PG7158-PG7158.ZZZZ"
       },
       {
         "button_text": "Polish Literature to 1800",
-        "call_number_ranges": "PG7005-PG7405.999",
-        "order": 5
+        "call_number_ranges": "PG7005-PG7405.999"
       },
       {
         "button_text": "Polish Literature Outside of Poland",
-        "call_number_ranges": "PG7367-PG7405",
-        "order": 6
+        "call_number_ranges": "PG7367-PG7405.999"
       },
       {
         "button_text": "Polish Literature in Translation",
-        "call_number_ranges": "PG7445-PG7446",
-        "order": 7
+        "call_number_ranges": "PG7445-PG7446.999"
       },
       {
         "button_text": "Polish Folk Literature",
-        "call_number_ranges": "GR195-GR196.2|PG7124-PG7128.ZZZZ",
-        "subject_heading_or": "Folk Literature, Polish|Poland--Folklore",
-        "order": 8
+        "call_number_ranges": "GR195-GR196.2.999|PG7124-PG7128.ZZZZ",
+        "subject_heading_or": "Folk Literature, Polish|Poland--Folklore"
       },
       {
         "button_text": "Children's Literature in Polish",
-        "call_number_ranges": "PZ69|PG7130",
-        "order": 9
+        "call_number_ranges": "PZ69-PZ69.999|PG7130-PG7130.999"
       }
     ]
   },
   {
-    "marc_code": "por",
-    "language_name": "Portuguese",
+    "MARC_Code": "por",
+    "Language_Name": "Portuguese",
+    "language_facet": "Portuguese",
     "options": [
       {
         "button_text": "Collections of Brazilian Literature",
-        "call_number_ranges": "PQ9630-PQ9688",
-        "order": 1
+        "call_number_ranges": "PQ9630-PQ9688.999"
       },
       {
         "button_text": "Collections of Portuguese Literature",
-        "call_number_ranges": "PQ9131-PQ9188",
-        "subject_heading_or": "Portuguese literature--Collections",
-        "order": 2
+        "call_number_ranges": "PQ9131-PQ9188.999",
+        "subject_heading_or": "Portuguese literature--Collections"
       },
       {
         "button_text": "Brazilian Literature 2001-present",
-        "call_number_ranges": "PQ9698.4-PQ9698.436",
-        "order": 3
+        "call_number_ranges": "PQ9698.4-PQ9698.436.999"
       },
       {
         "button_text": "Portuguese Literature 1961-2000",
-        "call_number_ranges": "PQ9262-PQ9288",
-        "order": 4
+        "call_number_ranges": "PQ9262-PQ9288.999"
       },
       {
         "button_text": "Brazilian Literature 1961-2000",
-        "call_number_ranges": "PQ9698-PQ9698.36",
-        "order": 5
+        "call_number_ranges": "PQ9698-PQ9698.36.999"
       },
       {
         "button_text": "Portuguese Literature 1701-1960",
-        "call_number_ranges": "PQ9261-PQ9261.ZZZZ",
-        "order": 6
+        "call_number_ranges": "PQ9261-PQ9261.ZZZZ"
       },
       {
         "button_text": "Brazilian Literature 1801-1960",
-        "call_number_ranges": "PQ9697-PQ9697.ZZZZ",
-        "order": 7
+        "call_number_ranges": "PQ9697-PQ9697.ZZZZ"
       },
       {
         "button_text": "Portuguese Literature 2001-present",
-        "call_number_ranges": "PQ9300-PQ9326",
-        "order": 8
+        "call_number_ranges": "PQ9300-PQ9326.999"
       },
       {
         "button_text": "Portuguese Literature 1500-1700",
-        "call_number_ranges": "PQ9191-PQ9255",
-        "order": 9
+        "call_number_ranges": "PQ9191-PQ9255.999"
       },
       {
         "button_text": "Brazilian Literature to 1800",
-        "call_number_ranges": "PQ9696-PQ9696.ZZZZ",
-        "order": 10
+        "call_number_ranges": "PQ9696-PQ9696.ZZZZ"
       },
       {
         "button_text": "Portuguese Literature to 1500",
-        "call_number_ranges": "PQ9131-PQ9999.999",
-        "order": 11
+        "call_number_ranges": "PQ9131-PQ9999.999"
       },
       {
         "button_text": "Portuguese Literature to 1500",
-        "call_number_ranges": "PQ9189-PQ9189.ZZZZ",
-        "order": 12
+        "call_number_ranges": "PQ9189-PQ9189.ZZZZ"
       },
       {
         "button_text": "Portuguese Literature Outside of Portugal and Brazil",
-        "call_number_ranges": "PQ9421-PQ9479|PQ9900-PQ9999.ZZZZ",
-        "order": 13
+        "call_number_ranges": "PQ9421-PQ9479.999|PQ9900-PQ9999.ZZZZ"
       },
       {
         "button_text": "Portuguese Folk Literature (Brazil)",
-        "call_number_ranges": "PQ9660|PQ 9686|GR133.B7",
-        "subject_heading_or": "Folk literature, Brazilian|Brazil--Folklore",
-        "order": 14
+        "call_number_ranges": "PQ9660-PQ9660.999|PQ 9686-PQ 9686.999|GR133.B7-GR133.B7.999",
+        "subject_heading_or": "Folk literature, Brazilian|Brazil--Folklore"
       },
       {
         "button_text": "Portuguese Folk Literature (Portugal)",
-        "call_number_ranges": "GR238-GR239.2",
-        "subject_heading_or": "Folk Literature, Portuguese|Portugal--Folklore|Brazil--Folklore",
-        "order": 15
+        "call_number_ranges": "GR238-GR239.2.999",
+        "subject_heading_or": "Folk Literature, Portuguese|Portugal--Folklore|Brazil--Folklore"
       },
       {
         "button_text": "Children's Literature in Portuguese",
-        "call_number_ranges": "PZ81-PZ88|PQ9129",
-        "order": 16
+        "call_number_ranges": "PZ81-PZ88.999|PQ9129-PQ9129.999"
       }
     ]
   },
   {
-    "marc_code": "rum|mol",
-    "language_name": "Romanian",
+    "MARC_Code": "rum|mol",
+    "Language_Name": "Romanian",
     "options": [
       {
         "button_text": "Collections of Romanian Literature",
         "call_number_ranges": "PC829-PC838.5.ZZZZ",
-        "subject_heading_or": "Romanian literature--Collections",
-        "order": 1
+        "subject_heading_or": "Romanian literature--Collections"
       },
       {
         "button_text": "Romanian Literature 2001-present",
-        "call_number_ranges": "PC840.4-PC840.436",
-        "order": 2
+        "call_number_ranges": "PC840.4-PC840.436.999"
       },
       {
         "button_text": "Romanian Literature through 1800",
-        "call_number_ranges": "PC838.7-PC838.7.ZZZZ",
-        "order": 3
+        "call_number_ranges": "PC838.7-PC838.7.ZZZZ"
       },
       {
         "button_text": "Romanian Literature 1961-2000",
-        "call_number_ranges": "PC840-PC840.36",
-        "order": 4
+        "call_number_ranges": "PC840-PC840.36.999"
       },
       {
         "button_text": "Romanian Literature 1801-1960",
-        "call_number_ranges": "PC839-PC839.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PC839-PC839.ZZZZ"
       },
       {
         "button_text": "Moldovan Literature",
-        "call_number_ranges": "PC843.45-PC843.85.ZZZZ",
-        "order": 6
+        "call_number_ranges": "PC843.45-PC843.85.ZZZZ"
       },
       {
         "button_text": "Romanian Literature in Translation",
-        "call_number_ranges": "PC871-PC872",
-        "order": 7
+        "call_number_ranges": "PC871-PC872.999"
       },
       {
         "button_text": "Romanian Folk Literature",
-        "call_number_ranges": "GR257-GR258.2.ZZZZ|PC819-PC827",
-        "subject_heading_or": "Folk Literature, Romanian|Romania--Folklore",
-        "order": 8
+        "call_number_ranges": "GR257-GR258.2.ZZZZ|PC819-PC827.999",
+        "subject_heading_or": "Folk Literature, Romanian|Romania--Folklore"
       },
       {
         "button_text": "Children's Literature in Romanian",
-        "call_number_ranges": "PZ90.R6|PC809.5",
-        "order": 9
+        "call_number_ranges": "PZ90.R6-PZ90.R6.999|PC809.5-PC809.5.999"
       }
-    ]
+    ],
+    "language_facet": [
+      "Romanian",
+      "Moldavian"
+    ],
+    "language_note": "Moldavian/Moldovan holdings at IU Libraries may be cataloged under <strong>Romanian</strong>, as the two languages share a literary tradition and catalog classification."
   },
   {
-    "marc_code": "rus",
-    "language_name": "Russian",
+    "MARC_Code": "rus",
+    "Language_Name": "Russian",
+    "language_facet": "Russian",
     "options": [
       {
         "button_text": "Collections of Russian Literature",
         "call_number_ranges": "PG3199-PG3299.ZZZZ",
-        "subject_heading_or": "Russian literature--Collections",
-        "order": 1
+        "subject_heading_or": "Russian literature--Collections"
       },
       {
         "button_text": "Russian Literature 2001-present",
-        "call_number_ranges": "PG3491.2-PG3493.96|PG3229-PG3229.2",
-        "order": 2
+        "call_number_ranges": "PG3491.2-PG3493.96.999|PG3229-PG3229.2.999"
       },
       {
         "button_text": "Russian Literature 1960-2000",
-        "call_number_ranges": "PG3477-PG3490",
-        "order": 3
+        "call_number_ranges": "PG3477-PG3490.999"
       },
       {
         "button_text": "Russian Literature 1917-1960",
-        "call_number_ranges": "PG3475-PG3476|PG3227-PG3228",
-        "order": 4
+        "call_number_ranges": "PG3475-PG3476.999|PG3227-PG3228.999"
       },
       {
         "button_text": "Russian Literature 1870-1917",
-        "call_number_ranges": "PG3450-PG3470",
-        "order": 5
+        "call_number_ranges": "PG3450-PG3470.999"
       },
       {
         "button_text": "Russian Literature 1800-1870",
-        "call_number_ranges": "PG3320-PG3447|PG3226",
-        "order": 6
+        "call_number_ranges": "PG3320-PG3447.999|PG3226-PG3226.999"
       },
       {
         "button_text": "18th Century Russian Literature",
-        "call_number_ranges": "PG3310-PG3319|PG3225",
-        "order": 7
+        "call_number_ranges": "PG3310-PG3319.999|PG3225-PG3225.999"
       },
       {
         "button_text": "Russian Literature to 1700",
-        "call_number_ranges": "PG3300-PG3308|PG3223",
-        "order": 8
+        "call_number_ranges": "PG3300-PG3308.999|PG3223-PG3223.999"
       },
       {
         "button_text": "Russian Literature Outside of the Russian Federation",
-        "call_number_ranges": "PG3515-PG3550",
-        "order": 9
+        "call_number_ranges": "PG3515-PG3550.999"
       },
       {
         "button_text": "Russian Literature in Translation",
-        "call_number_ranges": "PG3212-PG3219|PG3237-PG3238|PG3244-PG3250|PG3265-PG3269",
-        "order": 10
+        "call_number_ranges": "PG3212-PG3219.999|PG3237-PG3238.999|PG3244-PG3250.999|PG3265-PG3269.999"
       },
       {
         "button_text": "Russian Folk Literature",
-        "call_number_ranges": "GR202-GR203.2.ZZZZ|GR345",
-        "subject_heading_or": "Folk Literature, Russian|Russia--Folklore",
-        "order": 11
+        "call_number_ranges": "GR202-GR203.2.ZZZZ|GR345-GR345.999",
+        "subject_heading_or": "Folk Literature, Russian|Russia--Folklore"
       },
       {
         "button_text": "Children's Literature in Russian",
-        "call_number_ranges": "PZ61-PZ68 |PZ90.R9",
-        "order": 12
+        "call_number_ranges": "PZ61-PZ68.999|PZ90.R9-PZ90.R9.999"
       }
     ]
   },
   {
-    "marc_code": "san",
-    "language_name": "Sanskrit",
+    "MARC_Code": "san",
+    "Language_Name": "Sanskrit",
+    "language_facet": "Sanskrit",
     "options": [
       {
         "button_text": "Collections of Sanskrit Literature",
-        "call_number_ranges": "PK3591-PK3595",
-        "subject_heading_or": "Sanskrit literature--Collections",
-        "order": 1
+        "call_number_ranges": "PK3591-PK3595.999",
+        "subject_heading_or": "Sanskrit literature--Collections"
       },
       {
         "button_text": "Mah?bh?rata and Bhagavadg?t?",
-        "call_number_ranges": "BL1138.2-BL1138.89|PK3631-PK3649",
-        "order": 2
+        "call_number_ranges": "BL1138.2-BL1138.89.999|PK3631-PK3649.999"
       },
       {
         "button_text": "Other Post-Vedic Sanskrit Literature",
-        "call_number_ranges": "PK3750-PK3799",
-        "order": 3
+        "call_number_ranges": "PK3750-PK3799.999"
       },
       {
         "button_text": "Other Sacred Texts",
-        "call_number_ranges": "BL1140.52-BL1143.2.ZZZZ",
-        "order": 4
+        "call_number_ranges": "BL1140.52-BL1143.2.ZZZZ"
       },
       {
         "button_text": "Pur??as",
-        "call_number_ranges": "BL1140.2-BL1140.4|PK3621",
-        "order": 5
+        "call_number_ranges": "BL1140.2-BL1140.4.999|PK3621-PK3621.999"
       },
       {
         "button_text": "R?m?ya?a",
-        "call_number_ranges": "BL1139.2-BL1139.79|PK3651-PK3669",
-        "order": 6
+        "call_number_ranges": "BL1139.2-BL1139.79.999|PK3651-PK3669.999"
       },
       {
         "button_text": "Sanskrit Drama",
-        "call_number_ranges": "PK3745|PK3721-PK3723",
-        "order": 7
+        "call_number_ranges": "PK3745-PK3745.999|PK3721-PK3723.999"
       },
       {
         "button_text": "Sanskrit Poetry",
-        "call_number_ranges": "PK3601-PK3621",
-        "order": 8
+        "call_number_ranges": "PK3601-PK3621.999"
       },
       {
         "button_text": "Vedic Texts",
-        "call_number_ranges": "BL1112.2-BL1137.72|PK3000-PK3581",
-        "order": 9
+        "call_number_ranges": "BL1112.2-BL1137.72.999|PK3000-PK3581.999"
       },
       {
         "button_text": "Sanskrit Literature in Translation",
-        "call_number_ranges": "PK4471-PK4485",
-        "order": 10
+        "call_number_ranges": "PK4471-PK4485.999"
       },
       {
         "button_text": "Children's Literature in Sanskrit",
-        "call_number_ranges": "PZ90.S3",
-        "order": 11
+        "call_number_ranges": "PZ90.S3-PZ90.S3.999"
       }
     ]
   },
   {
-    "marc_code": "sco",
-    "language_name": "Scots",
+    "MARC_Code": "sco",
+    "Language_Name": "Scots",
+    "language_facet": "Scots",
     "options": [
       {
         "button_text": "Collections of Scots Literature",
-        "call_number_ranges": "PR8630-PR8689|PR8691-PR8693.ZZZZ",
-        "subject_heading_or": "Scots literature--Collections",
-        "order": 1
+        "call_number_ranges": "PR8630-PR8689.999|PR8691-PR8693.ZZZZ",
+        "subject_heading_or": "Scots literature--Collections"
       },
       {
         "button_text": "Scots Literature: Individual Authors or Works",
-        "call_number_ranges": "PR8696-PR8698.436.999",
-        "order": 2
+        "call_number_ranges": "PR8696-PR8698.436.999"
       },
       {
         "button_text": "Scots Folk Literature",
-        "call_number_ranges": "GR143-GR145|PR8689|PR8621-PR8624",
-        "subject_heading_or": "Folk Literature, Scots|Scotland--Folklore",
-        "order": 3
+        "call_number_ranges": "GR143-GR145.999|PR8689-PR8689.999|PR8621-PR8624.999",
+        "subject_heading_or": "Folk Literature, Scots|Scotland--Folklore"
       },
       {
         "button_text": "Children's Literature in Scots",
-        "call_number_ranges": "PZ90.S39|PR8625",
-        "order": 4
+        "call_number_ranges": "PZ90.S39-PZ90.S39.999|PR8625-PR8625.999"
       }
     ]
   },
   {
-    "marc_code": "gae|gla",
-    "language_name": "Scottish Gaelic",
+    "MARC_Code": "gae|gla",
+    "Language_Name": "Scottish Gaelic",
+    "language_facet": "Scottish Gaelic",
     "options": [
       {
         "button_text": "Collections of Scottish Gaelic Literature",
         "call_number_ranges": "PB1631-PB1647.ZZZZ",
-        "subject_heading_or": "Scottish Gaelic literature--Collections",
-        "order": 1
+        "subject_heading_or": "Scottish Gaelic literature--Collections"
       },
       {
         "button_text": "Scottish Gaelic Literature: Individual Authors and Works",
-        "call_number_ranges": "PB1648-PB1648.ZZZZ",
-        "order": 2
+        "call_number_ranges": "PB1648-PB1648.ZZZZ"
       },
       {
         "button_text": "Scottish Gaelic Manuscripts",
-        "call_number_ranges": "PB1632-PB1632.ZZZZ",
-        "order": 3
+        "call_number_ranges": "PB1632-PB1632.ZZZZ"
       },
       {
         "button_text": "Scottish Gaelic Literature in Translation",
-        "call_number_ranges": "PB1681-PB1709",
-        "order": 4
+        "call_number_ranges": "PB1681-PB1709.999"
       },
       {
         "button_text": "Scottish Gaelic Folk Literature",
-        "call_number_ranges": "GR143-GR145|PB1645",
-        "subject_heading_or": "Folk Literature, Scottish Gaelic|Scotland--Folklore",
-        "order": 5
+        "call_number_ranges": "GR143-GR145.999|PB1645-PB1645.999",
+        "subject_heading_or": "Folk Literature, Scottish Gaelic|Scotland--Folklore"
       },
       {
         "button_text": "Children's Literature in Scottish Gaelic",
-        "call_number_ranges": "PZ90.G2",
-        "order": 6
+        "call_number_ranges": "PZ90.G2-PZ90.G2.999"
       }
     ]
   },
   {
-    "marc_code": "scc|srp",
-    "language_name": "Serbian",
+    "MARC_Code": "scc|srp",
+    "Language_Name": "Serbian",
+    "language_facet": "Serbian",
     "options": [
       {
         "button_text": "Collections of Serbian Literature",
-        "call_number_ranges": "PG1413-PG1416|PG1562",
-        "subject_heading_or": "Serbian literature--Collections",
-        "order": 1
+        "call_number_ranges": "PG1413-PG1416.999|PG1562-PG1562.999",
+        "subject_heading_or": "Serbian literature--Collections"
       },
       {
         "button_text": "Serbian Literature: Individual Authors",
-        "call_number_ranges": "PG1418-PG1420.36",
-        "order": 2
+        "call_number_ranges": "PG1418-PG1420.36.999"
       },
       {
         "button_text": "Serbian Literature in Translation",
-        "call_number_ranges": "PG1465-PG1466.ZZZZ|PG1595-PG1596",
-        "order": 3
+        "call_number_ranges": "PG1465-PG1466.ZZZZ|PG1595-PG1596.999"
       },
       {
         "button_text": "Serbian Folk Literature",
         "call_number_ranges": "GR258.5-GR258.52.ZZZZ|PG1464.5-PG1464.5.ZZZZ",
-        "subject_heading_or": "Folk Literature, Serbian|Serbia--Folklore|Folk Literature, Serbo-Croatian",
-        "order": 4
+        "subject_heading_or": "Folk Literature, Serbian|Serbia--Folklore|Folk Literature, Serbo-Croatian"
       },
       {
         "button_text": "Children's Literature in Serbian",
-        "call_number_ranges": "PZ70.S4-.S42--| PG1412.7",
-        "order": 5
+        "call_number_ranges": "PZ70.S4-.S42---PZ70.S4-.S42--.999|PG1412.7-PG1412.7.999"
       }
     ]
   },
   {
-    "marc_code": "slo",
-    "language_name": "Slovak",
+    "MARC_Code": "slo",
+    "Language_Name": "Slovak",
+    "language_facet": "Slovak",
     "options": [
       {
         "button_text": "Collections of Slovak Literature",
-        "call_number_ranges": "PG5420-PG5429",
-        "subject_heading_or": "Slovak literature--Collections",
-        "order": 1
+        "call_number_ranges": "PG5420-PG5429.999",
+        "subject_heading_or": "Slovak literature--Collections"
       },
       {
         "button_text": "21st Century Slovak Literature",
-        "call_number_ranges": "PG5439-PG5439.36",
-        "order": 2
+        "call_number_ranges": "PG5439-PG5439.36.999"
       },
       {
         "button_text": "Slovak Literature 1800-1960",
-        "call_number_ranges": "PG5438-PG5438.ZZZZ",
-        "order": 4
+        "call_number_ranges": "PG5438-PG5438.ZZZZ"
       },
       {
         "button_text": "17th and 18th Century Slovak Literature",
-        "call_number_ranges": "PG5437-PG5437.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PG5437-PG5437.ZZZZ"
       },
       {
         "button_text": "Slovak Literature to 1600",
-        "call_number_ranges": "PG5436-PG5436.ZZZZ",
-        "order": 6
+        "call_number_ranges": "PG5436-PG5436.ZZZZ"
       },
       {
         "button_text": "Slovak Literature in Translation",
-        "call_number_ranges": "PG5545-PG5546",
-        "order": 9
+        "call_number_ranges": "PG5545-PG5546.999"
       },
       {
         "button_text": "Slovak Literature Outside of Slovakia",
-        "call_number_ranges": "PG5445-PG5490",
-        "order": 10
+        "call_number_ranges": "PG5445-PG5490.999"
       },
       {
         "button_text": "Folk Literature of Slovakia",
-        "call_number_ranges": "GR154.4-GR154.47.ZZZZ|PG5409.5.F64|PG5414-PG5419.ZZZZ",
-        "subject_heading_or": "Folk Literature, Slovak|Slovakia--Folklore",
-        "order": 12
+        "call_number_ranges": "GR154.4-GR154.47.ZZZZ|PG5409.5.F64-PG5409.5.F64.999|PG5414-PG5419.ZZZZ",
+        "subject_heading_or": "Folk Literature, Slovak|Slovakia--Folklore"
       },
       {
         "button_text": "Children's Literature in Slovak",
-        "call_number_ranges": "PZ70.S45-.PZ70S46|PG5419.5",
-        "order": 16
+        "call_number_ranges": "PZ70.S45-.PZ70S46-PZ70.S45-.PZ70S46.999|PG5419.5-PG5419.5.999"
       }
     ]
   },
   {
-    "marc_code": "slv",
-    "language_name": "Slovenian",
+    "MARC_Code": "slv",
+    "Language_Name": "Slovenian",
+    "language_facet": "Slovenian",
     "options": [
       {
         "button_text": "Collections of Slovenian Literature",
-        "call_number_ranges": "PG1913-PG1916|PG1921-PG1925.ZZZZ",
-        "subject_heading_or": "Slovenian literature--Collections",
-        "order": 1
+        "call_number_ranges": "PG1913-PG1916.999|PG1921-PG1925.ZZZZ",
+        "subject_heading_or": "Slovenian literature--Collections"
       },
       {
         "button_text": "Slovenian Literature 2001-present",
-        "call_number_ranges": "PG1920-PG1920.36",
-        "order": 2
+        "call_number_ranges": "PG1920-PG1920.36.999"
       },
       {
         "button_text": "Slovenian Literature 1961-2000",
-        "call_number_ranges": "PG1919-PG1919.36",
-        "order": 3
+        "call_number_ranges": "PG1919-PG1919.36.999"
       },
       {
         "button_text": "Slovenian Literature 1800-1960",
-        "call_number_ranges": "PG1918-PG1918.ZZZZ",
-        "order": 4
+        "call_number_ranges": "PG1918-PG1918.ZZZZ"
       },
       {
         "button_text": "Slovenian Literature to 1800",
-        "call_number_ranges": "PG1917-PG1917.ZZZZ",
-        "order": 6
+        "call_number_ranges": "PG1917-PG1917.ZZZZ"
       },
       {
         "button_text": "Slovenian Literature in Translation",
-        "call_number_ranges": "PG1961-PG1962",
-        "order": 9
+        "call_number_ranges": "PG1961-PG1962.999"
       },
       {
         "button_text": "Slovenian Literature Outside of Slovenia",
-        "call_number_ranges": "PG1927-PG1945",
-        "order": 10
+        "call_number_ranges": "PG1927-PG1945.999"
       },
       {
         "button_text": "Slovenian Folk Literature",
-        "call_number_ranges": "GR258.7",
-        "subject_heading_or": "Folk Literature, Slovenian|Slovenia--Folklore",
-        "order": 12
+        "call_number_ranges": "GR258.7-GR258.7.999",
+        "subject_heading_or": "Folk Literature, Slovenian|Slovenia--Folklore"
       },
       {
         "button_text": "Children's Literature in Slovenian",
-        "call_number_ranges": "PZ70.S5-PZ70.S6|PG1912",
-        "order": 16
+        "call_number_ranges": "PZ70.S5-PZ70.S6|PG1912-PG1912.999"
       }
     ]
   },
   {
-    "marc_code": "spa",
-    "language_name": "Spanish",
+    "MARC_Code": "spa",
+    "Language_Name": "Spanish",
+    "language_facet": "Spanish",
     "options": [
       {
         "button_text": "Collections of Literature in Spanish",
-        "call_number_ranges": "PQ7020|PQ7070|PQ7074|PQ7082.5-PQ7085|PQ7230-PQ7289|PQ7382.5-PQ7388.ZZZZ",
-        "subject_heading_or": "Spanish literature--Collections",
-        "order": 1
+        "call_number_ranges": "PQ7020-PQ7020.999|PQ7070-PQ7070.999|PQ7074-PQ7074.999|PQ7082.5-PQ7085.999|PQ7230-PQ7289.999|PQ7382.5-PQ7388.ZZZZ",
+        "subject_heading_or": "Spanish literature--Collections"
       },
       {
         "button_text": "Spanish Literature (Spain) 2001-present",
-        "call_number_ranges": "PQ6700-PQ6726",
-        "order": 2
+        "call_number_ranges": "PQ6700-PQ6726.999"
       },
       {
         "button_text": "Spanish Literature (Spain) 1961-2000",
-        "call_number_ranges": "PQ6650-PQ6676",
-        "order": 3
+        "call_number_ranges": "PQ6650-PQ6676.999"
       },
       {
         "button_text": "Spanish Literature (Spain) 1868-1960",
-        "call_number_ranges": "PQ6600-PQ6647",
-        "order": 4
+        "call_number_ranges": "PQ6600-PQ6647.999"
       },
       {
         "button_text": "Spanish Literature (Spain) 1700-ca. 1868",
-        "call_number_ranges": "PQ6500-PQ6576.ZZZZ",
-        "order": 5
+        "call_number_ranges": "PQ6500-PQ6576.ZZZZ"
       },
       {
         "button_text": "Spanish Literature(Spain)  to 1700",
-        "call_number_ranges": "PQ6271-PQ6498",
-        "order": 6
+        "call_number_ranges": "PQ6271-PQ6498.999"
       },
       {
         "button_text": "Spanish Literature of Latin America and the Caribbean",
-        "call_number_ranges": "PQ7081-PQ7087|PQ7100-PQ7298.436|PQ7361-PQ7451|PQ7471-PQ7539.2|PQ7551-PQ8550.36|PQ8560-PQ8560.ZZZZ",
-        "order": 7
+        "call_number_ranges": "PQ7081-PQ7087.999|PQ7100-PQ7298.436.999|PQ7361-PQ7451.999|PQ7471-PQ7539.2.999|PQ7551-PQ8550.36.999|PQ8560-PQ8560.ZZZZ"
       },
       {
         "button_text": "Spanish Literature of Africa and Asia",
-        "call_number_ranges": "PQ8600-PQ8619|PQ8651-PQ8919|PQ8700-PQ8897|PQ8900-PQ8909|PQ8910-PQ8919|PQ8920-PQ8929",
-        "order": 8
+        "call_number_ranges": "PQ8600-PQ8619.999|PQ8651-PQ8919.999|PQ8700-PQ8897.999|PQ8900-PQ8909.999|PQ8910-PQ8919.999|PQ8920-PQ8929.999"
       },
       {
         "button_text": "Spanish Literature of the US and Canada",
-        "call_number_ranges": "PQ7074.5-PQ7079.3.ZZZZ",
-        "order": 9
+        "call_number_ranges": "PQ7074.5-PQ7079.3.ZZZZ"
       },
       {
         "button_text": "Spanish Literature of Europe (Outside of Spain)",
-        "call_number_ranges": "PQ7039|PQPQ7044.5-PQ7049.F8Z458|PQ7054.5-PQ7061.ZZZZ",
-        "order": 10
+        "call_number_ranges": "PQ7039-PQ7039.999|PQPQ7044.5-PQ7049.F8Z458|PQ7054.5-PQ7061.ZZZZ"
       },
       {
         "button_text": "Regional Literature of Spain",
-        "call_number_ranges": "PQ7001-PQ7011.ZZZZ",
-        "order": 11
+        "call_number_ranges": "PQ7001-PQ7011.ZZZZ"
       },
       {
         "button_text": "Folk Literature of Spain",
-        "call_number_ranges": "GR229-GR237",
-        "subject_heading_or": "Spain--Folklore",
-        "order": 12
+        "call_number_ranges": "GR229-GR237.999",
+        "subject_heading_or": "Spain--Folklore"
       },
       {
         "button_text": "Spanish Folk Literature of Mexico",
-        "call_number_ranges": "GR115-115.5.999",
-        "subject_heading_or": "Mexico--Folklore",
-        "order": 13
+        "call_number_ranges": "GR115-115.5.999-GR115-115.5.999.999",
+        "subject_heading_or": "Mexico--Folklore"
       },
       {
         "button_text": "Spanish Folk Literature of Central America and the Caribbean",
-        "call_number_ranges": "GR117-121.ZZZZ",
-        "subject_heading_or": "Central America--Folklore|Folklore--Caribbean Area",
-        "order": 14
+        "call_number_ranges": "GR117-121.ZZZZ-GR117-121.ZZZZ.999",
+        "subject_heading_or": "Central America--Folklore|Folklore--Caribbean Area"
       },
       {
         "button_text": "Spanish Folk Literature of South America",
         "call_number_ranges": "GR130-GR133.ZZZZ",
-        "subject_heading_or": "South America--Folklore",
-        "order": 15
+        "subject_heading_or": "South America--Folklore"
       },
       {
         "button_text": "Children's Literature in Spanish",
-        "call_number_ranges": "PZ71-PZ78|PQ7223",
-        "order": 16
+        "call_number_ranges": "PZ71-PZ78.999|PQ7223-PQ7223.999"
       }
     ]
   },
   {
-    "marc_code": "swe",
-    "language_name": "Swedish",
+    "MARC_Code": "swe",
+    "Language_Name": "Swedish",
+    "language_facet": "Swedish",
     "options": [
       {
         "button_text": "Collections of Swedish Literature",
-        "call_number_ranges": "PT9547-PT9639|PT9950-PT9952",
-        "subject_heading_or": "Swedish literature--Collections",
-        "order": 1
+        "call_number_ranges": "PT9547-PT9639.999|PT9950-PT9952.999",
+        "subject_heading_or": "Swedish literature--Collections"
       },
       {
         "button_text": "Swedish Literature: 2001-present",
-        "call_number_ranges": "PT9877-PT9877.36",
-        "order": 2
+        "call_number_ranges": "PT9877-PT9877.36.999"
       },
       {
         "button_text": "Swedish Literature: 1961-2000",
-        "call_number_ranges": "PT9876-PT9876.36",
-        "order": 3
+        "call_number_ranges": "PT9876-PT9876.36.999"
       },
       {
         "button_text": "Swedish Literature: 1900-1960",
-        "call_number_ranges": "PT9870-PT9875",
-        "order": 4
+        "call_number_ranges": "PT9870-PT9875.999"
       },
       {
         "button_text": "19th Century Swedish Literature",
-        "call_number_ranges": "PT9725-PT9850",
-        "order": 5
+        "call_number_ranges": "PT9725-PT9850.999"
       },
       {
         "button_text": "16th-18th Century Swedish Literature",
-        "call_number_ranges": "PT9674-PT9710",
-        "order": 6
+        "call_number_ranges": "PT9674-PT9710.999"
       },
       {
         "button_text": "Swedish Literature to ca. 1540",
-        "call_number_ranges": "PT9650-PT9651.ZZZZ",
-        "order": 7
+        "call_number_ranges": "PT9650-PT9651.ZZZZ"
       },
       {
         "button_text": "Swedish Literature Outside of Sweden",
-        "call_number_ranges": "PT9955-PT9999",
-        "order": 8
+        "call_number_ranges": "PT9955-PT9999.999"
       },
       {
         "button_text": "Swedish Literature in Translation",
-        "call_number_ranges": "PT9565-PT9570",
-        "order": 9
+        "call_number_ranges": "PT9565-PT9570.999"
       },
       {
         "button_text": "Swedish Folk Literature",
-        "call_number_ranges": "GR224-GR226|PT9509-PT9542",
-        "subject_heading_or": "Folk Literature, Swedish|Sweden--Folklore",
-        "order": 10
+        "call_number_ranges": "GR224-GR226.999|PT9509-PT9542.999",
+        "subject_heading_or": "Folk Literature, Swedish|Sweden--Folklore"
       },
       {
         "button_text": "Children's Literature in Swedish",
-        "call_number_ranges": "PZ57-PZ60.3|PT9544",
-        "order": 11
+        "call_number_ranges": "PZ57-PZ60.3.999|PT9544-PT9544.999"
       }
     ]
   },
   {
-    "marc_code": "ukr",
-    "language_name": "Ukrainian",
+    "MARC_Code": "ukr",
+    "Language_Name": "Ukrainian",
+    "language_facet": "Ukrainian",
     "options": [
       {
         "button_text": "Collections of Ukrainian Literature",
-        "call_number_ranges": "PG3931-PG3941|PG3956-PG3957.ZZZZ",
-        "subject_heading_or": "Ukrainian literature--Collections",
-        "order": 1
+        "call_number_ranges": "PG3931-PG3941.999|PG3956-PG3957.ZZZZ",
+        "subject_heading_or": "Ukrainian literature--Collections"
       },
       {
         "button_text": "Ukrainian Literature: 2001-present",
-        "call_number_ranges": "PG3950-PG3950.36",
-        "order": 2
+        "call_number_ranges": "PG3950-PG3950.36.999"
       },
       {
         "button_text": "Ukrainian Literature: 1961-2000",
-        "call_number_ranges": "PG3949-PG3949.36",
-        "order": 3
+        "call_number_ranges": "PG3949-PG3949.36.999"
       },
       {
         "button_text": "Ukrainian Literature to 1960",
-        "call_number_ranges": "PG3948-PG3948.ZZZZ",
-        "order": 4
+        "call_number_ranges": "PG3948-PG3948.ZZZZ"
       },
       {
         "button_text": "Ukrainian Literature Outside of Ukraine",
-        "call_number_ranges": "PG3958-PG3981",
-        "order": 5
+        "call_number_ranges": "PG3958-PG3981.999"
       },
       {
         "button_text": "Ukrainian Literature in Translation",
-        "call_number_ranges": "PG3986-PG3987",
-        "order": 6
+        "call_number_ranges": "PG3986-PG3987.999"
       },
       {
         "button_text": "Ukrainian Folk Literature",
-        "call_number_ranges": "GR203.8-GR203.95|PG3926.A3-PG3927.Z",
-        "subject_heading_or": "Folk Literature, Ukrainian|Ukraine--Folklore",
-        "order": 7
+        "call_number_ranges": "GR203.8-GR203.95.999|PG3926.A3-PG3927.Z",
+        "subject_heading_or": "Folk Literature, Ukrainian|Ukraine--Folklore"
       },
       {
         "button_text": "Children's Literature in Ukrainian",
-        "call_number_ranges": "PZ70.U7-PZ70.U72|PG3930",
-        "order": 8
+        "call_number_ranges": "PZ70.U7-PZ70.U72|PG3930-PG3930.999"
       }
     ]
   },
   {
-    "marc_code": "wel",
-    "language_name": "Welsh",
+    "MARC_Code": "wel",
+    "Language_Name": "Welsh",
+    "language_facet": "Welsh",
     "options": [
       {
         "button_text": "Collections of Welsh Literature",
-        "call_number_ranges": "PB2245-PB2261",
-        "subject_heading_or": "Welsh literature--Collections",
-        "order": 1
+        "call_number_ranges": "PB2245-PB2261.999",
+        "subject_heading_or": "Welsh literature--Collections"
       },
       {
         "button_text": "Early Welsh Literature (to ca. 1550)",
-        "call_number_ranges": "PB2271-PB2285",
-        "order": 2
+        "call_number_ranges": "PB2271-PB2285.999"
       },
       {
         "button_text": "Modern Welsh Literature (ca.1550-present)",
-        "call_number_ranges": "PB2287-PB2299",
-        "order": 3
+        "call_number_ranges": "PB2287-PB2299.999"
       },
       {
         "button_text": "Welsh Literature in Translation",
-        "call_number_ranges": "PB2361-PB2450",
-        "order": 4
+        "call_number_ranges": "PB2361-PB2450.999"
       },
       {
         "button_text": "Welsh Folk Literature",
-        "call_number_ranges": "GR149-GR151|PB2241|PB2311",
-        "subject_heading_or": "Folk Literature, Welsh|Wales--Folklore",
-        "order": 5
+        "call_number_ranges": "GR149-GR151.999|PB2241-PB2241.999|PB2311-PB2311.999",
+        "subject_heading_or": "Folk Literature, Welsh|Wales--Folklore"
       },
       {
         "button_text": "Children's Literature in Welsh",
-        "call_number_ranges": "PZ90.W4",
-        "order": 6
+        "call_number_ranges": "PZ90.W4-PZ90.W4.999"
       }
     ]
   },
   {
-    "marc_code": "yid",
-    "language_name": "Yiddish",
+    "MARC_Code": "yid",
+    "Language_Name": "Yiddish",
+    "language_facet": "Yiddish",
     "options": [
       {
         "button_text": "Collections of Yiddish Literature",
-        "call_number_ranges": "PJ5125-PJ5128|PJ5140-PJ5168",
-        "subject_heading_or": "Yiddish literature--Collections",
-        "order": 1
+        "call_number_ranges": "PJ5125-PJ5128.999|PJ5140-PJ5168.999",
+        "subject_heading_or": "Yiddish literature--Collections"
       },
       {
         "button_text": "Yiddish Literature: Individual Authors and Works",
-        "call_number_ranges": "PJ5129.A1A-PJ5129.ZZZZ",
-        "order": 2
+        "call_number_ranges": "PJ5129.A1A-PJ5129.ZZZZ"
       },
       {
         "button_text": "Yiddish Literature in Translation",
-        "call_number_ranges": "PJ5191-PJ5192.ZZZZ",
-        "order": 3
+        "call_number_ranges": "PJ5191-PJ5192.ZZZZ"
       },
       {
         "button_text": "Yiddish Folk Literature",
-        "call_number_ranges": "GR97.8-GR98",
-        "subject_heading_or": "Folk literature, Yiddish",
-        "order": 4
+        "call_number_ranges": "GR97.8-GR98.999",
+        "subject_heading_or": "Folk literature, Yiddish"
       },
       {
         "button_text": "Children's Literature in Yiddish",
-        "call_number_ranges": "PZ90.Y5",
-        "order": 5
+        "call_number_ranges": "PZ90.Y5-PZ90.Y5.999"
       }
     ]
   }
