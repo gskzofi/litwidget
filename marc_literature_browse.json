@@ -9,7 +9,7 @@
         "call_number_ranges": "PT6550-PT6575.999|PT6580.A-PT6580.ZZZZ"
       },
       {
-        "button_text": "Afrikaans Literature to 1960",
+        "button_text": "Afrikaans Literature 2001-present",
         "call_number_ranges": "PT6590-PT6590.999"
       },
       {
@@ -17,8 +17,8 @@
         "call_number_ranges": "PT6592-PT6592.999"
       },
       {
-        "button_text": "Afrikaans Literature 2001-present",
-        "call_number_ranges": "PT6593-PT6593.999"
+        "button_text": "Afrikaans Literature to 1960",
+        "call_number_ranges": "PT6590-PT6590.999"
       },
       {
         "button_text": "Afrikaans Literature in Translation",
