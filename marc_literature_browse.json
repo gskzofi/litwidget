@@ -382,6 +382,10 @@
         "call_number_ranges": "PT8060-PT8098.999"
       },
       {
+        "button_text": "Old Danish Literature (ca.1100-ca.1540)",
+        "call_number_ranges": "PT8050-PT8050.999"
+      },
+      {
         "button_text": "Danish Folk Literature",
         "call_number_ranges": "PT7915-PT7930.ZZZZ|GR209-GR211.ZZZZ",
         "subject_heading_or": "Denmark--Folklore|Folk literature, Denmark"
@@ -390,10 +394,6 @@
         "button_text": "Children's Literature in Danish",
         "call_number_ranges": "PT7935-PT7935.ZZZZ|PZ51-PZ54.3.999"
       },
-      {
-        "button_text": "Old Danish Literature (ca.1100-ca.1540)",
-        "call_number_ranges": "PT8050-PT8050.999"
-      }
     ]
   },
   {
@@ -407,16 +407,28 @@
         "subject_heading_or": "Dutch literature--Collections"
       },
       {
-        "button_text": "Dutch Literature in Translation",
-        "call_number_ranges": "PT5410-PT5414.ZZZZ"
+        "button_text": "Dutch Literature 2001-present",
+        "call_number_ranges": "PT5882-PT5882.36.999"
       },
       {
+        "button_text": "Dutch Literature 1961-2000",
+        "call_number_ranges": "PT5881-PT5881.36.999"
+      },
+       {
         "button_text": "Dutch Literature 1800-1960",
         "call_number_ranges": "PT5800-PT5880.999"
       },
       {
         "button_text": "16th-18th Century Dutch Literature",
         "call_number_ranges": "PT5600-PT5739.999"
+      },
+      {
+        "button_text": "Medieval Dutch Literature",
+        "call_number_ranges": "PT5420-PT5444.999|PT5555-PT5595.999"
+      },
+      {
+        "button_text": "Dutch Literature in Translation",
+        "call_number_ranges": "PT5410-PT5414.ZZZZ"
       },
       {
         "button_text": "Children's Literature in Dutch",
@@ -426,28 +438,6 @@
         "button_text": "Dutch Folk Literature",
         "call_number_ranges": "PT5351-PT5395.ZZZZ|GR180-GR182.999",
         "subject_heading_or": "Folk literature, Dutch|Netherlands--Folklore"
-      },
-      {
-        "button_text": "Dutch Literature 2001-present",
-        "call_number_ranges": "PT5882-PT5882.36.999"
-      },
-      {
-        "button_text": "Dutch Literature 1961-2000",
-        "call_number_ranges": "PT5881-PT5881.36.999"
-      }
-    ]
-  },
-  {
-    "MARC_Code": "dut|dum",
-    "Language_Name": "Dutch",
-    "language_facet": [
-      "Dutch",
-      "Dutch, Middle (ca. 1050-1350)"
-    ],
-    "options": [
-      {
-        "button_text": "Medieval Dutch Literature",
-        "call_number_ranges": "PT5420-PT5444.999|PT5555-PT5595.999"
       }
     ]
   },
@@ -541,25 +531,25 @@
         "subject_heading_or": "Finnish literature--Collections"
       },
       {
+        "button_text": "Finnish Literature 2001-present",
+        "call_number_ranges": "PH356-PH356.ZZZZ"
+      },
+      {
         "button_text": "Finnish Literature 1801-2000",
         "call_number_ranges": "PH355-PH355.ZZZZ"
-      },
-      {
-        "button_text": "Finnish Folk Literature",
-        "call_number_ranges": "GR200-GR201.2.999",
-        "subject_heading_or": "Finland--Folklore|Folk literature, Finnish"
-      },
-      {
-        "button_text": "Finnish Literature in Translation",
-        "call_number_ranges": "PH401-PH405.999"
       },
       {
         "button_text": "Finnish Literature to 1800",
         "call_number_ranges": "PH353-PH353.ZZZZ"
       },
       {
-        "button_text": "Finnish Literature 2001-present",
-        "call_number_ranges": "PH356-PH356.ZZZZ"
+        "button_text": "Finnish Literature in Translation",
+        "call_number_ranges": "PH401-PH405.999"
+      },
+      {
+        "button_text": "Finnish Folk Literature",
+        "call_number_ranges": "GR200-GR201.2.999",
+        "subject_heading_or": "Finland--Folklore|Folk literature, Finnish"
       }
     ]
   },
@@ -700,12 +690,16 @@
         "subject_heading_or": "Greek literature--Collections"
       },
       {
-        "button_text": "Greek Literature 1600-1960",
-        "call_number_ranges": "PA5609-PA5610.999"
+        "button_text": "Greek Literature 2001-present",
+        "call_number_ranges": "PA5638-5638.36.999"
       },
       {
-        "button_text": "Children's Literature in Greek",
-        "call_number_ranges": "PZ90.G7-PZ90.G7.999"
+        "button_text": "Greek Literature 1961-2000",
+        "call_number_ranges": "PA5611-5637.999"
+      },
+      {
+        "button_text": "Greek Literature 1600-1960",
+        "call_number_ranges": "PA5609-PA5610.999"
       },
       {
         "button_text": "Greek Folk Literature",
@@ -713,8 +707,8 @@
         "subject_heading_or": "Greece--Folklore|Folk literature, Greek"
       },
       {
-        "button_text": "Greek Literature 1961-2000",
-        "call_number_ranges": "PA5611-5637-PA5611-5637.999"
+        "button_text": "Children's Literature in Greek",
+        "call_number_ranges": "PZ90.G7-PZ90.G7.999"
       }
     ]
   },
@@ -786,12 +780,12 @@
         "call_number_ranges": "PH3132-PH3426.999"
       },
       {
-        "button_text": "Hungarian Literature to ca. 1800",
-        "call_number_ranges": "PH3193-PH3194.999"
-      },
-      {
         "button_text": "Hungarian Literature 1801-2000",
         "call_number_ranges": "PH3201-PH3381.999"
+      },
+      {
+        "button_text": "Hungarian Literature to ca. 1800",
+        "call_number_ranges": "PH3193-PH3194.999"
       },
       {
         "button_text": "Hungarian Literature Outside of Hungary",
@@ -859,12 +853,12 @@
         "call_number_ranges": "PB1400-PB1400.ZZZZ"
       },
       {
-        "button_text": "Irish Literature to 1800",
-        "call_number_ranges": "PB1397-PB1398.ZZZZ|PB1347-PB1351.999"
-      },
-      {
         "button_text": "Irish Literature 1800-2000",
         "call_number_ranges": "PB1399-PB1399.ZZZZ"
+      },
+      {
+        "button_text": "Irish Literature to 1800",
+        "call_number_ranges": "PB1397-PB1398.ZZZZ|PB1347-PB1351.999"
       },
       {
         "button_text": "Irish Literature Outside of Ireland",
@@ -1351,7 +1345,7 @@
       "Persian",
       "Tajik"
     ],
-    "language_note": "Persian literature at IU Libraries includes works in <strong>Farsi</strong> (Iranian Persian), <strong>Dari</strong> (Afghan Persian), and <strong>Tajiki</strong> (Tajik Persian). These are considered varieties of the same literary language and are cataloged together."
+    "language_note": "Persian literature at IU Libraries includes works in <strong>Farsi</strong> (Iranian Persian), <strong>Dari</strong> (Afghan Persian), and <strong>Tajiki</strong> (Tajik Persian). These three are considered varieties of the same literary language. Works in Dari and Tajiki may be classified separately or with in the broader Persian categories. Use IUCAT filters (located in the left sidebar) to refine your search results."
   },
   {
     "MARC_Code": "pol",
@@ -1417,40 +1411,36 @@
         "call_number_ranges": "PQ9698.4-PQ9698.436.999"
       },
       {
-        "button_text": "Portuguese Literature 1961-2000",
-        "call_number_ranges": "PQ9262-PQ9288.999"
+        "button_text": "Portuguese Literature 2001-present",
+        "call_number_ranges": "PQ9300-PQ9326.999"
       },
       {
         "button_text": "Brazilian Literature 1961-2000",
         "call_number_ranges": "PQ9698-PQ9698.36.999"
       },
       {
-        "button_text": "Portuguese Literature 1701-1960",
-        "call_number_ranges": "PQ9261-PQ9261.ZZZZ"
+        "button_text": "Portuguese Literature 1961-2000",
+        "call_number_ranges": "PQ9262-PQ9288.999"
       },
       {
         "button_text": "Brazilian Literature 1801-1960",
         "call_number_ranges": "PQ9697-PQ9697.ZZZZ"
       },
       {
-        "button_text": "Portuguese Literature 2001-present",
-        "call_number_ranges": "PQ9300-PQ9326.999"
-      },
-      {
-        "button_text": "Portuguese Literature 1500-1700",
-        "call_number_ranges": "PQ9191-PQ9255.999"
+        "button_text": "Portuguese Literature 1701-1960",
+        "call_number_ranges": "PQ9261-PQ9261.ZZZZ"
       },
       {
         "button_text": "Brazilian Literature to 1800",
         "call_number_ranges": "PQ9696-PQ9696.ZZZZ"
       },
       {
-        "button_text": "Portuguese Literature to 1500",
-        "call_number_ranges": "PQ9131-PQ9999.999"
+        "button_text": "Portuguese Literature 1500-1700",
+        "call_number_ranges": "PQ9191-PQ9199.999|PQ9200-PQ9255.999"
       },
       {
         "button_text": "Portuguese Literature to 1500",
-        "call_number_ranges": "PQ9189-PQ9189.ZZZZ"
+        "call_number_ranges": "PQ9140-PQ9140.ZZZZ|PQ9189-PQ9189.ZZZZ"
       },
       {
         "button_text": "Portuguese Literature Outside of Portugal and Brazil",
@@ -1486,16 +1476,16 @@
         "call_number_ranges": "PC840.4-PC840.436.999"
       },
       {
-        "button_text": "Romanian Literature through 1800",
-        "call_number_ranges": "PC838.7-PC838.7.ZZZZ"
-      },
-      {
         "button_text": "Romanian Literature 1961-2000",
         "call_number_ranges": "PC840-PC840.36.999"
       },
       {
         "button_text": "Romanian Literature 1801-1960",
         "call_number_ranges": "PC839-PC839.ZZZZ"
+      },
+      {
+        "button_text": "Romanian Literature through 1800",
+        "call_number_ranges": "PC838.7-PC838.7.ZZZZ"
       },
       {
         "button_text": "Moldovan Literature",
@@ -1729,6 +1719,10 @@
       },
       {
         "button_text": "21st Century Slovak Literature",
+        "call_number_ranges": "PG5440-PG5440.36.999"
+      },
+      {
+        "button_text": "Slovak Literature 1961-2000",
         "call_number_ranges": "PG5439-PG5439.36.999"
       },
       {
@@ -1988,12 +1982,12 @@
         "subject_heading_or": "Welsh literature--Collections"
       },
       {
-        "button_text": "Early Welsh Literature (to ca. 1550)",
-        "call_number_ranges": "PB2271-PB2285.999"
-      },
-      {
         "button_text": "Modern Welsh Literature (ca.1550-present)",
         "call_number_ranges": "PB2287-PB2299.999"
+      },
+      {
+        "button_text": "Early Welsh Literature (to ca. 1550)",
+        "call_number_ranges": "PB2271-PB2285.999"
       },
       {
         "button_text": "Welsh Literature in Translation",
