@@ -76,7 +76,7 @@
     "Language_Name": "Bantu (Other)",
     "Canonical_Display_Language": "Bantu (Other)",
     "Aliases": "bantu languages | bantu language | bantu",
-    "Member_Languages": "abo | aduma | aka | asu | bafia | bakundu | bati | bekwil | bembe | benga | bisa | bobangi | bolia | boma | bomitaba | bondei | bube | bubi | budu | bukusu | bulu | camtho | chaga | chokwe | chopi | comorian | diriku | doko | duruma | embu | enahara | fipa | fuliru | ganguela | geviya | giryama | gisu | gungu | gusii | gweno | gwere | ha | haya | hehe | hunde | ikizu | ila | jita | kahe | kako | kalanga | kanyok | kaonde | kare | kele | kete | kom | kombe | komo | koonzime | kuria | kwangali | kwese | kwiri | lala | lega | lenje | logooli | lomwe | londo | lucazi | luvale | luyana | luyia | maka | makhuwa | makonde | makwe | mashami | mbala | mbete | mbo | mbosi | mbukushu | mbunda | meru | mijikenda languages | mituku | mkaa̕ | mochi | mpiemo | mpongwe | mpur | myene | nambya | nande | ndau | ndumu | ngonde | ngul | nsenga | ntomba | nyaneka | nyanga | nyaturu | nyole | nyungwe | nzebi | pangwa | pelende | pende | pokomo | punu | rangi | ronga | ruri | ruund | saamia | sakata | salampasu | sanga | sangu | sena | shambala | shi | shimaore | simbiti | soga | songye | subiya | suku | sumbwa | taita | talinga-bwisi | teke | tembo | temi | tetela | tharaka | tiene | tiriki | tonga | tooro | tsogo | tswa | tunen | yaka | yanzi | yombe | zanaki | zigula | zinza",
+    "Member_Languages": "abo | aduma | aka | asu | bafia | bakundu | bati | bekwil | bembe | benga | bisa | bobangi | bolia | boma | bomitaba | bondei | bube | bubi | budu | bukusu | bulu | camtho | chaga | chokwe | chopi | comorian | diriku | doko | duruma | embu | enahara | fipa | fuliru | ganguela | geviya | giryama | gisu | gungu | gusii | gweno | gwere | ha | haya | hehe | hunde | ikizu | ila | jita | kahe | kako | kalanga | kanyok | kaonde | kare | kele | kete | kom | kombe | komo | koonzime | kuria | kwangali | kwese | kwiri | lala | lega | lenje | logooli | lomwe | londo | lucazi | luvale | luyana | luyia | maka | makhuwa | makonde | makwe | mashami | mbala | mbete | mbo | mbosi | mbukushu | mbunda | meru | mijikenda | mituku | mkaa̕ | mochi | mpiemo | mpongwe | mpur | myene | nambya | nande | ndau | ndumu | ngonde | ngul | nsenga | ntomba | nyaneka | nyanga | nyaturu | nyole | nyungwe | nzebi | pangwa | pelende | pende | pokomo | punu | rangi | ronga | ruri | ruund | saamia | sakata | salampasu | sanga | sangu | sena | shambala | shi | shimaore | simbiti | soga | songye | subiya | suku | sumbwa | taita | talinga-bwisi | teke | tembo | temi | tetela | tharaka | tiene | tiriki | tonga | tooro | tsogo | tswa | tunen | yaka | yanzi | yombe | zanaki | zigula | zinza",
     "LCC_Subclass": "PL",
     "Search_Type": "collective"
   },
@@ -121,7 +121,7 @@
     "Language_Name": "Creoles and Pidgins, English-based (Other)",
     "Canonical_Display_Language": "Creoles and Pidgins (English-based)",
     "Aliases": "english-based creoles | english creoles | english-based creole languages | pidgin english | english pidgin | english pidgins | english creole | creoles and pidgins | creole languages | pidgin languages | creole | pidgin | creoles | pidgins",
-    "Member_Languages": "bamyili creole | djuka | fitzroy valley kriol | hawaiian pidgin english | jamaican creole | krio | kriol | pidgin english | pijin | saramaccan | sea islands creole",
+    "Member_Languages": "bamyili creole | djuka | fitzroy valley kriol | hawaiian pidgin english | hawaiian creole | hawaiian english | jamaican creole | krio | kriol | pidgin english | pijin | saramaccan | papiamentu | papiamento | sea islands creole | gullah | geechee | gullah-geechee | gullah geechee",
     "LCC_Subclass": "PM",
     "Search_Type": "collective"
   },
@@ -174,8 +174,8 @@
     "MARC_Code": "esk",
     "Language_Name": "Eskimo languages",
     "Canonical_Display_Language": "Eskimo languages",
-    "Aliases": "eskimo languages | inuit | eskimo | eskimo–aleut | inuit–yupik–unangan | yupik | unangan | aleut | eskaleut",
-    "Member_Languages": "greenlandic | inuktitut | inupiaq | central yupik | pacific gulf yupik | sirinek | yuit",
+    "Aliases": "eskimo languages",
+    "Member_Languages": "inuit | eskimo | eskimo–aleut | inuit–yupik–unangan | yupik | unangan | aleut | eskaleut | greenlandic | inuktitut | inupiaq | central yupik | pacific gulf yupik | sirinek | yuit | yupik languages | yupik language | central alaskan yupik | alaskan | alaskan yupik | siberian yupik | sirenik yupik",
     "LCC_Subclass": "PM",
     "Search_Type": "collective"
   },
@@ -193,7 +193,7 @@
     "Language_Name": "Germanic (Other)",
     "Canonical_Display_Language": "Germanic (Other)",
     "Aliases": "germanic",
-    "Member_Languages": "danish, old | dutch, old | frisian, old | old saxon | pennsylvania german | swedish, old | walser",
+    "Member_Languages": "danish, old | dutch, old | frisian, old | old saxon | pennsylvania german | pennsylvania dutch | pennsylvania deutsch | swedish, old | walser",
     "LCC_Subclass": "PT",
     "Search_Type": "collective"
   },
@@ -219,7 +219,7 @@
     "MARC_Code": "ine",
     "Language_Name": "Indo-European (Other)",
     "Canonical_Display_Language": "Indo-European (Other)",
-    "Aliases": "indo-european | indo european languages | proto-indo-european | *pie | pie | proto indo european",
+    "Aliases": "indo-european | indo european languages | proto-indo-european | *pie | pie | proto indo european | proto-indo european",
     "Member_Languages": "carian | dacian | luwian | lycian | lydian | macedonian | messapic | palaic | phrygian | proto-indo-european | thracian | tokharian | venetic | yuezhi",
     "LCC_Subclass": "PA",
     "Search_Type": "collective"
@@ -256,7 +256,7 @@
     "Language_Name": "Khoisan (Other)",
     "Canonical_Display_Language": "Khoisan (Other)",
     "Aliases": "khoisan languages | khoisan",
-    "Member_Languages": "ju/'hoan | khoikhoi | korana | nama | nharo | san languages | !xõ",
+    "Member_Languages": "ju/'hoan | khoikhoi | korana | nama | nharo | san languages | !xõ | san",
     "LCC_Subclass": "PL",
     "Search_Type": "collective"
   },
@@ -373,7 +373,7 @@
     "Language_Name": "Philippine (Other)",
     "Canonical_Display_Language": "Philippine (Other)",
     "Aliases": "philippine languages | philippine",
-    "Member_Languages": "abaknon | agta | agutaynon | aklanon | alangan | amganad ifugao | atta | ayangan ifugao | bagobo | balangao | balangingì | banton | batad ifugao | bilaan | bolinao | bontoc | botolan sambal | caluyanun | central bontoc | central subanen | cuyunon | dumagat | eastern bontoc | eastern ifugao | gaddang | ibaloi | ibanag | ifugao | ilongot | isinay | isneg | itawis | itbayat | ivatan | jama mapun | kalamian | kalinga languages | kankanay | kinaray-a | lower tanudan kalinga | magindanao | mamanwa | mangyan | mansaka | maranao | masbateno | mayoyao ifugao | melebuganon | northern kankanay | palawano | pangutaran sama | sama sibutu | sambali | southern bontoc | southern subanen | subanun | sulod | sulu | tagakaolo | tagbanua | tausug | tboli | tina sambal | tiruray | tuwali | western subanon | yakan",
+    "Member_Languages": "abaknon | agta | agutaynon | aklanon | alangan | amganad ifugao | atta | ayangan ifugao | bagobo | balangao | balangingì | banton | batad ifugao | bilaan | bolinao | bontoc | botolan sambal | caluyanun | central bontoc | central subanen | cuyunon | dumagat | eastern bontoc | eastern ifugao | gaddang | ibaloi | ibanag | ifugao | ilongot | isinay | isneg | itawis | itbayat | ivatan | jama mapun | kalamian | kalinga | kankanay | kinaray-a | lower tanudan kalinga | magindanao | mamanwa | mangyan | mansaka | maranao | masbateno | mayoyao ifugao | melebuganon | northern kankanay | palawano | pangutaran sama | sama sibutu | sambali | southern bontoc | southern subanen | subanun | sulod | sulu | tagakaolo | tagbanua | tausug | tboli | tina sambal | tiruray | tuwali | western subanon | yakan",
     "LCC_Subclass": "PL",
     "Search_Type": "collective"
   },
@@ -418,7 +418,7 @@
     "Language_Name": "Sign languages",
     "Canonical_Display_Language": "Sign languages",
     "Aliases": "sign languages",
-    "Member_Languages": "american sign language | australasian signed english | austrian sign language | british sign language | czech sign language | danish sign language | estonian sign language | french belgian sign language | icelandic sign language | jordanian sign language",
+    "Member_Languages": "sign | sign language | american sign language | australasian signed english | austrian sign language | british sign language | czech sign language | danish sign language | estonian sign language | french belgian sign language | icelandic sign language | jordanian sign language",
     "LCC_Subclass": "PM",
     "Search_Type": "collective"
   },
