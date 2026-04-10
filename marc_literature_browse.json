@@ -30,7 +30,7 @@
         "subject_heading_or": "Afrikaners--Folklore"
       },
       {
-        "button_text": "Children's Literature in Afrikaans",
+        "button_text": "Afrikaans Children's and Juvenile Literature",
         "call_number_ranges": "PT6547-PT6547.999|PZ11-PZ18.999"
       }
     ]
@@ -112,7 +112,7 @@
         "subject_heading_or": "Albania--Folklore|Folk literature, Albanian"
       },
       {
-        "button_text": "Children's Literature in Albanian",
+        "button_text": "Albanian Children's and Juvenile Literature",
         "call_number_ranges": "PG9612.8-PG9612.8.999|PZ90.A4-PZ90.A4.999"
       }
     ]
@@ -161,7 +161,7 @@
         "subject_heading_or": "Folk literature, Arabic|Arabs--Folklore"
       },
       {
-        "button_text": "Children's Literature in Arabic",
+        "button_text": "Arabic Children's and Juvenile Literature",
         "call_number_ranges": "PJ7585-PJ7585.999|PZ10.72-PZ10.78.999"
       }
     ]
@@ -190,7 +190,7 @@
         "subject_heading_or": "Folk literature, Basque"
       },
       {
-        "button_text": "Basque Children's Literature",
+        "button_text": "Basque Children's and Juvenile Literature",
         "call_number_ranges": "PH5298-PH5298.999"
       }
     ]
@@ -231,7 +231,7 @@
         "subject_heading_or": "Bulgaria--Folklore|Folk literature, Bulgarian"
       },
       {
-        "button_text": "Children's Literature in Bulgarian",
+        "button_text": "Bulgarian Children's and Juvenile Literature",
         "call_number_ranges": "PG1019-PG1019.999|PZ70.B7-PZ70.B8"
       }
     ]
@@ -317,7 +317,7 @@
         "subject_heading_or": "Folk literature, Chinese|China--Folklore"
       },
       {
-        "button_text": "Children's Literature in Chinese",
+        "button_text": "Chinese Children's and Juvenile Literature",
         "call_number_ranges": "PL2449-PL2449.999|PZ10.82-PZ10.88.999"
       }
     ]
@@ -333,21 +333,21 @@
         "subject_heading_or": "Croatian literature--Collections"
       },
       {
-        "button_text": "Croatian Folk Literature",
-        "call_number_ranges": "PG1630-PG1639.999|GR263.C77-GR263.C779.999|GR254-GR254.999",
-        "subject_heading_or": "Croatia--Folklore|Folk literature, Croatia"
-      },
-      {
-        "button_text": "Children's Literature in Croatian",
-        "call_number_ranges": "PG1612.7-PG1612.7.999"
-      },
-      {
         "button_text": "Croatian Literature: Individual Authors",
         "call_number_ranges": "PG1618-PG1620.36.999|PG1658-PG1658.999"
       },
       {
         "button_text": "Croatian Literature in Translation",
         "call_number_ranges": "PG1695-PG1696.Z9ZZZ"
+      },
+      {
+        "button_text": "Croatian Folk Literature",
+        "call_number_ranges": "PG1630-PG1639.999|GR263.C77-GR263.C779.999|GR254-GR254.999",
+        "subject_heading_or": "Croatia--Folklore|Folk literature, Croatia"
+      },
+      {
+        "button_text": "Croatian Children's and Juvenile Literature",
+        "call_number_ranges": "PG1612.7-PG1612.7.999"
       }
     ]
   },
@@ -391,7 +391,7 @@
         "subject_heading_or": "Denmark--Folklore|Folk literature, Denmark"
       },
       {
-        "button_text": "Children's Literature in Danish",
+        "button_text": "Danish Children's and Juvenile Literature",
         "call_number_ranges": "PT7935-PT7935.ZZZZ|PZ51-PZ54.3.999"
       }]
   },
@@ -430,7 +430,7 @@
         "call_number_ranges": "PT5410-PT5414.ZZZZ"
       },
       {
-        "button_text": "Children's Literature in Dutch",
+        "button_text": "Dutch Children's and Juvenile Literature",
         "call_number_ranges": "PZ11-PZ18.999"
       },
       {
@@ -514,7 +514,7 @@
         "subject_heading_or": "Great Britain--Folklore|Folk literature, British|England--Folklore|Folk literature, English"
       },
       {
-        "button_text": "Children's Literature in English",
+        "button_text": "Children's and Juvenile Literature in English",
         "call_number_ranges": "PR990-PR990.999|PZ5-10.32-PZ5-10.32.999"
       }
     ]
@@ -600,7 +600,7 @@
         "subject_heading_or": "France--Folklore|Folk literature, French"
       },
       {
-        "button_text": "Children's Literature in French",
+        "button_text": "French Children's and Juvenile Literature",
         "call_number_ranges": "PQ845-PQ845.999|PZ21-PZ28.999"
       }
     ]
@@ -645,7 +645,7 @@
         "subject_heading_or": "Germany--Folklore|Folk literature, German"
       },
       {
-        "button_text": "Children's Literature in German",
+        "button_text": "German Children's and Juvenile Literature",
         "call_number_ranges": "PT1021-PT1021.999|PZ31-PZ38.999"
       }
     ]
@@ -706,7 +706,7 @@
         "subject_heading_or": "Greece--Folklore|Folk literature, Greek"
       },
       {
-        "button_text": "Children's Literature in Greek",
+        "button_text": "Greek Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.G7-PZ90.G7.999"
       }
     ]
@@ -759,7 +759,7 @@
         "subject_heading_or": "Folk literature, Hindi|India--Folklore"
       },
       {
-        "button_text": "Children's Literature in Hindi",
+        "button_text": "Hindi Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.H5-PZ90.H5.999"
       }
     ]
@@ -800,7 +800,7 @@
         "subject_heading_or": "Folk literature, Hungarian|Hungary--Folklore"
       },
       {
-        "button_text": "Children's Literature in Hungarian",
+        "button_text": "Hungarian Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.H8-PZ90.H8.999|PH3130-PH3130.999"
       }
     ]
@@ -833,7 +833,7 @@
         "subject_heading_or": "Folk Literature, Icelandic|Iceland--Folklore"
       },
       {
-        "button_text": "Children's Literature in Icelandic",
+        "button_text": "Icelandic Children's and Juvenile Literature",
         "call_number_ranges": "PT7442-PT7442.999|PZ55-PZ56.999"
       }
     ]
@@ -873,7 +873,7 @@
         "subject_heading_or": "Folk literature, Irish|Ireland--Folklore"
       },
       {
-        "button_text": "Children's Literature in Irish",
+        "button_text": "Irish Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.I7-PZ90.I7.999"
       }
     ]
@@ -926,7 +926,7 @@
         "subject_heading_or": "Folk literature, Italian|Italy--Folklore"
       },
       {
-        "button_text": "Children's Literature in Italian",
+        "button_text": "Italian Children's and Juvenile Literature",
         "call_number_ranges": "PZ41-PZ48.999|PQ4199.5-PQ4199.5.999"
       }
     ]
@@ -994,7 +994,7 @@
         "subject_heading_or": "Folk Literature, Japanese|Japan--Folklore"
       },
       {
-        "button_text": "Children's Literature in Japanese",
+        "button_text": "Japanese Children's and Juvenile Literature",
         "call_number_ranges": "PZ49.2-PZ49.8.999"
       }
     ]
@@ -1058,7 +1058,7 @@
         "subject_heading_or": "Folk Literature, Korean|Korea--Folklore"
       },
       {
-        "button_text": "Children's Literature in Korean",
+        "button_text": "Korean Children's and Juvenile Literature",
         "call_number_ranges": "PZ50.52-PZ50.58.999|PL969.5-PL969.5.999"
       }
     ]
@@ -1093,7 +1093,7 @@
         "call_number_ranges": "PA6155-PA6191.999|PA8160-PA8199.999"
       },
       {
-        "button_text": "Children's Literature in Latin",
+        "button_text": "Children's and Juvenile Literature in Latin",
         "call_number_ranges": "PZ90.L3-PZ90.L3.999"
       }
     ]
@@ -1129,7 +1129,7 @@
         "subject_heading_or": "Folk Literature, Latvian|Latvia--Folklore"
       },
       {
-        "button_text": "Children's Literature in Latvian",
+        "button_text": "Latvian Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.L4-PZ90.L4.999|PG9020-PG9020.999"
       }
     ]
@@ -1191,7 +1191,7 @@
         "call_number_ranges": "PT8750-PT8775.999"
       },
       {
-        "button_text": "Norwegian Literature (Nynorsk / Landsm--l)",
+        "button_text": "Norwegian Literature (Nynorsk / Landsmål)",
         "call_number_ranges": "PT9025-PT9094.999"
       },
       {
@@ -1204,7 +1204,7 @@
         "subject_heading_or": "Folk Literature, Norwegian|Norway--Folklore"
       },
       {
-        "button_text": "Children's Literature in Norwegian (Landsm--l/Nynorsk)",
+        "button_text": "Norwegian Children's and Juvenile Literature",
         "call_number_ranges": "PZ54.4-PZ54.9.999|PT8640-PT8640.999"
       }
     ],
@@ -1336,7 +1336,7 @@
         "subject_heading_or": "Folk Literature, Persian|Iran--Folklore|Afghanistan--Folklore|Tajikistan--Folklore"
       },
       {
-        "button_text": "Children's Literature in Persian",
+        "button_text": "Persian Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.P4-PZ90.P4.999|PK6426.5-PK6426.5.999"
       }
     ],
@@ -1386,7 +1386,7 @@
         "subject_heading_or": "Folk Literature, Polish|Poland--Folklore"
       },
       {
-        "button_text": "Children's Literature in Polish",
+        "button_text": "Polish Children's and Juvenile Literature",
         "call_number_ranges": "PZ69-PZ69.999|PG7130-PG7130.999"
       }
     ]
@@ -1456,7 +1456,7 @@
         "subject_heading_or": "Folk Literature, Portuguese|Portugal--Folklore|Brazil--Folklore"
       },
       {
-        "button_text": "Children's Literature in Portuguese",
+        "button_text": "Children's and Juvenile Literature in Portuguese",
         "call_number_ranges": "PZ81-PZ88.999|PQ9129-PQ9129.999"
       }
     ]
@@ -1500,7 +1500,7 @@
         "subject_heading_or": "Folk Literature, Romanian|Romania--Folklore"
       },
       {
-        "button_text": "Children's Literature in Romanian",
+        "button_text": "Romanian Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.R6-PZ90.R6.999|PC809.5-PC809.5.999"
       }
     ],
@@ -1562,7 +1562,7 @@
         "subject_heading_or": "Folk Literature, Russian|Russia--Folklore"
       },
       {
-        "button_text": "Children's Literature in Russian",
+        "button_text": "Russian Children's and Juvenile Literature",
         "call_number_ranges": "PZ61-PZ68.999|PZ90.R9-PZ90.R9.999"
       }
     ]
@@ -1614,7 +1614,7 @@
         "call_number_ranges": "PK4471-PK4485.999"
       },
       {
-        "button_text": "Children's Literature in Sanskrit",
+        "button_text": "Children's and Juvenile Literature in Sanskrit",
         "call_number_ranges": "PZ90.S3-PZ90.S3.999"
       }
     ]
@@ -1639,7 +1639,7 @@
         "subject_heading_or": "Folk Literature, Scots|Scotland--Folklore"
       },
       {
-        "button_text": "Children's Literature in Scots",
+        "button_text": "Scots Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.S39-PZ90.S39.999|PR8625-PR8625.999"
       }
     ]
@@ -1672,7 +1672,7 @@
         "subject_heading_or": "Folk Literature, Scottish Gaelic|Scotland--Folklore"
       },
       {
-        "button_text": "Children's Literature in Scottish Gaelic",
+        "button_text": "Scottish Gaelic Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.G2-PZ90.G2.999"
       }
     ]
@@ -1701,7 +1701,7 @@
         "subject_heading_or": "Folk Literature, Serbian|Serbia--Folklore|Folk Literature, Serbo-Croatian"
       },
       {
-        "button_text": "Children's Literature in Serbian",
+        "button_text": "Serbian Children's and Juvenile Literature",
         "call_number_ranges": "PZ70.S4-.S42---PZ70.S4-.S42--.999|PG1412.7-PG1412.7.999"
       }
     ]
@@ -1750,7 +1750,7 @@
         "subject_heading_or": "Folk Literature, Slovak|Slovakia--Folklore"
       },
       {
-        "button_text": "Children's Literature in Slovak",
+        "button_text": "Slovak Children's and Juvenile Literature",
         "call_number_ranges": "PZ70.S45-.PZ70S46-PZ70.S45-.PZ70S46.999|PG5419.5-PG5419.5.999"
       }
     ]
@@ -1795,7 +1795,7 @@
         "subject_heading_or": "Folk Literature, Slovenian|Slovenia--Folklore"
       },
       {
-        "button_text": "Children's Literature in Slovenian",
+        "button_text": "Slovenian Children's and Juvenile Literature",
         "call_number_ranges": "PZ70.S5-PZ70.S6|PG1912-PG1912.999"
       }
     ]
@@ -1871,7 +1871,7 @@
         "subject_heading_or": "South America--Folklore"
       },
       {
-        "button_text": "Children's Literature in Spanish",
+        "button_text": "Children's and Juvenile Literature in Spanish",
         "call_number_ranges": "PZ71-PZ78.999|PQ7223-PQ7223.999"
       }
     ]
@@ -1924,7 +1924,7 @@
         "subject_heading_or": "Folk Literature, Swedish|Sweden--Folklore"
       },
       {
-        "button_text": "Children's Literature in Swedish",
+        "button_text": "Swedish Children's and Juvenile Literature",
         "call_number_ranges": "PZ57-PZ60.3.999|PT9544-PT9544.999"
       }
     ]
@@ -1965,7 +1965,7 @@
         "subject_heading_or": "Folk Literature, Ukrainian|Ukraine--Folklore"
       },
       {
-        "button_text": "Children's Literature in Ukrainian",
+        "button_text": "Ukrainian Children's and Juvenile Literature",
         "call_number_ranges": "PZ70.U7-PZ70.U72|PG3930-PG3930.999"
       }
     ]
@@ -1998,7 +1998,7 @@
         "subject_heading_or": "Folk Literature, Welsh|Wales--Folklore"
       },
       {
-        "button_text": "Children's Literature in Welsh",
+        "button_text": "Welsh Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.W4-PZ90.W4.999"
       }
     ]
@@ -2027,7 +2027,7 @@
         "subject_heading_or": "Folk literature, Yiddish"
       },
       {
-        "button_text": "Children's Literature in Yiddish",
+        "button_text": "Yiddish Children's and Juvenile Literature",
         "call_number_ranges": "PZ90.Y5-PZ90.Y5.999"
       }
     ]
