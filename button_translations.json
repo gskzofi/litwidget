@@ -1,0 +1,2384 @@
+[
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "16th Century French Literature",
+   "Text_In_Translation": "Littérature française du XVIe siècle"
+ },
+ {
+   "MARC_Code": "dan",
+   "Language_Name": "Danish",
+   "Button_Text": "16th-18th Century Danish Literature",
+   "Text_In_Translation": "Dansk litteratur fra det 16.-18. århundrede"
+ },
+ {
+   "MARC_Code": "dut",
+   "Language_Name": "Dutch",
+   "Button_Text": "16th-18th Century Dutch Literature",
+   "Text_In_Translation": "Nederlandse literatuur 16e-18e eeuw"
+ },
+ {
+   "MARC_Code": "ice",
+   "Language_Name": "Icelandic",
+   "Button_Text": "16th-18th Century Icelandic Literature",
+   "Text_In_Translation": "Íslenskar bókmenntir 16.-18. aldar"
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "16th-18th Century Norwegian Literature",
+   "Text_In_Translation": "Norsk litteratur fra det 16. og 18. århundre"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "16th-18th Century Swedish Literature",
+   "Text_In_Translation": "Svensk litteratur från 1500- och 1700-talet"
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "17th and 18th Century American Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "slo",
+   "Language_Name": "Slovak",
+   "Button_Text": "17th and 18th Century Slovak Literature",
+   "Text_In_Translation": "Slovenská literatúra 17. a 18. storočia"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "17th Century French Literature",
+   "Text_In_Translation": "Littérature française du XVIIe siècle"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "18th Century French Literature",
+   "Text_In_Translation": "Littérature française du XVIIIe siècle"
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "18th Century Russian Literature",
+   "Text_In_Translation": "Русская литература XVIII века"
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "19th Century American Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "dan",
+   "Language_Name": "Danish",
+   "Button_Text": "19th Century Danish Literature",
+   "Text_In_Translation": "Dansk litteratur fra det 19. århundrede"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "19th Century French Literature",
+   "Text_In_Translation": "Littérature française du XIXe siècle"
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "19th Century Norwegian Literature",
+   "Text_In_Translation": "Norsk litteratur fra det 19. århundre"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "19th Century Swedish Literature",
+   "Text_In_Translation": "Svensk litteratur från 1800-talet"
+ },
+ {
+   "MARC_Code": "ice",
+   "Language_Name": "Icelandic",
+   "Button_Text": "19th-20th Century Icelandic Literature",
+   "Text_In_Translation": "Íslenskar bókmenntir 19.-20. aldar"
+ },
+ {
+   "MARC_Code": "ice",
+   "Language_Name": "Icelandic",
+   "Button_Text": "21st Century Icelandic Literature",
+   "Text_In_Translation": "Íslenskar bókmenntir 21. aldar"
+ },
+ {
+   "MARC_Code": "slo",
+   "Language_Name": "Slovak",
+   "Button_Text": "21st Century Slovak Literature",
+   "Text_In_Translation": "Slovenská literatúra 21. storočia"
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Abbasid Literature (750-1258)",
+   "Text_In_Translation": "الأدب العباسي (750 - 1258)"
+ },
+ {
+   "MARC_Code": "afr",
+   "Language_Name": "Afrikaans",
+   "Button_Text": "Afrikaans Children's and Juvenile Literature",
+   "Text_In_Translation": "Versamelings Afrikaanse Letterkunde"
+ },
+ {
+   "MARC_Code": "afr",
+   "Language_Name": "Afrikaans",
+   "Button_Text": "Afrikaans Children's and Juvenile Literature",
+   "Text_In_Translation": "Afrikaanse Kinder- en Jeuglektuur"
+ },
+ {
+   "MARC_Code": "afr",
+   "Language_Name": "Afrikaans",
+   "Button_Text": "Afrikaans Folklore",
+   "Text_In_Translation": "Afrikaanse Folklore"
+ },
+ {
+   "MARC_Code": "afr",
+   "Language_Name": "Afrikaans",
+   "Button_Text": "Afrikaans Literature 1961-2000",
+   "Text_In_Translation": "Afrikaanse Letterkunde 1961-2000"
+ },
+ {
+   "MARC_Code": "afr",
+   "Language_Name": "Afrikaans",
+   "Button_Text": "Afrikaans Literature 2001-present",
+   "Text_In_Translation": "Afrikaanse Letterkunde 2001-hede"
+ },
+ {
+   "MARC_Code": "afr",
+   "Language_Name": "Afrikaans",
+   "Button_Text": "Afrikaans Literature in Translation",
+   "Text_In_Translation": "Afrikaanse letterkunde in Vertaling"
+ },
+ {
+   "MARC_Code": "afr",
+   "Language_Name": "Afrikaans",
+   "Button_Text": "Afrikaans Literature to 1960",
+   "Text_In_Translation": "Afrikaanse letterkunde tot 1960"
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Epic Poetry",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Historical Texts",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Incantations, Magic, & Omens",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Inscriptions and Seals",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Letters",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Lyric Poetry",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Moral Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Philological Texts",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Prose",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Akkadian Scientific Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "alb",
+   "Language_Name": "Albanian",
+   "Button_Text": "Albanian Children's and Juvenile Literature",
+   "Text_In_Translation": "Letërsia për Fëmijë dhe të Rinj në gjuhën shqipe"
+ },
+ {
+   "MARC_Code": "alb",
+   "Language_Name": "Albanian",
+   "Button_Text": "Albanian Folklore",
+   "Text_In_Translation": "Folklori Shqip"
+ },
+ {
+   "MARC_Code": "alb",
+   "Language_Name": "Albanian",
+   "Button_Text": "Albanian Literature in Translation",
+   "Text_In_Translation": "Letërsia Shqipe në Përkthim"
+ },
+ {
+   "MARC_Code": "alb",
+   "Language_Name": "Albanian",
+   "Button_Text": "Albanian Literature: Individual Authors and Works",
+   "Text_In_Translation": "Letërsia Shqipe: Autorë dhe Vepra Individuale"
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "American Folk Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "American Literature 1900-1960",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "American Literature 1960-2000",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "American Literature 2001-present",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "grc",
+   "Language_Name": "Greek (Ancient)",
+   "Button_Text": "Ancient Greek Literature (to 600CE): Individual Authors",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "grc",
+   "Language_Name": "Greek (Ancient)",
+   "Button_Text": "Ancient Greek Literature in Translation",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Arabic Children's and Juvenile Literature",
+   "Text_In_Translation": "أدب الأطفال والناشئة باللغة العربية"
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Arabic Folk Literature",
+   "Text_In_Translation": "الأدب الشعبي العربي"
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Arabic Literature 2001-present",
+   "Text_In_Translation": "الأدب العربي (2001 - حتى الآن)"
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Arabic Literature in Translation",
+   "Text_In_Translation": "الأدب العربي المترجم"
+ },
+ {
+   "MARC_Code": "baq",
+   "Language_Name": "Basque",
+   "Button_Text": "Basque Children's and Juvenile Literature",
+   "Text_In_Translation": "Haur eta Gazte Literatura Baskoa"
+ },
+ {
+   "MARC_Code": "baq",
+   "Language_Name": "Basque",
+   "Button_Text": "Basque Folk Literature",
+   "Text_In_Translation": "Euskal Herri Literatura"
+ },
+ {
+   "MARC_Code": "baq",
+   "Language_Name": "Basque",
+   "Button_Text": "Basque Literature in Translation",
+   "Text_In_Translation": "Euskal Literatura Itzulpenean"
+ },
+ {
+   "MARC_Code": "baq",
+   "Language_Name": "Basque",
+   "Button_Text": "Basque Literature: Collections",
+   "Text_In_Translation": "Euskal Literatura: Bildumak"
+ },
+ {
+   "MARC_Code": "baq",
+   "Language_Name": "Basque",
+   "Button_Text": "Basque Literature: Individual Authors and Works",
+   "Text_In_Translation": "Euskal Literatura: Banakako Egileak eta Lanak"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Brazilian Literature 1801-1960",
+   "Text_In_Translation": "Literatura Brasileira 1801-1960"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Brazilian Literature 1961-2000",
+   "Text_In_Translation": "Literatura Brasileira 1961-2000"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Brazilian Literature 2001-present",
+   "Text_In_Translation": "Literatura Brasileira 2001-presente"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Brazilian Literature to 1800",
+   "Text_In_Translation": "Literatura Brasileira até 1800"
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "British Folk Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "British Literature 1500-1640",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "British Literature 1640-1770",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "British Literature 1770-1900",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "British Literature 1900-1960",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "British Literature 1960-2000",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "British Literature 2001-present",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "bul",
+   "Language_Name": "Bulgarian",
+   "Button_Text": "Bulgarian  Children's and Juvenile Literature",
+   "Text_In_Translation": "Българска детска и юношеска литература"
+ },
+ {
+   "MARC_Code": "bul",
+   "Language_Name": "Bulgarian",
+   "Button_Text": "Bulgarian Folk Literature",
+   "Text_In_Translation": "Българска народна литература"
+ },
+ {
+   "MARC_Code": "bul",
+   "Language_Name": "Bulgarian",
+   "Button_Text": "Bulgarian Literature in Translation",
+   "Text_In_Translation": "Българска литература в превод"
+ },
+ {
+   "MARC_Code": "bul",
+   "Language_Name": "Bulgarian",
+   "Button_Text": "Bulgarian Literature: 1801-1960",
+   "Text_In_Translation": "Българска литература: 1801-1960"
+ },
+ {
+   "MARC_Code": "bul",
+   "Language_Name": "Bulgarian",
+   "Button_Text": "Bulgarian Literature: 1961-2000",
+   "Text_In_Translation": "Българска литература: 1961-2000"
+ },
+ {
+   "MARC_Code": "bul",
+   "Language_Name": "Bulgarian",
+   "Button_Text": "Bulgarian Literature: 2001-present",
+   "Text_In_Translation": "Българска литература: 2001-досега"
+ },
+ {
+   "MARC_Code": "bul",
+   "Language_Name": "Bulgarian",
+   "Button_Text": "Bulgarian Literature: Early through 1800",
+   "Text_In_Translation": "Българска литература: от началото до 1800 г."
+ },
+ {
+   "MARC_Code": "grc",
+   "Language_Name": "Greek (Ancient)",
+   "Button_Text": "Byzantine Greek Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "cat",
+   "Language_Name": "Catalan",
+   "Button_Text": "Catalan Folk Literature",
+   "Text_In_Translation": "Literatura popular catalana"
+ },
+ {
+   "MARC_Code": "cat",
+   "Language_Name": "Catalan",
+   "Button_Text": "Catalan Literature in Translation",
+   "Text_In_Translation": "Literatura catalana traduïda"
+ },
+ {
+   "MARC_Code": "cat",
+   "Language_Name": "Catalan",
+   "Button_Text": "Catalan Literature: Individual Authors and Works",
+   "Text_In_Translation": "Literatura catalana: autors i obres individuals"
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "Children's and Juvenile Literature in English",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "lat",
+   "Language_Name": "Latin",
+   "Button_Text": "Children's and Juvenile Literature in Latin",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Children's and Juvenile Literature in Portuguese",
+   "Text_In_Translation": "Literatura Infantil e Juvenil em Português"
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Children's and Juvenile Literature in Sanskrit",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Children's and Juvenile Literature",
+   "Text_In_Translation": "中国儿童及青少年文学"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Folk Literature",
+   "Text_In_Translation": "中国民间文学"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Inscriptions & Oracle Bones",
+   "Text_In_Translation": "中国铭刻与甲骨文"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Literature in Translation",
+   "Text_In_Translation": "中国文学译作"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Literature: 1912-1949",
+   "Text_In_Translation": "中国文学：1912—1949年"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Literature: 1949-2000",
+   "Text_In_Translation": "中国文学：1949—2000年"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Literature: 2001-present",
+   "Text_In_Translation": "中国文学：2001年至今"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Literature: Early to 221 BC",
+   "Text_In_Translation": "中国文学：早期至公元前221年"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Literature: Qing Dynasty (1644-1912)",
+   "Text_In_Translation": "中国文学：清代（1644—1912年）"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Literature: Qin-Tang Dynasties (221 BC-907)",
+   "Text_In_Translation": "中国文学：秦至唐代（公元前221年—907年）"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Chinese Literature: Song-Ming Dynasties (907-1644)",
+   "Text_In_Translation": "中国文学：宋至明代（907—1644年）"
+ },
+ {
+   "MARC_Code": "akk",
+   "Language_Name": "Akkadian",
+   "Button_Text": "Collections of Akkadian Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "alb",
+   "Language_Name": "Albanian",
+   "Button_Text": "Collections of Albanian Literature",
+   "Text_In_Translation": "Koleksione të Letërsisë Shqipe"
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "Collections of American Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "grc",
+   "Language_Name": "Greek (Ancient)",
+   "Button_Text": "Collections of Ancient Greek Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Collections of Arabic Literature",
+   "Text_In_Translation": "مجموعات الأدب العربي"
+ },
+ {
+   "MARC_Code": "grc",
+   "Language_Name": "Greek (Ancient)",
+   "Button_Text": "Collections of Both Greek and Latin Authors",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "lat",
+   "Language_Name": "Latin",
+   "Button_Text": "Collections of Both Greek and Latin Authors",
+   "Text_In_Translation": "Collectiones Auctorum Graecorum et Latinorum"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Collections of Brazilian Literature",
+   "Text_In_Translation": "Colecções de Literatura Brasileira"
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "Collections of British Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "bul",
+   "Language_Name": "Bulgarian",
+   "Button_Text": "Collections of Bulgarian Literature",
+   "Text_In_Translation": "Колекции от българска литература"
+ },
+ {
+   "MARC_Code": "cat",
+   "Language_Name": "Catalan",
+   "Button_Text": "Collections of Catalan Literature",
+   "Text_In_Translation": "Col·leccions de literatura catalana"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Collections of Chinese Literature",
+   "Text_In_Translation": "中国文学选集"
+ },
+ {
+   "MARC_Code": "hrv|scr",
+   "Language_Name": "Croatian",
+   "Button_Text": "Collections of Croatian Literature",
+   "Text_In_Translation": "Zbirke hrvatske književnosti"
+ },
+ {
+   "MARC_Code": "dan",
+   "Language_Name": "Danish",
+   "Button_Text": "Collections of Danish Literature",
+   "Text_In_Translation": "Samlinger af dansk litteratur"
+ },
+ {
+   "MARC_Code": "dut",
+   "Language_Name": "Dutch",
+   "Button_Text": "Collections of Dutch Literature",
+   "Text_In_Translation": "Collecties Nederlandse literatuur"
+ },
+ {
+   "MARC_Code": "fin",
+   "Language_Name": "Finnish",
+   "Button_Text": "Collections of Finnish Literature",
+   "Text_In_Translation": "Kotimaisen kirjallisuuden kokoelmat"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "Collections of French Literature",
+   "Text_In_Translation": "Collections de littérature française"
+ },
+ {
+   "MARC_Code": "ger",
+   "Language_Name": "German",
+   "Button_Text": "Collections of German Literature",
+   "Text_In_Translation": "Collections of German Literature"
+ },
+ {
+   "MARC_Code": "gre",
+   "Language_Name": "Greek (Modern)",
+   "Button_Text": "Collections of Greek Literature",
+   "Text_In_Translation": "Συλλογές Ελληνικής Λογοτεχνίας"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Collections of Hindi Literature",
+   "Text_In_Translation": "हिंदी साहित्य के संग्रह"
+ },
+ {
+   "MARC_Code": "hun",
+   "Language_Name": "Hungarian",
+   "Button_Text": "Collections of Hungarian Literature",
+   "Text_In_Translation": "Magyar irodalom gyűjteményei"
+ },
+ {
+   "MARC_Code": "ice",
+   "Language_Name": "Icelandic",
+   "Button_Text": "Collections of Icelandic Literature",
+   "Text_In_Translation": "Söfn íslenskra bókmennta"
+ },
+ {
+   "MARC_Code": "gle|iri",
+   "Language_Name": "Irish",
+   "Button_Text": "Collections of Irish Literature",
+   "Text_In_Translation": "Bailiúcháin Litríochta Éireannacha"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Collections of Italian Literature",
+   "Text_In_Translation": "Collezioni di letteratura italiana"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Collections of Japanese Literature",
+   "Text_In_Translation": "日本文学コレクション"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Collections of Korean Literature",
+   "Text_In_Translation": "한국 문학 선집"
+ },
+ {
+   "MARC_Code": "lat",
+   "Language_Name": "Latin",
+   "Button_Text": "Collections of Latin Literature",
+   "Text_In_Translation": "Collectiones Litterarum Latinarum"
+ },
+ {
+   "MARC_Code": "lav",
+   "Language_Name": "Latvian",
+   "Button_Text": "Collections of Latvian Literature",
+   "Text_In_Translation": "Latviešu literatūras krājumi"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Collections of Literature in Spanish",
+   "Text_In_Translation": "Colecciones de literatura en español"
+ },
+ {
+   "MARC_Code": "nds | ger",
+   "Language_Name": "Low German",
+   "Button_Text": "Collections of Low German Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "Collections of Norwegian Literature",
+   "Text_In_Translation": "Samlinger av norsk litteratur"
+ },
+ {
+   "MARC_Code": "lan | pro",
+   "Language_Name": "Occitan",
+   "Button_Text": "Collections of Occitan Literature",
+   "Text_In_Translation": "Reculhs de literatura occitana"
+ },
+ {
+   "MARC_Code": "non | ice | nor | nob | nno",
+   "Language_Name": "Old Norse",
+   "Button_Text": "Collections of Old Norse Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "pli",
+   "Language_Name": "Pali",
+   "Button_Text": "Collections of Pali Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "per | fas | tgk",
+   "Language_Name": "Persian",
+   "Button_Text": "Collections of Persian Literature",
+   "Text_In_Translation": "مجموعه‌های ادبیات فارسی"
+ },
+ {
+   "MARC_Code": "pol",
+   "Language_Name": "Polish",
+   "Button_Text": "Collections of Polish Literature",
+   "Text_In_Translation": "Kolekcje literatury polskiej"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Collections of Portuguese Literature",
+   "Text_In_Translation": "Colecções de Literatura Portuguesa"
+ },
+ {
+   "MARC_Code": "rum | mol",
+   "Language_Name": "Romanian",
+   "Button_Text": "Collections of Romanian Literature",
+   "Text_In_Translation": "Colecții de literatură română"
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Collections of Russian Literature",
+   "Text_In_Translation": "Коллекции русской литературы"
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Collections of Sanskrit Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "sco",
+   "Language_Name": "Scots",
+   "Button_Text": "Collections of Scots Literature",
+   "Text_In_Translation": "Collections o Scots Leeterature"
+ },
+ {
+   "MARC_Code": "gae|gla",
+   "Language_Name": "Scottish Gaelic",
+   "Button_Text": "Collections of Scottish Gaelic Literature",
+   "Text_In_Translation": "Cruinneachaidhean de Litreachas Gàidhlig na h-Alba"
+ },
+ {
+   "MARC_Code": "scc|srp",
+   "Language_Name": "Serbian",
+   "Button_Text": "Collections of Serbian Literature",
+   "Text_In_Translation": "Збирке српске књижевности"
+ },
+ {
+   "MARC_Code": "slo",
+   "Language_Name": "Slovak",
+   "Button_Text": "Collections of Slovak Literature",
+   "Text_In_Translation": "Zbierky slovenskej literatúry"
+ },
+ {
+   "MARC_Code": "slv",
+   "Language_Name": "Slovenian",
+   "Button_Text": "Collections of Slovenian Literature",
+   "Text_In_Translation": "Zbirke slovenščine"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "Collections of Swedish Literature",
+   "Text_In_Translation": "Samlingar av svensk litteratur"
+ },
+ {
+   "MARC_Code": "ukr",
+   "Language_Name": "Ukrainian",
+   "Button_Text": "Collections of Ukrainian Literature",
+   "Text_In_Translation": "Збірки української літератури"
+ },
+ {
+   "MARC_Code": "wel",
+   "Language_Name": "Welsh",
+   "Button_Text": "Collections of Welsh Literature",
+   "Text_In_Translation": "Casgliadau o Lenyddiaeth Gymreig"
+ },
+ {
+   "MARC_Code": "yid",
+   "Language_Name": "Yiddish",
+   "Button_Text": "Collections of Yiddish Literature",
+   "Text_In_Translation": "זאַמלונגען פון ייִדישער ליטעראַטור"
+ },
+ {
+   "MARC_Code": "chi",
+   "Language_Name": "Chinese",
+   "Button_Text": "Confucian Canon & Chinese Classics",
+   "Text_In_Translation": "儒家经典与中国古籍"
+ },
+ {
+   "MARC_Code": "hrv|scr",
+   "Language_Name": "Croatian",
+   "Button_Text": "Croatian  Children's and Juvenile Literature",
+   "Text_In_Translation": "Hrvatska dječja i juvenilna književnost"
+ },
+ {
+   "MARC_Code": "hrv|scr",
+   "Language_Name": "Croatian",
+   "Button_Text": "Croatian Folk Literature",
+   "Text_In_Translation": "Hrvatska narodna književnost"
+ },
+ {
+   "MARC_Code": "hrv|scr",
+   "Language_Name": "Croatian",
+   "Button_Text": "Croatian Literature in Translation",
+   "Text_In_Translation": "Hrvatska književnost u prijevodu"
+ },
+ {
+   "MARC_Code": "hrv|scr",
+   "Language_Name": "Croatian",
+   "Button_Text": "Croatian Literature: Individual Authors",
+   "Text_In_Translation": "Hrvatska književnost: Pojedinačni autori"
+ },
+ {
+   "MARC_Code": "dan",
+   "Language_Name": "Danish",
+   "Button_Text": "Danish  Children's and Juvenile Literature",
+   "Text_In_Translation": "Dansk børne- og ungdomslitteratur"
+ },
+ {
+   "MARC_Code": "dan",
+   "Language_Name": "Danish",
+   "Button_Text": "Danish Folk Literature",
+   "Text_In_Translation": "Dansk folkelitteratur"
+ },
+ {
+   "MARC_Code": "dan",
+   "Language_Name": "Danish",
+   "Button_Text": "Danish Literature 1900-1960",
+   "Text_In_Translation": "Dansk litteratur 1900-1960"
+ },
+ {
+   "MARC_Code": "dan",
+   "Language_Name": "Danish",
+   "Button_Text": "Danish Literature 1961-2000",
+   "Text_In_Translation": "Dansk litteratur 1961-2000"
+ },
+ {
+   "MARC_Code": "dan",
+   "Language_Name": "Danish",
+   "Button_Text": "Danish Literature 2001-present",
+   "Text_In_Translation": "Dansk litteratur 2001-nu"
+ },
+ {
+   "MARC_Code": "per | fas | tgk",
+   "Language_Name": "Persian",
+   "Button_Text": "Dari Literature",
+   "Text_In_Translation": "ادبیات دری"
+ },
+ {
+   "MARC_Code": "dut",
+   "Language_Name": "Dutch",
+   "Button_Text": "Dutch  Children's and Juvenile Literature",
+   "Text_In_Translation": "Nederlandstalige kinder- en jeugdliteratuur"
+ },
+ {
+   "MARC_Code": "dut",
+   "Language_Name": "Dutch",
+   "Button_Text": "Dutch Folk Literature",
+   "Text_In_Translation": "Nederlandse volksliteratuur"
+ },
+ {
+   "MARC_Code": "dut",
+   "Language_Name": "Dutch",
+   "Button_Text": "Dutch Literature 1800-1960",
+   "Text_In_Translation": "Nederlandse literatuur 1800-1960"
+ },
+ {
+   "MARC_Code": "dut",
+   "Language_Name": "Dutch",
+   "Button_Text": "Dutch Literature 1961-2000",
+   "Text_In_Translation": "Nederlandse literatuur 1961-2000"
+ },
+ {
+   "MARC_Code": "dut",
+   "Language_Name": "Dutch",
+   "Button_Text": "Dutch Literature 2001-present",
+   "Text_In_Translation": "Nederlandse literatuur 2001-heden"
+ },
+ {
+   "MARC_Code": "dut",
+   "Language_Name": "Dutch",
+   "Button_Text": "Dutch Literature in Translation",
+   "Text_In_Translation": "Vertaalde Nederlandse literatuur"
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Early Islamic & Umayyad Literature (622-750)",
+   "Text_In_Translation": "أدب صدر الإسلام والعصر الأموي (622 - 750)"
+ },
+ {
+   "MARC_Code": "wel",
+   "Language_Name": "Welsh",
+   "Button_Text": "Early Welsh Literature (to ca. 1550)",
+   "Text_In_Translation": "Llenyddiaeth Gymreig Gynnar (hyd at tua 1550)"
+ },
+ {
+   "MARC_Code": "eng",
+   "Language_Name": "English",
+   "Button_Text": "English Literature Outside of Great Britain and the US",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "fin",
+   "Language_Name": "Finnish",
+   "Button_Text": "Finnish Folk Literature",
+   "Text_In_Translation": "Suomalainen kansankirjallisuus"
+ },
+ {
+   "MARC_Code": "fin",
+   "Language_Name": "Finnish",
+   "Button_Text": "Finnish Literature 1801-2000",
+   "Text_In_Translation": "Suomen kirjallisuus 1801-2000"
+ },
+ {
+   "MARC_Code": "fin",
+   "Language_Name": "Finnish",
+   "Button_Text": "Finnish Literature 2001-present",
+   "Text_In_Translation": "Suomen kirjallisuus 2001-nykyhetki"
+ },
+ {
+   "MARC_Code": "fin",
+   "Language_Name": "Finnish",
+   "Button_Text": "Finnish Literature in Translation",
+   "Text_In_Translation": "Suomen kirjallisuus käännöksissä"
+ },
+ {
+   "MARC_Code": "fin",
+   "Language_Name": "Finnish",
+   "Button_Text": "Finnish Literature to 1800",
+   "Text_In_Translation": "Suomen kirjallisuus 1800-luvulle"
+ },
+ {
+   "MARC_Code": "slo",
+   "Language_Name": "Slovak",
+   "Button_Text": "Folk Literature of Slovakia",
+   "Text_In_Translation": "Ľudová literatúra Slovenska"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Folk Literature of Spain",
+   "Text_In_Translation": "Literatura folclórica de España"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "French Children's and Juvenile Literature",
+   "Text_In_Translation": "Littérature d'enfance et de jeunesse"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "French Folk Literature",
+   "Text_In_Translation": "Littérature populaire française"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "French Literature 1900-1960",
+   "Text_In_Translation": "Littérature française : 1900-1960"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "French Literature 1960-2000",
+   "Text_In_Translation": "Littérature française : 1960-2000"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "French Literature 2001-present",
+   "Text_In_Translation": "Littérature française : 2001 à nos jours"
+ },
+ {
+   "MARC_Code": "fre",
+   "Language_Name": "French",
+   "Button_Text": "French Literature Outside of France",
+   "Text_In_Translation": "Littérature française hors de France"
+ },
+ {
+   "MARC_Code": "ger",
+   "Language_Name": "German",
+   "Button_Text": "German Children's and Juvenile Literature",
+   "Text_In_Translation": "Deutsche Kinder- und Jugendliteratur"
+ },
+ {
+   "MARC_Code": "ger",
+   "Language_Name": "German",
+   "Button_Text": "German Folk Literature",
+   "Text_In_Translation": "German Folk Literature"
+ },
+ {
+   "MARC_Code": "ger",
+   "Language_Name": "German",
+   "Button_Text": "German Literature 1700-1870",
+   "Text_In_Translation": "German Literature 1700-1870"
+ },
+ {
+   "MARC_Code": "ger",
+   "Language_Name": "German",
+   "Button_Text": "German Literature 1870-1960",
+   "Text_In_Translation": "German Literature 1870-1960"
+ },
+ {
+   "MARC_Code": "ger",
+   "Language_Name": "German",
+   "Button_Text": "German Literature 1961-2000",
+   "Text_In_Translation": "German Literature 1961-2000"
+ },
+ {
+   "MARC_Code": "ger",
+   "Language_Name": "German",
+   "Button_Text": "German Literature 2001-present",
+   "Text_In_Translation": "German Literature 2001-present"
+ },
+ {
+   "MARC_Code": "ger",
+   "Language_Name": "German",
+   "Button_Text": "German Literature ca. 1500-1700",
+   "Text_In_Translation": "German Literature ca. 1500-1700"
+ },
+ {
+   "MARC_Code": "ger",
+   "Language_Name": "German",
+   "Button_Text": "German Literature Outside of Germany",
+   "Text_In_Translation": "German Literature Outside of Germany"
+ },
+ {
+   "MARC_Code": "gre",
+   "Language_Name": "Greek (Modern)",
+   "Button_Text": "Greek Children's and Juvenile Literature",
+   "Text_In_Translation": "Ελληνική Παιδική και Νεανική Λογοτεχνία"
+ },
+ {
+   "MARC_Code": "gre",
+   "Language_Name": "Greek (Modern)",
+   "Button_Text": "Greek Folk Literature",
+   "Text_In_Translation": "Ελληνική Λαϊκή Λογοτεχνία"
+ },
+ {
+   "MARC_Code": "gre",
+   "Language_Name": "Greek (Modern)",
+   "Button_Text": "Greek Literature 1600-1960",
+   "Text_In_Translation": "Ελληνική Λογοτεχνία 1600-1960"
+ },
+ {
+   "MARC_Code": "gre",
+   "Language_Name": "Greek (Modern)",
+   "Button_Text": "Greek Literature 1961-2000",
+   "Text_In_Translation": "Ελληνική Λογοτεχνία 1961-2000"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Children's and Juvenile Literature",
+   "Text_In_Translation": "हिंदी बाल एवं किशोर साहित्य"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Folk Literature",
+   "Text_In_Translation": "हिंदी लोक साहित्य"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Literature 1600-1800",
+   "Text_In_Translation": "हिंदी साहित्य 1600-1800"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Literature 1800-1899",
+   "Text_In_Translation": "हिंदी साहित्य 1800-1899"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Literature 1900-1960",
+   "Text_In_Translation": "हिंदी साहित्य 1900-1960"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Literature 1961-2000",
+   "Text_In_Translation": "हिंदी साहित्य 1961-2000"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Literature 2001-present",
+   "Text_In_Translation": "हिंदी साहित्य 2001-वर्तमान"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Literature in Translation",
+   "Text_In_Translation": "अनुवादित हिंदी साहित्य"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Literature Outside of India",
+   "Text_In_Translation": "भारत के बाहर हिंदी साहित्य"
+ },
+ {
+   "MARC_Code": "hin",
+   "Language_Name": "Hindi",
+   "Button_Text": "Hindi Literature to ca. 1600",
+   "Text_In_Translation": "हिंदी साहित्य (लगभग 1600 तक)"
+ },
+ {
+   "MARC_Code": "hun",
+   "Language_Name": "Hungarian",
+   "Button_Text": "Hungarian Children's and Juvenile Literature",
+   "Text_In_Translation": "Magyar gyermek- és ifjúsági irodalom"
+ },
+ {
+   "MARC_Code": "hun",
+   "Language_Name": "Hungarian",
+   "Button_Text": "Hungarian Folk Literature",
+   "Text_In_Translation": "Magyar népi irodalom"
+ },
+ {
+   "MARC_Code": "hun",
+   "Language_Name": "Hungarian",
+   "Button_Text": "Hungarian Literature 1801-2000",
+   "Text_In_Translation": "Magyar irodalom 1801-2000"
+ },
+ {
+   "MARC_Code": "hun",
+   "Language_Name": "Hungarian",
+   "Button_Text": "Hungarian Literature 2001-present",
+   "Text_In_Translation": "Magyar irodalom 2001-től napjainkig"
+ },
+ {
+   "MARC_Code": "hun",
+   "Language_Name": "Hungarian",
+   "Button_Text": "Hungarian Literature in Translation",
+   "Text_In_Translation": "Magyar irodalom fordításban"
+ },
+ {
+   "MARC_Code": "hun",
+   "Language_Name": "Hungarian",
+   "Button_Text": "Hungarian Literature Outside of Hungary",
+   "Text_In_Translation": "Magyar irodalom külföldön"
+ },
+ {
+   "MARC_Code": "hun",
+   "Language_Name": "Hungarian",
+   "Button_Text": "Hungarian Literature to ca. 1800",
+   "Text_In_Translation": "Magyar irodalom kb. 1800-ig"
+ },
+ {
+   "MARC_Code": "ice",
+   "Language_Name": "Icelandic",
+   "Button_Text": "Icelandic Children's and Juvenile Literature",
+   "Text_In_Translation": "Íslenskar barna- og unglingabækur"
+ },
+ {
+   "MARC_Code": "ice",
+   "Language_Name": "Icelandic",
+   "Button_Text": "Icelandic Folk Literature",
+   "Text_In_Translation": "Íslenskar þjóðbókmenntir"
+ },
+ {
+   "MARC_Code": "gle|iri",
+   "Language_Name": "Irish",
+   "Button_Text": "Irish Children's and Juvenile Literature",
+   "Text_In_Translation": "Litríocht Éireannach do Leanaí agus do Dhaoine Óga"
+ },
+ {
+   "MARC_Code": "gle|iri",
+   "Language_Name": "Irish",
+   "Button_Text": "Irish Folk Literature",
+   "Text_In_Translation": "Litríocht Thírdhreach na hÉireann"
+ },
+ {
+   "MARC_Code": "gle|iri",
+   "Language_Name": "Irish",
+   "Button_Text": "Irish Literature 1800-2000",
+   "Text_In_Translation": "Litríocht na hÉireann 1800-2000"
+ },
+ {
+   "MARC_Code": "gle|iri",
+   "Language_Name": "Irish",
+   "Button_Text": "Irish Literature 2001-present",
+   "Text_In_Translation": "Litríocht na hÉireann 2001-inniu"
+ },
+ {
+   "MARC_Code": "gle|iri",
+   "Language_Name": "Irish",
+   "Button_Text": "Irish Literature in Translation",
+   "Text_In_Translation": "Litríocht na hÉireann in Aistriúchán"
+ },
+ {
+   "MARC_Code": "gle|iri",
+   "Language_Name": "Irish",
+   "Button_Text": "Irish Literature Outside of Ireland",
+   "Text_In_Translation": "Litríocht na hÉireann lasmuigh d'Éirinn"
+ },
+ {
+   "MARC_Code": "gle|iri",
+   "Language_Name": "Irish",
+   "Button_Text": "Irish Literature to 1800",
+   "Text_In_Translation": "Litríocht na hÉireann go dtí 1800"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Children's and Juvenile Literature",
+   "Text_In_Translation": "Letteratura italiana per l'infanzia e la gioventù"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Folk Literature",
+   "Text_In_Translation": "Letteratura popolare italiana"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Literature 1400-1700",
+   "Text_In_Translation": "Letteratura italiana 1400-1700"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Literature 1701-1900",
+   "Text_In_Translation": "Letteratura italiana 1701-1900"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Literature 1901-1960",
+   "Text_In_Translation": "Letteratura italiana 1901-1960"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Literature 1961-2000",
+   "Text_In_Translation": "Letteratura italiana 1961-2000"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Literature 2001-present",
+   "Text_In_Translation": "Letteratura italiana 2001-oggi"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Literature in Translation",
+   "Text_In_Translation": "Letteratura italiana in traduzione"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Literature Outside of Italy",
+   "Text_In_Translation": "Letteratura italiana fuori d'Italia"
+ },
+ {
+   "MARC_Code": "ita",
+   "Language_Name": "Italian",
+   "Button_Text": "Italian Literature to 1400",
+   "Text_In_Translation": "Letteratura italiana fino al 1400"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Children's and Juvenile Literature",
+   "Text_In_Translation": "日本の児童・少年文学"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Folk Literature",
+   "Text_In_Translation": "日本民俗文学"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature in Translation",
+   "Text_In_Translation": "翻訳された日本文学"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature Outside of Japan",
+   "Text_In_Translation": "日本国外の日本文学"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Early Edo Period, 1600-1788",
+   "Text_In_Translation": "日本文学：江戸時代前期（1600年〜1788年）"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Early to 794",
+   "Text_In_Translation": "日本文学：平安時代以前（〜794年）"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Heian Period, 794-1185",
+   "Text_In_Translation": "日本文学：平安時代（794年〜1185年）"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Heisei Period, 1989-2018",
+   "Text_In_Translation": "日本文学：平成時代（1989年〜2018年）"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Kamakura through Momoyama Periods, 1185-1660",
+   "Text_In_Translation": "日本文学：鎌倉〜桃山時代（1185年〜1660年）"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Late Edo Period, 1789-1867",
+   "Text_In_Translation": "日本文学：江戸時代後期（1789年〜1867年）"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Meiji-Taishō Period, 1868-1926",
+   "Text_In_Translation": "日本文学：明治・大正時代（1868年〜1926年）"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Reiwa Period, 2019-",
+   "Text_In_Translation": "日本文学：令和時代（2019年〜）"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Shōwa Period, 1926-1945",
+   "Text_In_Translation": "日本文学：昭和時代（1926年〜1945年）"
+ },
+ {
+   "MARC_Code": "jpn",
+   "Language_Name": "Japanese",
+   "Button_Text": "Japanese Literature: Shōwa Period, 1945-1989",
+   "Text_In_Translation": "日本文学：昭和時代（1945年〜1989年）"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Children's and Juvenile Literature",
+   "Text_In_Translation": "한국 아동 및 청소년 문학"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Folk Literature",
+   "Text_In_Translation": "한국 구비 문학"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature 1392-1598",
+   "Text_In_Translation": "한국 문학 (1392~1598년)"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature 1598-1894",
+   "Text_In_Translation": "한국 문학 (1598~1894년)"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature 1894-1919",
+   "Text_In_Translation": "한국 문학 (1894~1919년)"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature 1919-1945",
+   "Text_In_Translation": "한국 문학 (1919~1945년)"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature 1945-2000",
+   "Text_In_Translation": "한국 문학 (1945~2000년)"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature 2001-present",
+   "Text_In_Translation": "한국 문학 (2001년~현재)"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature in Translation",
+   "Text_In_Translation": "번역된 한국 문학"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature Outside Korea",
+   "Text_In_Translation": "해외 한국 문학"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature to 935CE",
+   "Text_In_Translation": "한국 문학 (935년 이전)"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "Korean Literature: Koryŏ period, 935-1392",
+   "Text_In_Translation": "한국 문학: 고려 시대 (935~1392년)"
+ },
+ {
+   "MARC_Code": "lat",
+   "Language_Name": "Latin",
+   "Button_Text": "Latin Literature in Translation",
+   "Text_In_Translation": "Litterae Latinae in Translatione"
+ },
+ {
+   "MARC_Code": "lav",
+   "Language_Name": "Latvian",
+   "Button_Text": "Latvian Children's and Juvenile Literature",
+   "Text_In_Translation": "Latviešu bērnu un jauniešu literatūra"
+ },
+ {
+   "MARC_Code": "lav",
+   "Language_Name": "Latvian",
+   "Button_Text": "Latvian Folk Literature",
+   "Text_In_Translation": "Latviešu tautas literatūra"
+ },
+ {
+   "MARC_Code": "lav",
+   "Language_Name": "Latvian",
+   "Button_Text": "Latvian Literature 1961-2000",
+   "Text_In_Translation": "Latviešu literatūra 1961.–2000. g."
+ },
+ {
+   "MARC_Code": "lav",
+   "Language_Name": "Latvian",
+   "Button_Text": "Latvian Literature 2001-present",
+   "Text_In_Translation": "Latviešu literatūra 2001.–pašlaik"
+ },
+ {
+   "MARC_Code": "lav",
+   "Language_Name": "Latvian",
+   "Button_Text": "Latvian Literature Outside of Latvia",
+   "Text_In_Translation": "Latviešu literatūra ārpus Latvijas"
+ },
+ {
+   "MARC_Code": "lav",
+   "Language_Name": "Latvian",
+   "Button_Text": "Latvian Literature to 1960",
+   "Text_In_Translation": "Latviešu literatūra līdz 1960. gadam"
+ },
+ {
+   "MARC_Code": "nds | ger",
+   "Language_Name": "Low German",
+   "Button_Text": "Low German Folk Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "nds | ger",
+   "Language_Name": "Low German",
+   "Button_Text": "Low German Literature in Translation",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "nds | ger",
+   "Language_Name": "Low German",
+   "Button_Text": "Low German Literature: Individual Authors",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Mahābhārata and Bhagavadgītā",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Medieval & Ottoman Literature (1258-1800)",
+   "Text_In_Translation": "أدب العصور الوسطى والعصر العثماني (1258 - 1800)"
+ },
+ {
+   "MARC_Code": "dut | dum",
+   "Language_Name": "Dutch",
+   "Button_Text": "Medieval Dutch Literature",
+   "Text_In_Translation": "Middeleeuwse Nederlandse literatuur"
+ },
+ {
+   "MARC_Code": "lat",
+   "Language_Name": "Latin",
+   "Button_Text": "Medieval Latin Literature (to ca. 1350)",
+   "Text_In_Translation": "Litterae Latinae Mediaevalis (ad circa annum 1350)"
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Modern Arabic Literature (1801-2000)",
+   "Text_In_Translation": "الأدب العربي الحديث (1801 - 2000)"
+ },
+ {
+   "MARC_Code": "lat",
+   "Language_Name": "Latin",
+   "Button_Text": "Modern Latin Literature (1350-present)",
+   "Text_In_Translation": "Litterae Latinae Modernae (1350-praesens)"
+ },
+ {
+   "MARC_Code": "wel",
+   "Language_Name": "Welsh",
+   "Button_Text": "Modern Welsh Literature (ca.1550-present)",
+   "Text_In_Translation": "Llenyddiaeth Gymreig Fodern (tua 1550-presennol)"
+ },
+ {
+   "MARC_Code": "rum | mol",
+   "Language_Name": "Romanian",
+   "Button_Text": "Moldovan Literature",
+   "Text_In_Translation": "Literatura moldovenească"
+ },
+ {
+   "MARC_Code": "kor",
+   "Language_Name": "Korean",
+   "Button_Text": "North Korean Literature",
+   "Text_In_Translation": "북한 문학"
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "Norwegian Children's and Juvenile Literature",
+   "Text_In_Translation": "Norsk barne- og ungdomslitteratur"
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "Norwegian Folk Literature",
+   "Text_In_Translation": "Norsk folkelitteratur"
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "Norwegian Literature (Nynorsk / Landsmål)",
+   "Text_In_Translation": "Norsk litteratur (nynorsk / landsmål)"
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "Norwegian Literature 1900-1960",
+   "Text_In_Translation": "Norsk litteratur 1900-1960"
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "Norwegian Literature 1961-2000",
+   "Text_In_Translation": "Norsk litteratur 1961-2000"
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "Norwegian Literature 2001-",
+   "Text_In_Translation": "Norsk litteratur 2001-"
+ },
+ {
+   "MARC_Code": "nor | nob | nno",
+   "Language_Name": "Norwegian",
+   "Button_Text": "Norwegian Literature Outside of Norway",
+   "Text_In_Translation": "Norsk litteratur utenfor Norge"
+ },
+ {
+   "MARC_Code": "lan | pro",
+   "Language_Name": "Occitan",
+   "Button_Text": "Occitan Folk Literature",
+   "Text_In_Translation": "Literatura populara occitana"
+ },
+ {
+   "MARC_Code": "lan | pro",
+   "Language_Name": "Occitan",
+   "Button_Text": "Occitan Literature in Translation",
+   "Text_In_Translation": "Literatura occitana en traduccion"
+ },
+ {
+   "MARC_Code": "lan | pro",
+   "Language_Name": "Occitan",
+   "Button_Text": "Occitan: Individual Authors and Works",
+   "Text_In_Translation": "Occitan: Autors e òbras individualas"
+ },
+ {
+   "MARC_Code": "dan",
+   "Language_Name": "Danish",
+   "Button_Text": "Old Danish Literature (ca.1100-ca.1540)",
+   "Text_In_Translation": "Gammel dansk litteratur (ca. 1100-ca. 1540)"
+ },
+ {
+   "MARC_Code": "non | ice | nor | nob | nno",
+   "Language_Name": "Old Norse",
+   "Button_Text": "Old Norse Literature: Individual Authors and Works (to 1540)",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "non | ice | nor | nob | nno",
+   "Language_Name": "Old Norse",
+   "Button_Text": "Old Norse Religious, Scholarly, and Other Works",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "non | ice | nor | nob | nno",
+   "Language_Name": "Old Norse",
+   "Button_Text": "Old Norse Sagas and Historical Works",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Other Post-Vedic Sanskrit Literature",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Other Sacred Texts",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "pli",
+   "Language_Name": "Pali",
+   "Button_Text": "Pali Literature In Translation",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "pli",
+   "Language_Name": "Pali",
+   "Button_Text": "Pali Literature: Individual Authors and Works",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "pli",
+   "Language_Name": "Pali",
+   "Button_Text": "Pali Outside of India & Sri Lanka",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "per | fas | tgk",
+   "Language_Name": "Persian",
+   "Button_Text": "Persian Children's and Juvenile Literature",
+   "Text_In_Translation": "ادبیات کودک و نوجوان فارسی"
+ },
+ {
+   "MARC_Code": "per | fas | tgk",
+   "Language_Name": "Persian",
+   "Button_Text": "Persian Folk Literature (includes Iran, Tajikistan, Azerbaijan, Afghanistan)",
+   "Text_In_Translation": "ادبیات عامیانه فارسی (شامل ایران، تاجیکستان، آذربایجان، افغانستان)"
+ },
+ {
+   "MARC_Code": "per | fas | tgk",
+   "Language_Name": "Persian",
+   "Button_Text": "Persian Literature 1870-2000",
+   "Text_In_Translation": "ادبیات فارسی ۱۸۷۰-۲۰۰۰"
+ },
+ {
+   "MARC_Code": "per | fas | tgk",
+   "Language_Name": "Persian",
+   "Button_Text": "Persian Literature 2001-present",
+   "Text_In_Translation": "ادبیات فارسی ۲۰۰۱-تاکنون"
+ },
+ {
+   "MARC_Code": "per | fas | tgk",
+   "Language_Name": "Persian",
+   "Button_Text": "Persian Literature of South Asia",
+   "Text_In_Translation": "ادبیات فارسی جنوب آسیا"
+ },
+ {
+   "MARC_Code": "per | fas | tgk",
+   "Language_Name": "Persian",
+   "Button_Text": "Persian Literature to 1870",
+   "Text_In_Translation": "ادبیات فارسی تا ۱۸۷۰"
+ },
+ {
+   "MARC_Code": "pol",
+   "Language_Name": "Polish",
+   "Button_Text": "Polish Children's and Juvenile Literature",
+   "Text_In_Translation": "Polska literatura dziecięca i młodzieżowa"
+ },
+ {
+   "MARC_Code": "pol",
+   "Language_Name": "Polish",
+   "Button_Text": "Polish Folk Literature",
+   "Text_In_Translation": "Polska literatura ludowa"
+ },
+ {
+   "MARC_Code": "pol",
+   "Language_Name": "Polish",
+   "Button_Text": "Polish Literature 1801-1960",
+   "Text_In_Translation": "Literatura polska 1801–1960"
+ },
+ {
+   "MARC_Code": "pol",
+   "Language_Name": "Polish",
+   "Button_Text": "Polish Literature 1961-2000",
+   "Text_In_Translation": "Literatura polska 1961–2000"
+ },
+ {
+   "MARC_Code": "pol",
+   "Language_Name": "Polish",
+   "Button_Text": "Polish Literature 2001-present",
+   "Text_In_Translation": "Literatura polska 2001–obecnie"
+ },
+ {
+   "MARC_Code": "pol",
+   "Language_Name": "Polish",
+   "Button_Text": "Polish Literature in Translation",
+   "Text_In_Translation": "Literatura polska w przekładach"
+ },
+ {
+   "MARC_Code": "pol",
+   "Language_Name": "Polish",
+   "Button_Text": "Polish Literature Outside of Poland",
+   "Text_In_Translation": "Literatura polska poza granicami kraju"
+ },
+ {
+   "MARC_Code": "pol",
+   "Language_Name": "Polish",
+   "Button_Text": "Polish Literature to 1800",
+   "Text_In_Translation": "Literatura polska do 1800 roku"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Portuguese Folk Literature (Brazil)",
+   "Text_In_Translation": "Literatura Popular Portuguesa (Brasil)"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Portuguese Folk Literature (Portugal)",
+   "Text_In_Translation": "Literatura Popular Portuguesa (Portugal)"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Portuguese Literature 1500-1700",
+   "Text_In_Translation": "Literatura Portuguesa 1500-1700"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Portuguese Literature 1701-1960",
+   "Text_In_Translation": "Literatura Portuguesa 1701-1960"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Portuguese Literature 1961-2000",
+   "Text_In_Translation": "Literatura Portuguesa 1961-2000"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Portuguese Literature 2001-present",
+   "Text_In_Translation": "Literatura Portuguesa 2001-presente"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Portuguese Literature Outside of Portugal and Brazil",
+   "Text_In_Translation": "Literatura Portuguesa fora de Portugal e do Brasil"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Portuguese Literature to 1500",
+   "Text_In_Translation": "Literatura Portuguesa até 1500"
+ },
+ {
+   "MARC_Code": "por",
+   "Language_Name": "Portuguese",
+   "Button_Text": "Portuguese Literature to 1500",
+   "Text_In_Translation": "Literatura Portuguesa até 1500"
+ },
+ {
+   "MARC_Code": "ara",
+   "Language_Name": "Arabic",
+   "Button_Text": "Pre-Islamic Arabic Literature (to 660)",
+   "Text_In_Translation": "الأدب العربي في العصر الجاهلي (حتى عام 660)"
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Purāṇas",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Rāmāyaṇa",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Regional Literature of Spain",
+   "Text_In_Translation": "Literatura regional de España"
+ },
+ {
+   "MARC_Code": "lat",
+   "Language_Name": "Latin",
+   "Button_Text": "Roman Literature",
+   "Text_In_Translation": "Litterae Romanae"
+ },
+ {
+   "MARC_Code": "rum | mol",
+   "Language_Name": "Romanian",
+   "Button_Text": "Romanian Children's and Juvenile Literature",
+   "Text_In_Translation": "Literatură pentru copii și juvenile românească"
+ },
+ {
+   "MARC_Code": "rum | mol",
+   "Language_Name": "Romanian",
+   "Button_Text": "Romanian Folk Literature",
+   "Text_In_Translation": "Literatura populară românească"
+ },
+ {
+   "MARC_Code": "rum | mol",
+   "Language_Name": "Romanian",
+   "Button_Text": "Romanian Literature 1801-1960",
+   "Text_In_Translation": "Literatura română 1801-1960"
+ },
+ {
+   "MARC_Code": "rum | mol",
+   "Language_Name": "Romanian",
+   "Button_Text": "Romanian Literature 1961-2000",
+   "Text_In_Translation": "Literatura română 1961-2000"
+ },
+ {
+   "MARC_Code": "rum | mol",
+   "Language_Name": "Romanian",
+   "Button_Text": "Romanian Literature 2001-present",
+   "Text_In_Translation": "Literatura română 2001-prezent"
+ },
+ {
+   "MARC_Code": "rum | mol",
+   "Language_Name": "Romanian",
+   "Button_Text": "Romanian Literature in Translation",
+   "Text_In_Translation": "Literatura română în traducere"
+ },
+ {
+   "MARC_Code": "rum | mol",
+   "Language_Name": "Romanian",
+   "Button_Text": "Romanian Literature through 1800",
+   "Text_In_Translation": "Literatura română până la 1800"
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Children's and Juvenile Literature",
+   "Text_In_Translation": "Русская детская и юношеская литература"
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Folk Literature",
+   "Text_In_Translation": "Русское народное творчество"
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Literature 1800-1870",
+   "Text_In_Translation": "Русская литература: 1800–1870 гг."
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Literature 1870-1917",
+   "Text_In_Translation": "Русская литература: 1870–1917 гг."
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Literature 1917-1960",
+   "Text_In_Translation": "Русская литература: 1917–1960 гг."
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Literature 1960-2000",
+   "Text_In_Translation": "Русская литература: 1960–2000 гг."
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Literature 2001-present",
+   "Text_In_Translation": "Русская литература: 2001 г. — настоящее время"
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Literature in Translation",
+   "Text_In_Translation": "Русская литература в переводах"
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Literature Outside of the Russian Federation",
+   "Text_In_Translation": "Русская литература за пределами Российской Федерации"
+ },
+ {
+   "MARC_Code": "rus",
+   "Language_Name": "Russian",
+   "Button_Text": "Russian Literature to 1700",
+   "Text_In_Translation": "Русская литература до 1700 года"
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Sanskrit Drama",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Sanskrit Literature in Translation",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Sanskrit Poetry",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "sco",
+   "Language_Name": "Scots",
+   "Button_Text": "Scots Children's and Juvenile Literature",
+   "Text_In_Translation": "Bairns' and Wean's Leeterature"
+ },
+ {
+   "MARC_Code": "sco",
+   "Language_Name": "Scots",
+   "Button_Text": "Scots Folk Literature",
+   "Text_In_Translation": "Scots Fowk Leeterature"
+ },
+ {
+   "MARC_Code": "sco",
+   "Language_Name": "Scots",
+   "Button_Text": "Scots Literature: Individual Authors or Works",
+   "Text_In_Translation": "Scots Leeterature: Individual Authors or Warks"
+ },
+ {
+   "MARC_Code": "gae|gla",
+   "Language_Name": "Scottish Gaelic",
+   "Button_Text": "Scottish Gaelic Children's and Juvenile Literature",
+   "Text_In_Translation": "Litreachas Cloinne is Òigridh na Gàidhlig"
+ },
+ {
+   "MARC_Code": "gae|gla",
+   "Language_Name": "Scottish Gaelic",
+   "Button_Text": "Scottish Gaelic Folk Literature",
+   "Text_In_Translation": "Litreachas Dùthchasach Gàidhlig na h-Alba"
+ },
+ {
+   "MARC_Code": "gae|gla",
+   "Language_Name": "Scottish Gaelic",
+   "Button_Text": "Scottish Gaelic Literature in Translation",
+   "Text_In_Translation": "Litreachas Gàidhlig na h-Alba ann an Eadar-theangachadh"
+ },
+ {
+   "MARC_Code": "gae|gla",
+   "Language_Name": "Scottish Gaelic",
+   "Button_Text": "Scottish Gaelic Literature: Individual Authors and Works",
+   "Text_In_Translation": "Litreachas Gàidhlig na h-Alba: Ùghdaran agus Obraichean fa leth"
+ },
+ {
+   "MARC_Code": "gae|gla",
+   "Language_Name": "Scottish Gaelic",
+   "Button_Text": "Scottish Gaelic Manuscripts",
+   "Text_In_Translation": "Làmh-sgrìobhainnean Gàidhlig na h-Alba"
+ },
+ {
+   "MARC_Code": "scc|srp",
+   "Language_Name": "Serbian",
+   "Button_Text": "Serbian Children's and Juvenile Literature",
+   "Text_In_Translation": "Српска дечја и омладинска књижевност"
+ },
+ {
+   "MARC_Code": "scc|srp",
+   "Language_Name": "Serbian",
+   "Button_Text": "Serbian Folk Literature",
+   "Text_In_Translation": "Српска народна књижевност"
+ },
+ {
+   "MARC_Code": "scc|srp",
+   "Language_Name": "Serbian",
+   "Button_Text": "Serbian Literature in Translation",
+   "Text_In_Translation": "Српска књижевност у преводу"
+ },
+ {
+   "MARC_Code": "scc|srp",
+   "Language_Name": "Serbian",
+   "Button_Text": "Serbian Literature: Individual Authors",
+   "Text_In_Translation": "Српска књижевност: Појединачни аутори"
+ },
+ {
+   "MARC_Code": "slo",
+   "Language_Name": "Slovak",
+   "Button_Text": "Slovak Children's and Juvenile Literature",
+   "Text_In_Translation": "Slovenská detská a juvenilová literatúra"
+ },
+ {
+   "MARC_Code": "slo",
+   "Language_Name": "Slovak",
+   "Button_Text": "Slovak Literature 1800-1960",
+   "Text_In_Translation": "Slovenská literatúra 1800 – 1960"
+ },
+ {
+   "MARC_Code": "slo",
+   "Language_Name": "Slovak",
+   "Button_Text": "Slovak Literature in Translation",
+   "Text_In_Translation": "Slovenská literatúra v preklade"
+ },
+ {
+   "MARC_Code": "slo",
+   "Language_Name": "Slovak",
+   "Button_Text": "Slovak Literature Outside of Slovakia",
+   "Text_In_Translation": "Slovenská literatúra mimo Slovenska"
+ },
+ {
+   "MARC_Code": "slo",
+   "Language_Name": "Slovak",
+   "Button_Text": "Slovak Literature to 1600",
+   "Text_In_Translation": "Slovenská literatúra do roku 1600"
+ },
+ {
+   "MARC_Code": "slv",
+   "Language_Name": "Slovenian",
+   "Button_Text": "Slovenian Children's and Juvenile Literature",
+   "Text_In_Translation": "Slovenska otroška in mladinska književnost"
+ },
+ {
+   "MARC_Code": "slv",
+   "Language_Name": "Slovenian",
+   "Button_Text": "Slovenian Folk Literature",
+   "Text_In_Translation": "Slovenska ljudska književnost"
+ },
+ {
+   "MARC_Code": "slv",
+   "Language_Name": "Slovenian",
+   "Button_Text": "Slovenian Literature 1800-1960",
+   "Text_In_Translation": "Slovenska književnost 1800–1960"
+ },
+ {
+   "MARC_Code": "slv",
+   "Language_Name": "Slovenian",
+   "Button_Text": "Slovenian Literature 1961-2000",
+   "Text_In_Translation": "Slovenska književnost 1961–2000"
+ },
+ {
+   "MARC_Code": "slv",
+   "Language_Name": "Slovenian",
+   "Button_Text": "Slovenian Literature 2001-present",
+   "Text_In_Translation": "Slovenska književnost 2001–danes"
+ },
+ {
+   "MARC_Code": "slv",
+   "Language_Name": "Slovenian",
+   "Button_Text": "Slovenian Literature in Translation",
+   "Text_In_Translation": "Slovenska književnost v prevodu"
+ },
+ {
+   "MARC_Code": "slv",
+   "Language_Name": "Slovenian",
+   "Button_Text": "Slovenian Literature Outside of Slovenia",
+   "Text_In_Translation": "Slovenska književnost zunaj Slovenije"
+ },
+ {
+   "MARC_Code": "slv",
+   "Language_Name": "Slovenian",
+   "Button_Text": "Slovenian Literature to 1800",
+   "Text_In_Translation": "Slovenska književnost do leta 1800"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Children's and Juvenile Literature",
+   "Text_In_Translation": "Literatura infantil y juvenil en español"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Folk Literature of Central America and the Caribbean",
+   "Text_In_Translation": "Literatura folclórica en español de Centroamérica y el Caribe"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Folk Literature of Mexico",
+   "Text_In_Translation": "Literatura folclórica en español de México"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Folk Literature of South America",
+   "Text_In_Translation": "Literatura folclórica en español de Sudamérica"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Literature (Spain) 1700-ca. 1868",
+   "Text_In_Translation": "Literatura española (España) 1700-ca. 1868"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Literature (Spain) 1868-1960",
+   "Text_In_Translation": "Literatura española (España) 1868-1960"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Literature (Spain) 1961-2000",
+   "Text_In_Translation": "Literatura española (España) 1961-2000"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Literature (Spain) 2001-present",
+   "Text_In_Translation": "Literatura española (España) 2001-presente"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Literature of Africa and Asia",
+   "Text_In_Translation": "Literatura en español de África y Asia"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Literature of Europe (Outside of Spain)",
+   "Text_In_Translation": "Literatura en español de Europa (fuera de España)"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Literature of Latin America and the Caribbean",
+   "Text_In_Translation": "Literatura en español de América Latina y el Caribe"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Literature of the US and Canada",
+   "Text_In_Translation": "Literatura en español de EE. UU. y Canadá"
+ },
+ {
+   "MARC_Code": "spa",
+   "Language_Name": "Spanish",
+   "Button_Text": "Spanish Literature(Spain)  to 1700",
+   "Text_In_Translation": "Literatura española (España) hasta 1700"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "Swedish Children's and Juvenile Literature",
+   "Text_In_Translation": "Svensk barn- och ungdomslitteratur"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "Swedish Folk Literature",
+   "Text_In_Translation": "Svensk folklitteratur"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "Swedish Literature in Translation",
+   "Text_In_Translation": "Svensk litteratur i översättning"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "Swedish Literature Outside of Sweden",
+   "Text_In_Translation": "Svensk litteratur utanför Sverige"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "Swedish Literature to ca. 1540",
+   "Text_In_Translation": "Svensk litteratur till ca 1540"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "Swedish Literature: 1900-1960",
+   "Text_In_Translation": "Svensk litteratur: 1900-1960"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "Swedish Literature: 1961-2000",
+   "Text_In_Translation": "Svensk litteratur: 1961-2000"
+ },
+ {
+   "MARC_Code": "swe",
+   "Language_Name": "Swedish",
+   "Button_Text": "Swedish Literature: 2001-present",
+   "Text_In_Translation": "Svensk litteratur: 2001-nutid"
+ },
+ {
+   "MARC_Code": "per | fas | tgk",
+   "Language_Name": "Persian",
+   "Button_Text": "Tajiki Literature",
+   "Text_In_Translation": "Адабиёти тоҷикӣ"
+ },
+ {
+   "MARC_Code": "ukr",
+   "Language_Name": "Ukrainian",
+   "Button_Text": "Ukrainian Children's and Juvenile Literature",
+   "Text_In_Translation": "Українська дитяча та юнацька література"
+ },
+ {
+   "MARC_Code": "ukr",
+   "Language_Name": "Ukrainian",
+   "Button_Text": "Ukrainian Folk Literature",
+   "Text_In_Translation": "Українська народна література"
+ },
+ {
+   "MARC_Code": "ukr",
+   "Language_Name": "Ukrainian",
+   "Button_Text": "Ukrainian Literature in Translation",
+   "Text_In_Translation": "Українська література в перекладі"
+ },
+ {
+   "MARC_Code": "ukr",
+   "Language_Name": "Ukrainian",
+   "Button_Text": "Ukrainian Literature Outside of Ukraine",
+   "Text_In_Translation": "Українська література за кордоном"
+ },
+ {
+   "MARC_Code": "ukr",
+   "Language_Name": "Ukrainian",
+   "Button_Text": "Ukrainian Literature to 1960",
+   "Text_In_Translation": "Українська література до 1960 року"
+ },
+ {
+   "MARC_Code": "ukr",
+   "Language_Name": "Ukrainian",
+   "Button_Text": "Ukrainian Literature: 1961-2000",
+   "Text_In_Translation": "Українська література: 1961-2000"
+ },
+ {
+   "MARC_Code": "ukr",
+   "Language_Name": "Ukrainian",
+   "Button_Text": "Ukrainian Literature: 2001-present",
+   "Text_In_Translation": "Українська література: 2001-дотепер"
+ },
+ {
+   "MARC_Code": "san",
+   "Language_Name": "Sanskrit",
+   "Button_Text": "Vedic Texts",
+   "Text_In_Translation": ""
+ },
+ {
+   "MARC_Code": "wel",
+   "Language_Name": "Welsh",
+   "Button_Text": "Welsh Children's and Juvenile Literature",
+   "Text_In_Translation": "Llenyddiaeth Plant a Phobl Ifanc Cymraeg"
+ },
+ {
+   "MARC_Code": "wel",
+   "Language_Name": "Welsh",
+   "Button_Text": "Welsh Folk Literature",
+   "Text_In_Translation": "Llenyddiaeth Werin Gymreig"
+ },
+ {
+   "MARC_Code": "wel",
+   "Language_Name": "Welsh",
+   "Button_Text": "Welsh Literature in Translation",
+   "Text_In_Translation": "Llenyddiaeth Gymreig mewn Cyfieithiad"
+ },
+ {
+   "MARC_Code": "yid",
+   "Language_Name": "Yiddish",
+   "Button_Text": "Yiddish Children's and Juvenile Literature",
+   "Text_In_Translation": "יידישע קינדער און יוגנט ליטעראַטור"
+ },
+ {
+   "MARC_Code": "yid",
+   "Language_Name": "Yiddish",
+   "Button_Text": "Yiddish Folk Literature",
+   "Text_In_Translation": "יידישע פֿאָלקסליטעראַטור"
+ },
+ {
+   "MARC_Code": "yid",
+   "Language_Name": "Yiddish",
+   "Button_Text": "Yiddish Literature in Translation",
+   "Text_In_Translation": "יידישע ליטעראַטור אין איבערזעצונג"
+ },
+ {
+   "MARC_Code": "yid",
+   "Language_Name": "Yiddish",
+   "Button_Text": "Yiddish Literature: Individual Authors and Works",
+   "Text_In_Translation": "יידישע ליטעראַטור: יחידישע מחברים און ווערק"
+ }
+]
