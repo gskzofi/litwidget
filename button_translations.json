@@ -663,7 +663,7 @@
    "MARC_Code": "ger",
    "Language_Name": "German",
    "Button_Text": "Collections of German Literature",
-   "Text_In_Translation": "Collections of German Literature"
+   "Text_In_Translation": "Sammlungen deutscher Literatur"
  },
  {
    "MARC_Code": "gre",
@@ -1058,44 +1058,44 @@
  {
    "MARC_Code": "ger",
    "Language_Name": "German",
-   "Button_Text": "German Folk Literature",
+   "Button_Text": "Deutsche Volksliteratur",
    "Text_In_Translation": "German Folk Literature"
  },
  {
    "MARC_Code": "ger",
    "Language_Name": "German",
    "Button_Text": "German Literature 1700-1870",
-   "Text_In_Translation": "German Literature 1700-1870"
+   "Text_In_Translation": "Deutsche Literatur 1700–1870"
  },
  {
    "MARC_Code": "ger",
    "Language_Name": "German",
    "Button_Text": "German Literature 1870-1960",
-   "Text_In_Translation": "German Literature 1870-1960"
+   "Text_In_Translation": "Deutsche Literatur 1870–1960"
  },
  {
    "MARC_Code": "ger",
    "Language_Name": "German",
    "Button_Text": "German Literature 1961-2000",
-   "Text_In_Translation": "German Literature 1961-2000"
+   "Text_In_Translation": "Deutsche Literatur 1961–2000"
  },
  {
    "MARC_Code": "ger",
    "Language_Name": "German",
    "Button_Text": "German Literature 2001-present",
-   "Text_In_Translation": "German Literature 2001-present"
+   "Text_In_Translation": "Deutsche Literatur 2001 bis heute"
  },
  {
    "MARC_Code": "ger",
    "Language_Name": "German",
    "Button_Text": "German Literature ca. 1500-1700",
-   "Text_In_Translation": "German Literature ca. 1500-1700"
+   "Text_In_Translation": "Deutsche Literatur ca. 1500–1700"
  },
  {
    "MARC_Code": "ger",
    "Language_Name": "German",
    "Button_Text": "German Literature Outside of Germany",
-   "Text_In_Translation": "German Literature Outside of Germany"
+   "Text_In_Translation": "Deutsche Literatur außerhalb Deutschlands"
  },
  {
    "MARC_Code": "gre",
