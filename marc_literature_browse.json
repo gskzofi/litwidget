@@ -612,32 +612,32 @@
     "options": [
       {
         "button_text": "Collections of German Literature",
-        "call_number_ranges": "PT1100-1374-PT1100-1374.999",
+        "call_number_ranges": "PT1100-PT1374.999",
         "subject_heading_or": "German literature--Collections"
       },
       {
         "button_text": "German Literature 2001-present",
-        "call_number_ranges": "PT2700-2728-PT2700-2728.999"
+        "call_number_ranges": "PT2700-PT2728.999"
       },
       {
         "button_text": "German Literature 1961-2000",
-        "call_number_ranges": "PT2660-2688-PT2660-2688.999"
+        "call_number_ranges": "PT2660-PT2688.999"
       },
       {
         "button_text": "German Literature 1870-1960",
-        "call_number_ranges": "PT2600-2653-PT2600-2653.999"
+        "call_number_ranges": "PT2600-PT2653.999"
       },
       {
         "button_text": "German Literature 1700-1870",
-        "call_number_ranges": "PT1799-2592-PT1799-2592.999"
+        "call_number_ranges": "PT1799-PT2592.999"
       },
       {
         "button_text": "German Literature ca. 1500-1700",
-        "call_number_ranges": "PT1701-1797-PT1701-1797.999"
+        "call_number_ranges": "PT1701-PT1797.999"
       },
       {
         "button_text": "German Literature Outside of Germany",
-        "call_number_ranges": "PT3808-3971.2-PT3808-3971.2.999"
+        "call_number_ranges": "PT3808-PT3971.2.999"
       },
       {
         "button_text": "German Folk Literature",
