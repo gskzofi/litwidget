@@ -50,7 +50,7 @@
  {
    "MARC_Code": "afr",
    "Language_Name": "Afrikaans",
-   "Button_Text": "About Afrikaans literature in IUCAT",
+   "Button_Text": "Finding Afrikaans literature in IUCAT",
    "Text_In_Translation": "Oor Afrikaanse literatuur in IUCAT"
  },
  {
@@ -122,7 +122,7 @@
  {
    "MARC_Code": "alb",
    "Language_Name": "Albanian",
-   "Button_Text": "About Albanian literature in IUCAT",
+   "Button_Text": "Finding Albanian literature in IUCAT",
    "Text_In_Translation": "Rreth letërsisë shqipe në IUCAT"
  },
  {
@@ -224,7 +224,7 @@
  {
    "MARC_Code": "ara",
    "Language_Name": "Arabic",
-   "Button_Text": "About Arabic literature in IUCAT",
+   "Button_Text": "Finding Arabic literature in IUCAT",
    "Text_In_Translation": "نبذة عن الأدب العربي في فهرس IUCAT"
  },
  {
@@ -296,7 +296,7 @@
  {
    "MARC_Code": "baq",
    "Language_Name": "Basque",
-   "Button_Text": "About Basque literature in IUCAT",
+   "Button_Text": "Finding Basque literature in IUCAT",
    "Text_In_Translation": "IUCATen euska literaturari buruz"
  },
  {
@@ -386,7 +386,7 @@
  {
    "MARC_Code": "bul",
    "Language_Name": "Bulgarian",
-   "Button_Text": "About Bulgarian literature in IUCAT",
+   "Button_Text": "Finding Bulgarian literature in IUCAT",
    "Text_In_Translation": "За българската литература в IUCAT"
  },
  {
@@ -452,7 +452,7 @@
  {
    "MARC_Code": "cat",
    "Language_Name": "Catalan",
-   "Button_Text": "About Catalan literature in IUCAT",
+   "Button_Text": "Finding Catalan literature in IUCAT",
    "Text_In_Translation": "Sobre la literatura catalana a la IUCAT"
  },
  {
@@ -572,7 +572,7 @@
  {
    "MARC_Code": "chi",
    "Language_Name": "Chinese",
-   "Button_Text": "About Chinese literature in IUCAT",
+   "Button_Text": "Finding Chinese literature in IUCAT",
    "Text_In_Translation": "关于 IUCAT 中的中国文学馆藏"
  },
  {
@@ -668,7 +668,7 @@
  {
    "MARC_Code": "dan",
    "Language_Name": "Danish",
-   "Button_Text": "About Danish literature in IUCAT",
+   "Button_Text": "Finding Danish literature in IUCAT",
    "Text_In_Translation": "Om dansk litteratur i IUCAT"
  },
  {
@@ -758,7 +758,7 @@
  {
    "MARC_Code": "dut",
    "Language_Name": "Dutch",
-   "Button_Text": "About Dutch literature in IUCAT",
+   "Button_Text": "Finding Dutch literature in IUCAT",
    "Text_In_Translation": "Over Nederlandse literatuur in IUCAT"
  },
  {
@@ -842,7 +842,7 @@
  {
    "MARC_Code": "fin",
    "Language_Name": "Finnish",
-   "Button_Text": "About Finnish literature in IUCAT",
+   "Button_Text": "Finding Finnish literature in IUCAT",
    "Text_In_Translation": "Tietoja suomalaisesta kirjallisuudesta IUCATissa"
  },
  {
@@ -950,7 +950,7 @@
  {
    "MARC_Code": "fre",
    "Language_Name": "French",
-   "Button_Text": "About French literature in IUCAT",
+   "Button_Text": "Finding French literature in IUCAT",
    "Text_In_Translation": "À propos de la littérature française dans IUCAT"
  },
  {
@@ -1028,7 +1028,7 @@
  {
    "MARC_Code": "gae|gla",
    "Language_Name": "Scottish Gaelic",
-   "Button_Text": "About Scottish Gaelic literature in IUCAT",
+   "Button_Text": "Finding Scottish Gaelic literature in IUCAT",
    "Text_In_Translation": "Mu litreachas na Gàidhlig ann an IUCAT"
  },
  {
@@ -1124,7 +1124,7 @@
  {
    "MARC_Code": "ger",
    "Language_Name": "German",
-   "Button_Text": "About German literature in IUCAT",
+   "Button_Text": "Finding German literature in IUCAT",
    "Text_In_Translation": "Über deutsche Literatur in IUCAT"
  },
  {
@@ -1214,7 +1214,7 @@
  {
    "MARC_Code": "gle|iri",
    "Language_Name": "Irish",
-   "Button_Text": "About Irish literature in IUCAT",
+   "Button_Text": "Finding Irish literature in IUCAT",
    "Text_In_Translation": "Maidir le litríocht na hÉireann in IUCAT"
  },
  {
@@ -1286,7 +1286,7 @@
  {
    "MARC_Code": "gre",
    "Language_Name": "Greek (Modern)",
-   "Button_Text": "About Greek literature in IUCAT",
+   "Button_Text": "Finding Greek literature in IUCAT",
    "Text_In_Translation": "Σχετικά με την ελληνική λογοτεχνία στο IUCAT"
  },
  {
@@ -1394,7 +1394,7 @@
  {
    "MARC_Code": "hin",
    "Language_Name": "Hindi",
-   "Button_Text": "About Hindi literature in IUCAT",
+   "Button_Text": "Finding Hindi literature in IUCAT",
    "Text_In_Translation": "IUCAT में हिंदी साहित्य के बारे में"
  },
  {
@@ -1466,7 +1466,7 @@
  {
    "MARC_Code": "hrv|scr",
    "Language_Name": "Croatian",
-   "Button_Text": "About Croatian literature in IUCAT",
+   "Button_Text": "Finding Croatian literature in IUCAT",
    "Text_In_Translation": "O hrvatskoj književnosti u IUCAT-u"
  },
  {
@@ -1556,7 +1556,7 @@
  {
    "MARC_Code": "hun",
    "Language_Name": "Hungarian",
-   "Button_Text": "About Hungarian literature in IUCAT",
+   "Button_Text": "Finding Hungarian literature in IUCAT",
    "Text_In_Translation": "A magyar irodalomról az IUCAT-ban"
  },
  {
@@ -1634,7 +1634,7 @@
  {
    "MARC_Code": "ice",
    "Language_Name": "Icelandic",
-   "Button_Text": "About Icelandic literature in IUCAT",
+   "Button_Text": "Finding Icelandic literature in IUCAT",
    "Text_In_Translation": "Um íslenskar bókmenntir í IUCAT"
  },
  {
@@ -1742,7 +1742,7 @@
  {
    "MARC_Code": "ita",
    "Language_Name": "Italian",
-   "Button_Text": "About Italian literature in IUCAT",
+   "Button_Text": "Finding Italian literature in IUCAT",
    "Text_In_Translation": "Informazioni sulla letteratura italiana in IUCAT"
  },
  {
@@ -1874,7 +1874,7 @@
  {
    "MARC_Code": "jpn",
    "Language_Name": "Japanese",
-   "Button_Text": "About Japanese literature in IUCAT",
+   "Button_Text": "Finding Japanese literature in IUCAT",
    "Text_In_Translation": "IUCATにおける日本文学について"
  },
  {
@@ -2000,7 +2000,7 @@
  {
    "MARC_Code": "kor",
    "Language_Name": "Korean",
-   "Button_Text": "About Korean literature in IUCAT",
+   "Button_Text": "Finding Korean literature in IUCAT",
    "Text_In_Translation": "IUCAT 내 한국 문학 자료 안내"
  },
  {
@@ -2066,7 +2066,7 @@
  {
    "MARC_Code": "lan | pro",
    "Language_Name": "Occitan",
-   "Button_Text": "About Occitan literature in IUCAT",
+   "Button_Text": "Finding Occitan literature in IUCAT",
    "Text_In_Translation": "A prepaus de la literatura occitana dins l'IUCAT"
  },
  {
@@ -2150,7 +2150,7 @@
  {
    "MARC_Code": "lav",
    "Language_Name": "Latvian",
-   "Button_Text": "About Latvian literature in IUCAT",
+   "Button_Text": "Finding Latvian literature in IUCAT",
    "Text_In_Translation": "Par latviešu literatūru IUCAT"
  },
  {
@@ -2252,7 +2252,7 @@
  {
    "MARC_Code": "nor | nob | nno",
    "Language_Name": "Norwegian",
-   "Button_Text": "About Norwegian literature in IUCAT",
+   "Button_Text": "Finding Norwegian literature in IUCAT",
    "Text_In_Translation": "Om norsk litteratur i IUCAT"
  },
  {
@@ -2348,7 +2348,7 @@
  {
    "MARC_Code": "per | fas | tgk",
    "Language_Name": "Persian",
-   "Button_Text": "About Persian literature in IUCAT",
+   "Button_Text": "Finding Persian literature in IUCAT",
    "Text_In_Translation": "درباره ادبیات فارسی در IUCAT"
  },
  {
@@ -2444,7 +2444,7 @@
  {
    "MARC_Code": "pol",
    "Language_Name": "Polish",
-   "Button_Text": "About Polish literature in IUCAT",
+   "Button_Text": "Finding Polish literature in IUCAT",
    "Text_In_Translation": "O literaturze polskiej w katalogu IUCAT"
  },
  {
@@ -2582,7 +2582,7 @@
  {
    "MARC_Code": "por",
    "Language_Name": "Portuguese",
-   "Button_Text": "About Portuguese literature in IUCAT",
+   "Button_Text": "Finding Portuguese literature in IUCAT",
    "Text_In_Translation": "Sobre a literatura portuguesa no IUCAT"
  },
  {
@@ -2678,7 +2678,7 @@
  {
    "MARC_Code": "rum | mol",
    "Language_Name": "Romanian",
-   "Button_Text": "About Romanian literature in IUCAT",
+   "Button_Text": "Finding Romanian literature in IUCAT",
    "Text_In_Translation": "Despre literatura română în IUCAT"
  },
  {
@@ -2792,7 +2792,7 @@
  {
    "MARC_Code": "rus",
    "Language_Name": "Russian",
-   "Button_Text": "About Russian literature in IUCAT",
+   "Button_Text": "Finding Russian literature in IUCAT",
    "Text_In_Translation": "О русской литературе в каталоге IUCAT"
  },
  {
@@ -2864,7 +2864,7 @@
  {
    "MARC_Code": "scc|srp",
    "Language_Name": "Serbian",
-   "Button_Text": "About Serbian literature in IUCAT",
+   "Button_Text": "Finding Serbian literature in IUCAT",
    "Text_In_Translation": "О српској књижевности у IUCAT-у"
  },
  {
@@ -2930,7 +2930,7 @@
  {
    "MARC_Code": "sco",
    "Language_Name": "Scots",
-   "Button_Text": "About Scots literature in IUCAT",
+   "Button_Text": "Finding Scots literature in IUCAT",
    "Text_In_Translation": "Aboot Scots leeteratur in IUCAT"
  },
  {
@@ -3026,7 +3026,7 @@
  {
    "MARC_Code": "slo",
    "Language_Name": "Slovak",
-   "Button_Text": "About Slovak literature in IUCAT",
+   "Button_Text": "Finding Slovak literature in IUCAT",
    "Text_In_Translation": "O slovenskej literatúre v IUCAT"
  },
  {
@@ -3122,7 +3122,7 @@
  {
    "MARC_Code": "slv",
    "Language_Name": "Slovenian",
-   "Button_Text": "About Slovenian literature in IUCAT",
+   "Button_Text": "Finding Slovenian literature in IUCAT",
    "Text_In_Translation": "O slovenski literaturi v IUCAT"
  },
  {
@@ -3260,7 +3260,7 @@
  {
    "MARC_Code": "spa",
    "Language_Name": "Spanish",
-   "Button_Text": "About Spanish literature in IUCAT",
+   "Button_Text": "Finding Spanish literature in IUCAT",
    "Text_In_Translation": "Acerca de la literatura española en IUCAT"
  },
  {
@@ -3368,7 +3368,7 @@
  {
    "MARC_Code": "swe",
    "Language_Name": "Swedish",
-   "Button_Text": "About Swedish literature in IUCAT",
+   "Button_Text": "Finding Swedish literature in IUCAT",
    "Text_In_Translation": "Om svensk litteratur i IUCAT"
  },
  {
@@ -3458,7 +3458,7 @@
  {
    "MARC_Code": "ukr",
    "Language_Name": "Ukrainian",
-   "Button_Text": "About Ukrainian literature in IUCAT",
+   "Button_Text": "Finding Ukrainian literature in IUCAT",
    "Text_In_Translation": "Про українську літературу в IUCAT"
  },
  {
@@ -3536,7 +3536,7 @@
  {
    "MARC_Code": "wel",
    "Language_Name": "Welsh",
-   "Button_Text": "About Welsh literature in IUCAT",
+   "Button_Text": "Finding Welsh literature in IUCAT",
    "Text_In_Translation": "Ynglŷn â llenyddiaeth Cymru yn IUCAT"
  },
  {
@@ -3608,7 +3608,7 @@
  {
    "MARC_Code": "yid",
    "Language_Name": "Yiddish",
-   "Button_Text": "About Yiddish literature in IUCAT",
+   "Button_Text": "Finding Yiddish literature in IUCAT",
    "Text_In_Translation": "וועגן ייִדישער ליטעראַטור אין IUCAT"
  },
  {
