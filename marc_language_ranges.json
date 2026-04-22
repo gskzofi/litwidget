@@ -1818,12 +1818,12 @@
    "MARC_Code": "gle|iri",
    "Language_Name": "Irish",
    "Canonical_Display_Language": "Irish",
-   "Aliases": "irish | gaeilge | irish gaelic | gaelic (ireland) | gaeilge na h-éireann | gaeilge na heireann",
+   "Aliases": "irish | gaeilge | irish gaelic | gaelic (ireland) | gaeilge na h-éireann | gaeilge na heireann | gaelic",
    "LCC_Subclass": "PB",
    "Has_Literature_Range": "y",
    "LCC_Literature_Ranges": "PB1345-PB1399.999.999",
    "Search_Type": "range",
-   "Disambiguation": ""
+   "Disambiguation": "Irish Gaelic"
  },
  {
    "MARC_Code": "mga",
@@ -2676,12 +2676,12 @@
    "MARC_Code": "glv | max",
    "Language_Name": "Manx",
    "Canonical_Display_Language": "Manx",
-   "Aliases": "manx | gaelg | manx gaelic | gaelgagh",
+   "Aliases": "manx | gaelg | manx gaelic | gaelgagh | gaelic",
    "LCC_Subclass": "PB",
    "Has_Literature_Range": "y",
    "LCC_Literature_Ranges": "PB1858-PB1867.999",
    "Search_Type": "range",
-   "Disambiguation": ""
+   "Disambiguation": "Manx (Manx Gaelic)"
  },
  {
    "MARC_Code": "mao",
@@ -3611,12 +3611,12 @@
    "MARC_Code": "gae | gla",
    "Language_Name": "Scottish Gaelic",
    "Canonical_Display_Language": "Scottish Gaelic",
-   "Aliases": "scottish gaelic | gàidhlig | gaelic (scotland) | scots gaelic | scottish gaelic language | gàidhlig na h-alba | gaidhlig | gaelic scottish",
+   "Aliases": "scottish gaelic | gàidhlig | gaelic (scotland) | scots gaelic | scottish gaelic language | gàidhlig na h-alba | gaidhlig | gaelic scottish | gaelic | scottish",
    "LCC_Subclass": "PB",
    "Has_Literature_Range": "y",
    "LCC_Literature_Ranges": "PB1631-PB1670.999",
    "Search_Type": "range",
-   "Disambiguation": ""
+   "Disambiguation": "Scottish Gaelic"
  },
  {
    "MARC_Code": "sel",
