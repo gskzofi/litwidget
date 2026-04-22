@@ -114,7 +114,7 @@
     }
   },
   {
-    "MARC_Code": "nor | nob | nno",
+    "MARC_Code": "nor|nob|nno",
     "Language_Name": "Norwegian",
     "button_translations": {
       "16th-18th Century Norwegian Literature": "Norsk litteratur fra det 16. og 18. århundre",
@@ -783,7 +783,7 @@
     }
   },
   {
-    "MARC_Code": "lan | pro",
+    "MARC_Code": "lan|pro",
     "Language_Name": "Occitan",
     "button_translations": {
       "Collections of Occitan Literature": "Reculhs de literatura occitana",
@@ -807,7 +807,7 @@
     }
   },
   {
-    "MARC_Code": "per | fas | tgk",
+    "MARC_Code": "per|fas|tgk",
     "Language_Name": "Persian",
     "button_translations": {
       "Collections of Persian Literature": "مجموعه‌های ادبیات فارسی",
@@ -866,7 +866,7 @@
     }
   },
   {
-    "MARC_Code": "rum | mol",
+    "MARC_Code": "rum|mol",
     "Language_Name": "Romanian",
     "button_translations": {
       "Collections of Romanian Literature": "Colecții de literatură română",
@@ -1115,7 +1115,7 @@
     }
   },
   {
-    "MARC_Code": "dut | dum",
+    "MARC_Code": "dut|dum",
     "Language_Name": "Dutch",
     "button_translations": {
       "Medieval Dutch Literature": "Middeleeuwse Nederlandse literatuur"
