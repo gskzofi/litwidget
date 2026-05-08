@@ -31,7 +31,8 @@
       },
       {
         "button_text": "Afrikaans Children's and Juvenile Literature",
-        "call_number_ranges": "PT6547-PT6547.999|PZ11-PZ18.999"
+        "call_number_ranges": "PT6547-PT6547.999|PZ11-PZ18.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Afrikaans&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=PT6547*&search_field_row%5B%5D=callnumber&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -113,7 +114,8 @@
       },
       {
         "button_text": "Albanian Children's and Juvenile Literature",
-        "call_number_ranges": "PG9612.8-PG9612.8.999|PZ90.A4-PZ90.A4.999"
+        "call_number_ranges": "PG9612.8-PG9612.8.999|PZ90.A4-PZ90.A4.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Albanian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -162,7 +164,8 @@
       },
       {
         "button_text": "Arabic Children's and Juvenile Literature",
-        "call_number_ranges": "PJ7585-PJ7585.999|PZ10.72-PZ10.78.999"
+        "call_number_ranges": "PJ7585-PJ7585.999|PZ10.72-PZ10.78.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Arabic&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -188,10 +191,6 @@
         "button_text": "Basque Folk Literature",
         "call_number_ranges": "GR137.3-GR137.3.999",
         "subject_heading_or": "Folk literature, Basque"
-      },
-      {
-        "button_text": "Basque Children's and Juvenile Literature",
-        "call_number_ranges": "PH5298-PH5298.999"
       }
     ]
   },
@@ -232,7 +231,8 @@
       },
       {
         "button_text": "Bulgarian Children's and Juvenile Literature",
-        "call_number_ranges": "PG1019-PG1019.999|PZ70.B7-PZ70.B8"
+        "call_number_ranges": "PG1019-PG1019.999|PZ70.B7-PZ70.B8",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Bulgarian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -258,6 +258,11 @@
         "button_text": "Catalan Folk Literature",
         "call_number_ranges": "GR237.C3-GR237.C3.999",
         "subject_heading_or": "Folk literature, Catalan|Catalans--Folklore|Legends--Spain--Catalonia"
+      },
+      {
+        "button_text": "Children's and Juvenile Literature in Catalan",
+        "call_number_ranges": "PZ90.C3-PZ90.C3.ZZZZ"
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Catalan&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced",
       }
     ]
   },
@@ -318,7 +323,8 @@
       },
       {
         "button_text": "Chinese Children's and Juvenile Literature",
-        "call_number_ranges": "PL2449-PL2449.999|PZ10.82-PZ10.88.999"
+        "call_number_ranges": "PL2449-PL2449.999|PZ10.82-PZ10.88.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Chinese&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -344,6 +350,11 @@
         "button_text": "Croatian Folk Literature",
         "call_number_ranges": "PG1630-PG1639.999|GR263.C77-GR263.C779.999|GR254-GR254.999",
         "subject_heading_or": "Croatia--Folklore|Folk literature, Croatia"
+      },
+      {
+        "button_text": "Croatian Children's and Juvenile Literature",
+        "call_number_ranges": "PL2449-PL2449.999|PZ10.82-PZ10.88.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Croatian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -389,7 +400,13 @@
       {
         "button_text": "Danish Children's and Juvenile Literature",
         "call_number_ranges": "PT7935-PT7935.ZZZZ|PZ51-PZ54.3.999"
-      }]
+      },
+      {
+        "button_text": "Danish Children's and Juvenile Literature",
+        "call_number_ranges": "PL2449-PL2449.999|PZ10.82-PZ10.88.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Danish&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
+      }
+    ]
   },
   {
     "MARC_Code": "dut",
@@ -433,6 +450,11 @@
         "button_text": "Dutch Folk Literature",
         "call_number_ranges": "PT5351-PT5395.ZZZZ|GR180-GR182.999",
         "subject_heading_or": "Folk literature, Dutch|Netherlands--Folklore"
+      },
+      {
+        "button_text": "Dutch Children's and Juvenile Literature",
+        "call_number_ranges": "PL2449-PL2449.999|PZ10.82-PZ10.88.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Dutch&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -511,7 +533,9 @@
       },
       {
         "button_text": "Children's and Juvenile Literature in English",
-        "call_number_ranges": "PR990-PR990.999|PZ5-10.32-PZ5-10.32.999"
+        "call_number_ranges": "PR990-PR990.999|PZ5-10.32-PZ5-10.32.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=English&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
+      }
       }
     ]
   },
@@ -545,6 +569,8 @@
         "button_text": "Finnish Folk Literature",
         "call_number_ranges": "GR200-GR201.2.999",
         "subject_heading_or": "Finland--Folklore|Folk literature, Finnish"
+      },
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Finnish&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -597,7 +623,9 @@
       },
       {
         "button_text": "French Children's and Juvenile Literature",
-        "call_number_ranges": "PQ845-PQ845.999|PZ21-PZ28.999"
+        "call_number_ranges": "PQ845-PQ845.999|PZ21-PZ28.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=French&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
+      }
       }
     ]
   },
@@ -642,7 +670,9 @@
       },
       {
         "button_text": "German Children's and Juvenile Literature",
-        "call_number_ranges": "PT1021-PT1021.999|PZ31-PZ38.999"
+        "call_number_ranges": "PT1021-PT1021.999|PZ31-PZ38.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=German&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
+      }
       }
     ]
   },
@@ -703,7 +733,8 @@
       },
       {
         "button_text": "Greek Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.G7-PZ90.G7.999"
+        "call_number_ranges": "PZ90.G7-PZ90.G7.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Greek%2C+Modern+%281453-%29&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -756,7 +787,8 @@
       },
       {
         "button_text": "Hindi Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.H5-PZ90.H5.999"
+        "call_number_ranges": "PZ90.H5-PZ90.H5.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Hindi&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -797,7 +829,8 @@
       },
       {
         "button_text": "Hungarian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.H8-PZ90.H8.999|PH3130-PH3130.999"
+        "call_number_ranges": "PZ90.H8-PZ90.H8.999|PH3130-PH3130.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Hungarian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -994,7 +1027,8 @@
       },
       {
         "button_text": "Japanese Children's and Juvenile Literature",
-        "call_number_ranges": "PZ49.2-PZ49.8.999"
+        "call_number_ranges": "PZ49.2-PZ49.8.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Japanese&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1058,7 +1092,8 @@
       },
       {
         "button_text": "Korean Children's and Juvenile Literature",
-        "call_number_ranges": "PZ50.52-PZ50.58.999|PL969.5-PL969.5.999"
+        "call_number_ranges": "PZ50.52-PZ50.58.999|PL969.5-PL969.5.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Korean&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1093,7 +1128,8 @@
       },
       {
         "button_text": "Children's and Juvenile Literature in Latin",
-        "call_number_ranges": "PZ90.L3-PZ90.L3.999"
+        "call_number_ranges": "PZ90.L3-PZ90.L3.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Latin&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1129,7 +1165,8 @@
       },
       {
         "button_text": "Latvian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.L4-PZ90.L4.999|PG9020-PG9020.999"
+        "call_number_ranges": "PZ90.L4-PZ90.L4.999|PG9020-PG9020.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Latvian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1204,7 +1241,8 @@
       },
       {
         "button_text": "Norwegian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ54.4-PZ54.9.999|PT8640-PT8640.999"
+        "call_number_ranges": "PZ54.4-PZ54.9.999|PT8640-PT8640.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Norwegian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ],
     "language_facet": [
@@ -1336,7 +1374,8 @@
       },
       {
         "button_text": "Persian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.P4-PZ90.P4.999|PK6426.5-PK6426.5.999"
+        "call_number_ranges": "PZ90.P4-PZ90.P4.999|PK6426.5-PK6426.5.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Persian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ],
     "language_facet": [
@@ -1386,7 +1425,8 @@
       },
       {
         "button_text": "Polish Children's and Juvenile Literature",
-        "call_number_ranges": "PZ69-PZ69.999|PG7130-PG7130.999"
+        "call_number_ranges": "PZ69-PZ69.999|PG7130-PG7130.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Polish&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1456,7 +1496,8 @@
       },
       {
         "button_text": "Children's and Juvenile Literature in Portuguese",
-        "call_number_ranges": "PZ81-PZ88.999|PQ9129-PQ9129.999"
+        "call_number_ranges": "PZ81-PZ88.999|PQ9129-PQ9129.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Portuguese&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1500,7 +1541,8 @@
       },
       {
         "button_text": "Romanian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.R6-PZ90.R6.999|PC809.5-PC809.5.999"
+        "call_number_ranges": "PZ90.R6-PZ90.R6.999|PC809.5-PC809.5.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Romanian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ],
     "language_facet": [
@@ -1562,7 +1604,8 @@
       },
       {
         "button_text": "Russian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ61-PZ68.999|PZ90.R9-PZ90.R9.999"
+        "call_number_ranges": "PZ61-PZ68.999|PZ90.R9-PZ90.R9.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Russian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1611,6 +1654,11 @@
       {
         "button_text": "Sanskrit Literature in Translation",
         "call_number_ranges": "PK4471-PK4485.999"
+      },
+      {
+        "button_text": "Sanskrit Children's and Juvenile Literature",
+        "call_number_ranges": "PZ",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Sanskrit&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1632,10 +1680,6 @@
         "button_text": "Scots Folk Literature",
         "call_number_ranges": "GR143-GR145.999|PR8689-PR8689.999|PR8621-PR8624.999",
         "subject_heading_or": "Folk Literature, Scots|Scotland--Folklore"
-      },
-      {
-        "button_text": "Scots Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.S39-PZ90.S39.999|PR8625-PR8625.999"
       }
     ]
   },
@@ -1665,10 +1709,6 @@
         "button_text": "Scottish Gaelic Folk Literature",
         "call_number_ranges": "GR143-GR145.999|PB1645-PB1645.999",
         "subject_heading_or": "Folk Literature, Scottish Gaelic|Scotland--Folklore"
-      },
-      {
-        "button_text": "Scottish Gaelic Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.G2-PZ90.G2.999"
       }
     ]
   },
@@ -1697,7 +1737,8 @@
       },
       {
         "button_text": "Serbian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ70.S4-.S42---PZ70.S4-.S42--.999|PG1412.7-PG1412.7.999"
+        "call_number_ranges": "PZ70.S4-.S42---PZ70.S4-.S42--.999|PG1412.7-PG1412.7.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Serbian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1747,7 +1788,8 @@
       {
         "button_text": "Slovak Children's and Juvenile Literature",
         "call_number_ranges": "PZ70.S45-.PZ70S46-PZ70.S45-.PZ70S46.999|PG5419.5-PG5419.5.999"
-      }
+      },
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Slovak&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
     ]
   },
   {
@@ -1791,7 +1833,8 @@
       },
       {
         "button_text": "Slovenian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ70.S5-PZ70.S6|PG1912-PG1912.999"
+        "call_number_ranges": "PZ70.S5-PZ70.S6|PG1912-PG1912.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Slovenian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1867,7 +1910,8 @@
       },
       {
         "button_text": "Children's and Juvenile Literature in Spanish",
-        "call_number_ranges": "PZ71-PZ78.999|PQ7223-PQ7223.999"
+        "call_number_ranges": "PZ71-PZ78.999|PQ7223-PQ7223.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Spanish&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1920,7 +1964,8 @@
       },
       {
         "button_text": "Swedish Children's and Juvenile Literature",
-        "call_number_ranges": "PZ57-PZ60.3.999|PT9544-PT9544.999"
+        "call_number_ranges": "PZ57-PZ60.3.999|PT9544-PT9544.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Swedish&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1961,7 +2006,8 @@
       },
       {
         "button_text": "Ukrainian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ70.U7-PZ70.U72|PG3930-PG3930.999"
+        "call_number_ranges": "PZ70.U7-PZ70.U72|PG3930-PG3930.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Ukrainian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -1994,7 +2040,8 @@
       },
       {
         "button_text": "Welsh Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.W4-PZ90.W4.999"
+        "call_number_ranges": "PZ90.W4-PZ90.W4.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Welsh&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -2023,7 +2070,8 @@
       },
       {
         "button_text": "Yiddish Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.Y5-PZ90.Y5.999"
+        "call_number_ranges": "PZ90.Y5-PZ90.Y5.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Yiddish&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   }
