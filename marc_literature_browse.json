@@ -830,7 +830,8 @@
       },
       {
         "button_text": "Icelandic Children's and Juvenile Literature",
-        "call_number_ranges": "PT7442-PT7442.999|PZ55-PZ56.999"
+        "call_number_ranges": "PT7442-PT7442.999|PZ55-PZ56.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Icelandic&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -870,7 +871,8 @@
       },
       {
         "button_text": "Irish Children's and Juvenile Literature",
-        "call_number_ranges": "PZ90.I7-PZ90.I7.999"
+        "call_number_ranges": "PZ90.I7-PZ90.I7.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Irish&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -923,7 +925,8 @@
       },
       {
         "button_text": "Italian Children's and Juvenile Literature",
-        "call_number_ranges": "PZ41-PZ48.999|PQ4199.5-PQ4199.5.999"
+        "call_number_ranges": "PZ41-PZ48.999|PQ4199.5-PQ4199.5.999",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Italian&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
