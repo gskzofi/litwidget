@@ -1823,29 +1823,29 @@
    "Has_Literature_Range": "y",
    "LCC_Literature_Ranges": "PB1345-PB1399.999.999",
    "Search_Type": "range",
-   "Disambiguation": "Irish Gaelic"
+   "Disambiguation": "Irish (Modern)"
  },
  {
    "MARC_Code": "mga",
    "Language_Name": "Irish, Middle (ca. 1100-1550)",
    "Canonical_Display_Language": "Irish",
-   "Aliases": "middle irish | meán-gaeilge | mean-ghaeilge",
+   "Aliases": "middle irish | meán-gaeilge | mean-ghaeilge | gaelic",
    "LCC_Subclass": "PB",
    "Has_Literature_Range": "y",
    "LCC_Literature_Ranges": "PB1397-PB1397.999.999",
    "Search_Type": "range",
-   "Disambiguation": ""
+   "Disambiguation": "Irish, Middle (ca. 1100-1550)"
  },
  {
    "MARC_Code": "sga",
    "Language_Name": "Irish, Old (to 1100)",
    "Canonical_Display_Language": "Irish",
-   "Aliases": "old irish | gaeilge ársa | early irish | sean-ghaeilge",
+   "Aliases": "old irish | gaeilge ársa | early irish | sean-ghaeilge | gaelic",
    "LCC_Subclass": "PB",
    "Has_Literature_Range": "n",
    "LCC_Literature_Ranges": "",
    "Search_Type": "language",
-   "Disambiguation": ""
+   "Disambiguation": "Irish, Old (to 1100)"
  },
  {
    "MARC_Code": "ita",
