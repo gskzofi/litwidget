@@ -399,10 +399,6 @@
       },
       {
         "button_text": "Danish Children's and Juvenile Literature",
-        "call_number_ranges": "PT7935-PT7935.ZZZZ|PZ51-PZ54.3.999"
-      },
-      {
-        "button_text": "Danish Children's and Juvenile Literature",
         "call_number_ranges": "PL2449-PL2449.999|PZ10.82-PZ10.88.999",
         "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Danish&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
@@ -567,7 +563,11 @@
       {
         "button_text": "Finnish Folk Literature",
         "call_number_ranges": "GR200-GR201.2.999",
-        "subject_heading_or": "Finland--Folklore|Folk literature, Finnish",
+        "subject_heading_or": "Finland--Folklore|Folk literature, Finnish"
+      },
+      {
+        "button_text": "Finnish Children's and Juvenile Literature",
+        "call_number_ranges": "PZ.F",
         "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Finnish&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
@@ -1220,7 +1220,7 @@
       },
       {
         "button_text": "16th-18th Century Norwegian Literature",
-        "call_number_ranges": "call_number_ranges": "PT8750-PT8759.999|PT8760-PT8775.999"
+        "call_number_ranges": "PT8750-PT8759.999|PT8760-PT8775.999"
       },
       {
         "button_text": "Norwegian Literature (Nynorsk / Landsmål)",
@@ -1784,8 +1784,8 @@
       {
         "button_text": "Slovak Children's and Juvenile Literature",
         "call_number_ranges": "PZ70.S45-.PZ70S46-PZ70.S45-.PZ70S46.999|PG5419.5-PG5419.5.999"
-      },
         "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&f_inclusive%5Blanguage_facet%5D%5B%5D=Slovak&q_row%5B%5D=pz*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=AND&q_row%5B%5D=&search_field_row%5B%5D=all_fields&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
+      }
     ]
   },
   {
