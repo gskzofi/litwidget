@@ -1507,12 +1507,8 @@
         "subject_heading_or": "Romanian literature--Collections"
       },
       {
-        "button_text": "Romanian Literature 2001-present",
-        "call_number_ranges": "PC840.4-PC840.436.999"
-      },
-      {
-        "button_text": "Romanian Literature 1961-2000",
-        "call_number_ranges": "PC840-PC840.36.999"
+        "button_text": "Romanian Literature 1961-present",
+        "call_number_ranges": "PC840-PC840.436.999"
       },
       {
         "button_text": "Romanian Literature 1801-1960",
