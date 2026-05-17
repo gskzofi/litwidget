@@ -37,7 +37,7 @@
       "16th-18th Century Danish Literature": "Dansk litteratur fra det 16.-18. århundrede",
       "19th Century Danish Literature": "Dansk litteratur fra det 19. århundrede",
       "Collections of Danish Literature": "Samlinger af dansk litteratur",
-      "Danish  Children's and Juvenile Literature": "Dansk børne- og ungdomslitteratur",
+      "Danish Children's and Juvenile Literature": "Dansk børne- og ungdomslitteratur",
       "Danish Folk Literature": "Dansk folkelitteratur",
       "Danish Literature 1900-1960": "Dansk litteratur 1900-1960",
       "Danish Literature 1961-2000": "Dansk litteratur 1961-2000",
@@ -65,12 +65,13 @@
     "button_translations": {
       "16th-18th Century Dutch Literature": "Nederlandse literatuur 16e-18e eeuw",
       "Collections of Dutch Literature": "Collecties Nederlandse literatuur",
-      "Dutch  Children's and Juvenile Literature": "Nederlandstalige kinder- en jeugdliteratuur",
+      "Dutch Children's and Juvenile Literature": "Nederlandstalige kinder- en jeugdliteratuur",
       "Dutch Folk Literature": "Nederlandse volksliteratuur",
       "Dutch Literature 1800-1960": "Nederlandse literatuur 1800-1960",
       "Dutch Literature 1961-2000": "Nederlandse literatuur 1961-2000",
       "Dutch Literature 2001-present": "Nederlandse literatuur 2001-heden",
       "Dutch Literature in Translation": "Vertaalde Nederlandse literatuur"
+      "Medieval Dutch Literature": "Middeleeuwse Nederlandse literatuur"
     },
     "ui_strings": {
       "browse_label": "Doorzoek de Nederlandse literatuur per categorie:",
@@ -382,7 +383,7 @@
     "MARC_Code": "bul",
     "Language_Name": "Bulgarian",
     "button_translations": {
-      "Bulgarian  Children's and Juvenile Literature": "Българска детска и юношеска литература",
+      "Bulgarian Children's and Juvenile Literature": "Българска детска и юношеска литература",
       "Bulgarian Folk Literature": "Българска народна литература",
       "Bulgarian Literature in Translation": "Българска литература в превод",
       "Bulgarian Literature: 1801-1960": "Българска литература: 1801-1960",
@@ -468,7 +469,7 @@
     "Language_Name": "Croatian",
     "button_translations": {
       "Collections of Croatian Literature": "Zbirke hrvatske književnosti",
-      "Croatian  Children's and Juvenile Literature": "Hrvatska dječja i juvenilna književnost",
+      "Croatian Children's and Juvenile Literature": "Hrvatska dječja i juvenilna književnost",
       "Croatian Folk Literature": "Hrvatska narodna književnost",
       "Croatian Literature in Translation": "Hrvatska književnost u prijevodu",
       "Croatian Literature: Individual Authors": "Hrvatska književnost: Pojedinačni autori"
@@ -1112,13 +1113,6 @@
         "purchase_text": "פֿאָרשלאָגן אַ מאַטעריאַל קויפן"
       }
     }
-  },
-  {
-    "MARC_Code": "dut|dum",
-    "Language_Name": "Dutch",
-    "button_translations": {
-      "Medieval Dutch Literature": "Middeleeuwse Nederlandse literatuur"
-    },
-    "ui_strings": {}
+  }
   }
 ]
