@@ -70,7 +70,7 @@
       "Dutch Literature 1800-1960": "Nederlandse literatuur 1800-1960",
       "Dutch Literature 1961-2000": "Nederlandse literatuur 1961-2000",
       "Dutch Literature 2001-present": "Nederlandse literatuur 2001-heden",
-      "Dutch Literature in Translation": "Vertaalde Nederlandse literatuur"
+      "Dutch Literature in Translation": "Vertaalde Nederlandse literatuur",
       "Medieval Dutch Literature": "Middeleeuwse Nederlandse literatuur"
     },
     "ui_strings": {
@@ -1113,6 +1113,5 @@
         "purchase_text": "פֿאָרשלאָגן אַ מאַטעריאַל קויפן"
       }
     }
-  }
   }
 ]
