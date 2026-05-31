@@ -422,7 +422,7 @@
         "button_text": "Dutch Literature 1961-2000",
         "call_number_ranges": "PT5881-PT5881.36.999"
       },
-       {
+      {
         "button_text": "Dutch Literature 1800-1960",
         "call_number_ranges": "PT5800-PT5880.999"
       },
@@ -2072,7 +2072,8 @@
       {
         "button_text": "Collections of Armenian Literature",
         "call_number_ranges": "PK8531-PK8546.999",
-        "subject_heading_or": "Armenian literature--Collections"
+        "subject_heading_or": "Armenian literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK8531*+OR+PK8532*+OR+PK8533*+OR+PK8534*+OR+PK8535*+OR+PK8536*+OR+PK8537*+OR+PK8538*+OR+PK8539*+OR+PK8540*+OR+PK8541*+OR+PK8542*+OR+PK8543*+OR+PK8544*+OR+PK8545*+OR+PK8546*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Armenian%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Armenian Literature 2001-present",
@@ -2114,7 +2115,8 @@
       {
         "button_text": "Collections of Assamese Literature",
         "call_number_ranges": "PK1564.5-PK1565.999|PK1566-PK1568.5.999",
-        "subject_heading_or": "Assamese literature--Collections"
+        "subject_heading_or": "Assamese literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK1564*+OR+PK1565*+OR+PK1566*+OR+PK1567*+OR+PK1568*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Assamese%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Assamese Literature: Individual Authors or Works",
@@ -2137,17 +2139,9 @@
     "language_facet": "Azerbaijani",
     "options": [
       {
-        "button_text": "Collections of Azerbaijani Literature",
-        "call_number_ranges": "PL314.A2-PL314.A2.999",
-        "subject_heading_or": "Azerbaijani literature--Collections"
-      },
-      {
-        "button_text": "Azerbaijani Literature: Individual Authors or Works",
-        "call_number_ranges": "PL314.A3-PL314.Z5.999"
-      },
-      {
-        "button_text": "Azerbaijani Literature in Translation",
-        "call_number_ranges": "PL314.Z95A-PL314.Z95Z.999"
+        "button_text": "Azerbaijani Literature",
+        "call_number_ranges": "PL314.A-PL314.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Azerbaijani Folk Literature",
@@ -2167,13 +2161,9 @@
     "language_facet": "Bashkir",
     "options": [
       {
-        "button_text": "Collections of Bashkir Literature",
-        "call_number_ranges": "PL72.6-PL72.8.999",
-        "subject_heading_or": "Bashkir literature--Collections"
-      },
-      {
-        "button_text": "Bashkir Literature: Individual Authors or Works",
-        "call_number_ranges": "PL72.9.A-PL72.9.ZZZZ"
+        "button_text": "Bashkir Literature",
+        "call_number_ranges": "PL72.A-PL72.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Bashkir Folk Literature",
@@ -2195,7 +2185,8 @@
       {
         "button_text": "Collections of Bengali Literature",
         "call_number_ranges": "PK1712.5-PK1713.999|PK1714-PK1716.5.999|PK1717.A-PK1717.ZZZZ",
-        "subject_heading_or": "Bengali literature--Collections"
+        "subject_heading_or": "Bengali literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK1712*+OR+PK1713*+OR+PK1714*+OR+PK1715*+OR+PK1716*+OR+PK1717*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Bengali%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Bengali Literature: Anonymous Works",
@@ -2235,17 +2226,9 @@
     "language_facet": "Bhojpuri",
     "options": [
       {
-        "button_text": "Collections of Bhojpuri Literature",
-        "call_number_ranges": "PK1828.A2-PK1828.A2.999",
-        "subject_heading_or": "Bhojpuri literature--Collections"
-      },
-      {
-        "button_text": "Bhojpuri Literature: Individual Authors or Works",
-        "call_number_ranges": "PK1828.A3-PK1828.Z5.999"
-      },
-      {
-        "button_text": "Bhojpuri Literature in Translation",
-        "call_number_ranges": "PK1828.Z95A-PK1828.Z95Z.999"
+        "button_text": "Bhojpuri Literature",
+        "call_number_ranges": "PK1828.A-PK1828.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Bhojpuri Folk Literature",
@@ -2260,17 +2243,9 @@
     "language_facet": "Braj",
     "options": [
       {
-        "button_text": "Collections of Braj Literature",
-        "call_number_ranges": "PK1967.45-PK1967.5.999|PK1967.57-PK1967.85.ZZZZ",
-        "subject_heading_or": "Braj literature--Collections"
-      },
-      {
-        "button_text": "Braj Literature: Individual Authors or Works",
-        "call_number_ranges": "PK1967.9.A-PK1967.9.ZZZZ"
-      },
-      {
-        "button_text": "Braj Literature in Translation",
-        "call_number_ranges": "PK1967.55.A-PK1967.55.ZZZZ"
+        "button_text": "Braj Literature",
+        "call_number_ranges": "PK1967.A-PK1967.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Braj Folk Literature",
@@ -2287,7 +2262,8 @@
       {
         "button_text": "Collections of Burmese Literature",
         "call_number_ranges": "PL3982.5-PL3983.999|PL3984-PL3987.ZZZZ",
-        "subject_heading_or": "Burmese literature--Collections"
+        "subject_heading_or": "Burmese literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PL3982*+OR+PL3983*+OR+PL3984*+OR+PL3985*+OR+PL3986*+OR+PL3987*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Burmese%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Burmese Literature: Individual Authors or Works",
@@ -2310,13 +2286,9 @@
     "language_facet": "Chagatai",
     "options": [
       {
-        "button_text": "Collections of Chagatai Literature",
-        "call_number_ranges": "PL53.6-PL53.8.999",
-        "subject_heading_or": "Chagatai literature--Collections"
-      },
-      {
-        "button_text": "Chagatai Literature: Individual Authors or Works",
-        "call_number_ranges": "PL53.9.A-PL53.9.ZZZZ"
+        "button_text": "Chagatai Literature",
+        "call_number_ranges": "PL53.A-PL53.ZZZZ",
+        "order": 1
       }
     ]
   },
@@ -2326,13 +2298,9 @@
     "language_facet": "Chechen",
     "options": [
       {
-        "button_text": "Collections of Chechen Literature",
-        "call_number_ranges": "PK9201.C36-PK9201.C39.999",
-        "subject_heading_or": "Chechen literature--Collections"
-      },
-      {
-        "button_text": "Chechen Literature: Individual Authors or Works",
-        "call_number_ranges": "PK9201.C39A-PK9201.C39Z.999"
+        "button_text": "Chechen Literature",
+        "call_number_ranges": "PK9201.A-PK9201.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Chechen Folk Literature",
@@ -2347,17 +2315,9 @@
     "language_facet": "Chuvash",
     "options": [
       {
-        "button_text": "Collections of Chuvash Literature",
-        "call_number_ranges": "PL384.A2-PL384.A2.999",
-        "subject_heading_or": "Chuvash literature--Collections"
-      },
-      {
-        "button_text": "Chuvash Literature: Individual Authors or Works",
-        "call_number_ranges": "PL384.A3-PL384.Z5.999"
-      },
-      {
-        "button_text": "Chuvash Literature in Translation",
-        "call_number_ranges": "PL384.Z95A-PL384.Z95Z.999"
+        "button_text": "Chuvash Literature",
+        "call_number_ranges": "PL384.A-PL384.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Chuvash Folk Literature",
@@ -2377,17 +2337,9 @@
     "language_facet": "Cree",
     "options": [
       {
-        "button_text": "Collections of Cree Literature",
-        "call_number_ranges": "PM989.A2-PM989.A2.999",
-        "subject_heading_or": "Cree literature--Collections"
-      },
-      {
-        "button_text": "Cree Literature: Individual Authors or Works",
-        "call_number_ranges": "PM989.A3-PM989.Z5.999"
-      },
-      {
-        "button_text": "Cree Literature in Translation",
-        "call_number_ranges": "PM989.Z95A-PM989.Z95Z.999"
+        "button_text": "Cree Literature",
+        "call_number_ranges": "PM989.A-PM989.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Cree Folk Literature",
@@ -2407,12 +2359,9 @@
     "language_facet": "Fon",
     "options": [
       {
-        "button_text": "Collections of Fon Literature",
-        "call_number_ranges": "PL8178.6-PL8178.8.999"
-      },
-      {
-        "button_text": "Fon Literature: Individual Authors or Works",
-        "call_number_ranges": "PL8178.9.A-PL8178.9.ZZZZ"
+        "button_text": "Fon Literature",
+        "call_number_ranges": "PL8178.A-PL8178.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Fon Folk Literature",
@@ -2429,7 +2378,8 @@
       {
         "button_text": "Collections of Georgian Literature",
         "call_number_ranges": "PK9164.5-PK9165.999|PK9166-PK9168.5.999|PK9168.5.A-PK9168.5.ZZZZ",
-        "subject_heading_or": "Georgian literature--Collections"
+        "subject_heading_or": "Georgian literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK9164*+OR+PK9165*+OR+PK9166*+OR+PK9167*+OR+PK9168*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Georgian%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Georgian Literature: Individual Authors or Works",
@@ -2454,7 +2404,8 @@
       {
         "button_text": "Collections of Gujarati Literature",
         "call_number_ranges": "PK1854.5-PK1855.999|PK1856-PK1858.5.999|PK1858.5.A-PK1858.5.ZZZZ",
-        "subject_heading_or": "Gujarati literature--Collections"
+        "subject_heading_or": "Gujarati literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK1854*+OR+PK1855*+OR+PK1856*+OR+PK1857*+OR+PK1858*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Gujarati%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Gujarati Literature: Individual Authors or Works",
@@ -2482,17 +2433,9 @@
     "language_facet": "Hausa",
     "options": [
       {
-        "button_text": "Collections of Hausa Literature",
-        "call_number_ranges": "PL8234.A2-PL8234.A2.999",
-        "subject_heading_or": "Hausa literature--Collections"
-      },
-      {
-        "button_text": "Hausa Literature: Individual Authors or Works",
-        "call_number_ranges": "PL8234.A3-PL8234.Z5.999"
-      },
-      {
-        "button_text": "Hausa Literature in Translation",
-        "call_number_ranges": "PL8234.Z95A-PL8234.Z95Z.999"
+        "button_text": "Hausa Literature",
+        "call_number_ranges": "PL8234.A-PL8234.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Hausa Folk Literature",
@@ -2561,13 +2504,9 @@
     "language_facet": "Igbo",
     "options": [
       {
-        "button_text": "Collections of Igbo Literature",
-        "call_number_ranges": "PL8261.6-PL8261.8.999",
-        "subject_heading_or": "Igbo literature--Collections"
-      },
-      {
-        "button_text": "Igbo Literature: Individual Authors or Works",
-        "call_number_ranges": "PL8261.9.A-PL8261.9.ZZZZ"
+        "button_text": "Igbo Literature",
+        "call_number_ranges": "PL8261.A-PL8261.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Igbo Folk Literature",
@@ -2584,7 +2523,8 @@
       {
         "button_text": "Collections of Indonesian Literature",
         "call_number_ranges": "PL5084.5-PL5088.999|PL5088.5.A-PL5088.5.ZZZZ",
-        "subject_heading_or": "Indonesian literature--Collections"
+        "subject_heading_or": "Indonesian literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PL5084*+OR+PL5085*+OR+PL5086*+OR+PL5087*+OR+PL5088*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Indonesian%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Indonesian Literature: Individual Authors or Works",
@@ -2610,7 +2550,8 @@
       {
         "button_text": "Collections of Javanese Literature",
         "call_number_ranges": "PL5174.5-PL5178.999|PL5178.5.A-PL5178.5.ZZZZ",
-        "subject_heading_or": "Javanese literature--Collections"
+        "subject_heading_or": "Javanese literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PL5174*+OR+PL5175*+OR+PL5176*+OR+PL5177*+OR+PL5178*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Javanese%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Javanese Literature: Individual Authors or Works",
@@ -2631,7 +2572,8 @@
       {
         "button_text": "Collections of Kannada Literature",
         "call_number_ranges": "PL4654.5-PL4658.999|PL4658.5.A-PL4658.5.ZZZZ",
-        "subject_heading_or": "Kannada literature--Collections"
+        "subject_heading_or": "Kannada literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PL4654*+OR+PL4655*+OR+PL4656*+OR+PL4657*+OR+PL4658*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Kannada%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Kannada Literature: Individual Authors or Works",
@@ -2675,13 +2617,9 @@
     "language_facet": "Kazakh",
     "options": [
       {
-        "button_text": "Collections of Kazakh Literature",
-        "call_number_ranges": "PL76.6-PL76.8.999",
-        "subject_heading_or": "Kazakh literature--Collections"
-      },
-      {
-        "button_text": "Kazakh Literature: Individual Authors or Works",
-        "call_number_ranges": "PL76.9.A-PL76.9.ZZZZ"
+        "button_text": "Kazakh Literature",
+        "call_number_ranges": "PL76.A-PL76.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Kazakh Folk Literature",
@@ -2701,13 +2639,9 @@
     "language_facet": "Khmer",
     "options": [
       {
-        "button_text": "Collections of Khmer Literature",
-        "call_number_ranges": "PL4328.45-PL4328.82.999|PL4328.85.A-PL4328.85.ZZZZ",
-        "subject_heading_or": "Khmer literature--Collections"
-      },
-      {
-        "button_text": "Khmer Literature: Individual Authors or Works",
-        "call_number_ranges": "PL4328.9.A-PL4328.9.ZZZZ"
+        "button_text": "Khmer Literature",
+        "call_number_ranges": "PL4328.A-PL4328.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Khmer Folk Literature",
@@ -2722,13 +2656,9 @@
     "language_facet": "Konkani",
     "options": [
       {
-        "button_text": "Collections of Konkani Literature",
-        "call_number_ranges": "PK2238.45-PK2238.82.999|PK2238.85.A-PK2238.85.ZZZZ",
-        "subject_heading_or": "Konkani literature--Collections"
-      },
-      {
-        "button_text": "Konkani Literature: Individual Authors or Works",
-        "call_number_ranges": "PK2238.9.A-PK2238.9.ZZZZ"
+        "button_text": "Konkani Literature",
+        "call_number_ranges": "PK2238.A-PK2238.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Konkani Folk Literature",
@@ -2743,13 +2673,9 @@
     "language_facet": "Kurdish",
     "options": [
       {
-        "button_text": "Collections of Kurdish Literature",
-        "call_number_ranges": "PK6908.45-PK6908.82.999|PK6908.85.A-PK6908.85.ZZZZ",
-        "subject_heading_or": "Kurdish literature--Collections"
-      },
-      {
-        "button_text": "Kurdish Literature: Individual Authors or Works",
-        "call_number_ranges": "PK6908.9.A-PK6908.9.ZZZZ"
+        "button_text": "Kurdish Literature",
+        "call_number_ranges": "PK6908.A-PK6908.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Kurdish Folk Literature",
@@ -2764,13 +2690,9 @@
     "language_facet": "Kyrgyz",
     "options": [
       {
-        "button_text": "Collections of Kyrgyz Literature",
-        "call_number_ranges": "PL44.6-PL44.8.999",
-        "subject_heading_or": "Kyrgyz literature--Collections"
-      },
-      {
-        "button_text": "Kyrgyz Literature: Individual Authors or Works",
-        "call_number_ranges": "PL44.9.A-PL44.9.ZZZZ"
+        "button_text": "Kyrgyz Literature",
+        "call_number_ranges": "PL44.A-PL44.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Kyrgyz Folk Literature",
@@ -2810,13 +2732,9 @@
     "language_facet": "Lao",
     "options": [
       {
-        "button_text": "Collections of Lao Literature",
-        "call_number_ranges": "PL4236.6-PL4236.8.999",
-        "subject_heading_or": "Lao literature--Collections"
-      },
-      {
-        "button_text": "Lao Literature: Individual Authors or Works",
-        "call_number_ranges": "PL4236.9.A-PL4236.9.ZZZZ"
+        "button_text": "Lao Literature",
+        "call_number_ranges": "PL4236.A-PL4236.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Lao Folk Literature",
@@ -2831,13 +2749,9 @@
     "language_facet": "Maithili",
     "options": [
       {
-        "button_text": "Collections of Maithili Literature",
-        "call_number_ranges": "PK1818.45-PK1818.82.999|PK1818.85.A-PK1818.85.ZZZZ",
-        "subject_heading_or": "Maithili literature--Collections"
-      },
-      {
-        "button_text": "Maithili Literature: Individual Authors or Works",
-        "call_number_ranges": "PK1818.9.A-PK1818.9.ZZZZ"
+        "button_text": "Maithili Literature",
+        "call_number_ranges": "PK1818.A-PK1818.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Maithili Folk Literature",
@@ -2854,7 +2768,8 @@
       {
         "button_text": "Collections of Malay Literature",
         "call_number_ranges": "PL5134.5-PL5138.999|PL5138.5.A-PL5138.5.ZZZZ",
-        "subject_heading_or": "Malay literature--Collections"
+        "subject_heading_or": "Malay literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PL5134*+OR+PL5135*+OR+PL5136*+OR+PL5137*+OR+PL5138*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Malay%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Malay Literature: Individual Authors or Works",
@@ -2878,13 +2793,9 @@
     "language_facet": "Malayalam",
     "options": [
       {
-        "button_text": "Collections of Malayalam Literature",
-        "call_number_ranges": "PL4718.45-PL4718.82.999|PL4718.85.A-PL4718.85.ZZZZ",
-        "subject_heading_or": "Malayalam literature--Collections"
-      },
-      {
-        "button_text": "Malayalam Literature: Individual Authors or Works",
-        "call_number_ranges": "PL4718.9.A-PL4718.9.ZZZZ"
+        "button_text": "Malayalam Literature",
+        "call_number_ranges": "PL4718.A-PL4718.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Malayalam Folk Literature",
@@ -2899,13 +2810,9 @@
     "language_facet": "Manipuri",
     "options": [
       {
-        "button_text": "Collections of Manipuri Literature",
-        "call_number_ranges": "PL4001.M316-PL4001.M319.999",
-        "subject_heading_or": "Manipuri literature--Collections"
-      },
-      {
-        "button_text": "Manipuri Literature: Individual Authors or Works",
-        "call_number_ranges": "PL4001.M319A-PL4001.M319Z.999"
+        "button_text": "Manipuri Literature",
+        "call_number_ranges": "PL4001.A-PL4001.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Manipuri Folk Literature",
@@ -2922,7 +2829,8 @@
       {
         "button_text": "Collections of Marathi Literature",
         "call_number_ranges": "PK2412.5-PK2416.5.999|PK2417.A-PK2417.ZZZZ",
-        "subject_heading_or": "Marathi literature--Collections"
+        "subject_heading_or": "Marathi literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK2412*+OR+PK2413*+OR+PK2414*+OR+PK2415*+OR+PK2416*+OR+PK2417*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Marathi%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Marathi Literature: Individual Authors or Works",
@@ -2964,7 +2872,8 @@
       {
         "button_text": "Collections of Mongolian Literature",
         "call_number_ranges": "PL414.5-PL418.999|PL418.5.A-PL418.5.ZZZZ",
-        "subject_heading_or": "Mongolian literature--Collections"
+        "subject_heading_or": "Mongolian literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PL414*+OR+PL415*+OR+PL416*+OR+PL417*+OR+PL418*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Mongolian%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Mongolian Literature: Individual Authors or Works",
@@ -2988,13 +2897,9 @@
     "language_facet": "Nahuatl",
     "options": [
       {
-        "button_text": "Collections of Nahuatl Literature",
-        "call_number_ranges": "PM4068.45-PM4068.82.999|PM4068.85.A-PM4068.85.ZZZZ",
-        "subject_heading_or": "Nahuatl literature--Collections"
-      },
-      {
-        "button_text": "Nahuatl Literature: Individual Authors or Works",
-        "call_number_ranges": "PM4068.9.A-PM4068.9.ZZZZ"
+        "button_text": "Nahuatl Literature",
+        "call_number_ranges": "PM4068.A-PM4068.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Nahuatl Folk Literature",
@@ -3009,17 +2914,9 @@
     "language_facet": "Nepali",
     "options": [
       {
-        "button_text": "Collections of Nepali Literature",
-        "call_number_ranges": "PK2598.A2-PK2598.A2.999|PK2598.Z9A-PK2598.Z9Z.999",
-        "subject_heading_or": "Nepali literature--Collections"
-      },
-      {
-        "button_text": "Nepali Literature: Individual Authors or Works",
-        "call_number_ranges": "PK2598.A3-PK2598.Z5.999"
-      },
-      {
-        "button_text": "Nepali Literature in Translation",
-        "call_number_ranges": "PK2598.Z95A-PK2598.Z95Z.999"
+        "button_text": "Nepali Literature",
+        "call_number_ranges": "PK2598.A-PK2598.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Nepali Folk Literature",
@@ -3034,13 +2931,9 @@
     "language_facet": "Ojibwa",
     "options": [
       {
-        "button_text": "Collections of Ojibwa Literature",
-        "call_number_ranges": "PM854.A2-PM854.A2.999",
-        "subject_heading_or": "Ojibwa literature--Collections"
-      },
-      {
-        "button_text": "Ojibwa Literature: Individual Authors or Works",
-        "call_number_ranges": "PM854.A3-PM854.Z5.999"
+        "button_text": "Ojibwa Literature",
+        "call_number_ranges": "PM854.A-PM854.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Ojibwa Folk Literature",
@@ -3062,7 +2955,8 @@
       {
         "button_text": "Collections of Oriya Literature",
         "call_number_ranges": "PK2574.5-PK2578.999|PK2578.5.A-PK2578.5.ZZZZ",
-        "subject_heading_or": "Oriya literature--Collections"
+        "subject_heading_or": "Oriya literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK2574*+OR+PK2575*+OR+PK2576*+OR+PK2577*+OR+PK2578*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Oriya%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Oriya Literature: Individual Authors or Works",
@@ -3081,13 +2975,9 @@
     "language_facet": "Ossetic",
     "options": [
       {
-        "button_text": "Collections of Ossetic Literature",
-        "call_number_ranges": "PK6958.45-PK6958.82.999|PK6958.85.A-PK6958.85.ZZZZ",
-        "subject_heading_or": "Ossetic literature--Collections"
-      },
-      {
-        "button_text": "Ossetic Literature: Individual Authors or Works",
-        "call_number_ranges": "PK6958.9.A-PK6958.9.ZZZZ"
+        "button_text": "Ossetic Literature",
+        "call_number_ranges": "PK6958.A-PK6958.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Ossetic Folk Literature",
@@ -3104,7 +2994,8 @@
       {
         "button_text": "Collections of Panjabi Literature",
         "call_number_ranges": "PK2654.5-PK2658.999|PK2658.5.A-PK2658.5.ZZZZ",
-        "subject_heading_or": "Panjabi literature--Collections"
+        "subject_heading_or": "Panjabi literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK2654*+OR+PK2655*+OR+PK2656*+OR+PK2657*+OR+PK2658*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Panjabi%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Panjabi Literature: Individual Authors or Works",
@@ -3125,7 +3016,8 @@
       {
         "button_text": "Collections of Pushto Literature",
         "call_number_ranges": "PK6812.5-PK6816.5.999|PK6817.A-PK6817.ZZZZ",
-        "subject_heading_or": "Pushto literature--Collections"
+        "subject_heading_or": "Pushto literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK6812*+OR+PK6813*+OR+PK6814*+OR+PK6815*+OR+PK6816*+OR+PK6817*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Pushto%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Pushto Literature: Individual Authors or Works, 21st century",
@@ -3156,13 +3048,9 @@
     "language_facet": "Quechua",
     "options": [
       {
-        "button_text": "Collections of Quechua Literature",
-        "call_number_ranges": "PM6308.45-PM6308.82.999|PM6308.85.A-PM6308.85.ZZZZ",
-        "subject_heading_or": "Quechua literature--Collections"
-      },
-      {
-        "button_text": "Quechua Literature: Individual Authors or Works",
-        "call_number_ranges": "PM6308.9.A-PM6308.9.ZZZZ"
+        "button_text": "Quechua Literature",
+        "call_number_ranges": "PM6308.A-PM6308.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Quechua Folk Literature",
@@ -3177,13 +3065,9 @@
     "language_facet": "Rajasthani",
     "options": [
       {
-        "button_text": "Collections of Rajasthani Literature",
-        "call_number_ranges": "PK2708.45-PK2708.82.999|PK2708.85.A-PK2708.85.ZZZZ",
-        "subject_heading_or": "Rajasthani literature--Collections"
-      },
-      {
-        "button_text": "Rajasthani Literature: Individual Authors or Works",
-        "call_number_ranges": "PK2708.9.A-PK2708.9.ZZZZ"
+        "button_text": "Rajasthani Literature",
+        "call_number_ranges": "PK2708.A-PK2708.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Rajasthani Folk Literature",
@@ -3198,13 +3082,9 @@
     "language_facet": "Romani",
     "options": [
       {
-        "button_text": "Collections of Romani Literature",
-        "call_number_ranges": "PK2899.A2-PK2899.A2.999",
-        "subject_heading_or": "Romani literature--Collections"
-      },
-      {
-        "button_text": "Romani Literature: Individual Authors or Works",
-        "call_number_ranges": "PK2899.A3-PK2899.Z5.999"
+        "button_text": "Romani Literature",
+        "call_number_ranges": "PK2899.A-PK2899.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Romani Folk Literature",
@@ -3244,13 +3124,9 @@
     "language_facet": "Sindhi",
     "options": [
       {
-        "button_text": "Collections of Sindhi Literature",
-        "call_number_ranges": "PK2788.45-PK2788.82.999|PK2788.85.A-PK2788.85.ZZZZ",
-        "subject_heading_or": "Sindhi literature--Collections"
-      },
-      {
-        "button_text": "Sindhi Literature: Individual Authors or Works",
-        "call_number_ranges": "PK2788.9.A-PK2788.9.ZZZZ"
+        "button_text": "Sindhi Literature",
+        "call_number_ranges": "PK2788.A-PK2788.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Sindhi Folk Literature",
@@ -3267,7 +3143,8 @@
       {
         "button_text": "Collections of Sinhalese Literature",
         "call_number_ranges": "PK2854.5-PK2858.999|PK2858.5.A-PK2858.5.ZZZZ",
-        "subject_heading_or": "Sinhalese literature--Collections"
+        "subject_heading_or": "Sinhalese literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PK2854*+OR+PK2855*+OR+PK2856*+OR+PK2857*+OR+PK2858*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Sinhalese%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Sinhalese Literature: Individual Authors or Works",
@@ -3286,17 +3163,9 @@
     "language_facet": "Somali",
     "options": [
       {
-        "button_text": "Collections of Somali Literature",
-        "call_number_ranges": "PJ2534.A2-PJ2534.A2.999",
-        "subject_heading_or": "Somali literature--Collections"
-      },
-      {
-        "button_text": "Somali Literature: Individual Authors or Works",
-        "call_number_ranges": "PJ2534.A3-PJ2534.Z5.999"
-      },
-      {
-        "button_text": "Somali Literature in Translation",
-        "call_number_ranges": "PJ2534.Z95A-PJ2534.Z95Z.999"
+        "button_text": "Somali Literature",
+        "call_number_ranges": "PJ2534.A-PJ2534.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Somali Folk Literature",
@@ -3348,17 +3217,9 @@
     "language_facet": "Swahili",
     "options": [
       {
-        "button_text": "Collections of Swahili Literature",
-        "call_number_ranges": "PL8704.A2-PL8704.A2.999",
-        "subject_heading_or": "Swahili literature--Collections"
-      },
-      {
-        "button_text": "Swahili Literature: Individual Authors or Works",
-        "call_number_ranges": "PL8704.A3-PL8704.Z5.999"
-      },
-      {
-        "button_text": "Swahili Literature in Translation",
-        "call_number_ranges": "PL8704.Z95A-PL8704.Z95Z.999"
+        "button_text": "Swahili Literature",
+        "call_number_ranges": "PL8704.A-PL8704.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Swahili Folk Literature",
@@ -3407,13 +3268,9 @@
     "language_facet": "Tagalog",
     "options": [
       {
-        "button_text": "Collections of Tagalog Literature",
-        "call_number_ranges": "PL6058.45-PL6058.82.999|PL6058.85.A-PL6058.85.ZZZZ",
-        "subject_heading_or": "Tagalog literature--Collections"
-      },
-      {
-        "button_text": "Tagalog Literature: Individual Authors or Works",
-        "call_number_ranges": "PL6058.9.A-PL6058.9.ZZZZ"
+        "button_text": "Tagalog Literature",
+        "call_number_ranges": "PL6058.A-PL6058.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Tagalog Folk Literature",
@@ -3433,13 +3290,9 @@
     "language_facet": "Tamil",
     "options": [
       {
-        "button_text": "Collections of Tamil Literature",
-        "call_number_ranges": "PL4758.45-PL4758.82.999|PL4758.85.A-PL4758.85.ZZZZ",
-        "subject_heading_or": "Tamil literature--Collections"
-      },
-      {
-        "button_text": "Tamil Literature: Individual Authors or Works",
-        "call_number_ranges": "PL4758.9.A-PL4758.9.ZZZZ"
+        "button_text": "Tamil Literature",
+        "call_number_ranges": "PL4758.A-PL4758.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Tamil Folk Literature",
@@ -3454,13 +3307,9 @@
     "language_facet": "Tatar",
     "options": [
       {
-        "button_text": "Collections of Tatar Literature",
-        "call_number_ranges": "PL73.6-PL73.8.999",
-        "subject_heading_or": "Tatar literature--Collections"
-      },
-      {
-        "button_text": "Tatar Literature: Individual Authors or Works",
-        "call_number_ranges": "PL73.9.A-PL73.9.ZZZZ"
+        "button_text": "Tatar Literature",
+        "call_number_ranges": "PL73.A-PL73.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Tatar Folk Literature",
@@ -3480,13 +3329,9 @@
     "language_facet": "Telugu",
     "options": [
       {
-        "button_text": "Collections of Telugu Literature",
-        "call_number_ranges": "PL4780.45-PL4780.82.999|PL4780.85.A-PL4780.85.ZZZZ",
-        "subject_heading_or": "Telugu literature--Collections"
-      },
-      {
-        "button_text": "Telugu Literature: Individual Authors or Works",
-        "call_number_ranges": "PL4780.9.A-PL4780.9.ZZZZ"
+        "button_text": "Telugu Literature",
+        "call_number_ranges": "PL4780.A-PL4780.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Telugu Folk Literature",
@@ -3503,7 +3348,8 @@
       {
         "button_text": "Collections of Thai Literature",
         "call_number_ranges": "PL4204.5-PL4208.999|PL4208.5.A-PL4208.5.ZZZZ",
-        "subject_heading_or": "Thai literature--Collections"
+        "subject_heading_or": "Thai literature--Collections",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=PL4204*+OR+PL4205*+OR+PL4206*+OR+PL4207*+OR+PL4208*&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=Thai%20literature--Collections&search_field_row%5B%5D=subject&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Thai Literature: Individual Authors or Works",
@@ -3616,13 +3462,9 @@
     "language_facet": "Uighur",
     "options": [
       {
-        "button_text": "Collections of Uighur Literature",
-        "call_number_ranges": "PL54.66-PL54.68.999",
-        "subject_heading_or": "Uighur literature--Collections"
-      },
-      {
-        "button_text": "Uighur Literature: Individual Authors or Works",
-        "call_number_ranges": "PL54.69.A-PL54.69.ZZZZ"
+        "button_text": "Uighur Literature",
+        "call_number_ranges": "PL54.A-PL54.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Uighur Folk Literature",
@@ -3679,13 +3521,9 @@
     "language_facet": "Uzbek",
     "options": [
       {
-        "button_text": "Collections of Uzbek Literature",
-        "call_number_ranges": "PL56.6-PL56.8.999",
-        "subject_heading_or": "Uzbek literature--Collections"
-      },
-      {
-        "button_text": "Uzbek Literature: Individual Authors or Works",
-        "call_number_ranges": "PL56.9.A-PL56.9.ZZZZ"
+        "button_text": "Uzbek Literature",
+        "call_number_ranges": "PL56.A-PL56.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Uzbek Folk Literature",
@@ -3705,13 +3543,9 @@
     "language_facet": "Vietnamese",
     "options": [
       {
-        "button_text": "Collections of Vietnamese Literature",
-        "call_number_ranges": "PL4378.45-PL4378.82.999|PL4378.85.A-PL4378.85.ZZZZ",
-        "subject_heading_or": "Vietnamese literature--Collections"
-      },
-      {
-        "button_text": "Vietnamese Literature: Individual Authors or Works",
-        "call_number_ranges": "PL4378.9.A-PL4378.9.ZZZZ"
+        "button_text": "Vietnamese Literature",
+        "call_number_ranges": "PL4378.A-PL4378.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Vietnamese Folk Literature",
@@ -3731,13 +3565,9 @@
     "language_facet": "Wolof",
     "options": [
       {
-        "button_text": "Collections of Wolof Literature",
-        "call_number_ranges": "PL8785.6-PL8785.8.999",
-        "subject_heading_or": "Wolof literature--Collections"
-      },
-      {
-        "button_text": "Wolof Literature: Individual Authors or Works",
-        "call_number_ranges": "PL8785.9.A-PL8785.9.ZZZZ"
+        "button_text": "Wolof Literature",
+        "call_number_ranges": "PL8785.A-PL8785.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Wolof Folk Literature",
@@ -3752,13 +3582,9 @@
     "language_facet": "Xhosa",
     "options": [
       {
-        "button_text": "Collections of Xhosa Literature",
-        "call_number_ranges": "PL8795.6-PL8795.8.999",
-        "subject_heading_or": "Xhosa literature--Collections"
-      },
-      {
-        "button_text": "Xhosa Literature: Individual Authors or Works",
-        "call_number_ranges": "PL8795.9.A-PL8795.9.ZZZZ"
+        "button_text": "Xhosa Literature",
+        "call_number_ranges": "PL8795.A-PL8795.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Xhosa Folk Literature",
@@ -3773,13 +3599,9 @@
     "language_facet": "Yakut",
     "options": [
       {
-        "button_text": "Collections of Yakut Literature",
-        "call_number_ranges": "PL364.A2-PL364.A2.999",
-        "subject_heading_or": "Yakut literature--Collections"
-      },
-      {
-        "button_text": "Yakut Literature: Individual Authors or Works",
-        "call_number_ranges": "PL364.A3-PL364.Z5.999"
+        "button_text": "Yakut Literature",
+        "call_number_ranges": "PL364.A-PL364.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Yakut Folk Literature",
@@ -3794,13 +3616,9 @@
     "language_facet": "Yoruba",
     "options": [
       {
-        "button_text": "Collections of Yoruba Literature",
-        "call_number_ranges": "PL8824.A2-PL8824.A2.999",
-        "subject_heading_or": "Yoruba literature--Collections"
-      },
-      {
-        "button_text": "Yoruba Literature: Individual Authors or Works",
-        "call_number_ranges": "PL8824.A3-PL8824.Z5.999"
+        "button_text": "Yoruba Literature",
+        "call_number_ranges": "PL8824.A-PL8824.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Yoruba Folk Literature",
@@ -3815,17 +3633,9 @@
     "language_facet": "Zulu",
     "options": [
       {
-        "button_text": "Collections of Zulu Literature",
-        "call_number_ranges": "PL8844.A2-PL8844.A2.999",
-        "subject_heading_or": "Zulu literature--Collections"
-      },
-      {
-        "button_text": "Zulu Literature: Individual Authors or Works",
-        "call_number_ranges": "PL8844.A3-PL8844.Z5.999"
-      },
-      {
-        "button_text": "Zulu Literature in Translation",
-        "call_number_ranges": "PL8844.Z95A-PL8844.Z95Z.999"
+        "button_text": "Zulu Literature",
+        "call_number_ranges": "PL8844.A-PL8844.ZZZZ",
+        "order": 1
       },
       {
         "button_text": "Zulu Folk Literature",
@@ -3840,4 +3650,3 @@
     ]
   }
 ]
-
