@@ -1113,5 +1113,1020 @@
         "purchase_text": "פֿאָרשלאָגן אַ מאַטעריאַל קויפן"
       }
     }
+  },
+  {
+    "MARC_Code": "arm",
+    "Language_Name": "Armenian",
+    "button_translations": {
+      "Collections of Armenian Literature": "Armenian գրականության ժողովածուներ",
+      "Armenian Literature 2001-present": "Armenian գրականություն 2001-մինչ օրս",
+      "Armenian Literature 1801-2000": "Armenian գրականություն 1801-2000",
+      "Armenian Literature to 1800": "Armenian գրականություն 1800 մինչև",
+      "Armenian Literature by Region, Province, or Place": "Armenian գրականություն ըստ տարածաշրջանի, նահանգի կամ վայրի",
+      "Armenian Literature in Translation": "Armenian գրականությունը թարգմանության մեջ",
+      "Armenian Folk Literature": "Armenian ժողովրդական գրականություն",
+      "Armenian Children's and Juvenile Literature": "Armenian մանկական և պատանեկան գրականություն"
+    },
+    "ui_strings": {
+      "browse_label": "Զննեք Armenian գրականությունը ըստ կատեգորիայի.",
+      "explore_all": "Զննեք IU Libraries-ի բոլոր հավաքածուները Armenian լեզվով",
+      "about_heading": "Գտնել Armenian գրականություն IUCAT-ում",
+      "about_body": "Armenian գրականության մեծ մասը դասակարգված է PK8531-PK8549.999 դասանիշների միջակայքում։ Վերևի կատեգորիաները ընդգրկում են այդ միջակայքի հիմնական ենթաբաժինները։ Կարող եք նաև ներքևի հղումներով զննել IU Libraries-ի բոլոր նյութերը Armenian լեզվով կամ դրա մասին՝ ներառյալ գրականությունը, քննադատությունը, տեղեկատու նյութերը և ավելին։",
+      "disclaimer": "Խնդրում ենք նկատի ունենալ, որ այս արդյունքները նախատեսված են IU-ի հավաքածուները զննելուն օգնելու համար և կարող են լիովին սպառիչ չլինել։ Որոշ նյութեր կարող են դասակարգված լինել այս միջակայքներից դուրս կամ առանձին նկարագրված լինել։ Ավելի լայն որոնման համար օգտագործեք ներքևի «Զննել բոլոր հավաքածուները» և բանալի բառով որոնման հղումները։",
+      "keyword_search": "Որոնել «Armenian» որպես բանալի բառ IUCAT-ում",
+      "search_tip": "Որոնման հուշում. IUCAT-ի ձախ կողային վահանակից կարող եք հստակեցնել արդյունքները ըստ հեղինակի, լեզվի, տարվա, ձևաչափի և այլ չափանիշների։",
+      "still_looking": {
+        "text": "Դեռ չե՞ք գտնում այն, ինչ փնտրում եք։ Կապ հաստատեք գրադարանավարի հետ կամ առաջարկեք նյութի ձեռքբերում։",
+        "librarian_text": "Կապ հաստատեք գրադարանավարի հետ",
+        "purchase_text": "առաջարկեք նյութի ձեռքբերում"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "aze",
+    "Language_Name": "Azerbaijani",
+    "button_translations": {
+      "Collections of Azerbaijani Literature": "Azerbaijani ədəbiyyatı kolleksiyaları",
+      "Azerbaijani Literature: Individual Authors or Works": "Azerbaijani ədəbiyyatı: ayrı-ayrı müəlliflər və ya əsərlər",
+      "Azerbaijani Literature in Translation": "Azerbaijani ədəbiyyatı tərcümədə",
+      "Azerbaijani Folk Literature": "Azerbaijani xalq ədəbiyyatı",
+      "Azerbaijani Children's and Juvenile Literature": "Azerbaijani uşaq və yeniyetmə ədəbiyyatı"
+    },
+    "ui_strings": {
+      "browse_label": "Azerbaijani ədəbiyyatını kateqoriyaya görə nəzərdən keçirin:",
+      "explore_all": "IU Libraries-in Azerbaijani dilində olan bütün kolleksiyalarını nəzərdən keçirin",
+      "about_heading": "IUCAT-da Azerbaijani ədəbiyyatını tapmaq",
+      "about_body": "Azerbaijani ədəbiyyatının böyük hissəsi PL314.A2-PL314.A3ZZZ çağırış nömrəsi aralığında kataloqlaşdırılıb. Yuxarıdakı kateqoriyalar bu aralığın əsas alt bölmələrini əhatə edir. Aşağıdakı keçidlərdən istifadə edərək IU Libraries-də Azerbaijani dilində və ya bu dil haqqında olan bütün materialları, o cümlədən ədəbiyyat, tənqid, sorğu nəşrləri və daha çoxunu da nəzərdən keçirə bilərsiniz.",
+      "disclaimer": "Nəzərə alın ki, bu nəticələr IU kolleksiyalarını nəzərdən keçirməyə kömək etmək üçün verilir və tam olmaya bilər. Bəzi materiallar bu aralıqlardan kənarda yerləşə və ya ayrıca kataloqlaşdırıla bilər. Daha geniş əhatə üçün aşağıdakı “bütün kolleksiyaları nəzərdən keçirin” və açar söz axtarışı keçidlərindən istifadə edin.",
+      "keyword_search": "IUCAT-da “Azerbaijani” sözünü açar söz kimi axtarın",
+      "search_tip": "Axtarış məsləhəti: IUCAT-da nəticələri müəllif, dil, il, format və digər meyarlara görə daraltmaq üçün sol yan paneldən istifadə edin.",
+      "still_looking": {
+        "text": "Axtardığınızı hələ də tapa bilmirsiniz? Kitabxanaçı ilə əlaqə saxlayın və ya material alınmasını təklif edin.",
+        "librarian_text": "Kitabxanaçı ilə əlaqə saxlayın",
+        "purchase_text": "material alınmasını təklif edin"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "ben",
+    "Language_Name": "Bengali",
+    "button_translations": {
+      "Collections of Bengali Literature": "Bengali সাহিত্যের সংগ্রহ",
+      "Bengali Literature: Anonymous Works": "Bengali সাহিত্য: : Anonymous Works",
+      "Bengali Literature: Individual Authors, 2001-present": "Bengali সাহিত্য: পৃথক লেখক বা রচনা, 2001-বর্তমান পর্যন্ত",
+      "Bengali Literature: Individual Authors, 1961-2000": "Bengali সাহিত্য: পৃথক লেখক বা রচনা, 1961-2000",
+      "Bengali Literature: Individual Authors, through 1960": "Bengali সাহিত্য: পৃথক লেখক বা রচনা, 1960 পর্যন্ত",
+      "Bengali Literature in Translation": "অনুবাদে Bengali সাহিত্য",
+      "Bengali Folk Literature": "Bengali লোকসাহিত্য",
+      "Bengali Children's and Juvenile Literature": "Bengali শিশু ও কিশোর সাহিত্য"
+    },
+    "ui_strings": {
+      "browse_label": "বিভাগ অনুযায়ী Bengali সাহিত্য ব্রাউজ করুন:",
+      "explore_all": "IU Libraries-এ Bengali ভাষার সব সংগ্রহ ব্রাউজ করুন",
+      "about_heading": "IUCAT-এ Bengali সাহিত্য খোঁজা",
+      "about_body": "Bengali সাহিত্যের অধিকাংশ PK1712.5-PK1731.46.999 কল নম্বর পরিসরে ক্যাটালগ করা হয়েছে। উপরের বিভাগগুলি এই পরিসরের প্রধান উপবিভাগগুলি অন্তর্ভুক্ত করে। নিচের লিংক ব্যবহার করে আপনি IU Libraries-এ Bengali ভাষায় বা Bengali সম্পর্কে সব উপকরণও ব্রাউজ করতে পারেন, যার মধ্যে সাহিত্য, সমালোচনা, রেফারেন্স গ্রন্থ এবং আরও অনেক কিছু রয়েছে।",
+      "disclaimer": "অনুগ্রহ করে মনে রাখবেন, এই ফলাফলগুলি IU-এর সংগ্রহ ব্রাউজ করতে সহায়তা করার জন্য এবং সম্পূর্ণ নাও হতে পারে। কিছু উপকরণ এই কল নম্বর পরিসরের বাইরে থাকতে পারে বা আলাদাভাবে ক্যাটালগ করা হতে পারে। আরও বিস্তৃত অনুসন্ধানের জন্য নিচের “সব সংগ্রহ ব্রাউজ করুন” এবং কীওয়ার্ড অনুসন্ধানের লিংক ব্যবহার করুন।",
+      "keyword_search": "IUCAT-এ “Bengali” কীওয়ার্ড হিসেবে অনুসন্ধান করুন",
+      "search_tip": "অনুসন্ধান টিপ: IUCAT-এ লেখক, ভাষা, বছর, ফরম্যাট এবং আরও অনেক কিছু অনুযায়ী ফলাফল সীমিত করতে বাম পাশের প্যানেল ব্যবহার করুন।",
+      "still_looking": {
+        "text": "আপনি যা খুঁজছেন তা এখনও খুঁজে পাচ্ছেন না? একজন গ্রন্থাগারিকের সঙ্গে যোগাযোগ করুন অথবা উপকরণ কেনার পরামর্শ দিন।",
+        "librarian_text": "একজন গ্রন্থাগারিকের সঙ্গে যোগাযোগ করুন",
+        "purchase_text": "উপকরণ কেনার পরামর্শ দিন"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "bur",
+    "Language_Name": "Burmese",
+    "button_translations": {
+      "Collections of Burmese Literature": "Burmese စာပေ စုစည်းမှုများ",
+      "Burmese Literature: Individual Authors or Works": "Burmese စာပေ: စာရေးသူတစ်ဦးချင်း သို့မဟုတ် လက်ရာများ",
+      "Burmese Literature in Translation": "ဘာသာပြန်ထားသော Burmese စာပေ",
+      "Burmese Folk Literature": "Burmese ရိုးရာစာပေ"
+    },
+    "ui_strings": {
+      "browse_label": "Burmese စာပေကို အမျိုးအစားအလိုက် ကြည့်ရှုပါ:",
+      "explore_all": "IU Libraries ရှိ Burmese ဘာသာစကားပစ္စည်းအားလုံးကို ကြည့်ရှုပါ",
+      "about_heading": "IUCAT တွင် Burmese စာပေကို ရှာဖွေခြင်း",
+      "about_body": "Burmese စာပေအများစုကို PL3982.5-PL3989.999 ခေါ်နံပါတ်အပိုင်းအခြားအောက်တွင် စာရင်းသွင်းထားပါသည်။ အထက်ပါ အမျိုးအစားများသည် ထိုအပိုင်းအခြား၏ အဓိကခွဲခြားမှုများကို ဖုံးလွှမ်းထားပါသည်။ အောက်ပါလင့်များကို အသုံးပြု၍ IU Libraries ရှိ Burmese ဘာသာဖြင့် သို့မဟုတ် Burmese အကြောင်းရှိ ပစ္စည်းများအားလုံးကိုလည်း ကြည့်ရှုနိုင်ပါသည်။",
+      "disclaimer": "ဤရလဒ်များသည် IU စုဆောင်းမှုများကို ကြည့်ရှုရာတွင် အကူအညီဖြစ်စေရန် ရည်ရွယ်ထားပြီး ပြည့်စုံမှုမရှိနိုင်ကြောင်း သတိပြုပါ။ အချို့သော ပစ္စည်းများသည် ဤအပိုင်းအခြားများ၏ အပြင်ဘက်တွင် ရှိနိုင်သည် သို့မဟုတ် သီးခြားစာရင်းသွင်းထားနိုင်သည်။ ပိုမိုကျယ်ပြန့်သော ရှာဖွေမှုအတွက် အောက်ပါ “စုဆောင်းမှုအားလုံး ကြည့်ရှုရန်” နှင့် keyword ရှာဖွေရန် လင့်များကို အသုံးပြုပါ။",
+      "keyword_search": "IUCAT တွင် “Burmese” ကို keyword အဖြစ် ရှာဖွေပါ",
+      "search_tip": "ရှာဖွေရေး အကြံပြုချက်: IUCAT ၏ ဘယ်ဘက် panel ကို အသုံးပြု၍ စာရေးသူ၊ ဘာသာစကား၊ နှစ်၊ format စသည်တို့အလိုက် ရလဒ်များကို စစ်ထုတ်နိုင်ပါသည်။",
+      "still_looking": {
+        "text": "သင်ရှာနေသောအရာကို မတွေ့သေးပါက စာကြည့်တိုက်မှူးနှင့် ဆက်သွယ်ပါ သို့မဟုတ် ပစ္စည်းဝယ်ယူရန် အကြံပြုပါ။",
+        "librarian_text": "စာကြည့်တိုက်မှူးနှင့် ဆက်သွယ်ပါ",
+        "purchase_text": "ပစ္စည်းဝယ်ယူရန် အကြံပြုပါ"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "geo",
+    "Language_Name": "Georgian",
+    "button_translations": {
+      "Collections of Georgian Literature": "Georgian ლიტერატურის კრებულები",
+      "Georgian Literature: Individual Authors or Works": "Georgian ლიტერატურა: ცალკეული ავტორები ან ნაწარმოებები",
+      "Georgian Literature in Translation": "Georgian ლიტერატურა თარგმანში",
+      "Georgian Folk Literature": "Georgian ხალხური ლიტერატურა"
+    },
+    "ui_strings": {
+      "browse_label": "დაათვალიერეთ Georgian ლიტერატურა კატეგორიის მიხედვით:",
+      "explore_all": "დაათვალიერეთ IU Libraries-ის ყველა კოლექცია Georgian ენაზე",
+      "about_heading": "Georgian ლიტერატურის პოვნა IUCAT-ში",
+      "about_body": "Georgian ლიტერატურის უმეტესობა კატალოგში შეტანილია საკლასიფიკაციო ნომრების დიაპაზონში PK9164.5-PK9169.999. ზემოთ მოცემული კატეგორიები მოიცავს ამ დიაპაზონის ძირითად ქვედანაყოფებს. ქვემოთ მოცემული ბმულებით ასევე შეგიძლიათ დაათვალიეროთ IU Libraries-ის ყველა მასალა Georgian ენაზე ან მის შესახებ, მათ შორის ლიტერატურა, კრიტიკა, საცნობარო გამოცემები და სხვა.",
+      "disclaimer": "გთხოვთ გაითვალისწინოთ, რომ ეს შედეგები IU-ის კოლექციების დათვალიერებაში დასახმარებლად არის განკუთვნილი და შესაძლოა სრულყოფილი არ იყოს. ზოგიერთი მასალა შეიძლება ამ დიაპაზონებს გარეთ იყოს კლასიფიცირებული ან ცალკე კატალოგიზებული. უფრო ფართო ძიებისთვის გამოიყენეთ ქვემოთ მოცემული „ყველა კოლექციის დათვალიერება“ და საკვანძო სიტყვის ძიების ბმულები.",
+      "keyword_search": "მოძებნეთ “Georgian” როგორც საკვანძო სიტყვა IUCAT-ში",
+      "search_tip": "ძიების რჩევა: IUCAT-ის მარცხენა გვერდითი პანელი გამოიყენეთ შედეგების ავტორის, ენის, წლის, ფორმატის და სხვა კრიტერიუმებით დასაზუსტებლად.",
+      "still_looking": {
+        "text": "ჯერ კიდევ ვერ პოულობთ იმას, რასაც ეძებთ? დაუკავშირდით ბიბლიოთეკარს ან შესთავაზეთ მასალის შეძენა.",
+        "librarian_text": "დაუკავშირდით ბიბლიოთეკარს",
+        "purchase_text": "შესთავაზეთ მასალის შეძენა"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "guj",
+    "Language_Name": "Gujarati",
+    "button_translations": {
+      "Collections of Gujarati Literature": "Gujarati સાહિત્યના સંગ્રહો",
+      "Gujarati Literature: Individual Authors or Works": "Gujarati સાહિત્ય: વ્યક્તિગત લેખકો અથવા કૃતિઓ",
+      "Gujarati Literature in Translation": "અનુવાદમાં Gujarati સાહિત્ય",
+      "Gujarati Folk Literature": "Gujarati લોકસાહિત્ય",
+      "Gujarati Children's and Juvenile Literature": "Gujarati બાળ અને કિશોર સાહિત્ય"
+    },
+    "ui_strings": {
+      "browse_label": "Gujarati સાહિત્યને શ્રેણી પ્રમાણે બ્રાઉઝ કરો:",
+      "explore_all": "IU Libraries માં Gujarati ભાષાની બધી સંગ્રહિત સામગ્રી બ્રાઉઝ કરો",
+      "about_heading": "IUCAT માં Gujarati સાહિત્ય શોધવું",
+      "about_body": "Gujarati સાહિત્યનો મોટાભાગનો ભાગ PK1854.5-PK1859.999 કોલ નંબર શ્રેણીમાં કેટલોગ કરવામાં આવ્યો છે. ઉપરની શ્રેણીઓ આ શ્રેણીના મુખ્ય ઉપવિભાગોને આવરી લે છે. નીચેની લિંક્સનો ઉપયોગ કરીને તમે IU Libraries માં Gujarati ભાષામાં અથવા તેના વિષેની બધી સામગ્રી પણ બ્રાઉઝ કરી શકો છો, જેમાં સાહિત્ય, ટીકા, સંદર્ભ પુસ્તકો અને વધુનો સમાવેશ થાય છે.",
+      "disclaimer": "કૃપા કરીને નોંધો કે આ પરિણામો IU ની સંગ્રહિત સામગ્રી બ્રાઉઝ કરવામાં મદદ કરવા માટે છે અને સંપૂર્ણ ન પણ હોઈ શકે. કેટલીક સામગ્રી આ કોલ નંબર શ્રેણી બહાર વર્ગીકૃત થયેલી હોઈ શકે છે અથવા અલગથી કેટલોગ થયેલી હોઈ શકે છે. વધુ વ્યાપક શોધ માટે નીચેની “બધી સંગ્રહિત સામગ્રી બ્રાઉઝ કરો” અને કીવર્ડ શોધ લિંક્સનો ઉપયોગ કરો.",
+      "keyword_search": "IUCAT માં “Gujarati” ને કીવર્ડ તરીકે શોધો",
+      "search_tip": "શોધ સૂચન: IUCAT માં લેખક, ભાષા, વર્ષ, સ્વરૂપ અને અન્ય માપદંડો મુજબ પરિણામોને સીમિત કરવા માટે ડાબી બાજુના પેનલનો ઉપયોગ કરો.",
+      "still_looking": {
+        "text": "શું તમે હજી પણ જે શોધી રહ્યા છો તે મળી રહ્યું નથી? ગ્રંથપાલનો સંપર્ક કરો અથવા સામગ્રી ખરીદવાની ભલામણ કરો.",
+        "librarian_text": "ગ્રંથપાલનો સંપર્ક કરો",
+        "purchase_text": "સામગ્રી ખરીદવાની ભલામણ કરો"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "hau",
+    "Language_Name": "Hausa",
+    "button_translations": {
+      "Collections of Hausa Literature": "Tarin adabin Hausa",
+      "Hausa Literature: Individual Authors or Works": "Adabin Hausa: marubuta ko ayyuka na mutum ɗaya",
+      "Hausa Literature in Translation": "Adabin Hausa a fassara",
+      "Hausa Folk Literature": "Adabin gargajiya na Hausa",
+      "Hausa Children's and Juvenile Literature": "Adabin yara da matasa na Hausa"
+    },
+    "ui_strings": {
+      "browse_label": "Bincika adabin Hausa bisa rukuni:",
+      "explore_all": "Bincika duk tarin IU Libraries a cikin Hausa",
+      "about_heading": "Nemo adabin Hausa a IUCAT",
+      "about_body": "Yawancin adabin Hausa an tsara shi a cikin zangon lambar kira PL8234.A2-PL8234.Z5ZZZ. Rukunan da ke sama suna rufe manyan sassan wannan zango. Hakanan za ku iya bincika duk kayan IU Libraries a cikin Hausa ko game da Hausa, ciki har da adabi, nazari, littattafan tunani, da sauransu, ta hanyar hanyoyin da ke ƙasa.",
+      "disclaimer": "Da fatan a lura cewa waɗannan sakamakon an shirya su ne don taimaka muku bincika tarin IU, kuma wataƙila ba su ƙunshi komai ba. Wasu kayan na iya kasancewa a wajen waɗannan zanguna ko kuma an tsara su daban. Don faɗaɗa bincike, yi amfani da hanyoyin “bincika duk tarin” da binciken kalmar maɓalli a ƙasa.",
+      "keyword_search": "Nemi “Hausa” a matsayin kalmar maɓalli a IUCAT",
+      "search_tip": "Shawarwarin bincike: Yi amfani da gefen hagu a IUCAT don tace sakamakonku ta marubuci, harshe, shekara, tsari, da sauransu.",
+      "still_looking": {
+        "text": "Har yanzu ba ku sami abin da kuke nema ba? Tuntuɓi ma’aikacin ɗakin karatu ko ba da shawarar sayen kayan karatu.",
+        "librarian_text": "Tuntuɓi ma’aikacin ɗakin karatu",
+        "purchase_text": "ba da shawarar sayen kayan karatu"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "heb",
+    "Language_Name": "Hebrew",
+    "button_translations": {
+      "Collections of Hebrew Literature": "אוספי ספרות Hebrew",
+      "Hebrew Literature: Individual Authors or Works, 1990-present": "ספרות Hebrew: מחברים או יצירות בודדים, 1990-עד היום",
+      "Hebrew Literature: Individual Authors or Works, 1945-1990": "ספרות Hebrew: מחברים או יצירות בודדים, 1945-1990",
+      "Hebrew Literature: Individual Authors or Works, 1885-1945": "ספרות Hebrew: מחברים או יצירות בודדים, 1885-1945",
+      "Hebrew Literature: Individual Authors or Works, 1820-1885": "ספרות Hebrew: מחברים או יצירות בודדים, 1820-1885",
+      "Hebrew Literature: Individual Authors or Works, 1701-1820": "ספרות Hebrew: מחברים או יצירות בודדים, 1701-1820",
+      "Hebrew Literature: Individual Authors or Works, Medieval through 1700": "ספרות Hebrew: מחברים או יצירות בודדים, Medieval עד 1700",
+      "Hebrew Literature in Translation": "ספרות Hebrew בתרגום",
+      "Hebrew Inscriptions": "כתובות Hebrew",
+      "Hebrew Children's and Juvenile Literature": "ספרות ילדים ונוער Hebrew"
+    },
+    "ui_strings": {
+      "browse_label": "עיינו בספרות Hebrew לפי קטגוריה:",
+      "explore_all": "עיינו בכל האוספים של IU Libraries בשפת Hebrew",
+      "about_heading": "איתור ספרות Hebrew ב-IUCAT",
+      "about_body": "רוב ספרות Hebrew מקוטלגת בטווח סימני המדף PJ5035-PJ5050-5055.51.999. הקטגוריות שלעיל מכסות את תתי-החלוקות העיקריים של טווח זה. ניתן גם לעיין בכל החומרים של IU Libraries בשפת Hebrew או עליה, כולל ספרות, ביקורת, ספרי עיון ועוד, באמצעות הקישורים שלהלן.",
+      "disclaimer": "לתשומת לבכם: תוצאות אלה נועדו לסייע בעיון באוספי IU ואינן בהכרח ממצות. ייתכן שחומרים מסוימים מסווגים מחוץ לטווחים אלה או מקוטלגים בנפרד. לכיסוי רחב יותר השתמשו בקישורי “עיון בכל האוספים” ובחיפוש לפי מילת מפתח להלן.",
+      "keyword_search": "חפשו את “Hebrew” כמילת מפתח ב-IUCAT",
+      "search_tip": "טיפ לחיפוש: השתמשו בסרגל הצד השמאלי ב-IUCAT כדי לצמצם תוצאות לפי מחבר, שפה, שנה, פורמט ועוד.",
+      "still_looking": {
+        "text": "עדיין לא מצאתם את מה שחיפשתם? צרו קשר עם ספרן או הציעו רכישת חומר.",
+        "librarian_text": "צרו קשר עם ספרן",
+        "purchase_text": "הציעו רכישת חומר"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "ibo",
+    "Language_Name": "Igbo",
+    "button_translations": {
+      "Collections of Igbo Literature": "Nchịkọta akwụkwọ Igbo",
+      "Igbo Literature: Individual Authors or Works": "Akwụkwọ Igbo: ndị odee ma ọ bụ ọrụ nke ọ bụla",
+      "Igbo Folk Literature": "Akwụkwọ ọdịnala Igbo"
+    },
+    "ui_strings": {
+      "browse_label": "Chọgharịa akwụkwọ Igbo site na ngalaba:",
+      "explore_all": "Chọgharịa nchịkọta IU Libraries niile dị na Igbo",
+      "about_heading": "Ịchọta akwụkwọ Igbo na IUCAT",
+      "about_body": "A na-edekọ ọtụtụ akwụkwọ Igbo n’okpuru oke nọmba oku PL8261.6-PL8261.9.999. Ngalaba ndị dị n’elu na-ekpuchi isi nkewa dị na oke a. Ị nwekwara ike iji njikọ ndị dị n’okpuru chọgharịa ihe niile IU Libraries nwere na Igbo ma ọ bụ gbasara Igbo, gụnyere akwụkwọ, nyocha, akwụkwọ ntụaka, na ndị ọzọ.",
+      "disclaimer": "Biko mara na ebumnuche nsonaazụ ndị a bụ inyere gị aka ịchọgharị nchịkọta IU, ma ha nwere ike ghara izu oke. Ụfọdụ ihe nwere ike ịdị n’èzí oke ndị a ma ọ bụ depụta iche. Jiri njikọ “chọgharịa nchịkọta niile” na ọchụchọ okwu isi dị n’okpuru maka mkpuchi sara mbara.",
+      "keyword_search": "Chọọ “Igbo” dị ka okwu isi na IUCAT",
+      "search_tip": "Ndụmọdụ ọchụchọ: Jiri panel dị n’aka ekpe na IUCAT mee ka nsonaazụ gị doo anya site na odee, asụsụ, afọ, ụdị, na ndị ọzọ.",
+      "still_looking": {
+        "text": "Ị ka na-ahụbeghị ihe ị na-achọ? Kpọtụrụ onye na-elekọta ọbá akwụkwọ ma ọ bụ tụọ aro ka a zụta ihe.",
+        "librarian_text": "Kpọtụrụ onye na-elekọta ọbá akwụkwọ",
+        "purchase_text": "tụọ aro ka a zụta ihe"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "ind",
+    "Language_Name": "Indonesian",
+    "button_translations": {
+      "Collections of Indonesian Literature": "Koleksi sastra Indonesian",
+      "Indonesian Literature: Individual Authors or Works": "Sastra Indonesian: penulis atau karya perorangan",
+      "Indonesian Folk Literature": "Sastra rakyat Indonesian",
+      "Indonesian Children's and Juvenile Literature": "Sastra anak-anak dan remaja Indonesian"
+    },
+    "ui_strings": {
+      "browse_label": "Jelajahi sastra Indonesian menurut kategori:",
+      "explore_all": "Jelajahi semua koleksi IU Libraries dalam bahasa Indonesian",
+      "about_heading": "Menemukan sastra Indonesian di IUCAT",
+      "about_body": "Sebagian besar sastra Indonesian dikatalogkan dalam rentang nomor panggil PL5084.5-PL5089.999. Kategori di atas mencakup subdivisi utama dari rentang tersebut. Anda juga dapat menjelajahi semua bahan IU Libraries dalam atau tentang Indonesian, termasuk sastra, kritik, karya rujukan, dan lainnya, melalui tautan di bawah ini.",
+      "disclaimer": "Harap diperhatikan bahwa hasil ini dimaksudkan untuk membantu Anda menjelajahi koleksi IU dan mungkin tidak lengkap. Beberapa bahan mungkin diklasifikasikan di luar rentang ini atau dikatalogkan secara terpisah. Gunakan tautan “jelajahi semua koleksi” dan pencarian kata kunci di bawah ini untuk cakupan yang lebih luas.",
+      "keyword_search": "Cari “Indonesian” sebagai kata kunci di IUCAT",
+      "search_tip": "Kiat pencarian: Gunakan panel kiri di IUCAT untuk mempersempit hasil berdasarkan penulis, bahasa, tahun, format, dan lainnya.",
+      "still_looking": {
+        "text": "Masih belum menemukan yang Anda cari? Hubungi pustakawan atau sarankan pembelian bahan.",
+        "librarian_text": "Hubungi pustakawan",
+        "purchase_text": "sarankan pembelian bahan"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "jav",
+    "Language_Name": "Javanese",
+    "button_translations": {
+      "Collections of Javanese Literature": "Koleksi sastra Javanese",
+      "Javanese Literature: Individual Authors or Works": "Sastra Javanese: panganggit utawa karya siji-siji",
+      "Javanese Folk Literature": "Sastra rakyat Javanese"
+    },
+    "ui_strings": {
+      "browse_label": "Telusuri sastra Javanese miturut kategori:",
+      "explore_all": "Telusuri kabeh koleksi IU Libraries ing basa Javanese",
+      "about_heading": "Nemokake sastra Javanese ing IUCAT",
+      "about_body": "Akèh-akèhé sastra Javanese dikatalogaké ing rentang nomer panggil PL5174.5-PL5179.999. Kategori ing ndhuwur nyakup pambagian utama ing rentang iki. Panjenengan uga bisa nelusuri kabeh bahan IU Libraries ing basa Javanese utawa bab Javanese, kalebu sastra, kritik, bahan rujukan, lan liya-liyané, nganggo pranala ing ngisor iki.",
+      "disclaimer": "Mangga digatekake manawa asil iki kanggo mbantu panjenengan nelusuri koleksi IU lan bisa uga durung lengkap. Sawetara bahan bisa ana ing njaba rentang iki utawa dikatalogaké kanthi kapisah. Kanggo cakupan luwih jembar, gunakna pranala “telusuri kabeh koleksi” lan panelusuran tembung kunci ing ngisor iki.",
+      "keyword_search": "Goleki “Javanese” minangka tembung kunci ing IUCAT",
+      "search_tip": "Tips panelusuran: Gunakna panel kiwa ing IUCAT kanggo nyaring asil miturut panganggit, basa, taun, format, lan liya-liyané.",
+      "still_looking": {
+        "text": "Isih durung nemokake sing panjenengan goleki? Hubungi pustakawan utawa usulna tuku bahan.",
+        "librarian_text": "Hubungi pustakawan",
+        "purchase_text": "usulna tuku bahan"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "kan",
+    "Language_Name": "Kannada",
+    "button_translations": {
+      "Collections of Kannada Literature": "Kannada ಸಾಹಿತ್ಯದ ಸಂಗ್ರಹಗಳು",
+      "Kannada Literature: Individual Authors or Works": "Kannada ಸಾಹಿತ್ಯ: ವೈಯಕ್ತಿಕ ಲೇಖಕರು ಅಥವಾ ಕೃತಿಗಳು",
+      "Kannada Folk Literature": "Kannada ಜನಪದ ಸಾಹಿತ್ಯ"
+    },
+    "ui_strings": {
+      "browse_label": "Kannada ಸಾಹಿತ್ಯವನ್ನು ವರ್ಗದಂತೆ ಬ್ರೌಸ್ ಮಾಡಿ:",
+      "explore_all": "IU Libraries‌ನಲ್ಲಿರುವ Kannada ಭಾಷೆಯ ಎಲ್ಲಾ ಸಂಗ್ರಹಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ",
+      "about_heading": "IUCAT ನಲ್ಲಿ Kannada ಸಾಹಿತ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "about_body": "Kannada ಸಾಹಿತ್ಯದ ಬಹುಪಾಲು PL4654.5-PL4659.999 ಕಾಲ್ ನಂಬರಿನ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಕ್ಯಾಟಲಾಗ್ ಮಾಡಲಾಗಿದೆ. ಮೇಲಿನ ವರ್ಗಗಳು ಆ ವ್ಯಾಪ್ತಿಯ ಮುಖ್ಯ ಉಪವಿಭಾಗಗಳನ್ನು ಒಳಗೊಂಡಿವೆ. ಕೆಳಗಿನ ಕೊಂಡಿಗಳನ್ನು ಬಳಸಿ IU Libraries‌ನಲ್ಲಿ Kannada ಭಾಷೆಯಲ್ಲಿ ಅಥವಾ ಅದರ ಕುರಿತು ಇರುವ ಸಾಹಿತ್ಯ, ವಿಮರ್ಶೆ, ಉಲ್ಲೇಖ ಕೃತಿಗಳು ಮತ್ತು ಇನ್ನಷ್ಟು ಎಲ್ಲ ಸಾಮಗ್ರಿಗಳನ್ನು ಕೂಡ ಬ್ರೌಸ್ ಮಾಡಬಹುದು.",
+      "disclaimer": "ದಯವಿಟ್ಟು ಗಮನಿಸಿ, ಈ ಫಲಿತಾಂಶಗಳು IU ಸಂಗ್ರಹಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಲು ಸಹಾಯ ಮಾಡುವ ಉದ್ದೇಶದವು; ಅವು ಸಂಪೂರ್ಣವಾಗಿರದೇ ಇರಬಹುದು. ಕೆಲವು ಸಾಮಗ್ರಿಗಳು ಈ ವ್ಯಾಪ್ತಿಗಳ ಹೊರಗೆ ವರ್ಗೀಕರಿಸಲಾಗಿರಬಹುದು ಅಥವಾ ಪ್ರತ್ಯೇಕವಾಗಿ ಕ್ಯಾಟಲಾಗ್ ಮಾಡಲಾಗಿರಬಹುದು. ಹೆಚ್ಚಿನ ವ್ಯಾಪ್ತಿಗಾಗಿ ಕೆಳಗಿನ “ಎಲ್ಲ ಸಂಗ್ರಹಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ” ಮತ್ತು ಕೀವರ್ಡ್ ಹುಡುಕಾಟ ಕೊಂಡಿಗಳನ್ನು ಬಳಸಿ.",
+      "keyword_search": "IUCAT ನಲ್ಲಿ “Kannada” ಅನ್ನು ಕೀವರ್ಡ್ ಆಗಿ ಹುಡುಕಿ",
+      "search_tip": "ಹುಡುಕಾಟ ಸಲಹೆ: IUCAT ನಲ್ಲಿ ಫಲಿತಾಂಶಗಳನ್ನು ಲೇಖಕ, ಭಾಷೆ, ವರ್ಷ, ರೂಪ ಮತ್ತು ಇನ್ನಷ್ಟು ಆಧಾರಗಳಲ್ಲಿ ಸೀಮಿತಗೊಳಿಸಲು ಎಡಭಾಗದ ಪ್ಯಾನಲ್ ಬಳಸಿ.",
+      "still_looking": {
+        "text": "ನೀವು ಹುಡುಕುತ್ತಿರುವುದನ್ನು ಇನ್ನೂ ಕಂಡುಕೊಳ್ಳಲಾಗುತ್ತಿಲ್ಲವೇ? ಗ್ರಂಥಪಾಲಕರನ್ನು ಸಂಪರ್ಕಿಸಿ ಅಥವಾ ಸಾಮಗ್ರಿ ಖರೀದಿಯನ್ನು ಸೂಚಿಸಿ.",
+        "librarian_text": "ಗ್ರಂಥಪಾಲಕರನ್ನು ಸಂಪರ್ಕಿಸಿ",
+        "purchase_text": "ಸಾಮಗ್ರಿ ಖರೀದಿಯನ್ನು ಸೂಚಿಸಿ"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "kaz",
+    "Language_Name": "Kazakh",
+    "button_translations": {
+      "Collections of Kazakh Literature": "Kazakh әдебиетінің жинақтары",
+      "Kazakh Literature: Individual Authors or Works": "Kazakh әдебиеті: жеке авторлар немесе шығармалар",
+      "Kazakh Folk Literature": "Kazakh халық әдебиеті",
+      "Kazakh Children's and Juvenile Literature": "Kazakh балалар және жасөспірімдер әдебиеті"
+    },
+    "ui_strings": {
+      "browse_label": "Kazakh әдебиетін санат бойынша шолыңыз:",
+      "explore_all": "IU Libraries қорындағы Kazakh тіліндегі барлық материалдарды шолу",
+      "about_heading": "IUCAT-та Kazakh әдебиетін табу",
+      "about_body": "Kazakh әдебиетінің көп бөлігі PL76.6-PL76.9.999 шақыру нөмірлері ауқымында каталогталған. Жоғарыдағы санаттар осы ауқымның негізгі бөлімдерін қамтиды. Төмендегі сілтемелер арқылы IU Libraries қорындағы Kazakh тіліндегі немесе Kazakh туралы барлық материалдарды, соның ішінде әдебиет, сын, анықтамалық еңбектер және тағы басқаларды шолуға болады.",
+      "disclaimer": "Бұл нәтижелер IU қорларын шолуға көмектесу үшін берілгенін және толық болмауы мүмкін екенін ескеріңіз. Кейбір материалдар бұл ауқымдардан тыс жіктелуі немесе бөлек каталогталуы мүмкін. Кеңірек қамту үшін төмендегі “барлық қорларды шолу” және кілтсөзбен іздеу сілтемелерін пайдаланыңыз.",
+      "keyword_search": "IUCAT-та “Kazakh” сөзін кілтсөз ретінде іздеу",
+      "search_tip": "Іздеу кеңесі: IUCAT-та нәтижелерді автор, тіл, жыл, формат және басқа өлшемдер бойынша нақтылау үшін сол жақ панельді пайдаланыңыз.",
+      "still_looking": {
+        "text": "Іздегеніңізді әлі таба алмадыңыз ба? Кітапханашымен байланысыңыз немесе материал сатып алуды ұсыныңыз.",
+        "librarian_text": "Кітапханашымен байланысыңыз",
+        "purchase_text": "материал сатып алуды ұсыныңыз"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "khm",
+    "Language_Name": "Khmer",
+    "button_translations": {
+      "Collections of Khmer Literature": "សម្រង់អក្សរសិល្ប៍ Khmer",
+      "Khmer Literature: Individual Authors or Works": "អក្សរសិល្ប៍ Khmer: អ្នកនិពន្ធ ឬស្នាដៃនីមួយៗ",
+      "Khmer Folk Literature": "អក្សរសិល្ប៍ប្រជាប្រិយ Khmer"
+    },
+    "ui_strings": {
+      "browse_label": "រកមើលអក្សរសិល្ប៍ Khmer តាមប្រភេទ:",
+      "explore_all": "រកមើលសម្រង់ទាំងអស់របស់ IU Libraries ជាភាសា Khmer",
+      "about_heading": "រកអក្សរសិល្ប៍ Khmer ក្នុង IUCAT",
+      "about_body": "អក្សរសិល្ប៍ Khmer ភាគច្រើនត្រូវបានកាតាឡុកនៅក្នុងជួរលេខហៅ PL4328.45-PL4328.9.999។ ប្រភេទខាងលើគ្របដណ្តប់លើផ្នែករងសំខាន់ៗនៃជួរនេះ។ អ្នកក៏អាចប្រើតំណខាងក្រោមដើម្បីរកមើលសម្ភារៈទាំងអស់របស់ IU Libraries ជាភាសា Khmer ឬអំពី Khmer រួមទាំងអក្សរសិល្ប៍ ការរិះគន់ សៀវភៅយោង និងផ្សេងៗទៀត។",
+      "disclaimer": "សូមចំណាំថា លទ្ធផលទាំងនេះមានគោលបំណងជួយអ្នករកមើលសម្រង់របស់ IU ហើយអាចមិនពេញលេញទេ។ សម្ភារៈខ្លះអាចត្រូវបានចាត់ថ្នាក់នៅក្រៅជួរទាំងនេះ ឬកាតាឡុកដោយឡែក។ សម្រាប់ការគ្របដណ្តប់ទូលំទូលាយ សូមប្រើតំណ “រកមើលសម្រង់ទាំងអស់” និងស្វែងរកតាមពាក្យគន្លឹះខាងក្រោម។",
+      "keyword_search": "ស្វែងរក “Khmer” ជាពាក្យគន្លឹះក្នុង IUCAT",
+      "search_tip": "គន្លឹះស្វែងរក៖ ប្រើផ្ទាំងខាងឆ្វេងក្នុង IUCAT ដើម្បីកំណត់លទ្ធផលតាមអ្នកនិពន្ធ ភាសា ឆ្នាំ ទ្រង់ទ្រាយ និងផ្សេងៗទៀត។",
+      "still_looking": {
+        "text": "នៅតែមិនទាន់រកឃើញអ្វីដែលអ្នកកំពុងស្វែងរកមែនទេ? ទាក់ទងបណ្ណារក្ស ឬស្នើសុំការទិញសម្ភារៈ។",
+        "librarian_text": "ទាក់ទងបណ្ណារក្ស",
+        "purchase_text": "ស្នើសុំការទិញសម្ភារៈ"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "kur",
+    "Language_Name": "Kurdish",
+    "button_translations": {
+      "Collections of Kurdish Literature": "Koleksiyonên wêjeya Kurdish",
+      "Kurdish Literature: Individual Authors or Works": "Wêjeya Kurdish: nivîskar an berhemên takekesî",
+      "Kurdish Folk Literature": "Wêjeya gelêrî ya Kurdish"
+    },
+    "ui_strings": {
+      "browse_label": "Wêjeya Kurdish li gorî kategoriyê bigerin:",
+      "explore_all": "Hemû koleksiyonên IU Libraries bi Kurdish bigerin",
+      "about_heading": "Dîtina wêjeya Kurdish di IUCAT de",
+      "about_body": "Piraniya wêjeya Kurdish di navbera hejmara bangkirinê PK6908.45-PK6908.9.999 de katalogkirî ye. Kategoriyên jorîn beşên sereke yên vê navberê vedigirin. Hûn dikarin bi girêdanên jêrîn hemû materyalên IU Libraries bi Kurdish an derbarê Kurdish de, tevî wêje, rexne, çavkaniyên referansê û hwd., jî bigerin.",
+      "disclaimer": "Ji kerema xwe bizanin ku ev encam ji bo alîkarîkirina gerandina koleksiyonên IU hatine amadekirin û dibe ku ne temam bin. Hin materyal dikarin li derveyî van navberan bin an cuda katalogkirî bin. Ji bo qada firehtir, girêdanên “hemû koleksiyanan bigerin” û lêgerîna peyva kilîtê ya jêrîn bikar bînin.",
+      "keyword_search": "“Kurdish” wekî peyva kilîtê di IUCAT de bigerin",
+      "search_tip": "Şîreta lêgerînê: Di IUCAT de panela çepê bikar bînin da ku encaman li gorî nivîskar, ziman, sal, form û hwd. teng bikin.",
+      "still_looking": {
+        "text": "Hîn jî tiştê ku lê digerin nedît? Bi pirtûkxanedar re têkilî daynin an kirîna materyalekê pêşniyar bikin.",
+        "librarian_text": "Bi pirtûkxanedar re têkilî daynin",
+        "purchase_text": "kirîna materyalekê pêşniyar bikin"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "kir",
+    "Language_Name": "Kyrgyz",
+    "button_translations": {
+      "Collections of Kyrgyz Literature": "Kyrgyz адабиятынын жыйнактары",
+      "Kyrgyz Literature: Individual Authors or Works": "Kyrgyz адабияты: жеке авторлор же чыгармалар",
+      "Kyrgyz Folk Literature": "Kyrgyz эл адабияты",
+      "Kyrgyz Children's and Juvenile Literature": "Kyrgyz балдар жана өспүрүмдөр адабияты"
+    },
+    "ui_strings": {
+      "browse_label": "Kyrgyz адабиятын категория боюнча караңыз:",
+      "explore_all": "IU Librariesтеги Kyrgyz тилиндеги бардык жыйнактарды караңыз",
+      "about_heading": "IUCATтан Kyrgyz адабиятын табуу",
+      "about_body": "Kyrgyz адабиятынын көпчүлүгү PL44.6-PL44.9.999 чакыруу номерлеринин аралыгында каталогдолгон. Жогорудагы категориялар бул аралыктын негизги бөлүмдөрүн камтыйт. Төмөнкү шилтемелер аркылуу IU Librariesтеги Kyrgyz тилиндеги же Kyrgyz жөнүндө бардык материалдарды, анын ичинде адабиятты, сын материалдарды, маалымдамаларды жана башкаларды карай аласыз.",
+      "disclaimer": "Бул натыйжалар IU жыйнактарын карап чыгууга жардам берүү үчүн берилгенин жана толук болбошу мүмкүн экенин эске алыңыз. Айрым материалдар бул аралыктардан тышкары жайгашышы же өзүнчө каталогдолушу мүмкүн. Кеңири издөө үчүн төмөнкү “бардык жыйнактарды караңыз” жана ачкыч сөз менен издөө шилтемелерин колдонуңуз.",
+      "keyword_search": "IUCATта “Kyrgyz” сөзүн ачкыч сөз катары издөө",
+      "search_tip": "Издөө кеңеши: IUCATта натыйжаларды автор, тил, жыл, формат жана башка белгилер боюнча тактоо үчүн сол жактагы панелди колдонуңуз.",
+      "still_looking": {
+        "text": "Издегениңизди дагы эле таба албай жатасызбы? Китепканачы менен байланышыңыз же материал сатып алууну сунуштаңыз.",
+        "librarian_text": "Китепканачы менен байланышыңыз",
+        "purchase_text": "материал сатып алууну сунуштаңыз"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "lao",
+    "Language_Name": "Lao",
+    "button_translations": {
+      "Collections of Lao Literature": "ຄັງສະສົມວັນນະຄະດີ Lao",
+      "Lao Literature: Individual Authors or Works": "ວັນນະຄະດີ Lao: ຜູ້ຂຽນ ຫຼື ຜົນງານລາຍບຸກຄົນ",
+      "Lao Folk Literature": "ວັນນະຄະດີພື້ນເມືອງ Lao"
+    },
+    "ui_strings": {
+      "browse_label": "ເບິ່ງວັນນະຄະດີ Lao ຕາມໝວດໝູ່:",
+      "explore_all": "ເບິ່ງຄັງສະສົມທັງໝົດຂອງ IU Libraries ໃນພາສາ Lao",
+      "about_heading": "ການຄົ້ນຫາວັນນະຄະດີ Lao ໃນ IUCAT",
+      "about_body": "ວັນນະຄະດີ Lao ສ່ວນໃຫຍ່ຖືກຈັດລາຍການຢູ່ໃນຊ່ວງເລກເອີ້ນ PL4236.6-PL4236.9.999। ໝວດໝູ່ຂ້າງເທິງຄອບຄຸມຫົວຂໍ້ຍ່ອຍຫຼັກຂອງຊ່ວງນີ້. ທ່ານຍັງສາມາດໃຊ້ລິ້ງຂ້າງລຸ່ມເພື່ອເບິ່ງວັດສະດຸທັງໝົດຂອງ IU Libraries ໃນພາສາ Lao ຫຼື ກ່ຽວກັບ Lao.",
+      "disclaimer": "ກະລຸນາຮັບຊາບວ່າຜົນລັບເຫຼົ່ານີ້ມີໄວ້ເພື່ອຊ່ວຍໃນການເບິ່ງຄັງສະສົມຂອງ IU ແລະອາດບໍ່ຄົບຖ້ວນ. ວັດສະດຸບາງຢ່າງອາດຖືກຈັດຢູ່ນອກຊ່ວງນີ້ ຫຼື ຖືກຈັດລາຍການແຍກຕ່າງຫາກ. ໃຊ້ລິ້ງ “ເບິ່ງຄັງສະສົມທັງໝົດ” ແລະການຄົ້ນຫາຄຳສຳຄັນຂ້າງລຸ່ມເພື່ອຄອບຄຸມກວ້າງຂຶ້ນ.",
+      "keyword_search": "ຄົ້ນຫາ “Lao” ເປັນຄຳສຳຄັນໃນ IUCAT",
+      "search_tip": "ຄຳແນະນຳການຄົ້ນຫາ: ໃຊ້ແຖບດ້ານຊ້າຍໃນ IUCAT ເພື່ອຈຳກັດຜົນຕາມຜູ້ຂຽນ, ພາສາ, ປີ, ຮູບແບບ ແລະອື່ນໆ.",
+      "still_looking": {
+        "text": "ຍັງບໍ່ພົບສິ່ງທີ່ທ່ານກຳລັງຫາບໍ? ຕິດຕໍ່ບັນນາຮັກ ຫຼື ສະເໜີການຈັດຊື້ວັດສະດຸ.",
+        "librarian_text": "ຕິດຕໍ່ບັນນາຮັກ",
+        "purchase_text": "ສະເໜີການຈັດຊື້ວັດສະດຸ"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "may",
+    "Language_Name": "Malay",
+    "button_translations": {
+      "Collections of Malay Literature": "Koleksi sastera Malay",
+      "Malay Literature: Individual Authors or Works": "Sastera Malay: pengarang atau karya individu",
+      "Malay Folk Literature": "Sastera rakyat Malay",
+      "Malay Children's and Juvenile Literature": "Sastera kanak-kanak dan remaja Malay"
+    },
+    "ui_strings": {
+      "browse_label": "Layari sastera Malay mengikut kategori:",
+      "explore_all": "Layari semua koleksi IU Libraries dalam bahasa Malay",
+      "about_heading": "Mencari sastera Malay dalam IUCAT",
+      "about_body": "Kebanyakan sastera Malay dikatalogkan dalam julat nombor panggilan PL5134.5-PL5139.999. Kategori di atas meliputi pembahagian utama julat tersebut. Anda juga boleh melayari semua bahan IU Libraries dalam atau tentang Malay, termasuk sastera, kritikan, karya rujukan dan banyak lagi, melalui pautan di bawah.",
+      "disclaimer": "Sila ambil perhatian bahawa hasil ini bertujuan membantu anda melayari koleksi IU dan mungkin tidak menyeluruh. Sesetengah bahan mungkin diklasifikasikan di luar julat ini atau dikatalogkan secara berasingan. Gunakan pautan “layari semua koleksi” dan carian kata kunci di bawah untuk liputan yang lebih luas.",
+      "keyword_search": "Cari “Malay” sebagai kata kunci dalam IUCAT",
+      "search_tip": "Petua carian: Gunakan panel sebelah kiri dalam IUCAT untuk memperhalus hasil mengikut pengarang, bahasa, tahun, format dan banyak lagi.",
+      "still_looking": {
+        "text": "Masih belum menemui apa yang anda cari? Hubungi pustakawan atau cadangkan pembelian bahan.",
+        "librarian_text": "Hubungi pustakawan",
+        "purchase_text": "cadangkan pembelian bahan"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "mal",
+    "Language_Name": "Malayalam",
+    "button_translations": {
+      "Collections of Malayalam Literature": "Malayalam സാഹിത്യ ശേഖരങ്ങൾ",
+      "Malayalam Literature: Individual Authors or Works": "Malayalam സാഹിത്യം: വ്യക്തിഗത രചയിതാക്കളോ കൃതികളോ",
+      "Malayalam Folk Literature": "Malayalam ജനസാഹിത്യം"
+    },
+    "ui_strings": {
+      "browse_label": "Malayalam സാഹിത്യം വിഭാഗം അനുസരിച്ച് ബ്രൗസ് ചെയ്യുക:",
+      "explore_all": "IU Libraries-യിലെ Malayalam ഭാഷയിലുള്ള എല്ലാ ശേഖരങ്ങളും ബ്രൗസ് ചെയ്യുക",
+      "about_heading": "IUCAT-ൽ Malayalam സാഹിത്യം കണ്ടെത്തൽ",
+      "about_body": "Malayalam സാഹിത്യത്തിന്റെ ഭൂരിഭാഗവും PL4718.45-PL4718.9.999 എന്ന കോൾ നമ്പർ പരിധിയിൽ കാറ്റലോഗ് ചെയ്തിരിക്കുന്നു. മുകളിലുള്ള വിഭാഗങ്ങൾ ഈ പരിധിയിലെ പ്രധാന ഉപവിഭാഗങ്ങൾ ഉൾക്കൊള്ളുന്നു. താഴെയുള്ള ലിങ്കുകൾ ഉപയോഗിച്ച് IU Libraries-യിലെ Malayalam ഭാഷയിലുള്ളതോ അതിനെക്കുറിച്ചോ ഉള്ള എല്ലാ സാമഗ്രികളും—സാഹിത്യം, വിമർശനം, റഫറൻസ് കൃതികൾ എന്നിവ ഉൾപ്പെടെ—ബ്രൗസ് ചെയ്യാം.",
+      "disclaimer": "ഈ ഫലങ്ങൾ IU ശേഖരങ്ങൾ ബ്രൗസ് ചെയ്യാൻ സഹായിക്കുന്നതിനായുള്ളതാണെന്നും പൂർണ്ണമാകണമെന്നില്ലെന്നും ദയവായി ശ്രദ്ധിക്കുക. ചില സാമഗ്രികൾ ഈ പരിധികൾക്കു പുറത്തായി വർഗ്ഗീകരിച്ചിരിക്കാം അല്ലെങ്കിൽ വേറിട്ട് കാറ്റലോഗ് ചെയ്തിരിക്കാം. കൂടുതൽ വ്യാപകമായ തിരച്ചിലിനായി താഴെയുള്ള “എല്ലാ ശേഖരങ്ങളും ബ്രൗസ് ചെയ്യുക” എന്നതും കീവേഡ് തിരച്ചിലും ഉപയോഗിക്കുക.",
+      "keyword_search": "IUCAT-ൽ “Malayalam” കീവേഡായി തിരയുക",
+      "search_tip": "തിരച്ചിൽ നിർദേശം: IUCAT-ൽ ഫലങ്ങൾ രചയിതാവ്, ഭാഷ, വർഷം, ഫോർമാറ്റ് എന്നിവ പ്രകാരം ചുരുക്കാൻ ഇടതു വശത്തെ പാനൽ ഉപയോഗിക്കുക.",
+      "still_looking": {
+        "text": "നിങ്ങൾ അന്വേഷിക്കുന്നത് ഇപ്പോഴും കണ്ടെത്താനായില്ലേ? ഒരു ലൈബ്രേറിയനെ ബന്ധപ്പെടുക അല്ലെങ്കിൽ സാമഗ്രി വാങ്ങൽ നിർദേശിക്കുക.",
+        "librarian_text": "ഒരു ലൈബ്രേറിയനെ ബന്ധപ്പെടുക",
+        "purchase_text": "സാമഗ്രി വാങ്ങൽ നിർദേശിക്കുക"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "mar",
+    "Language_Name": "Marathi",
+    "button_translations": {
+      "Collections of Marathi Literature": "Marathi साहित्याचे संग्रह",
+      "Marathi Literature: Individual Authors or Works": "Marathi साहित्य: स्वतंत्र लेखक किंवा कृती",
+      "Marathi Folk Literature": "Marathi लोकसाहित्य"
+    },
+    "ui_strings": {
+      "browse_label": "Marathi साहित्य श्रेणीनुसार ब्राउझ करा:",
+      "explore_all": "IU Libraries मधील Marathi भाषेतील सर्व संग्रह ब्राउझ करा",
+      "about_heading": "IUCAT मध्ये Marathi साहित्य शोधणे",
+      "about_body": "Marathi साहित्याचा बहुतांश भाग PK2412.5-PK2419.999 या कॉल नंबर श्रेणीत सूचीबद्ध केला आहे. वरील श्रेणी या श्रेणीतील मुख्य उपविभागांचा समावेश करतात. खालील दुव्यांचा वापर करून आपण IU Libraries मधील Marathi भाषेतील किंवा Marathi विषयीची सर्व सामग्री—साहित्य, समीक्षा, संदर्भग्रंथ आणि अधिक—ब्राउझ करू शकता.",
+      "disclaimer": "कृपया लक्षात घ्या की हे परिणाम IU चे संग्रह ब्राउझ करण्यास मदत करण्यासाठी आहेत आणि पूर्ण असतीलच असे नाही. काही सामग्री या श्रेणींबाहेर वर्गीकृत केलेली किंवा स्वतंत्रपणे सूचीबद्ध केलेली असू शकते. अधिक व्यापक शोधासाठी खालील “सर्व संग्रह ब्राउझ करा” आणि कीवर्ड शोध दुवे वापरा.",
+      "keyword_search": "IUCAT मध्ये “Marathi” हा कीवर्ड म्हणून शोधा",
+      "search_tip": "शोध सूचना: IUCAT मध्ये लेखक, भाषा, वर्ष, स्वरूप आणि इतर निकषांनुसार परिणाम मर्यादित करण्यासाठी डाव्या बाजूचा पॅनेल वापरा.",
+      "still_looking": {
+        "text": "आपण शोधत असलेली गोष्ट अजूनही सापडत नाही का? ग्रंथपालाशी संपर्क साधा किंवा सामग्री खरेदीची सूचना करा.",
+        "librarian_text": "ग्रंथपालाशी संपर्क साधा",
+        "purchase_text": "सामग्री खरेदीची सूचना करा"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "mon",
+    "Language_Name": "Mongolian",
+    "button_translations": {
+      "Collections of Mongolian Literature": "Mongolian уран зохиолын цуглуулга",
+      "Mongolian Literature: Individual Authors or Works": "Mongolian уран зохиол: тусдаа зохиогчид эсвэл бүтээлүүд",
+      "Mongolian Folk Literature": "Mongolian ардын уран зохиол",
+      "Mongolian Children's and Juvenile Literature": "Mongolian хүүхэд, өсвөр үеийн уран зохиол"
+    },
+    "ui_strings": {
+      "browse_label": "Mongolian уран зохиолыг ангиллаар нь үзэх:",
+      "explore_all": "IU Libraries дахь Mongolian хэл дээрх бүх цуглуулгыг үзэх",
+      "about_heading": "IUCAT-аас Mongolian уран зохиол олох",
+      "about_body": "Mongolian уран зохиолын ихэнх нь PL414.5-PL419.999 дуудлагын дугаарын хүрээнд каталоглогдсон байдаг. Дээрх ангиллууд энэ хүрээний үндсэн дэд хэсгүүдийг хамарна. Доорх холбоосоор IU Libraries дахь Mongolian хэл дээрх эсвэл Mongolian-ийн тухай бүх материалыг, тухайлбал уран зохиол, шүүмж, лавлах бүтээл болон бусад материалыг үзэж болно.",
+      "disclaimer": "Эдгээр үр дүн нь IU-ийн цуглуулгыг үзэхэд туслах зорилготой бөгөөд бүрэн байх албагүйг анхаарна уу. Зарим материал эдгээр хүрээнээс гадуур ангилагдсан эсвэл тусад нь каталоглогдсон байж болно. Илүү өргөн хүрээнд хайхын тулд доорх “бүх цуглуулгыг үзэх” болон түлхүүр үгийн хайлтын холбоосыг ашиглана уу.",
+      "keyword_search": "IUCAT-д “Mongolian” гэж түлхүүр үгээр хайх",
+      "search_tip": "Хайлтын зөвлөмж: IUCAT-ын зүүн талын самбарыг ашиглан үр дүнгээ зохиогч, хэл, он, хэлбэр болон бусад үзүүлэлтээр нарийсгана уу.",
+      "still_looking": {
+        "text": "Та хайж буй зүйлээ одоо ч олоогүй байна уу? Номын санчтай холбоо барих эсвэл материал худалдан авахыг санал болгоно уу.",
+        "librarian_text": "Номын санчтай холбоо барих",
+        "purchase_text": "материал худалдан авахыг санал болгоно уу"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "nep",
+    "Language_Name": "Nepali",
+    "button_translations": {
+      "Collections of Nepali Literature": "Nepali साहित्यका सङ्ग्रहहरू",
+      "Nepali Literature: Individual Authors or Works": "Nepali साहित्य: व्यक्तिगत लेखक वा कृतिहरू",
+      "Nepali Literature in Translation": "अनुवादमा Nepali साहित्य",
+      "Nepali Folk Literature": "Nepali लोकसाहित्य"
+    },
+    "ui_strings": {
+      "browse_label": "Nepali साहित्यलाई वर्गअनुसार ब्राउज गर्नुहोस्:",
+      "explore_all": "IU Libraries का Nepali भाषाका सबै सङ्ग्रहहरू ब्राउज गर्नुहोस्",
+      "about_heading": "IUCAT मा Nepali साहित्य खोज्ने",
+      "about_body": "Nepali साहित्यको अधिकांश भाग PK2598.A2-PK2598.Z9Z कल नम्बर दायरामा सूचीबद्ध गरिएको छ। माथिका वर्गहरूले यस दायराका मुख्य उपविभागहरू समेट्छन्। तलका लिंकहरू प्रयोग गरेर तपाईं IU Libraries मा Nepali भाषामा वा Nepali बारेका सबै सामग्री—साहित्य, समीक्षा, सन्दर्भ कृति र थप—ब्राउज गर्न सक्नुहुन्छ।",
+      "disclaimer": "कृपया ध्यान दिनुहोस्, यी परिणामहरू IU का सङ्ग्रहहरू ब्राउज गर्न सहयोग पुर्‍याउनका लागि हुन् र पूर्ण नहुन सक्छन्। केही सामग्री यी दायराहरू बाहिर वर्गीकृत वा अलग रूपमा सूचीबद्ध हुन सक्छन्। थप व्यापक खोजका लागि तलका “सबै सङ्ग्रह ब्राउज गर्नुहोस्” र कीवर्ड खोज लिंकहरू प्रयोग गर्नुहोस्।",
+      "keyword_search": "IUCAT मा “Nepali” लाई कीवर्डका रूपमा खोज्नुहोस्",
+      "search_tip": "खोज सुझाव: IUCAT मा लेखक, भाषा, वर्ष, ढाँचा आदि अनुसार नतिजा सीमित गर्न बायाँपट्टिको प्यानल प्रयोग गर्नुहोस्।",
+      "still_looking": {
+        "text": "तपाईंले खोजिरहनुभएको कुरा अझै भेटिएन? पुस्तकालयाध्यक्षलाई सम्पर्क गर्नुहोस् वा सामग्री खरिदको सुझाव दिनुहोस्।",
+        "librarian_text": "पुस्तकालयाध्यक्षलाई सम्पर्क गर्नुहोस्",
+        "purchase_text": "सामग्री खरिदको सुझाव दिनुहोस्"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "pan",
+    "Language_Name": "Panjabi",
+    "button_translations": {
+      "Collections of Panjabi Literature": "Panjabi ਸਾਹਿਤ ਦੇ ਸੰਗ੍ਰਹਿ",
+      "Panjabi Literature: Individual Authors or Works": "Panjabi ਸਾਹਿਤ: ਵਿਅਕਤੀਗਤ ਲੇਖਕ ਜਾਂ ਰਚਨਾਵਾਂ",
+      "Panjabi Folk Literature": "Panjabi ਲੋਕ ਸਾਹਿਤ"
+    },
+    "ui_strings": {
+      "browse_label": "Panjabi ਸਾਹਿਤ ਨੂੰ ਵਰਗ ਅਨੁਸਾਰ ਬ੍ਰਾਉਜ਼ ਕਰੋ:",
+      "explore_all": "IU Libraries ਵਿੱਚ Panjabi ਭਾਸ਼ਾ ਦੇ ਸਾਰੇ ਸੰਗ੍ਰਹਿ ਬ੍ਰਾਉਜ਼ ਕਰੋ",
+      "about_heading": "IUCAT ਵਿੱਚ Panjabi ਸਾਹਿਤ ਲੱਭਣਾ",
+      "about_body": "Panjabi ਸਾਹਿਤ ਦਾ ਵੱਡਾ ਹਿੱਸਾ PK2654.5-PK2659.999 ਕਾਲ ਨੰਬਰ ਸੀਮਾ ਵਿੱਚ ਕੈਟਾਲਾਗ ਕੀਤਾ ਗਿਆ ਹੈ। ਉੱਪਰ ਦਿੱਤੀਆਂ ਸ਼੍ਰੇਣੀਆਂ ਇਸ ਸੀਮਾ ਦੇ ਮੁੱਖ ਉਪਭਾਗਾਂ ਨੂੰ ਕਵਰ ਕਰਦੀਆਂ ਹਨ। ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਲਿੰਕਾਂ ਰਾਹੀਂ ਤੁਸੀਂ IU Libraries ਵਿੱਚ Panjabi ਭਾਸ਼ਾ ਵਿੱਚ ਜਾਂ Panjabi ਬਾਰੇ ਸਾਰੇ ਮਾਦੇ—ਸਾਹਿਤ, ਆਲੋਚਨਾ, ਸੰਦਰਭ ਕਿਤਾਬਾਂ ਆਦਿ—ਵੀ ਬ੍ਰਾਉਜ਼ ਕਰ ਸਕਦੇ ਹੋ।",
+      "disclaimer": "ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਦਿਓ ਕਿ ਇਹ ਨਤੀਜੇ IU ਦੇ ਸੰਗ੍ਰਹਿ ਬ੍ਰਾਉਜ਼ ਕਰਨ ਵਿੱਚ ਮਦਦ ਲਈ ਹਨ ਅਤੇ ਪੂਰੇ ਨਹੀਂ ਵੀ ਹੋ ਸਕਦੇ। ਕੁਝ ਮਾਦਾ ਇਨ੍ਹਾਂ ਸੀਮਾਵਾਂ ਤੋਂ ਬਾਹਰ ਵਰਗੀਕ੍ਰਿਤ ਹੋ ਸਕਦਾ ਹੈ ਜਾਂ ਵੱਖਰੇ ਤੌਰ ਤੇ ਕੈਟਾਲਾਗ ਕੀਤਾ ਹੋ ਸਕਦਾ ਹੈ। ਹੋਰ ਵਿਆਪਕ ਖੋਜ ਲਈ ਹੇਠਾਂ “ਸਾਰੇ ਸੰਗ੍ਰਹਿ ਬ੍ਰਾਉਜ਼ ਕਰੋ” ਅਤੇ ਕੀਵਰਡ ਖੋਜ ਲਿੰਕਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ।",
+      "keyword_search": "IUCAT ਵਿੱਚ “Panjabi” ਨੂੰ ਕੀਵਰਡ ਵਜੋਂ ਖੋਜੋ",
+      "search_tip": "ਖੋਜ ਸੁਝਾਅ: IUCAT ਵਿੱਚ ਨਤੀਜਿਆਂ ਨੂੰ ਲੇਖਕ, ਭਾਸ਼ਾ, ਸਾਲ, ਫਾਰਮੈਟ ਆਦਿ ਅਨੁਸਾਰ ਘਟਾਉਣ ਲਈ ਖੱਬੇ ਪੈਨਲ ਦੀ ਵਰਤੋਂ ਕਰੋ।",
+      "still_looking": {
+        "text": "ਹਾਲੇ ਵੀ ਉਹ ਨਹੀਂ ਲੱਭਿਆ ਜੋ ਤੁਸੀਂ ਲੱਭ ਰਹੇ ਹੋ? ਲਾਇਬ੍ਰੇਰੀਅਨ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜਾਂ ਮਾਦਾ ਖਰੀਦਣ ਦੀ ਸਿਫਾਰਸ਼ ਕਰੋ।",
+        "librarian_text": "ਲਾਇਬ੍ਰੇਰੀਅਨ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+        "purchase_text": "ਮਾਦਾ ਖਰੀਦਣ ਦੀ ਸਿਫਾਰਸ਼ ਕਰੋ"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "pus",
+    "Language_Name": "Pushto",
+    "button_translations": {
+      "Collections of Pushto Literature": "د Pushto ادبیاتو ټولګې",
+      "Pushto Literature: Individual Authors or Works, 21st century": "د Pushto ادبیات: انفرادي لیکوالان یا اثار, 21st century",
+      "Pushto Literature: Individual Authors or Works, 20th century": "د Pushto ادبیات: انفرادي لیکوالان یا اثار, 20th century",
+      "Pushto Literature: Individual Authors or Works, 19th century": "د Pushto ادبیات: انفرادي لیکوالان یا اثار, 19th century",
+      "Pushto Literature: Individual Authors or Works, to 1800": "د Pushto ادبیات: انفرادي لیکوالان یا اثار, 1800 تر",
+      "Pushto Folk Literature": "د Pushto ولسي ادبیات"
+    },
+    "ui_strings": {
+      "browse_label": "د Pushto ادبیات د کټګورۍ له مخې وپلټئ:",
+      "explore_all": "د IU Libraries ټولې Pushto ژبې ټولګې وپلټئ",
+      "about_heading": "په IUCAT کې د Pushto ادبیاتو موندل",
+      "about_body": "د Pushto ادبیاتو ډېره برخه د PK6812.5-PK6819.999 د کال نمبر په لړ کې کتلاګ شوې ده. پورته کټګورۍ د دې لړۍ مهمې فرعي برخې رانغاړي. تاسو کولای شئ د لاندې تړنو له لارې په IU Libraries کې د Pushto ژبې یا د Pushto په اړه ټول مواد، لکه ادبیات، کره کتنه، ماخذونه او نور، هم وپلټئ.",
+      "disclaimer": "مهرباني وکړئ پام وکړئ چې دا پایلې د IU د ټولګو په پلټلو کې د مرستې لپاره دي او ښايي بشپړې نه وي. ځینې مواد کېدای شي له دې لړیو بهر طبقه بندي شوي وي یا جلا کتلاګ شوي وي. د پراخې پلټنې لپاره لاندې د “ټولې ټولګې وپلټئ” او د کلیدي کلمې پلټنې تړنې وکاروئ.",
+      "keyword_search": "په IUCAT کې “Pushto” د کلیدي کلمې په توګه وپلټئ",
+      "search_tip": "د پلټنې لارښوونه: په IUCAT کې د لیکوال، ژبې، کال، بڼې او نورو له مخې د پایلو د محدودولو لپاره کیڼ اړخ پینل وکاروئ.",
+      "still_looking": {
+        "text": "لا هم هغه څه نه مومئ چې لټوئ؟ له کتابتونوال سره اړیکه ونیسئ یا د موادو د پېرلو وړاندیز وکړئ.",
+        "librarian_text": "له کتابتونوال سره اړیکه ونیسئ",
+        "purchase_text": "د موادو د پېرلو وړاندیز وکړئ"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "som",
+    "Language_Name": "Somali",
+    "button_translations": {
+      "Collections of Somali Literature": "Ururinta suugaanta Somali",
+      "Somali Literature: Individual Authors or Works": "Suugaanta Somali: qoraayo ama shaqooyin gaar ah",
+      "Somali Literature in Translation": "Suugaanta Somali ee tarjumaadda ku jirta",
+      "Somali Folk Literature": "Suugaanta hiddaha ee Somali",
+      "Somali Children's and Juvenile Literature": "Suugaanta carruurta iyo dhallinyarada ee Somali"
+    },
+    "ui_strings": {
+      "browse_label": "Ka baadh suugaanta Somali qayb ahaan:",
+      "explore_all": "Ka baadh dhammaan ururinta IU Libraries ee ku qoran Somali",
+      "about_heading": "Helidda suugaanta Somali gudaha IUCAT",
+      "about_body": "Inta badan suugaanta Somali waxaa lagu kaydiyey kala duwanaanta lambarrada wicitaanka PJ2534.A2-PJ2534.Z5ZZZ. Qaybaha kore waxay daboolayaan qaybaha waaweyn ee kala duwanaantan. Waxa kale oo aad ka baadhi kartaa dhammaan agabka IU Libraries ee ku qoran ama ku saabsan Somali, oo ay ku jiraan suugaan, faallo, buugaag tixraac iyo wax ka badan, adigoo isticmaalaya xiriiriyeyaasha hoose.",
+      "disclaimer": "Fadlan ogow in natiijooyinkan loogu talagalay inay kaa caawiyaan ka baadhista ururinta IU, waxaana laga yaabaa inaysan dhamaystirnayn. Agab qaarkood waxaa laga yaabaa in lagu kala saaray meel ka baxsan kala duwanaantan ama si gaar ah loo kaydiyey. Si aad u hesho daboolid ballaaran, isticmaal xiriiriyeyaasha “ka baadh dhammaan ururinta” iyo raadinta erayga muhiimka ah ee hoose.",
+      "keyword_search": "Ka raadi “Somali” sida eray muhiim ah gudaha IUCAT",
+      "search_tip": "Talo raadis: Isticmaal qaybta bidix ee IUCAT si aad natiijooyinka ugu koobto qoraa, luqad, sanad, qaab iyo wax ka badan.",
+      "still_looking": {
+        "text": "Weli ma helin waxaad raadinayso? La xiriir maktabad-yaqaan ama soo jeedi iibsashada agab.",
+        "librarian_text": "La xiriir maktabad-yaqaan",
+        "purchase_text": "soo jeedi iibsashada agab"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "swa",
+    "Language_Name": "Swahili",
+    "button_translations": {
+      "Collections of Swahili Literature": "Makusanyo ya fasihi ya Swahili",
+      "Swahili Literature: Individual Authors or Works": "Fasihi ya Swahili: waandishi au kazi binafsi",
+      "Swahili Literature in Translation": "Fasihi ya Swahili katika tafsiri",
+      "Swahili Folk Literature": "Fasihi simulizi ya Swahili",
+      "Swahili Children's and Juvenile Literature": "Fasihi ya watoto na vijana ya Swahili"
+    },
+    "ui_strings": {
+      "browse_label": "Vinjari fasihi ya Swahili kwa kategoria:",
+      "explore_all": "Vinjari makusanyo yote ya IU Libraries kwa Swahili",
+      "about_heading": "Kupata fasihi ya Swahili katika IUCAT",
+      "about_body": "Sehemu kubwa ya fasihi ya Swahili imeorodheshwa katika safu ya nambari za mwito PL8704.A2-PL8704.Z5ZZZ. Kategoria zilizo hapo juu zinashughulikia migawanyo mikuu ya safu hii. Unaweza pia kuvinjari nyenzo zote za IU Libraries zilizo kwa Swahili au zinazohusu Swahili, ikijumuisha fasihi, uhakiki, vitabu vya marejeo na zaidi, kwa kutumia viungo vilivyo hapa chini.",
+      "disclaimer": "Tafadhali kumbuka kuwa matokeo haya yanalenga kukusaidia kuvinjari makusanyo ya IU na huenda yasiwe kamili. Baadhi ya nyenzo zinaweza kuainishwa nje ya safu hizi au kuorodheshwa tofauti. Tumia viungo vya “vinjari makusanyo yote” na utafutaji wa neno kuu hapa chini kwa upeo mpana zaidi.",
+      "keyword_search": "Tafuta “Swahili” kama neno kuu katika IUCAT",
+      "search_tip": "Kidokezo cha utafutaji: Tumia paneli ya kushoto katika IUCAT kuchuja matokeo kwa mwandishi, lugha, mwaka, umbizo na zaidi.",
+      "still_looking": {
+        "text": "Bado hujapata unachotafuta? Wasiliana na mhudumu wa maktaba au pendekeza ununuzi wa nyenzo.",
+        "librarian_text": "Wasiliana na mhudumu wa maktaba",
+        "purchase_text": "pendekeza ununuzi wa nyenzo"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "tgl",
+    "Language_Name": "Tagalog",
+    "button_translations": {
+      "Collections of Tagalog Literature": "Mga koleksiyon ng panitikang Tagalog",
+      "Tagalog Literature: Individual Authors or Works": "Panitikang Tagalog: indibidwal na mga may-akda o akda",
+      "Tagalog Folk Literature": "Panitikang-bayan ng Tagalog",
+      "Tagalog Children's and Juvenile Literature": "Panitikang pambata at pangkabataan ng Tagalog"
+    },
+    "ui_strings": {
+      "browse_label": "I-browse ang panitikang Tagalog ayon sa kategorya:",
+      "explore_all": "I-browse ang lahat ng koleksiyon ng IU Libraries sa Tagalog",
+      "about_heading": "Paghahanap ng panitikang Tagalog sa IUCAT",
+      "about_body": "Karamihan sa panitikang Tagalog ay nakatalogo sa saklaw ng call number na PL6058.45-PL6058.9.999. Saklaw ng mga kategorya sa itaas ang mga pangunahing subdibisyon ng saklaw na ito. Maaari mo ring i-browse ang lahat ng materyal ng IU Libraries na nasa Tagalog o tungkol sa Tagalog, kabilang ang panitikan, kritisismo, sangguniang akda at iba pa, gamit ang mga link sa ibaba.",
+      "disclaimer": "Pakitandaan na ang mga resultang ito ay nilalayong makatulong sa pag-browse ng mga koleksiyon ng IU at maaaring hindi kumpleto. Maaaring may ilang materyal na nasa labas ng mga saklaw na ito o nakatalogo nang hiwalay. Gamitin ang mga link para sa “i-browse ang lahat ng koleksiyon” at paghahanap sa keyword sa ibaba para sa mas malawak na saklaw.",
+      "keyword_search": "Hanapin ang “Tagalog” bilang keyword sa IUCAT",
+      "search_tip": "Tip sa paghahanap: Gamitin ang kaliwang panel sa IUCAT upang paliitin ang mga resulta ayon sa may-akda, wika, taon, format at iba pa.",
+      "still_looking": {
+        "text": "Hindi pa rin makita ang hinahanap mo? Makipag-ugnayan sa isang librarian o magmungkahi ng pagbili ng materyal.",
+        "librarian_text": "Makipag-ugnayan sa isang librarian",
+        "purchase_text": "magmungkahi ng pagbili ng materyal"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "tam",
+    "Language_Name": "Tamil",
+    "button_translations": {
+      "Collections of Tamil Literature": "Tamil இலக்கியத் தொகுப்புகள்",
+      "Tamil Literature: Individual Authors or Works": "Tamil இலக்கியம்: தனிப்பட்ட ஆசிரியர்கள் அல்லது படைப்புகள்",
+      "Tamil Folk Literature": "Tamil நாட்டுப்புற இலக்கியம்"
+    },
+    "ui_strings": {
+      "browse_label": "Tamil இலக்கியத்தை வகைப்படி உலாவுக:",
+      "explore_all": "IU Libraries-இல் உள்ள Tamil மொழி சேமிப்புகளை அனைத்தையும் உலாவுக",
+      "about_heading": "IUCAT-இல் Tamil இலக்கியத்தை கண்டறிதல்",
+      "about_body": "Tamil இலக்கியத்தின் பெரும்பகுதி PL4758.45-PL4758.9.999 என்ற அழைப்பு எண் வரம்பில் பட்டியலிடப்பட்டுள்ளது. மேலுள்ள வகைகள் இந்த வரம்பின் முக்கிய துணைப்பிரிவுகளை உள்ளடக்குகின்றன. கீழுள்ள இணைப்புகளைப் பயன்படுத்தி IU Libraries-இல் Tamil மொழியில் அல்லது Tamil பற்றி உள்ள இலக்கியம், விமர்சனம், மேற்கோள் நூல்கள் போன்ற அனைத்துப் பொருட்களையும் உலாவலாம்.",
+      "disclaimer": "இந்த முடிவுகள் IU சேமிப்புகளை உலாவ உதவுவதற்காகவாகும்; அவை முழுமையானதாக இருக்க வேண்டியதில்லை. சில பொருட்கள் இந்த வரம்புகளுக்கு வெளியே வகைப்படுத்தப்பட்டிருக்கலாம் அல்லது தனியாக பட்டியலிடப்பட்டிருக்கலாம். விரிவான தேடலுக்கு கீழுள்ள “அனைத்து சேமிப்புகளையும் உலாவுக” மற்றும் முக்கியச்சொல் தேடல் இணைப்புகளைப் பயன்படுத்தவும்.",
+      "keyword_search": "IUCAT-இல் “Tamil” என்பதை முக்கியச்சொல்லாகத் தேடுக",
+      "search_tip": "தேடல் குறிப்பு: IUCAT-இல் முடிவுகளை ஆசிரியர், மொழி, ஆண்டு, வடிவம் போன்றவற்றால் குறைக்க இடதுபுறப் பலகையைப் பயன்படுத்தவும்.",
+      "still_looking": {
+        "text": "நீங்கள் தேடுவது இன்னும் கிடைக்கவில்லையா? நூலகருடன் தொடர்புகொள்ளுங்கள் அல்லது பொருள் வாங்க பரிந்துரையுங்கள்.",
+        "librarian_text": "நூலகருடன் தொடர்புகொள்ளுங்கள்",
+        "purchase_text": "பொருள் வாங்க பரிந்துரையுங்கள்"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "tat",
+    "Language_Name": "Tatar",
+    "button_translations": {
+      "Collections of Tatar Literature": "Tatar әдәбияты җыентыклары",
+      "Tatar Literature: Individual Authors or Works": "Tatar әдәбияты: аерым авторлар яки әсәрләр",
+      "Tatar Folk Literature": "Tatar халык әдәбияты",
+      "Tatar Children's and Juvenile Literature": "Tatar балалар һәм яшүсмерләр әдәбияты"
+    },
+    "ui_strings": {
+      "browse_label": "Tatar әдәбиятын категория буенча карау:",
+      "explore_all": "IU Libraries фондындагы Tatar телендәге барлык җыелмаларны карау",
+      "about_heading": "IUCATта Tatar әдәбиятын табу",
+      "about_body": "Tatar әдәбиятының күпчелеге PL73.6-PL73.9.999 чакыру номеры диапазонында каталогланган. Өстәге категорияләр бу диапазонның төп бүлекчәләрен колачлый. Түбәндәге сылтамалар ярдәмендә IU Libraries фондындагы Tatar телендәге яки Tatar турында булган барлык материалларны, шул исәптән әдәбият, тәнкыйть, белешмә басмалар һәм башкаларны да карарга мөмкин.",
+      "disclaimer": "Зинһар, игътибар итегез: бу нәтиҗәләр IU җыелмаларын карарга ярдәм итү өчен бирелә һәм тулы булмаска мөмкин. Кайбер материаллар бу диапазоннардан читтә классификацияләнгән яки аерым каталогланган булырга мөмкин. Киңрәк эзләү өчен түбәндәге “барлык җыелмаларны карау” һәм ачкыч сүз эзләү сылтамаларын кулланыгыз.",
+      "keyword_search": "IUCATта “Tatar” сүзен ачкыч сүз итеп эзләү",
+      "search_tip": "Эзләү киңәше: IUCATта нәтиҗәләрне автор, тел, ел, формат һәм башкалар буенча төгәлләү өчен сул як панельне кулланыгыз.",
+      "still_looking": {
+        "text": "Эзләгәнегезне һаман таба алмыйсызмы? Китапханәче белән элемтәгә керегез яки материал сатып алуны тәкъдим итегез.",
+        "librarian_text": "Китапханәче белән элемтәгә керегез",
+        "purchase_text": "материал сатып алуны тәкъдим итегез"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "tel",
+    "Language_Name": "Telugu",
+    "button_translations": {
+      "Collections of Telugu Literature": "Telugu సాహిత్య సేకరణలు",
+      "Telugu Literature: Individual Authors or Works": "Telugu సాహిత్యం: వ్యక్తిగత రచయితలు లేదా రచనలు",
+      "Telugu Folk Literature": "Telugu జానపద సాహిత్యం"
+    },
+    "ui_strings": {
+      "browse_label": "Telugu సాహిత్యాన్ని వర్గం ప్రకారం బ్రౌజ్ చేయండి:",
+      "explore_all": "IU Libraries లోని Telugu భాషలో ఉన్న అన్ని సేకరణలను బ్రౌజ్ చేయండి",
+      "about_heading": "IUCAT లో Telugu సాహిత్యాన్ని కనుగొనడం",
+      "about_body": "Telugu సాహిత్యంలో ఎక్కువ భాగం PL4780.45-PL4780.9.999 కాల్ నంబర్ పరిధిలో కాటలాగ్ చేయబడింది. పై వర్గాలు ఈ పరిధిలోని ప్రధాన ఉపవిభాగాలను కవర్ చేస్తాయి. దిగువ లింకులను ఉపయోగించి IU Libraries లో Telugu భాషలో లేదా Telugu గురించి ఉన్న సాహిత్యం, విమర్శ, సూచన గ్రంథాలు మరియు మరిన్ని అన్ని పదార్థాలను కూడా బ్రౌజ్ చేయవచ్చు.",
+      "disclaimer": "దయచేసి గమనించండి: ఈ ఫలితాలు IU సేకరణలను బ్రౌజ్ చేయడంలో మీకు సహాయం చేయడానికి ఉద్దేశించినవి, అవి పూర్తిగా ఉండకపోవచ్చు. కొన్ని పదార్థాలు ఈ పరిధుల వెలుపల వర్గీకరించబడివుండవచ్చు లేదా వేరుగా కాటలాగ్ చేయబడివుండవచ్చు. విస్తృత కవరేజ్ కోసం దిగువ “అన్ని సేకరణలను బ్రౌజ్ చేయండి” మరియు కీవర్డ్ శోధన లింకులను ఉపయోగించండి.",
+      "keyword_search": "IUCAT లో “Telugu” ను కీవర్డ్‌గా శోధించండి",
+      "search_tip": "శోధన సూచన: IUCAT లో ఫలితాలను రచయిత, భాష, సంవత్సరం, ఫార్మాట్ మొదలైన వాటి ప్రకారం పరిమితం చేయడానికి ఎడమ వైపు ప్యానెల్‌ను ఉపయోగించండి.",
+      "still_looking": {
+        "text": "మీరు వెతుకుతున్నది ఇంకా కనబడలేదా? లైబ్రేరియన్‌ను సంప్రదించండి లేదా పదార్థం కొనుగోలు చేయాలని సూచించండి.",
+        "librarian_text": "లైబ్రేరియన్‌ను సంప్రదించండి",
+        "purchase_text": "పదార్థం కొనుగోలు చేయాలని సూచించండి"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "tha",
+    "Language_Name": "Thai",
+    "button_translations": {
+      "Collections of Thai Literature": "คอลเลกชันวรรณกรรม Thai",
+      "Thai Literature: Individual Authors or Works": "วรรณกรรม Thai: ผู้แต่งหรือผลงานรายบุคคล",
+      "Thai Folk Literature": "วรรณกรรมพื้นบ้าน Thai",
+      "Thai Children's and Juvenile Literature": "วรรณกรรมสำหรับเด็กและเยาวชน Thai"
+    },
+    "ui_strings": {
+      "browse_label": "เรียกดูวรรณกรรม Thai ตามหมวดหมู่:",
+      "explore_all": "เรียกดูคอลเลกชันทั้งหมดของ IU Libraries ในภาษา Thai",
+      "about_heading": "การค้นหาวรรณกรรม Thai ใน IUCAT",
+      "about_body": "วรรณกรรม Thai ส่วนใหญ่จัดทำรายการอยู่ในช่วงเลขเรียกหนังสือ PL4204.5-PL4209.999 หมวดหมู่ข้างต้นครอบคลุมการแบ่งย่อยหลักของช่วงนี้ คุณยังสามารถใช้ลิงก์ด้านล่างเพื่อเรียกดูวัสดุทั้งหมดของ IU Libraries ที่เป็นภาษา Thai หรือเกี่ยวกับ Thai รวมถึงวรรณกรรม งานวิจารณ์ งานอ้างอิง และอื่น ๆ",
+      "disclaimer": "โปรดทราบว่าผลลัพธ์เหล่านี้มีไว้เพื่อช่วยให้คุณเรียกดูคอลเลกชันของ IU และอาจไม่ครอบคลุมทั้งหมด วัสดุบางรายการอาจจัดอยู่ภายนอกช่วงเหล่านี้หรือทำรายการแยกต่างหาก ใช้ลิงก์ “เรียกดูคอลเลกชันทั้งหมด” และการค้นหาคำสำคัญด้านล่างเพื่อการค้นหาที่กว้างขึ้น",
+      "keyword_search": "ค้นหา “Thai” เป็นคำสำคัญใน IUCAT",
+      "search_tip": "เคล็ดลับการค้นหา: ใช้แผงด้านซ้ายใน IUCAT เพื่อจำกัดผลลัพธ์ตามผู้แต่ง ภาษา ปี รูปแบบ และอื่น ๆ",
+      "still_looking": {
+        "text": "ยังไม่พบสิ่งที่คุณต้องการหรือไม่? ติดต่อบรรณารักษ์ หรือเสนอให้จัดซื้อวัสดุ",
+        "librarian_text": "ติดต่อบรรณารักษ์",
+        "purchase_text": "เสนอให้จัดซื้อวัสดุ"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "tib",
+    "Language_Name": "Tibetan",
+    "button_translations": {
+      "Collections of Tibetan Literature": "Tibetan རྩོམ་རིག་གི་ཉར་ཚགས",
+      "Tibetan Literature: Individual Authors or Works": "Tibetan རྩོམ་རིག རྩོམ་པ་པོ་སོ་སོའམ་བརྩམས་ཆོས",
+      "Tibetan Literature in Translation": "Tibetan རྩོམ་རིག་འགྱུར་མ",
+      "Tibetan Folk Literature": "Tibetan མི་དམངས་རྩོམ་རིག",
+      "Tibetan Children's and Juvenile Literature": "Tibetan བྱིས་པ་དང་གཞོན་ནུའི་རྩོམ་རིག"
+    },
+    "ui_strings": {
+      "browse_label": "Tibetan རྩོམ་རིག་སྡེ་ཚན་ལྟར་ལྟ་ཞིབ་བྱེད།",
+      "explore_all": "IU Libraries ནང་གི Tibetan སྐད་ཡིག་གི་ཉར་ཚགས་ཡོངས་ལ་ལྟ་ཞིབ་བྱེད།",
+      "about_heading": "IUCAT ནང Tibetan རྩོམ་རིག་འཚོལ་བ།",
+      "about_body": "Tibetan རྩོམ་རིག་མང་ཆེ་བ་ནི PL3731-PL3748.999 ཞེས་པའི་འབོད་ཨང་ཁྱབ་ཁོངས་ནང་དཀར་ཆག་བཟོས་ཡོད། གོང་གི་སྡེ་ཚན་དག་གིས་ཁྱབ་ཁོངས་དེའི་གཙོ་བོའི་ནང་གསེས་ཁག་བཀབ་ཡོད། འོག་གི་འབྲེལ་ཐག་ལ་བརྟེན་ནས IU Libraries ནང་གི Tibetan སྐད་ཡིག་གམ Tibetan སྐོར་གྱི་དཔྱད་གཞི་ཡོངས་ལ་ལྟ་ཞིབ་བྱེད་ཐུབ།",
+      "disclaimer": "འདི་དག་ནི IU ཉར་ཚགས་ལ་ལྟ་ཞིབ་བྱེད་པར་རོགས་རམ་གྱི་ཆེད་ཡིན་པས་ཆ་ཚང་མིན་སྲིད། དཔྱད་གཞི་འགའ་ཞིག་ཁྱབ་ཁོངས་འདི་དག་ལས་ཕྱི་རུ་ཡོད་སྲིད་པའམ་སོ་སོར་དཀར་ཆག་བཟོས་ཡོད་སྲིད། ཁྱབ་ཆེ་བའི་འཚོལ་ཞིབ་ལ་འོག་གི “ཉར་ཚགས་ཡོངས་ལ་ལྟ་ཞིབ” དང་གནད་ཚིག་འཚོལ་བའི་འབྲེལ་ཐག་སྤྱོད།",
+      "keyword_search": "IUCAT ནང “Tibetan” གནད་ཚིག་ཏུ་འཚོལ།",
+      "search_tip": "འཚོལ་ཞིབ་གསལ་བཤད། IUCAT ནང་གི་གཡོན་ཕྱོགས་པེ་ནལ་སྤྱད་ནས་རྩོམ་པ་པོ། སྐད་ཡིག ལོ། རྣམ་པ་སོགས་ལྟར་འབྲས་བུ་གསལ་བཟོ་བྱེད།",
+      "still_looking": {
+        "text": "ཁྱེད་རང་གིས་འཚོལ་བ་དེ་ད་དུང་མ་རྙེད་དམ། དཔེ་མཛོད་པར་འབྲེལ་བ་བྱེད་པའམ་དཔྱད་གཞི་ཉོ་སྒྲུབ་གྲོས་འདེབས་བྱེད།",
+        "librarian_text": "དཔེ་མཛོད་པར་འབྲེལ་བ་བྱེད",
+        "purchase_text": "དཔྱད་གཞི་ཉོ་སྒྲུབ་གྲོས་འདེབས་བྱེད"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "tur",
+    "Language_Name": "Turkish",
+    "button_translations": {
+      "Collections of Turkish Literature": "Turkish edebiyatı koleksiyonları",
+      "Turkish Literature: Individual Authors or Works, 2015-present": "Turkish edebiyatı: bireysel yazarlar veya eserler, 2015-günümüze kadar",
+      "Turkish Literature: Individual Authors or Works, through 2014": "Turkish edebiyatı: bireysel yazarlar veya eserler, 2014 kadar",
+      "Turkish Literature in Translation": "Turkish edebiyatı çeviride",
+      "Turkish Folk Literature": "Turkish halk edebiyatı",
+      "Turkish Children's and Juvenile Literature": "Turkish çocuk ve gençlik edebiyatı"
+    },
+    "ui_strings": {
+      "browse_label": "Turkish edebiyatını kategoriye göre göz atın:",
+      "explore_all": "IU Libraries’deki tüm Turkish koleksiyonlarını inceleyin",
+      "about_heading": "IUCAT’ta Turkish edebiyatını bulma",
+      "about_body": "Turkish edebiyatının büyük bölümü PL231-PL250.999 çağrı numarası aralığında kataloglanmıştır. Yukarıdaki kategoriler bu aralığın başlıca alt bölümlerini kapsar. Aşağıdaki bağlantıları kullanarak IU Libraries’de Turkish dilinde veya Turkish hakkında bulunan edebiyat, eleştiri, başvuru kaynakları ve daha fazlasını da inceleyebilirsiniz.",
+      "disclaimer": "Lütfen bu sonuçların IU koleksiyonlarında gezinmenize yardımcı olmak için sunulduğunu ve kapsamlı olmayabileceğini unutmayın. Bazı materyaller bu aralıkların dışında sınıflandırılmış veya ayrı kataloglanmış olabilir. Daha geniş kapsam için aşağıdaki “tüm koleksiyonları incele” ve anahtar kelime arama bağlantılarını kullanın.",
+      "keyword_search": "IUCAT’ta “Turkish” anahtar kelimesiyle arama yapın",
+      "search_tip": "Arama ipucu: IUCAT’ta sonuçları yazar, dil, yıl, format ve daha fazlasına göre daraltmak için sol paneli kullanın.",
+      "still_looking": {
+        "text": "Aradığınızı hâlâ bulamıyor musunuz? Bir kütüphaneciyle iletişime geçin veya materyal satın alımı önerin.",
+        "librarian_text": "Bir kütüphaneciyle iletişime geçin",
+        "purchase_text": "materyal satın alımı önerin"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "uig",
+    "Language_Name": "Uighur",
+    "button_translations": {
+      "Collections of Uighur Literature": "Uighur ئەدەبىياتى توپلاملىرى",
+      "Uighur Literature: Individual Authors or Works": "Uighur ئەدەبىياتى: يەككە ئاپتورلار ياكى ئەسەرلەر",
+      "Uighur Folk Literature": "Uighur خەلق ئەدەبىياتى",
+      "Uighur Children's and Juvenile Literature": "Uighur بالىلار ۋە ئۆسمۈرلەر ئەدەبىياتى"
+    },
+    "ui_strings": {
+      "browse_label": "Uighur ئەدەبىياتىنى تۈر بويىچە كۆرۈش:",
+      "explore_all": "IU Libraries دىكى Uighur تىلىدىكى بارلىق توپلاملارنى كۆرۈش",
+      "about_heading": "IUCAT تا Uighur ئەدەبىياتىنى تېپىش",
+      "about_body": "Uighur ئەدەبىياتىنىڭ كۆپ قىسمى PL54.65-PL54.69.999 چاقىرىش نومۇرى دائىرىسىدە كاتالوگلانغان. ئۈستىدىكى تۈرلەر بۇ دائىرىنىڭ ئاساسلىق تارماقلىرىنى ئۆز ئىچىگە ئالىدۇ. تۆۋەندىكى ئۇلانمىلار ئارقىلىق IU Libraries دىكى Uighur تىلىدىكى ياكى Uighur ھەققىدىكى ئەدەبىيات، تەنقىد، پايدىلىنىش ماتېرىياللىرى ۋە باشقىلارنى كۆرەلەيسىز.",
+      "disclaimer": "بۇ نەتىجىلەر IU توپلاملىرىنى كۆرۈشكە ياردەم بېرىش ئۈچۈن تەييارلانغان بولۇپ، تولۇق بولماسلىقى مۇمكىن. بەزى ماتېرىياللار بۇ دائىرىلەردىن سىرتتا تۈرلەنگەن ياكى ئايرىم كاتالوگلانغان بولۇشى مۇمكىن. كەڭراق قاپلاش ئۈچۈن تۆۋەندىكى “بارلىق توپلاملارنى كۆرۈش” ۋە ئاچقۇچلۇق سۆز ئىزدەش ئۇلانمىلىرىنى ئىشلىتىڭ.",
+      "keyword_search": "IUCAT تا “Uighur” نى ئاچقۇچلۇق سۆز سۈپىتىدە ئىزدەش",
+      "search_tip": "ئىزدەش كۆرسەتمىسى: IUCAT تىكى سول تەرەپتىكى تاختىنى ئىشلىتىپ نەتىجىلەرنى ئاپتور، تىل، يىل، فورمات ۋە باشقىلار بويىچە چەكلەڭ.",
+      "still_looking": {
+        "text": "ئىزدەۋاتقىنىڭىزنى تېخى تاپالمىدىڭىزمۇ؟ كۈتۈپخانىچى بىلەن ئالاقىلىشىڭ ياكى ماتېرىيال سېتىۋېلىشنى تەكلىپ قىلىڭ.",
+        "librarian_text": "كۈتۈپخانىچى بىلەن ئالاقىلىشىڭ",
+        "purchase_text": "ماتېرىيال سېتىۋېلىشنى تەكلىپ قىلىڭ"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "urd",
+    "Language_Name": "Urdu",
+    "button_translations": {
+      "Collections of Urdu Literature": "Urdu ادب کے مجموعے",
+      "Urdu Literature: Individual Authors or Works, 2001-present": "Urdu ادب: انفرادی مصنفین یا تصانیف, 2001-اب تک",
+      "Urdu Literature: Individual Authors or Works, 1947-2000": "Urdu ادب: انفرادی مصنفین یا تصانیف, 1947-2000",
+      "Urdu Literature: Individual Authors or Works, 1857-1946": "Urdu ادب: انفرادی مصنفین یا تصانیف, 1857-1946",
+      "Urdu Literature: Individual Authors or Works, early to 1857": "Urdu ادب: انفرادی مصنفین یا تصانیف, 1857 تک",
+      "Urdu Literature in Translation": "ترجمے میں Urdu ادب",
+      "Urdu Children's and Juvenile Literature": "Urdu بچوں اور نوعمروں کا ادب"
+    },
+    "ui_strings": {
+      "browse_label": "Urdu ادب کو زمرے کے لحاظ سے دیکھیں:",
+      "explore_all": "IU Libraries میں Urdu زبان کے تمام مجموعے دیکھیں",
+      "about_heading": "IUCAT میں Urdu ادب تلاش کرنا",
+      "about_body": "Urdu ادب کا بیشتر حصہ PK2181-PK2200.999 کال نمبر کی حد میں کیٹلاگ کیا گیا ہے۔ اوپر دیے گئے زمرے اس حد کی بنیادی ذیلی تقسیموں کا احاطہ کرتے ہیں۔ نیچے دیے گئے روابط کے ذریعے آپ IU Libraries میں Urdu زبان میں یا Urdu کے بارے میں تمام مواد، بشمول ادب، تنقید، حوالہ جاتی کتب اور مزید، بھی دیکھ سکتے ہیں۔",
+      "disclaimer": "براہ کرم نوٹ کریں کہ یہ نتائج IU کے مجموعوں کو دیکھنے میں مدد کے لیے ہیں اور مکمل نہیں بھی ہو سکتے۔ کچھ مواد ان حدود سے باہر درجہ بند یا الگ سے کیٹلاگ کیا گیا ہو سکتا ہے۔ وسیع تر تلاش کے لیے نیچے “تمام مجموعے دیکھیں” اور کلیدی لفظ کی تلاش کے روابط استعمال کریں۔",
+      "keyword_search": "IUCAT میں “Urdu” کو کلیدی لفظ کے طور پر تلاش کریں",
+      "search_tip": "تلاش کا مشورہ: IUCAT میں نتائج کو مصنف، زبان، سال، فارمیٹ اور دیگر معیارات کے مطابق محدود کرنے کے لیے بائیں جانب کا پینل استعمال کریں۔",
+      "still_looking": {
+        "text": "کیا آپ کو اب بھی وہ نہیں ملا جس کی آپ تلاش کر رہے ہیں؟ کسی لائبریرین سے رابطہ کریں یا مواد خریدنے کی تجویز دیں۔",
+        "librarian_text": "کسی لائبریرین سے رابطہ کریں",
+        "purchase_text": "مواد خریدنے کی تجویز دیں"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "uzb",
+    "Language_Name": "Uzbek",
+    "button_translations": {
+      "Collections of Uzbek Literature": "Uzbek adabiyoti to‘plamlari",
+      "Uzbek Literature: Individual Authors or Works": "Uzbek adabiyoti: alohida mualliflar yoki asarlar",
+      "Uzbek Folk Literature": "Uzbek xalq adabiyoti",
+      "Uzbek Children's and Juvenile Literature": "Uzbek bolalar va o‘smirlar adabiyoti"
+    },
+    "ui_strings": {
+      "browse_label": "Uzbek adabiyotini toifa bo‘yicha ko‘ring:",
+      "explore_all": "IU Librariesdagi Uzbek tilidagi barcha to‘plamlarni ko‘ring",
+      "about_heading": "IUCATda Uzbek adabiyotini topish",
+      "about_body": "Uzbek adabiyotining katta qismi PL56.6-PL56.9.999 chaqiruv raqamlari oralig‘ida kataloglangan. Yuqoridagi toifalar ushbu oraliqning asosiy bo‘limlarini qamrab oladi. Quyidagi havolalar orqali IU Librariesdagi Uzbek tilidagi yoki Uzbek haqidagi barcha materiallarni, jumladan adabiyot, tanqid, ma’lumotnoma asarlari va boshqalarni ham ko‘rishingiz mumkin.",
+      "disclaimer": "Iltimos, bu natijalar IU to‘plamlarini ko‘rib chiqishga yordam berish uchun berilganini va to‘liq bo‘lmasligi mumkinligini unutmang. Ayrim materiallar ushbu oraliqlardan tashqarida tasniflangan yoki alohida kataloglangan bo‘lishi mumkin. Kengroq qamrov uchun quyidagi “barcha to‘plamlarni ko‘rish” va kalit so‘z bilan qidirish havolalaridan foydalaning.",
+      "keyword_search": "IUCATda “Uzbek” so‘zini kalit so‘z sifatida qidiring",
+      "search_tip": "Qidiruv maslahati: IUCATda natijalarni muallif, til, yil, format va boshqa mezonlar bo‘yicha toraytirish uchun chap paneldan foydalaning.",
+      "still_looking": {
+        "text": "Hali ham izlayotgan narsangizni topa olmadingizmi? Kutubxonachi bilan bog‘laning yoki material xarid qilishni taklif qiling.",
+        "librarian_text": "Kutubxonachi bilan bog‘laning",
+        "purchase_text": "material xarid qilishni taklif qiling"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "vie",
+    "Language_Name": "Vietnamese",
+    "button_translations": {
+      "Collections of Vietnamese Literature": "Bộ sưu tập văn học Vietnamese",
+      "Vietnamese Literature: Individual Authors or Works": "Văn học Vietnamese: tác giả hoặc tác phẩm riêng lẻ",
+      "Vietnamese Folk Literature": "Văn học dân gian Vietnamese",
+      "Vietnamese Children's and Juvenile Literature": "Văn học thiếu nhi và thanh thiếu niên Vietnamese"
+    },
+    "ui_strings": {
+      "browse_label": "Duyệt văn học Vietnamese theo danh mục:",
+      "explore_all": "Duyệt tất cả bộ sưu tập của IU Libraries bằng Vietnamese",
+      "about_heading": "Tìm văn học Vietnamese trong IUCAT",
+      "about_body": "Phần lớn văn học Vietnamese được biên mục trong khoảng số gọi PL4378.45-PL4378.9.999. Các danh mục ở trên bao quát những phân mục chính của khoảng này. Bạn cũng có thể dùng các liên kết dưới đây để duyệt tất cả tài liệu của IU Libraries bằng Vietnamese hoặc về Vietnamese, bao gồm văn học, phê bình, tài liệu tham khảo và nhiều hơn nữa.",
+      "disclaimer": "Xin lưu ý rằng các kết quả này nhằm giúp bạn duyệt bộ sưu tập của IU và có thể không đầy đủ. Một số tài liệu có thể được phân loại ngoài các khoảng này hoặc được biên mục riêng. Hãy dùng các liên kết “duyệt tất cả bộ sưu tập” và tìm kiếm từ khóa bên dưới để có phạm vi rộng hơn.",
+      "keyword_search": "Tìm “Vietnamese” như một từ khóa trong IUCAT",
+      "search_tip": "Mẹo tìm kiếm: Sử dụng bảng bên trái trong IUCAT để thu hẹp kết quả theo tác giả, ngôn ngữ, năm, định dạng và hơn thế nữa.",
+      "still_looking": {
+        "text": "Vẫn chưa tìm thấy điều bạn cần? Liên hệ với thủ thư hoặc đề xuất mua tài liệu.",
+        "librarian_text": "Liên hệ với thủ thư",
+        "purchase_text": "đề xuất mua tài liệu"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "xho",
+    "Language_Name": "Xhosa",
+    "button_translations": {
+      "Collections of Xhosa Literature": "Iingqokelela zoncwadi lwe-Xhosa",
+      "Xhosa Literature: Individual Authors or Works": "Uncwadi lwe-Xhosa: ababhali okanye imisebenzi nganye",
+      "Xhosa Folk Literature": "Uncwadi lwesintu lwe-Xhosa"
+    },
+    "ui_strings": {
+      "browse_label": "Khangela uncwadi lwe-Xhosa ngokodidi:",
+      "explore_all": "Khangela zonke iingqokelela ze-IU Libraries ngesi Xhosa",
+      "about_heading": "Ukufumana uncwadi lwe-Xhosa kwi-IUCAT",
+      "about_body": "Uninzi loncwadi lwe-Xhosa lukatalogiwe kuluhlu lweenombolo zokubiza PL8795.6-PL8795.9.999. Iindidi ezingentla zigubungela amacandelo aphambili olu luhlu. Ungaphinda ukhangele zonke izinto ze-IU Libraries ezikwi Xhosa okanye ezimalunga ne Xhosa, kuquka uncwadi, uhlalutyo, imisebenzi yesalathiso nokunye, usebenzisa amakhonkco angezantsi.",
+      "disclaimer": "Nceda uqaphele ukuba ezi ziphumo zenzelwe ukukunceda ukhangele iingqokelela ze-IU kwaye zisenokungaphelelanga. Ezinye izinto zisenokuhlelwa ngaphandle kwezi zithuba okanye zikatalogwe ngokwahlukeneyo. Sebenzisa amakhonkco “khangela zonke iingqokelela” kunye nophendlo lwegama elingundoqo angezantsi ukuze ufumane uluhlu olubanzi.",
+      "keyword_search": "Khangela “Xhosa” njengegama elingundoqo kwi-IUCAT",
+      "search_tip": "Icebiso lokukhangela: Sebenzisa ipaneli esekhohlo kwi-IUCAT ukunciphisa iziphumo ngombhali, ulwimi, unyaka, ifomathi nokunye.",
+      "still_looking": {
+        "text": "Usayifumana nzima into oyifunayo? Qhagamshelana nononcwadi okanye ucebise ukuthengwa kwezinto.",
+        "librarian_text": "Qhagamshelana nononcwadi",
+        "purchase_text": "ucebise ukuthengwa kwezinto"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "yor",
+    "Language_Name": "Yoruba",
+    "button_translations": {
+      "Collections of Yoruba Literature": "Àwọn àkójọpọ̀ ìwé-àṣà Yoruba",
+      "Yoruba Literature: Individual Authors or Works": "Ìwé-àṣà Yoruba: àwọn onkọ̀wé tàbí iṣẹ́ kọọkan",
+      "Yoruba Folk Literature": "Ìwé-àṣà ìbílẹ̀ Yoruba"
+    },
+    "ui_strings": {
+      "browse_label": "Ṣàwárí ìwé-àṣà Yoruba nípasẹ̀ ẹ̀ka:",
+      "explore_all": "Ṣàwárí gbogbo àkójọpọ̀ IU Libraries ní èdè Yoruba",
+      "about_heading": "Wíwá ìwé-àṣà Yoruba nínú IUCAT",
+      "about_body": "Púpọ̀ jù lọ nínú ìwé-àṣà Yoruba ni a ti ṣe àkọsílẹ̀ rẹ̀ nínú ààlà nọ́ńbà ìpè PL8824.A2-PL8824.Z5ZZZ. Àwọn ẹ̀ka lókè yìí bo àwọn ipin pàtàkì nínú ààlà yẹn. O tún lè ṣàwárí gbogbo ohun èlò IU Libraries ní Yoruba tàbí nípa Yoruba, pẹ̀lú ìwé-àṣà, àríwísí, iṣẹ́ ìtọ́kasí àti bẹ́ẹ̀ bẹ́ẹ̀ lọ, nípasẹ̀ àwọn ìjápọ̀ tó wà ní isalẹ.",
+      "disclaimer": "Jọ̀wọ́ ṣàkíyèsí pé àwọn abajade wọ̀nyí jẹ́ láti ràn ọ́ lọ́wọ́ láti ṣàwárí àkójọpọ̀ IU, wọ́n sì lè má pé. Diẹ̀ nínú àwọn ohun èlò lè wà níta àwọn ààlà wọ̀nyí tàbí kí a ṣe àkọsílẹ̀ wọn lọ́tọ̀. Lo àwọn ìjápọ̀ “ṣàwárí gbogbo àkójọpọ̀” àti ìwádìí ọ̀rọ̀-ìkọ̀kọ̀ ní isalẹ fún ìbòòrí tó gbooro.",
+      "keyword_search": "Wá “Yoruba” gẹ́gẹ́ bí ọ̀rọ̀-ìkọ̀kọ̀ nínú IUCAT",
+      "search_tip": "Ìmọ̀ràn ìwádìí: Lo pánẹ́ẹ̀lì apá òsì nínú IUCAT láti dín abajade kù nípa onkọ̀wé, èdè, ọdún, fọ́ọ̀mù àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.",
+      "still_looking": {
+        "text": "Ṣé o ṣi kò rí ohun tí o ń wá? Kan sí olùtọ́jú ilé-ìkàwé tàbí daba rírà ohun èlò.",
+        "librarian_text": "Kan sí olùtọ́jú ilé-ìkàwé",
+        "purchase_text": "daba rírà ohun èlò"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
+  },
+  {
+    "MARC_Code": "zul",
+    "Language_Name": "Zulu",
+    "button_translations": {
+      "Collections of Zulu Literature": "Amaqoqo ezincwadi ze-Zulu",
+      "Zulu Literature: Individual Authors or Works": "Izincwadi ze-Zulu: abalobi noma imisebenzi ngayinye",
+      "Zulu Literature in Translation": "Izincwadi ze-Zulu ezihunyushiwe",
+      "Zulu Folk Literature": "Izincwadi zomdabu ze-Zulu",
+      "Zulu Children's and Juvenile Literature": "Izincwadi zezingane nentsha ze-Zulu"
+    },
+    "ui_strings": {
+      "browse_label": "Phequlula izincwadi ze-Zulu ngokwesigaba:",
+      "explore_all": "Phequlula wonke amaqoqo e-IU Libraries ngesi Zulu",
+      "about_heading": "Ukuthola izincwadi ze-Zulu ku-IUCAT",
+      "about_body": "Iningi lezincwadi ze-Zulu lifakwe kukhathalogi ngaphansi kobubanzi bezinombolo zokubiza PL8844.A2-PL8844.Z5ZZZ. Izigaba ezingenhla zihlanganisa izingxenye ezinkulu zalobu bubanzi. Ungasebenzisa izixhumanisi ezingezansi ukuze uphequlule konke okuse-IU Libraries ngesi Zulu noma okumayelana ne Zulu, kuhlanganise nezincwadi, ukugxeka, imithombo yokubhekisela nokunye.",
+      "disclaimer": "Sicela uqaphele ukuthi le miphumela ihloselwe ukukusiza uphequlule amaqoqo e-IU futhi ingase ingaphelele. Ezinye izinto zingase zihlukaniswe ngaphandle kwalezi zindawo noma zifakwe kukhathalogi ngokwehlukana. Sebenzisa izixhumanisi “phequlula wonke amaqoqo” kanye nosesho lwegama eliyisihluthulelo ngezansi ukuze uthole umkhakha obanzi.",
+      "keyword_search": "Sesha “Zulu” njengegama eliyisihluthulelo ku-IUCAT",
+      "search_tip": "Ithiphu lokusesha: Sebenzisa iphaneli yesobunxele ku-IUCAT ukuze unciphise imiphumela ngomlobi, ulimi, unyaka, ifomethi nokunye.",
+      "still_looking": {
+        "text": "Usangakutholi okufunayo? Xhumana nomtapo wolwazi noma uphakamise ukuthengwa kwezinto.",
+        "librarian_text": "Xhumana nomtapo wolwazi",
+        "purchase_text": "uphakamise ukuthengwa kwezinto"
+      }
+    },
+    "translation_status": "machine_draft_tier_1_keep_language_names_english"
   }
 ]
