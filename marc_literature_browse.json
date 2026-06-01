@@ -27,7 +27,8 @@
       {
         "button_text": "Afrikaans Folklore",
         "call_number_ranges": "GR359.2.A47-GR359.2.A47.999|PT6540-PT6545.999",
-        "subject_heading_or": "Afrikaners--Folklore"
+        "subject_heading_or": "Afrikaners--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR359.2.A47&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Afrikaans Children's and Juvenile Literature",
@@ -160,7 +161,8 @@
       {
         "button_text": "Arabic Folk Literature",
         "call_number_ranges": "PJ7680-PJ7680.999|GR268.A73-GR268.A73.999|GR275-GR275.999|GR286.2.A72-GR286.2.A72.999|GR293-GR295.ZZZZ",
-        "subject_heading_or": "Folk literature, Arabic|Arabs--Folklore"
+        "subject_heading_or": "Folk literature, Arabic|Arabs--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR268.A73&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR275&search_field_row%5B%5D=callnumber&boolean_row%5B2%5D=OR&q_row%5B%5D=GR286.2.A72&search_field_row%5B%5D=callnumber&boolean_row%5B3%5D=OR&q_row%5B%5D=GR293&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Arabic Children's and Juvenile Literature",
@@ -190,7 +192,8 @@
       {
         "button_text": "Basque Folk Literature",
         "call_number_ranges": "GR137.3-GR137.3.999",
-        "subject_heading_or": "Folk literature, Basque"
+        "subject_heading_or": "Folk literature, Basque",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR137.3&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -227,7 +230,8 @@
       {
         "button_text": "Bulgarian Folk Literature",
         "call_number_ranges": "PG1012.5-PG1016.22.999|GR253-GR253.999",
-        "subject_heading_or": "Bulgaria--Folklore|Folk literature, Bulgarian"
+        "subject_heading_or": "Bulgaria--Folklore|Folk literature, Bulgarian",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR253&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Bulgarian Children's and Juvenile Literature",
@@ -257,7 +261,8 @@
       {
         "button_text": "Catalan Folk Literature",
         "call_number_ranges": "GR237.C3-GR237.C3.999",
-        "subject_heading_or": "Folk literature, Catalan|Catalans--Folklore|Legends--Spain--Catalonia"
+        "subject_heading_or": "Folk literature, Catalan|Catalans--Folklore|Legends--Spain--Catalonia",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR237.C3&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Children's and Juvenile Literature in Catalan",
@@ -319,7 +324,8 @@
       {
         "button_text": "Chinese Folk Literature",
         "call_number_ranges": "PL2445-PL2446.9.999|GR334-GR336.999",
-        "subject_heading_or": "Folk literature, Chinese|China--Folklore"
+        "subject_heading_or": "Folk literature, Chinese|China--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR334&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Chinese Children's and Juvenile Literature",
@@ -349,7 +355,8 @@
       {
         "button_text": "Croatian Folk Literature",
         "call_number_ranges": "PG1630-PG1639.999|GR263.C77-GR263.C779.999|GR254-GR254.999",
-        "subject_heading_or": "Croatia--Folklore|Folk literature, Croatia"
+        "subject_heading_or": "Croatia--Folklore|Folk literature, Croatia",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR263.C77&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR254&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Croatian Children's and Juvenile Literature",
@@ -395,7 +402,8 @@
       {
         "button_text": "Danish Folk Literature",
         "call_number_ranges": "PT7915-PT7930.ZZZZ|GR209-GR211.ZZZZ",
-        "subject_heading_or": "Denmark--Folklore|Folk literature, Denmark"
+        "subject_heading_or": "Denmark--Folklore|Folk literature, Denmark",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR209&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Danish Children's and Juvenile Literature",
@@ -441,7 +449,8 @@
       {
         "button_text": "Dutch Folk Literature",
         "call_number_ranges": "PT5351-PT5395.ZZZZ|GR180-GR182.999",
-        "subject_heading_or": "Folk literature, Dutch|Netherlands--Folklore"
+        "subject_heading_or": "Folk literature, Dutch|Netherlands--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR180&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Dutch Children's and Juvenile Literature",
@@ -516,12 +525,14 @@
       {
         "button_text": "American Folk Literature",
         "call_number_ranges": "GR105-GR112.999",
-        "subject_heading_or": "United States--Folklore|Folk literature, American"
+        "subject_heading_or": "United States--Folklore|Folk literature, American",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR105&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "British Folk Literature",
         "call_number_ranges": "GR140-GR153.999",
-        "subject_heading_or": "Great Britain--Folklore|Folk literature, British|England--Folklore|Folk literature, English"
+        "subject_heading_or": "Great Britain--Folklore|Folk literature, British|England--Folklore|Folk literature, English",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR140&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Children's and Juvenile Literature in English",
@@ -559,7 +570,8 @@
       {
         "button_text": "Finnish Folk Literature",
         "call_number_ranges": "GR200-GR201.2.999",
-        "subject_heading_or": "Finland--Folklore|Folk literature, Finnish"
+        "subject_heading_or": "Finland--Folklore|Folk literature, Finnish",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR200&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Finnish Children's and Juvenile Literature",
@@ -613,7 +625,8 @@
       {
         "button_text": "French Folk Literature",
         "call_number_ranges": "GR160-162.5-GR160-162.5.999|PQ781-PQ841.999",
-        "subject_heading_or": "France--Folklore|Folk literature, French"
+        "subject_heading_or": "France--Folklore|Folk literature, French",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR160&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "French Children's and Juvenile Literature",
@@ -659,7 +672,8 @@
       {
         "button_text": "German Folk Literature",
         "call_number_ranges": "PT881-951-PT881-951.999|GR165-GR169.2.999",
-        "subject_heading_or": "Germany--Folklore|Folk literature, German"
+        "subject_heading_or": "Germany--Folklore|Folk literature, German",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR165&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "German Children's and Juvenile Literature",
@@ -721,7 +735,8 @@
       {
         "button_text": "Greek Folk Literature",
         "call_number_ranges": "GR170-GR170.3.ZZZZ",
-        "subject_heading_or": "Greece--Folklore|Folk literature, Greek"
+        "subject_heading_or": "Greece--Folklore|Folk literature, Greek",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR170&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Greek Children's and Juvenile Literature",
@@ -775,7 +790,8 @@
       {
         "button_text": "Hindi Folk Literature",
         "call_number_ranges": "PK2081-2091-PK2081-2091.999|GR305-GR305.7.999",
-        "subject_heading_or": "Folk literature, Hindi|India--Folklore"
+        "subject_heading_or": "Folk literature, Hindi|India--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Hindi Children's and Juvenile Literature",
@@ -817,7 +833,8 @@
       {
         "button_text": "Hungarian Folk Literature",
         "call_number_ranges": "GR154.5-GR154.8.999",
-        "subject_heading_or": "Folk literature, Hungarian|Hungary--Folklore"
+        "subject_heading_or": "Folk literature, Hungarian|Hungary--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR154.5&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Hungarian Children's and Juvenile Literature",
@@ -851,7 +868,8 @@
       {
         "button_text": "Icelandic Folk Literature",
         "call_number_ranges": "PT7430-PT7438.999|GR215-GR215.999",
-        "subject_heading_or": "Folk Literature, Icelandic|Iceland--Folklore"
+        "subject_heading_or": "Folk Literature, Icelandic|Iceland--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR215&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Icelandic Children's and Juvenile Literature",
@@ -892,7 +910,8 @@
       {
         "button_text": "Irish Folk Literature",
         "call_number_ranges": "GR153.4-GR153.6.999|PB1383-PB1383.999",
-        "subject_heading_or": "Folk literature, Irish|Ireland--Folklore"
+        "subject_heading_or": "Folk literature, Irish|Ireland--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR153.4&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Irish Children's and Juvenile Literature",
@@ -946,7 +965,8 @@
       {
         "button_text": "Italian Folk Literature",
         "call_number_ranges": "GR175-GR176.999|PQ4186-4199-PQ4186-4199.999",
-        "subject_heading_or": "Folk literature, Italian|Italy--Folklore"
+        "subject_heading_or": "Folk literature, Italian|Italy--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR175&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Italian Children's and Juvenile Literature",
@@ -1015,7 +1035,8 @@
       {
         "button_text": "Japanese Folk Literature",
         "call_number_ranges": "GR339-GR341.999",
-        "subject_heading_or": "Folk Literature, Japanese|Japan--Folklore"
+        "subject_heading_or": "Folk Literature, Japanese|Japan--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR339&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Japanese Children's and Juvenile Literature",
@@ -1080,7 +1101,8 @@
       {
         "button_text": "Korean Folk Literature",
         "call_number_ranges": "GR342-GR342.5.999",
-        "subject_heading_or": "Folk Literature, Korean|Korea--Folklore"
+        "subject_heading_or": "Folk Literature, Korean|Korea--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR342&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Korean Children's and Juvenile Literature",
@@ -1153,7 +1175,8 @@
       {
         "button_text": "Latvian Folk Literature",
         "call_number_ranges": "GR204.5-GR204.5.999|PG9014-PG9019.999",
-        "subject_heading_or": "Folk Literature, Latvian|Latvia--Folklore"
+        "subject_heading_or": "Folk Literature, Latvian|Latvia--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR204.5&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Latvian Children's and Juvenile Literature",
@@ -1182,7 +1205,8 @@
       {
         "button_text": "Low German Folk Literature",
         "call_number_ranges": "PT4830-PT4830.999|GR167.A-GR167.Z",
-        "subject_heading_or": "Folk literature, Low German"
+        "subject_heading_or": "Folk literature, Low German",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR167.A&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ],
     "language_facet": [
@@ -1229,7 +1253,8 @@
       {
         "button_text": "Norwegian Folk Literature",
         "call_number_ranges": "GR220-GR222.ZZZZ|PT8615-8637-PT8615-8637.999",
-        "subject_heading_or": "Folk Literature, Norwegian|Norway--Folklore"
+        "subject_heading_or": "Folk Literature, Norwegian|Norway--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR220&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Norwegian Children's and Juvenile Literature",
@@ -1264,7 +1289,8 @@
       {
         "button_text": "Occitan Folk Literature",
         "call_number_ranges": "GR162.L2-GR162.L2.999",
-        "subject_heading_or": "Folk Literature, Occitan|Folklore--France--Languedoc"
+        "subject_heading_or": "Folk Literature, Occitan|Folklore--France--Languedoc",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR162.L2&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ],
     "language_facet": [
@@ -1362,7 +1388,8 @@
       {
         "button_text": "Persian Folk Literature (includes Iran, Tajikistan, Azerbaijan, Afghanistan)",
         "call_number_ranges": "GR290-GR291.2.999|GR300.5-GR300.52.999|GR302.5-GR302.9.999|PK6599-PK6599.999",
-        "subject_heading_or": "Folk Literature, Persian|Iran--Folklore|Afghanistan--Folklore|Tajikistan--Folklore"
+        "subject_heading_or": "Folk Literature, Persian|Iran--Folklore|Afghanistan--Folklore|Tajikistan--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR290&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR300.5&search_field_row%5B%5D=callnumber&boolean_row%5B2%5D=OR&q_row%5B%5D=GR302.5&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Persian Children's and Juvenile Literature",
@@ -1413,7 +1440,8 @@
       {
         "button_text": "Polish Folk Literature",
         "call_number_ranges": "GR195-GR196.2.999|PG7124-PG7128.ZZZZ",
-        "subject_heading_or": "Folk Literature, Polish|Poland--Folklore"
+        "subject_heading_or": "Folk Literature, Polish|Poland--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR195&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Polish Children's and Juvenile Literature",
@@ -1479,12 +1507,14 @@
       {
         "button_text": "Portuguese Folk Literature (Brazil)",
         "call_number_ranges": "PQ9660-PQ9660.999|PQ 9686-PQ 9686.999|GR133.B7-GR133.B7.999",
-        "subject_heading_or": "Folk literature, Brazilian|Brazil--Folklore"
+        "subject_heading_or": "Folk literature, Brazilian|Brazil--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR133.B7&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Portuguese Folk Literature (Portugal)",
         "call_number_ranges": "GR238-GR239.2.999",
-        "subject_heading_or": "Folk Literature, Portuguese|Portugal--Folklore|Brazil--Folklore"
+        "subject_heading_or": "Folk Literature, Portuguese|Portugal--Folklore|Brazil--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR238&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Children's and Juvenile Literature in Portuguese",
@@ -1525,7 +1555,8 @@
       {
         "button_text": "Romanian Folk Literature",
         "call_number_ranges": "GR257-GR258.2.ZZZZ|PC819-PC827.999",
-        "subject_heading_or": "Folk Literature, Romanian|Romania--Folklore"
+        "subject_heading_or": "Folk Literature, Romanian|Romania--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR257&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Romanian Children's and Juvenile Literature",
@@ -1588,7 +1619,8 @@
       {
         "button_text": "Russian Folk Literature",
         "call_number_ranges": "GR202-GR203.2.ZZZZ|GR345-GR345.999",
-        "subject_heading_or": "Folk Literature, Russian|Russia--Folklore"
+        "subject_heading_or": "Folk Literature, Russian|Russia--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR202&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR345&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Russian Children's and Juvenile Literature",
@@ -1667,7 +1699,8 @@
       {
         "button_text": "Scots Folk Literature",
         "call_number_ranges": "GR143-GR145.999|PR8689-PR8689.999|PR8621-PR8624.999",
-        "subject_heading_or": "Folk Literature, Scots|Scotland--Folklore"
+        "subject_heading_or": "Folk Literature, Scots|Scotland--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR143&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -1696,7 +1729,8 @@
       {
         "button_text": "Scottish Gaelic Folk Literature",
         "call_number_ranges": "GR143-GR145.999|PB1645-PB1645.999",
-        "subject_heading_or": "Folk Literature, Scottish Gaelic|Scotland--Folklore"
+        "subject_heading_or": "Folk Literature, Scottish Gaelic|Scotland--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR143&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -1721,7 +1755,8 @@
       {
         "button_text": "Serbian Folk Literature",
         "call_number_ranges": "GR258.5-GR258.52.ZZZZ|PG1464.5-PG1464.5.ZZZZ",
-        "subject_heading_or": "Folk Literature, Serbian|Serbia--Folklore|Folk Literature, Serbo-Croatian"
+        "subject_heading_or": "Folk Literature, Serbian|Serbia--Folklore|Folk Literature, Serbo-Croatian",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR258.5&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Serbian Children's and Juvenile Literature",
@@ -1771,7 +1806,8 @@
       {
         "button_text": "Folk Literature of Slovakia",
         "call_number_ranges": "GR154.4-GR154.47.ZZZZ|PG5409.5.F64-PG5409.5.F64.999|PG5414-PG5419.ZZZZ",
-        "subject_heading_or": "Folk Literature, Slovak|Slovakia--Folklore"
+        "subject_heading_or": "Folk Literature, Slovak|Slovakia--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR154.4&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Slovak Children's and Juvenile Literature",
@@ -1817,7 +1853,8 @@
       {
         "button_text": "Slovenian Folk Literature",
         "call_number_ranges": "GR258.7-GR258.7.999",
-        "subject_heading_or": "Folk Literature, Slovenian|Slovenia--Folklore"
+        "subject_heading_or": "Folk Literature, Slovenian|Slovenia--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR258.7&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Slovenian Children's and Juvenile Literature",
@@ -1879,22 +1916,26 @@
       {
         "button_text": "Folk Literature of Spain",
         "call_number_ranges": "GR229-GR237.999",
-        "subject_heading_or": "Spain--Folklore"
+        "subject_heading_or": "Spain--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR229&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Spanish Folk Literature of Mexico",
         "call_number_ranges": "GR115-115.5.999-GR115-115.5.999.999",
-        "subject_heading_or": "Mexico--Folklore"
+        "subject_heading_or": "Mexico--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR115&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Spanish Folk Literature of Central America and the Caribbean",
         "call_number_ranges": "GR117-121.ZZZZ-GR117-121.ZZZZ.999",
-        "subject_heading_or": "Central America--Folklore|Folklore--Caribbean Area"
+        "subject_heading_or": "Central America--Folklore|Folklore--Caribbean Area",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR117&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Spanish Folk Literature of South America",
         "call_number_ranges": "GR130-GR133.ZZZZ",
-        "subject_heading_or": "South America--Folklore"
+        "subject_heading_or": "South America--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR130&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Children's and Juvenile Literature in Spanish",
@@ -1949,7 +1990,8 @@
       {
         "button_text": "Swedish Folk Literature",
         "call_number_ranges": "GR224-GR226.999|PT9509-PT9542.999",
-        "subject_heading_or": "Folk Literature, Swedish|Sweden--Folklore"
+        "subject_heading_or": "Folk Literature, Swedish|Sweden--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR224&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Swedish Children's and Juvenile Literature",
@@ -1991,7 +2033,8 @@
       {
         "button_text": "Ukrainian Folk Literature",
         "call_number_ranges": "GR203.8-GR203.95.999|PG3926.A3-PG3927.Z",
-        "subject_heading_or": "Folk Literature, Ukrainian|Ukraine--Folklore"
+        "subject_heading_or": "Folk Literature, Ukrainian|Ukraine--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR203.8&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Ukrainian Children's and Juvenile Literature",
@@ -2025,7 +2068,8 @@
       {
         "button_text": "Welsh Folk Literature",
         "call_number_ranges": "GR149-GR151.999|PB2241-PB2241.999|PB2311-PB2311.999",
-        "subject_heading_or": "Folk Literature, Welsh|Wales--Folklore"
+        "subject_heading_or": "Folk Literature, Welsh|Wales--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR149&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Welsh Children's and Juvenile Literature",
@@ -2055,7 +2099,8 @@
       {
         "button_text": "Yiddish Folk Literature",
         "call_number_ranges": "GR97.8-GR98.999",
-        "subject_heading_or": "Folk literature, Yiddish"
+        "subject_heading_or": "Folk literature, Yiddish",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR97.8&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Yiddish Children's and Juvenile Literature",
@@ -2098,7 +2143,8 @@
       {
         "button_text": "Armenian Folk Literature",
         "call_number_ranges": "GR280-GR280.999",
-        "subject_heading_or": "Armenians--Folklore|Tales--Armenia"
+        "subject_heading_or": "Armenians--Folklore|Tales--Armenia",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR280&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Armenian Children's and Juvenile Literature",
@@ -2129,7 +2175,8 @@
       {
         "button_text": "Assamese Folk Literature",
         "call_number_ranges": "GR305.5.A8-GR305.5.A8.999",
-        "subject_heading_or": "Folk literature, Assamese|Assam (India)--Folklore"
+        "subject_heading_or": "Folk literature, Assamese|Assam (India)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.5.A8&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2146,7 +2193,8 @@
       {
         "button_text": "Azerbaijani Folk Literature",
         "call_number_ranges": "GR47.A98-GR47.A98.999",
-        "subject_heading_or": "Folk literature, Azerbaijani|Azerbaijanis--Folklore|Folklore--Azerbaijan|Azerbaijani folk literature"
+        "subject_heading_or": "Folk literature, Azerbaijani|Azerbaijanis--Folklore|Folklore--Azerbaijan|Azerbaijani folk literature",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR47.A98&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Azerbaijani Children's and Juvenile Literature",
@@ -2168,7 +2216,8 @@
       {
         "button_text": "Bashkir Folk Literature",
         "call_number_ranges": "GR203.2.B37-GR203.2.B37.999",
-        "subject_heading_or": "Folk literature, Bashkir|Bashkirs--Folklore"
+        "subject_heading_or": "Folk literature, Bashkir|Bashkirs--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR203.2.B37&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Bashkir Children's and Juvenile Literature",
@@ -2211,7 +2260,8 @@
       {
         "button_text": "Bengali Folk Literature",
         "call_number_ranges": "GR302.2.B44-GR302.2.B44.999|GR304.5-GR304.9.999|GR305.7.B46-GR305.7.B46.999",
-        "subject_heading_or": "Folklore--India--Bengal|Folklore--Bangladesh|Folk poetry, Bengali|Bangladesh--Folklore"
+        "subject_heading_or": "Folklore--India--Bengal|Folklore--Bangladesh|Folk poetry, Bengali|Bangladesh--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR302.2.B44&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR304.5&search_field_row%5B%5D=callnumber&boolean_row%5B2%5D=OR&q_row%5B%5D=GR305.7.B46&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Bengali Children's and Juvenile Literature",
@@ -2233,7 +2283,8 @@
       {
         "button_text": "Bhojpuri Folk Literature",
         "call_number_ranges": "GR302.2.B55-GR302.2.B55.999|GR305.7.B54-GR305.7.B54.999",
-        "subject_heading_or": "Folk literature, Bhojpuri"
+        "subject_heading_or": "Folk literature, Bhojpuri",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR302.2.B55&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR305.7.B54&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -2250,7 +2301,8 @@
       {
         "button_text": "Braj Folk Literature",
         "call_number_ranges": "GR305.5.N68-GR305.5.N68.999",
-        "subject_heading_or": "Folk literature, Braj"
+        "subject_heading_or": "Folk literature, Braj",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.5.N68&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2276,7 +2328,8 @@
       {
         "button_text": "Burmese Folk Literature",
         "call_number_ranges": "GR309-GR309.5.999",
-        "subject_heading_or": "Tales--Burma|Folklore--Burma"
+        "subject_heading_or": "Tales--Burma|Folklore--Burma",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR309&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2298,14 +2351,19 @@
     "language_facet": "Chechen",
     "options": [
       {
-        "button_text": "Chechen Literature",
-        "call_number_ranges": "PK9201.A-PK9201.ZZZZ",
-        "order": 1
+        "button_text": "Collections of Chechen Literature",
+        "call_number_ranges": "PK9201.C36-PK9201.C39.999",
+        "subject_heading_or": "Chechen literature--Collections"
+      },
+      {
+        "button_text": "Chechen Literature: Individual Authors or Works",
+        "call_number_ranges": "PK9201.C39A-PK9201.C39Z.999"
       },
       {
         "button_text": "Chechen Folk Literature",
         "call_number_ranges": "GR203.2.C45-GR203.2.C45.999",
-        "subject_heading_or": "Folk literature, Chechen|Chechens--Folklore"
+        "subject_heading_or": "Folk literature, Chechen|Chechens--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR203.2.C45&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2322,7 +2380,8 @@
       {
         "button_text": "Chuvash Folk Literature",
         "call_number_ranges": "GR203.2.C53-GR203.2.C53.999",
-        "subject_heading_or": "Folk literature, Chuvash|Chuvash (Turkic people)--Folklore"
+        "subject_heading_or": "Folk literature, Chuvash|Chuvash (Turkic people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR203.2.C53&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Chuvash Children's and Juvenile Literature",
@@ -2366,7 +2425,8 @@
       {
         "button_text": "Fon Folk Literature",
         "call_number_ranges": "GR351.42.F65-GR351.42.F65.999",
-        "subject_heading_or": "Fon (African people)--Benin--Folklore|Benin--Folklore"
+        "subject_heading_or": "Fon (African people)--Benin--Folklore|Benin--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR351.42.F65&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2392,7 +2452,8 @@
       {
         "button_text": "Georgian Folk Literature",
         "call_number_ranges": "GR279-GR279.999",
-        "subject_heading_or": "Folk literature, Georgian|Legends--Georgia (Republic)"
+        "subject_heading_or": "Folk literature, Georgian|Legends--Georgia (Republic)",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR279&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2418,7 +2479,8 @@
       {
         "button_text": "Gujarati Folk Literature",
         "call_number_ranges": "GR305.7.G83-GR305.7.G83.999",
-        "subject_heading_or": "Folk literature, Gujarati|Gujarat (India)--Folklore"
+        "subject_heading_or": "Folk literature, Gujarati|Gujarat (India)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.7.G83&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Gujarati Children's and Juvenile Literature",
@@ -2440,7 +2502,8 @@
       {
         "button_text": "Hausa Folk Literature",
         "call_number_ranges": "GR351.32.H34-GR351.32.H34.999|GR351.92.H38-GR351.92.H38.999",
-        "subject_heading_or": "Folk literature, Hausa|Hausas--Folklore"
+        "subject_heading_or": "Folk literature, Hausa|Hausas--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR351.32.H34&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR351.92.H38&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Hausa Children's and Juvenile Literature",
@@ -2511,7 +2574,8 @@
       {
         "button_text": "Igbo Folk Literature",
         "call_number_ranges": "GR351.32.I34-GR351.32.I34.999",
-        "subject_heading_or": "Folk literature, Igbo|Igbo (African people)--Folklore"
+        "subject_heading_or": "Folk literature, Igbo|Igbo (African people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR351.32.I34&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2533,7 +2597,8 @@
       {
         "button_text": "Indonesian Folk Literature",
         "call_number_ranges": "GR320-GR324.5.999",
-        "subject_heading_or": "Folk literature, Indonesian|Indonesia--Folklore"
+        "subject_heading_or": "Folk literature, Indonesian|Indonesia--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR320&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Indonesian Children's and Juvenile Literature",
@@ -2560,7 +2625,8 @@
       {
         "button_text": "Javanese Folk Literature",
         "call_number_ranges": "GR324.5.J38-GR324.5.J38.999",
-        "subject_heading_or": "Folk literature, Javanese|Javanese (Indonesian people)--Folklore"
+        "subject_heading_or": "Folk literature, Javanese|Javanese (Indonesian people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR324.5.J38&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2582,7 +2648,8 @@
       {
         "button_text": "Kannada Folk Literature",
         "call_number_ranges": "GR305.7.K36-GR305.7.K36.999",
-        "subject_heading_or": "Folk literature, Kannada|Karnataka (India)--Folklore"
+        "subject_heading_or": "Folk literature, Kannada|Karnataka (India)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.7.K36&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2607,7 +2674,8 @@
       {
         "button_text": "Kashmiri Folk Literature",
         "call_number_ranges": "GR305.5.K3-GR305.5.K3.999",
-        "subject_heading_or": "Folklore--India--Jammu and Kashmir"
+        "subject_heading_or": "Folklore--India--Jammu and Kashmir",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.5.K3&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2624,7 +2692,8 @@
       {
         "button_text": "Kazakh Folk Literature",
         "call_number_ranges": "GR300.3-GR300.32.999",
-        "subject_heading_or": "Folk literature, Kazakh|Folklore--Kazakhstan"
+        "subject_heading_or": "Folk literature, Kazakh|Folklore--Kazakhstan",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR300.3&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Kazakh Children's and Juvenile Literature",
@@ -2646,7 +2715,8 @@
       {
         "button_text": "Khmer Folk Literature",
         "call_number_ranges": "GR310-GR310.999",
-        "subject_heading_or": "Tales--Cambodia|Folklore--Cambodia|Khmer (Southeast Asian people)--Folklore"
+        "subject_heading_or": "Tales--Cambodia|Folklore--Cambodia|Khmer (Southeast Asian people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR310&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2663,7 +2733,8 @@
       {
         "button_text": "Konkani Folk Literature",
         "call_number_ranges": "GR305.5.G6-GR305.5.G6.999",
-        "subject_heading_or": "Goa (India : State)--Folklore|Folk songs, Konkani|Goa, Daman and Diu (India)--Social life and customs"
+        "subject_heading_or": "Goa (India : State)--Folklore|Folk songs, Konkani|Goa, Daman and Diu (India)--Social life and customs",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.5.G6&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2680,7 +2751,8 @@
       {
         "button_text": "Kurdish Folk Literature",
         "call_number_ranges": "GR271.K85-GR271.K85.999",
-        "subject_heading_or": "Tales--Kurdistan|Tales--Turkey, Eastern|Kurds--Folklore"
+        "subject_heading_or": "Tales--Kurdistan|Tales--Turkey, Eastern|Kurds--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR271.K85&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2697,7 +2769,8 @@
       {
         "button_text": "Kyrgyz Folk Literature",
         "call_number_ranges": "GR300.2.K57-GR300.2.K57.999",
-        "subject_heading_or": "Folk literature, Kyrgyz|Kyrgyz--Folklore"
+        "subject_heading_or": "Folk literature, Kyrgyz|Kyrgyz--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR300.2.K57&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Kyrgyz Children's and Juvenile Literature",
@@ -2722,7 +2795,8 @@
       {
         "button_text": "Siraiki Folk Literature",
         "call_number_ranges": "GR305.S627-GR305.S627.999",
-        "subject_heading_or": "Folklore--Pakistan--Multān District|Folk literature, Siraiki"
+        "subject_heading_or": "Folklore--Pakistan--Multān District|Folk literature, Siraiki",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.S627&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2739,7 +2813,8 @@
       {
         "button_text": "Lao Folk Literature",
         "call_number_ranges": "GR311-GR311.5.999",
-        "subject_heading_or": "Tales--Laos|Legends--Laos|Laotians--Folklore|Laotian folk literature|Laos--Folklore"
+        "subject_heading_or": "Tales--Laos|Legends--Laos|Laotians--Folklore|Laotian folk literature|Laos--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR311&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2756,7 +2831,8 @@
       {
         "button_text": "Maithili Folk Literature",
         "call_number_ranges": "GR302.2.M35-GR302.2.M35.999",
-        "subject_heading_or": "Folk literature, Maithili|Mithila (India and Nepal)--Folklore"
+        "subject_heading_or": "Folk literature, Maithili|Mithila (India and Nepal)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR302.2.M35&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2778,7 +2854,8 @@
       {
         "button_text": "Malay Folk Literature",
         "call_number_ranges": "GR324.5.M34-GR324.5.M34.999",
-        "subject_heading_or": "Malays (Asian people)--Folklore|Folklore--Malaysia|Folklore--Malay Peninsula"
+        "subject_heading_or": "Malays (Asian people)--Folklore|Folklore--Malaysia|Folklore--Malay Peninsula",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR324.5.M34&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Malay Children's and Juvenile Literature",
@@ -2800,7 +2877,8 @@
       {
         "button_text": "Malayalam Folk Literature",
         "call_number_ranges": "GR305.5.K4-GR305.5.K4.999",
-        "subject_heading_or": "Folklore--India--Kerala|Legends--India--Kerala|Tales--India--Kerala|Kerala (India)--Folklore"
+        "subject_heading_or": "Folklore--India--Kerala|Legends--India--Kerala|Tales--India--Kerala|Kerala (India)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.5.K4&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2810,14 +2888,19 @@
     "language_facet": "Manipuri",
     "options": [
       {
-        "button_text": "Manipuri Literature",
-        "call_number_ranges": "PL4001.A-PL4001.ZZZZ",
-        "order": 1
+        "button_text": "Collections of Manipuri Literature",
+        "call_number_ranges": "PL4001.M316-PL4001.M319.999",
+        "subject_heading_or": "Manipuri literature--Collections"
+      },
+      {
+        "button_text": "Manipuri Literature: Individual Authors or Works",
+        "call_number_ranges": "PL4001.M319A-PL4001.M319Z.999"
       },
       {
         "button_text": "Manipuri Folk Literature",
         "call_number_ranges": "GR305.7.M45-GR305.7.M45.999",
-        "subject_heading_or": "Folk literature, Manipuri|Manipur (India)--Folklore"
+        "subject_heading_or": "Folk literature, Manipuri|Manipur (India)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.7.M45&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2839,7 +2922,8 @@
       {
         "button_text": "Marathi Folk Literature",
         "call_number_ranges": "GR305.7.M35-GR305.7.M35.999",
-        "subject_heading_or": "Tales--India--Maharashtra|Maratha (Indic people)--Folklore|Folk literature, Marathi"
+        "subject_heading_or": "Tales--India--Maharashtra|Maratha (Indic people)--Folklore|Folk literature, Marathi",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.7.M35&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2860,7 +2944,8 @@
       {
         "button_text": "Marwari Folk Literature",
         "call_number_ranges": "GR305.7.M39-GR305.7.M39.999",
-        "subject_heading_or": "Folk literature, Marwari|Rajasthan (India)--Folklore"
+        "subject_heading_or": "Folk literature, Marwari|Rajasthan (India)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.7.M39&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2882,7 +2967,8 @@
       {
         "button_text": "Mongolian Folk Literature",
         "call_number_ranges": "GR337.5-GR337.5.999",
-        "subject_heading_or": "Tales--Mongolia|Mongols--Folklore"
+        "subject_heading_or": "Tales--Mongolia|Mongols--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR337.5&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Mongolian Children's and Juvenile Literature",
@@ -2921,7 +3007,8 @@
       {
         "button_text": "Nepali Folk Literature",
         "call_number_ranges": "GR307.N4-GR307.N4.999",
-        "subject_heading_or": "Folklore--Nepal|Nepalese folk literature|Tales--Nepal|Legends--Nepal"
+        "subject_heading_or": "Folklore--Nepal|Nepalese folk literature|Tales--Nepal|Legends--Nepal",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR307.N4&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2965,7 +3052,8 @@
       {
         "button_text": "Oriya Folk Literature",
         "call_number_ranges": "GR305.5.O68-GR305.5.O68.999",
-        "subject_heading_or": "Folklore--India--Odisha"
+        "subject_heading_or": "Folklore--India--Odisha",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.5.O68&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -2982,7 +3070,8 @@
       {
         "button_text": "Ossetic Folk Literature",
         "call_number_ranges": "GR203.2.O82-GR203.2.O82.999",
-        "subject_heading_or": "Ossetes--Folklore"
+        "subject_heading_or": "Ossetes--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR203.2.O82&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3004,7 +3093,8 @@
       {
         "button_text": "Panjabi Folk Literature",
         "call_number_ranges": "GR302.2.P34-GR302.2.P34.999|GR304.3.P34-GR304.3.P34.999|GR305.7.P37-GR305.7.P37.999",
-        "subject_heading_or": "Panjabis (South Asian people)--Folklore|Tales--India--Punjab|Tales--Pakistan--Punjab|Folklore--Pakistan--Punjab|Folklore--India--Punjab"
+        "subject_heading_or": "Panjabis (South Asian people)--Folklore|Tales--India--Punjab|Tales--Pakistan--Punjab|Folklore--Pakistan--Punjab|Folklore--India--Punjab",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR302.2.P34&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR304.3.P34&search_field_row%5B%5D=callnumber&boolean_row%5B2%5D=OR&q_row%5B%5D=GR305.7.P37&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -3038,7 +3128,8 @@
       {
         "button_text": "Pushto Folk Literature",
         "call_number_ranges": "GR302.2.P85-GR302.2.P85.999",
-        "subject_heading_or": "Folk literature, Pushto|Pushtuns--Folklore"
+        "subject_heading_or": "Folk literature, Pushto|Pushtuns--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR302.2.P85&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3055,7 +3146,8 @@
       {
         "button_text": "Quechua Folk Literature",
         "call_number_ranges": "GR130-GR130.999",
-        "subject_heading_or": "Folklore--Peru|Tales--Peru|Folk literature, Quechua|Quechua Indians--Folklore"
+        "subject_heading_or": "Folklore--Peru|Tales--Peru|Folk literature, Quechua|Quechua Indians--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR130&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3072,7 +3164,8 @@
       {
         "button_text": "Rajasthani Folk Literature",
         "call_number_ranges": "GR305.5.R3-GR305.5.R3.999",
-        "subject_heading_or": "Folklore--India--Rajasthan"
+        "subject_heading_or": "Folklore--India--Rajasthan",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.5.R3&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3114,7 +3207,8 @@
       {
         "button_text": "Sami Folk Literature",
         "call_number_ranges": "GR138.5-GR138.5.999",
-        "subject_heading_or": "Folk literature, Sami|Sami (European people)--Folklore"
+        "subject_heading_or": "Folk literature, Sami|Sami (European people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR138.5&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3131,7 +3225,8 @@
       {
         "button_text": "Sindhi Folk Literature",
         "call_number_ranges": "GR302.2.S56-GR302.2.S56.999|GR305.7.S56-GR305.7.S56.999",
-        "subject_heading_or": "Sindhis (South Asian people)--Folklore|Tales--Pakistan--Sindh|Folklore--Pakistan--Sindh"
+        "subject_heading_or": "Sindhis (South Asian people)--Folklore|Tales--Pakistan--Sindh|Folklore--Pakistan--Sindh",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR302.2.S56&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR305.7.S56&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -3153,7 +3248,8 @@
       {
         "button_text": "Sinhalese Folk Literature",
         "call_number_ranges": "GR306-GR306.7.999",
-        "subject_heading_or": "Folklore--Sri Lanka|Folk literature, Sinhalese"
+        "subject_heading_or": "Folklore--Sri Lanka|Folk literature, Sinhalese",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR306&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3170,7 +3266,8 @@
       {
         "button_text": "Somali Folk Literature",
         "call_number_ranges": "GR356.3-GR356.3.999",
-        "subject_heading_or": "Folklore--Somalia|Tales--Somalia"
+        "subject_heading_or": "Folklore--Somalia|Tales--Somalia",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR356.3&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Somali Children's and Juvenile Literature",
@@ -3224,7 +3321,8 @@
       {
         "button_text": "Swahili Folk Literature",
         "call_number_ranges": "GR355.62.S93-GR355.62.S93.999|GR356.72.S95-GR356.72.S95.999",
-        "subject_heading_or": "Folk literature, Swahili|Swahili-speaking peoples--Folklore"
+        "subject_heading_or": "Folk literature, Swahili|Swahili-speaking peoples--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR355.62.S93&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR356.72.S95&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       },
       {
         "button_text": "Swahili Children's and Juvenile Literature",
@@ -3258,7 +3356,8 @@
       {
         "button_text": "Syriac Folk Literature",
         "call_number_ranges": "GR271.A87-GR271.A87.999",
-        "subject_heading_or": "Folk literature, Syriac|Syriac Christians--Folklore"
+        "subject_heading_or": "Folk literature, Syriac|Syriac Christians--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR271.A87&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3275,7 +3374,8 @@
       {
         "button_text": "Tagalog Folk Literature",
         "call_number_ranges": "GR325-GR325.999",
-        "subject_heading_or": "Folklore--Philippines|Tales--Philippines"
+        "subject_heading_or": "Folklore--Philippines|Tales--Philippines",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR325&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Tagalog Children's and Juvenile Literature",
@@ -3297,7 +3397,8 @@
       {
         "button_text": "Tamil Folk Literature",
         "call_number_ranges": "GR302.2.T34-GR302.2.T34.999|GR306.7.T36-GR306.7.T36.999",
-        "subject_heading_or": "Folk literature, Tamil|Tales--India--Tamil Nadu|Tamil (Indic people)--Folklore"
+        "subject_heading_or": "Folk literature, Tamil|Tales--India--Tamil Nadu|Tamil (Indic people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR302.2.T34&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR306.7.T36&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -3314,7 +3415,8 @@
       {
         "button_text": "Tatar Folk Literature",
         "call_number_ranges": "GR203.2.T37-GR203.2.T37.999",
-        "subject_heading_or": "Folk literature, Tatar|Tatars--Folklore|Tales--Russia (Federation)--Tatarstan"
+        "subject_heading_or": "Folk literature, Tatar|Tatars--Folklore|Tales--Russia (Federation)--Tatarstan",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR203.2.T37&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Tatar Children's and Juvenile Literature",
@@ -3336,7 +3438,8 @@
       {
         "button_text": "Telugu Folk Literature",
         "call_number_ranges": "GR305.7.T44-GR305.7.T44.999",
-        "subject_heading_or": "Folk literature, Telugu|Telugus--Folklore"
+        "subject_heading_or": "Folk literature, Telugu|Telugus--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR305.7.T44&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3358,7 +3461,8 @@
       {
         "button_text": "Thai Folk Literature",
         "call_number_ranges": "GR312-GR312.5.999",
-        "subject_heading_or": "Thai folk literature|Folklore--Thailand|Tales--Thailand|Legends--Thailand"
+        "subject_heading_or": "Thai folk literature|Folklore--Thailand|Tales--Thailand|Legends--Thailand",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR312&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Thai Children's and Juvenile Literature",
@@ -3388,7 +3492,8 @@
       {
         "button_text": "Tibetan Folk Literature",
         "call_number_ranges": "GR337-GR337.999",
-        "subject_heading_or": "Folklore--Tibet Region|Tales--Tibet Region"
+        "subject_heading_or": "Folklore--Tibet Region|Tales--Tibet Region",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR337&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Tibetan Children's and Juvenile Literature",
@@ -3422,7 +3527,8 @@
       {
         "button_text": "Turkish Folk Literature",
         "call_number_ranges": "GR280-GR281.2.999",
-        "subject_heading_or": "Folk literature, Turkish|Folklore--Turkey"
+        "subject_heading_or": "Folk literature, Turkish|Folklore--Turkey",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR280&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Turkish Children's and Juvenile Literature",
@@ -3452,7 +3558,8 @@
       {
         "button_text": "Udmurt Folk Literature",
         "call_number_ranges": "GR203.19.U35-GR203.19.U35.999|DK34.U32-DK34.U32.999",
-        "subject_heading_or": "Mythology, Udmurt|Folk literature, Udmurt|Udmurts--Folklore|Udmurt--Russia (Federation)--Kama River Valley--Folklore"
+        "subject_heading_or": "Mythology, Udmurt|Folk literature, Udmurt|Udmurts--Folklore|Udmurt--Russia (Federation)--Kama River Valley--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR203.19.U35&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3469,7 +3576,8 @@
       {
         "button_text": "Uighur Folk Literature",
         "call_number_ranges": "GR336.S56-GR336.S56.999",
-        "subject_heading_or": "Folklore--China--Xinjiang Uygur Zizhiqu|Uighur (Turkic people)--Folklore"
+        "subject_heading_or": "Folklore--China--Xinjiang Uygur Zizhiqu|Uighur (Turkic people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR336.S56&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Uighur Children's and Juvenile Literature",
@@ -3528,7 +3636,8 @@
       {
         "button_text": "Uzbek Folk Literature",
         "call_number_ranges": "GR300.7-GR300.72.ZZZZ",
-        "subject_heading_or": "Folklore--Uzbekistan|Uzbeks--Folklore"
+        "subject_heading_or": "Folklore--Uzbekistan|Uzbeks--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR300.7&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Uzbek Children's and Juvenile Literature",
@@ -3550,7 +3659,8 @@
       {
         "button_text": "Vietnamese Folk Literature",
         "call_number_ranges": "GR313-GR313.5.999",
-        "subject_heading_or": "Vietnamese folklore|Folklore--Vietnam|Tales--Vietnam"
+        "subject_heading_or": "Vietnamese folklore|Folklore--Vietnam|Tales--Vietnam",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR313&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Vietnamese Children's and Juvenile Literature",
@@ -3572,7 +3682,8 @@
       {
         "button_text": "Wolof Folk Literature",
         "call_number_ranges": "GR352.72.W64-GR352.72.W64.999|GR352.97.W64-GR352.97.W64.999",
-        "subject_heading_or": "Folk literature, Wolof|Wolof (African people)--Folklore"
+        "subject_heading_or": "Folk literature, Wolof|Wolof (African people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR352.72.W64&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR352.97.W64&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
       }
     ]
   },
@@ -3589,7 +3700,8 @@
       {
         "button_text": "Xhosa Folk Literature",
         "call_number_ranges": "GR359.2.X64-GR359.2.X64.999",
-        "subject_heading_or": "Folk literature, Xhosa|Xhosa (African people)--Folklore"
+        "subject_heading_or": "Folk literature, Xhosa|Xhosa (African people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR359.2.X64&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3606,7 +3718,8 @@
       {
         "button_text": "Yakut Folk Literature",
         "call_number_ranges": "GR203.2.Y3-GR203.2.Y3.999",
-        "subject_heading_or": "Folk literature, Yakut|Yakut (Turkic people)--Folklore"
+        "subject_heading_or": "Folk literature, Yakut|Yakut (Turkic people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR203.2.Y3&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3623,7 +3736,8 @@
       {
         "button_text": "Yoruba Folk Literature",
         "call_number_ranges": "GR351.32.Y56-GR351.32.Y56.999",
-        "subject_heading_or": "Folk literature, Yoruba|Yoruba (African people)--Folklore"
+        "subject_heading_or": "Folk literature, Yoruba|Yoruba (African people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR351.32.Y56&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
     ]
   },
@@ -3640,7 +3754,8 @@
       {
         "button_text": "Zulu Folk Literature",
         "call_number_ranges": "GR359.2.Z83-GR359.2.Z83.999",
-        "subject_heading_or": "Folk literature, Zulu|Zulu (African people)--Folklore"
+        "subject_heading_or": "Folk literature, Zulu|Zulu (African people)--Folklore",
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR359.2.Z83&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Zulu Children's and Juvenile Literature",
