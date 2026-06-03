@@ -23,6 +23,7 @@
       "disclaimer": "Veuillez noter que ces résultats ont pour but de vous aider à parcourir les collections de l'IU et peuvent ne pas être exhaustifs. Certains documents peuvent être classés en dehors de ces plages de cotes ou catalogués séparément. Utilisez les liens « Explorer l'ensemble des collections » et « Recherche par mot-clé » ci-dessous pour une couverture plus étendue.",
       "keyword_search": "Rechercher « French » comme mot-clé dans IUCAT",
       "search_tip": "Conseil de recherche : utilisez la barre latérale de gauche dans IUCAT pour affiner vos résultats par auteur, langue, année, format et plus encore.",
+      "survey_feedback": "Partagez vos commentaires sur cet outil de recherche",
       "still_looking": {
         "text": "Vous ne trouvez toujours pas ce que vous cherchez ? Contactez un bibliothécaire ou suggérez l'acquisition d'un document.",
         "librarian_text": "Contactez un bibliothécaire",
@@ -52,6 +53,7 @@
       "disclaimer": "Bemærk venligst, at disse resultater er beregnet til at hjælpe dig med at gennemse IU's samlinger og muligvis ikke er udtømmende. Nogle materialer kan være placeret uden for disse områder eller katalogiseret separat. Brug linkene \"Udforsk alle samlinger\" og søgeord nedenfor for bredere dækning.",
       "keyword_search": "Søg efter \"dansk\" som søgeord i IUCAT",
       "search_tip": "Søgetip: Brug venstre sidepanel i IUCAT til at forfine dine resultater efter forfatter, sprog, år, format og mere.",
+      "survey_feedback": "Del venligst din feedback om dette søgeværktøj",
       "still_looking": {
         "text": "Kan du stadig ikke finde det, du leder efter? Kontakt en bibliotekar eller foreslå et materialekøb.",
         "librarian_text": "Kontakt en bibliotekar",
@@ -81,6 +83,7 @@
       "disclaimer": "Houd er rekening mee dat deze resultaten bedoeld zijn als hulpmiddel bij het doorzoeken van de collectie van de IU en mogelijk niet volledig zijn. Sommige materialen kunnen buiten deze bereiken zijn geplaatst of afzonderlijk zijn gecatalogiseerd. Gebruik de onderstaande links voor \"Alle collecties verkennen\" en zoeken op trefwoord voor een breder overzicht.",
       "keyword_search": "Zoek op het trefwoord \"Dutch\" in IUCAT",
       "search_tip": "Zoektip: Gebruik de zijbalk aan de linkerkant in IUCAT om uw resultaten te verfijnen op auteur, taal, jaar, formaat en meer.",
+      "survey_feedback": "Deel uw feedback over dit zoekgereedschap",
       "still_looking": {
         "text": "Kunt u nog steeds niet vinden wat u zoekt? Neem contact op met een bibliothecaris of doe een aankoopsuggestie.",
         "librarian_text": "Neem contact op met een bibliothecaris",
@@ -107,6 +110,7 @@
       "disclaimer": "Athugið að þessar niðurstöður eru ætlaðar til að hjálpa þér að skoða safneignir IU og eru hugsanlega ekki tæmandi. Sumt efni kann að vera utan þessara bila eða skráð sérstaklega. Notaðu tenglana „Skoða allar safneignir“ og leitarorðatenglana hér að neðan til að fá víðtækari umfjöllun.",
       "keyword_search": "Leitaðu að „íslenska“ sem leitarorði í IUCAT",
       "search_tip": "Leitarráð: Notaðu vinstri hliðarstikuna í IUCAT til að fínstilla niðurstöðurnar eftir höfundi, tungumáli, ári, sniði og fleiru.",
+      "survey_feedback": "Vinsamlegast deildu endurgjöf þinni um þetta leitarverkfæri",
       "still_looking": {
         "text": "Finnurðu samt ekki það sem þú ert að leita að? Hafðu samband við bókasafnsfræðing eða leggðu til kaup á efni.",
         "librarian_text": "Hafðu samband við bókasafnsfræðing",
@@ -138,6 +142,7 @@
       "disclaimer": "Vær oppmerksom på at disse resultatene er ment å hjelpe deg med å bla gjennom IUs samlinger og kanskje ikke er fullstendige. Noe materiale kan være plassert utenfor disse områdene eller katalogisert separat. Bruk lenkene «Utforsk alle samlinger» og nøkkelordsøk nedenfor for bredere dekning.",
       "keyword_search": "Søk etter «norsk» som nøkkelord i IUCAT",
       "search_tip": "Søketips: Bruk venstre sidefelt i IUCAT for å avgrense resultatene dine etter forfatter, språk, år, format og mer.",
+      "survey_feedback": "Del gjerne din tilbakemelding om dette søkeverktøyet",
       "still_looking": {
         "text": "Finner du fortsatt ikke det du leter etter? Kontakt en bibliotekar eller foreslå et kjøp av materialer.",
         "librarian_text": "Kontakt en bibliotekar",
@@ -169,6 +174,7 @@
       "disclaimer": "Observera att dessa resultat är avsedda att hjälpa dig att bläddra bland IU:s bestånd och kanske inte är heltäckande. Vissa material kan vara hyllade utanför dessa intervall eller katalogiserade separat. Använd länkarna \"Utforska alla bestånd\" och nyckelordssökning nedan för bredare täckning.",
       "keyword_search": "Sök efter \"svenska\" som nyckelord i IUCAT",
       "search_tip": "Söktips: Använd sidofältet till vänster i IUCAT för att förfina dina resultat efter författare, språk, år, format med mera.",
+      "survey_feedback": "Dela gärna dina synpunkter på det här sökverktyget",
       "still_looking": {
         "text": "Hittar du fortfarande inte det du letar efter? Kontakta en bibliotekarie eller föreslå ett materialinköp.",
         "librarian_text": "Kontakta en bibliotekarie",
@@ -198,6 +204,7 @@
       "disclaimer": "Upozorňujeme, že tieto výsledky majú pomôcť vám prehliadať fondy IU a nemusia byť vyčerpávajúce. Niektoré materiály môžu byť umiestnené mimo týchto rozsahov alebo katalogizované samostatne. Pre širšie pokrytie použite nižšie uvedené odkazy „Preskúmať všetky fondy“ a vyhľadávanie kľúčových slov.",
       "keyword_search": "Vyhľadajte „slovenčina“ ako kľúčové slovo v IUCAT",
       "search_tip": "Tip na vyhľadávanie: Na spresnenie výsledkov podľa autora, jazyka, roku, formátu a ďalších parametrov použite ľavý bočný panel v IUCAT.",
+      "survey_feedback": "Podeľte sa o spätnú väzbu k tomuto vyhľadávaciemu nástroju",
       "still_looking": {
         "text": "Stále nemôžete nájsť, čo hľadáte? Kontaktujte knihovníka alebo navrhnite nákup materiálov.",
         "librarian_text": "Kontaktujte knihovníka",
@@ -230,6 +237,7 @@
       "disclaimer": "Обратите внимание: данные результаты призваны облегчить вам навигацию по фондам IU и могут быть неполными. Некоторые материалы могут храниться за пределами указанных диапазонов или быть каталогизированы отдельно. Для более полного охвата используйте ссылки «Просмотреть все материалы» и «Поиск по ключевому слову», расположенные ниже.",
       "keyword_search": "Найти «Russian» по ключевому слову в каталоге IUCAT",
       "search_tip": "Совет по поиску: используйте левую боковую панель в IUCAT, чтобы уточнить результаты по автору, языку, году, формату и другим параметрам.",
+      "survey_feedback": "Поделитесь отзывом об этом инструменте поиска",
       "still_looking": {
         "text": "Всё еще не можете найти то, что ищете? Обратитесь к библиотекарю или предложите приобрести необходимые материалы.",
         "librarian_text": "Обратитесь к библиотекарю",
@@ -260,6 +268,7 @@
       "disclaimer": "يُرجى ملاحظة أن هذه النتائج تهدف إلى مساعدتك في تصفح مقتنيات جامعة إنديانا، وقد لا تكون شاملة لجميع المواد؛ إذ قد تكون بعض المواد مُرتبة على الرفوف خارج هذه النطاقات أو مُفهرسة بشكل منفصل. لذا، يُرجى استخدام رابط \"استكشاف كافة المقتنيات\" وروابط البحث بالكلمات المفتاحية المتاحة أدناه للحصول على تغطية أوسع وأشمل.",
       "keyword_search": "ابحث عن كلمة \"Arabic\" (عربي) كمفتاح بحث في فهرس IUCAT",
       "search_tip": "نصيحة للبحث: استخدم الشريط الجانبي الأيسر في IUCAT لتنقيح نتائجك حسب المؤلف، واللغة، والسنة، والتنسيق، والمزيد.",
+      "survey_feedback": "يُرجى مشاركة ملاحظاتك حول أداة البحث هذه",
       "still_looking": {
         "text": "ألم تعثر على ما تبحث عنه بعد؟ تواصل مع أحد أمناء المكتبة، أو اقترح شراء مواد جديدة.",
         "librarian_text": "تواصل مع أحد أمناء المكتبة",
@@ -287,6 +296,7 @@
       "disclaimer": "Let asseblief daarop dat hierdie resultate bedoel is om jou te help om deur IU se besittings te blaai en moontlik nie omvattend is nie. Sommige materiaal mag buite hierdie reekse geplaas word of afsonderlik gekatalogiseer word. Gebruik die \"Verken alle besittings\" en sleutelwoordsoekskakels hieronder vir breër dekking.",
       "keyword_search": "Soek \"Afrikaans\" as sleutelwoord in IUCAT",
       "search_tip": "Soekwenk: Gebruik die linkerkantse sybalk in IUCAT om jou resultate te verfyn volgens outeur, taal, jaar, formaat en meer.",
+      "survey_feedback": "Deel asseblief u terugvoer oor hierdie soeknutsding",
       "still_looking": {
         "text": "Kan jy steeds nie vind waarna jy soek nie? Kontak 'n bibliotekaris of stel 'n materiaalaankoop voor.",
         "librarian_text": "Kontak 'n bibliotekaris",
@@ -312,6 +322,7 @@
       "disclaimer": "Ju lutemi vini re se këto rezultate kanë për qëllim t'ju ndihmojnë të shfletoni koleksionet e IU-së dhe mund të mos jenë gjithëpërfshirëse. Disa materiale mund të jenë të vendosura jashtë këtyre diapazoneve ose të kataloguara veçmas. Përdorni lidhjet \"Eksploroni të gjitha koleksionet\" dhe kërkimin e fjalëve kyçe më poshtë për një mbulim më të gjerë.",
       "keyword_search": "Kërkoni \"Shqip\" si fjalë kyçe në IUCAT",
       "search_tip": "Këshillë për kërkim: Përdorni shiritin anësor të majtë në IUCAT për të rafinuar rezultatet sipas autorit, gjuhës, vitit, formatit dhe më shumë.",
+      "survey_feedback": "Ju lutemi ndani mendimet tuaja për këtë mjet kërkimi",
       "still_looking": {
         "text": "Ende nuk mund ta gjeni atë që po kërkoni? Kontaktoni një bibliotekar ose sugjeroni një blerje materialesh.",
         "librarian_text": "Kontaktoni një bibliotekar",
@@ -337,6 +348,7 @@
       "disclaimer": "Kontuan izan emaitza hauek IUren funtsak arakatzen laguntzeko direla eta agian ez direla osoak izango. Baliteke material batzuk tarte horietatik kanpo apaletan gordeta egotea edo bereiz katalogatuta egotea. Erabili beheko \"Arakatu funtsak\" eta gako-hitzen bilaketa estekak estaldura zabalagoa lortzeko.",
       "keyword_search": "Bilatu \"Euskara\" gako-hitz gisa IUCATen",
       "search_tip": "Bilaketa aholkua: Erabili IUCATen ezkerreko alboko barra emaitzak egilearen, hizkuntzaren, urtearen, formatuaren eta beste hainbaten arabera zehazteko.",
+      "survey_feedback": "Mesedez, partekatu zure iritzia bilaketa-tresna honi buruz",
       "still_looking": {
         "text": "Oraindik ez duzu bilatzen ari zarena aurkitzen? Jarri harremanetan liburuzain batekin edo proposatu materialak erosteko.",
         "librarian_text": "Jarri harremanetan liburuzain batekin",
@@ -372,6 +384,7 @@
       "disclaimer": "Note que estes resultados têm como objetivo ajudá-lo a navegar pelo acervo da IU e podem não ser abrangentes. Alguns materiais podem estar localizados fora destas gamas ou catalogados separadamente. Utilize os links \"Explorar todo o acervo\" e a pesquisa por palavras-chave abaixo para uma cobertura mais ampla.",
       "keyword_search": "Pesquise \"Português\" como palavra-chave no IUCAT",
       "search_tip": "Dica de pesquisa: Utilize a barra lateral esquerda do IUCAT para refinar os seus resultados por autor, idioma, ano, formato e muito mais.",
+      "survey_feedback": "Por favor, partilhe os seus comentários sobre esta ferramenta de pesquisa",
       "still_looking": {
         "text": "Ainda não encontrou o que procura? Contacte um bibliotecário ou sugira a compra de materiais.",
         "librarian_text": "Contacte um bibliotecário",
@@ -400,6 +413,7 @@
       "disclaimer": "Моля, обърнете внимание, че тези резултати са предназначени да ви помогнат да разгледате фондовете на IU и може да не са изчерпателни. Някои материали може да са на рафтове извън тези диапазони или да са каталогизирани отделно. Използвайте връзките „Разглеждане на всички фондове“ и търсене по ключови думи по-долу за по-широко покритие.",
       "keyword_search": "Търсене на „български“ като ключова дума в IUCAT",
       "search_tip": "Съвет за търсене: Използвайте лявата странична лента в IUCAT, за да прецизирате резултатите си по автор, език, година, формат и други.",
+      "survey_feedback": "Моля, споделете мнението си за този инструмент за търсене",
       "still_looking": {
         "text": "Все още не можете да намерите това, което търсите? Свържете се с библиотекар или предложете закупуване на материали.",
         "librarian_text": "Свържете се с библиотекар",
@@ -424,6 +438,7 @@
       "disclaimer": "Tingueu en compte que aquests resultats tenen com a objectiu ajudar-vos a navegar pels fons de la IU i poden no ser exhaustius. Alguns materials poden estar guardats fora d'aquests rangs o catalogats per separat. Utilitza els enllaços \"Explora tots els fons\" i de cerca de paraules clau que hi ha a continuació per obtenir una cobertura més àmplia.",
       "keyword_search": "Cerca \"català\" com a paraula clau a la IUCAT",
       "search_tip": "Consell de cerca: utilitzeu la barra lateral esquerra de la IUCAT per refinar els resultats per autor, idioma, any, format i més.",
+      "survey_feedback": "Si us plau, compartiu els vostres comentaris sobre aquesta eina de cerca",
       "still_looking": {
         "text": "Encara no trobes el que busques? Contacta amb un bibliotecari o suggereix la compra de materials.",
         "librarian_text": "Contacta amb un bibliotecari",
@@ -457,6 +472,7 @@
       "disclaimer": "请注意，此处显示的检索结果旨在辅助您浏览 IU 的馆藏，可能并非涵盖所有资料。部分资料可能存放于上述索书号范围之外，或被单独编目。如需获取更全面的检索结果，请使用下方的“探索全部馆藏”链接及关键词检索功能。",
       "keyword_search": "在 IUCAT 中以关键词“Chinese”进行检索",
       "search_tip": "搜索提示：请使用 IUCAT 左侧边栏，按作者、语言、年份、格式等条件来优化您的搜索结果。",
+      "survey_feedback": "欢迎分享您对本搜索工具的反馈意见",
       "still_looking": {
         "text": "仍未找到您所需的资料？请联系图书馆员，或提交资料采购建议。",
         "librarian_text": "请联系图书馆员",
@@ -482,6 +498,7 @@
       "disclaimer": "Imajte na umu da su ovi rezultati namijenjeni da vam pomognu u pregledavanju fondova IU-a i možda nisu sveobuhvatni. Neki materijali mogu biti na policama izvan ovih raspona ili katalogizirani zasebno. Za širu pokrivenost upotrijebite donje poveznice \"Istražite sve fondove\" i pretraživanje ključnih riječi.",
       "keyword_search": "Pretražite \"hrvatski\" kao ključnu riječ u IUCAT-u",
       "search_tip": "Savjet za pretraživanje: Pomoću lijeve bočne trake u IUCAT-u možete precizirati rezultate prema autoru, jeziku, godini, formatu i drugim kriterijima.",
+      "survey_feedback": "Podijelite povratne informacije o ovom alatu za pretraživanje",
       "still_looking": {
         "text": "Još uvijek ne možete pronaći ono što tražite? Obratite se knjižničaru ili predložite kupnju materijala.",
         "librarian_text": "Obratite se knjižničaru",
@@ -508,6 +525,7 @@
       "disclaimer": "Huomaa, että nämä tulokset on tarkoitettu auttamaan sinua selaamaan IU:n kokoelmia, eivätkä ne välttämättä ole kattavia. Jotkin materiaalit saattavat olla hyllyssä näiden alueiden ulkopuolella tai luetteloitu erikseen. Käytä alla olevia \"Tutustu kaikkiin kokoelmiin\" -linkkejä ja avainsanahakua saadaksesi laajemman kattavuuden.",
       "keyword_search": "Hae avainsanalla \"suomi\" IUCATissa",
       "search_tip": "Hakuvinkki: Käytä IUCATin vasemmanpuoleista sivupalkkia rajataksesi tuloksiasi tekijän, kielen, vuoden, muodon ja muiden tekijöiden mukaan.",
+      "survey_feedback": "Ole hyvä ja jaa palautteesi tästä hakutyökalusta",
       "still_looking": {
         "text": "Etkö vieläkään löydä etsimääsi? Ota yhteyttä kirjastonhoitajaan tai ehdota materiaalien ostamista.",
         "librarian_text": "Ota yhteyttä kirjastonhoitajaan",
@@ -537,6 +555,7 @@
       "disclaimer": "Bitte beachten Sie, dass diese Ergebnisse als Orientierungshilfe beim Durchstöbern der Bestände der IU dienen und möglicherweise nicht vollständig sind. Einige Materialien sind unter Umständen außerhalb dieser Signaturenbereiche aufgestellt oder separat katalogisiert. Für eine umfassendere Suche nutzen Sie bitte die untenstehenden Links „Alle Bestände erkunden“ sowie die Schlagwortsuche.",
       "keyword_search": "Nach dem Schlagwort „German“ in IUCAT suchen",
       "search_tip": "Suchtipp: Nutzen Sie die linke Seitenleiste in IUCAT, um Ihre Ergebnisse nach Autor, Sprache, Jahr, Format und mehr einzugrenzen.",
+      "survey_feedback": "Bitte teilen Sie uns Ihr Feedback zu diesem Suchwerkzeug mit",
       "still_looking": {
         "text": "Sie finden immer noch nicht, wonach Sie suchen? Wenden Sie sich an einen Bibliothekar oder schlagen Sie den Ankauf von Materialien vor.",
         "librarian_text": "Wenden Sie sich an einen Bibliothekar",
@@ -562,6 +581,7 @@
       "disclaimer": "Λάβετε υπόψη ότι αυτά τα αποτελέσματα προορίζονται να σας βοηθήσουν να περιηγηθείτε στα συλλογές του IU και ενδέχεται να μην είναι πλήρη. Ορισμένα υλικά ενδέχεται να βρίσκονται εκτός αυτών των εύρων ή να καταλογογραφούνται ξεχωριστά. Χρησιμοποιήστε τους συνδέσμους \"Εξερευνήστε όλα τα συλλογές\" και αναζήτησης λέξεων-κλειδιών παρακάτω για ευρύτερη κάλυψη.",
       "keyword_search": "Αναζητήστε \"Ελληνικά\" ως λέξη-κλειδί στο IUCAT",
       "search_tip": "Συμβουλή αναζήτησης: Χρησιμοποιήστε την αριστερή πλαϊνή μπάρα στο IUCAT για να περιορίσετε τα αποτελέσματά σας ανά συγγραφέα, γλώσσα, έτος, μορφή και άλλα.",
+      "survey_feedback": "Παρακαλούμε μοιραστείτε τα σχόλιά σας για αυτό το εργαλείο αναζήτησης",
       "still_looking": {
         "text": "Ακόμα δεν μπορείτε να βρείτε αυτό που ψάχνετε; Επικοινωνήστε με έναν βιβλιοθηκονόμο ή προτείνετε αγορά υλικού.",
         "librarian_text": "Επικοινωνήστε με έναν βιβλιοθηκονόμο",
@@ -593,6 +613,7 @@
       "disclaimer": "कृपया ध्यान दें कि ये नतीजे आपको IU की सामग्री ब्राउज़ करने में मदद करने के लिए हैं और हो सकता है कि ये पूरी तरह से व्यापक न हों। कुछ सामग्री इन रेंज से बाहर रखी हो सकती है या अलग से कैटलॉग की गई हो सकती है। ज़्यादा जानकारी के लिए नीचे दिए गए \"सभी सामग्री देखें\" और कीवर्ड खोज लिंक का इस्तेमाल करें।",
       "keyword_search": "IUCAT में कीवर्ड के तौर पर \"Hindi\" खोजें",
       "search_tip": "खोजने का सुझाव: IUCAT में बाईं ओर के साइडबार का इस्तेमाल करके आप लेखक, भाषा, वर्ष, फ़ॉर्मेट और अन्य चीज़ों के आधार पर अपने नतीजों को और बेहतर बना सकते हैं।",
+      "survey_feedback": "कृपया इस खोज उपकरण पर अपनी प्रतिक्रिया साझा करें",
       "still_looking": {
         "text": "क्या आपको अभी भी वह नहीं मिल रहा है जिसकी आपको तलाश है? किसी लाइब्रेरियन से संपर्क करें या सामग्री खरीदने का सुझाव दें।",
         "librarian_text": "किसी लाइब्रेरियन से संपर्क करें",
@@ -621,6 +642,7 @@
       "disclaimer": "Felhívjuk figyelmét, hogy ezek az eredmények az IU állományának böngészését segítik, és nem feltétlenül teljes körűek. Egyes anyagok ezeken a tartományokon kívül is lehetnek polcokon, vagy külön katalogizálva. Használja az alábbi \"Böngésszen az összes állományban\" és a kulcsszókeresési linkeket a szélesebb körű lefedettség érdekében.",
       "keyword_search": "Keressen rá a \"magyar\" kulcsszóra az IUCAT-ban",
       "search_tip": "Keresési tipp: Az IUCAT bal oldali oldalsávjával finomíthatja a találatokat szerző, nyelv, év, formátum és egyebek szerint.",
+      "survey_feedback": "Kérjük, ossza meg visszajelzését erről a keresőeszközről",
       "still_looking": {
         "text": "Még mindig nem találja, amit keres? Lépjen kapcsolatba egy könyvtárossal, vagy javasoljon anyagok vásárlását.",
         "librarian_text": "Lépjen kapcsolatba egy könyvtárossal",
@@ -649,6 +671,7 @@
       "disclaimer": "Tabhair faoi deara le do thoil go bhfuil na torthaí seo beartaithe chun cabhrú leat sealúchais IU a bhrabhsáil agus nach bhféadfadh siad a bheith cuimsitheach. D’fhéadfadh roinnt ábhar a bheith ar sheilfeanna lasmuigh de na raonta seo nó a bheith catalógaithe ar leithligh. Bain úsáid as na naisc \"Iniúchadh ar gach sealúchas\" agus cuardaigh eochairfhocal thíos le haghaidh clúdach níos leithne.",
       "keyword_search": "Cuardaigh \"Gaeilge\" mar eochairfhocal in IUCAT",
       "search_tip": "Leid chuardaigh: Bain úsáid as an mbarra taoibh ar chlé in IUCAT chun do thorthaí a scagadh de réir údair, teanga, bliana, formáide agus tuilleadh.",
+      "survey_feedback": "Le do thoil, roinn d'aiseolas faoin uirlis chuardaigh seo",
       "still_looking": {
         "text": "Nach féidir leat a bhfuil á lorg agat a fháil fós? Téigh i dteagmháil le leabharlannaí nó mol ceannach ábhar.",
         "librarian_text": "Téigh i dteagmháil le leabharlannaí",
@@ -680,6 +703,7 @@
       "disclaimer": "Si prega di notare che i risultati qui presentati hanno lo scopo di facilitare la consultazione del patrimonio della IU e potrebbero non essere esaustivi. Alcuni materiali potrebbero essere collocati al di fuori di tali intervalli o catalogati separatamente. Per una copertura più ampia, utilizzare i link sottostanti per \"Esplorare tutto il patrimonio\" o per effettuare una ricerca per parola chiave.",
       "keyword_search": "Cerca \"Italian\" come parola chiave in IUCAT",
       "search_tip": "Suggerimento per la ricerca: utilizza la barra laterale sinistra in IUCAT per affinare i risultati per autore, lingua, anno, formato e altro ancora.",
+      "survey_feedback": "La preghiamo di condividere il suo feedback su questo strumento di ricerca",
       "still_looking": {
         "text": "Non riesci ancora a trovare ciò che cerchi? Contatta un bibliotecario o suggerisci l'acquisto di materiali.",
         "librarian_text": "Contatta un bibliotecario",
@@ -715,6 +739,7 @@
       "disclaimer": "なお、これらの検索結果は、IU図書館の所蔵資料を閲覧しやすくするための補助的なものであり、必ずしも網羅的ではない点にご留意ください。一部の資料は、上記の請求記号範囲外に配架されていたり、別途分類・目録化されていたりする場合があります。より広範囲な資料を検索するには、以下の「全所蔵資料を探索」リンクやキーワード検索機能をご利用ください。",
       "keyword_search": "IUCATでキーワード「Japanese」を検索する",
       "search_tip": "検索のヒント：IUCATの左側サイドバーを使用すると、著者、言語、出版年、資料形態などの条件で検索結果を絞り込むことができます。",
+      "survey_feedback": "この検索ツールについてのご意見をお聞かせください",
       "still_looking": {
         "text": "お探しの資料が見つかりませんか？その場合は、図書館員にお問い合わせいただくか、資料の購入をリクエストしてください。",
         "librarian_text": "図書館員にお問い合わせください",
@@ -749,6 +774,7 @@
       "disclaimer": "이 검색 결과는 IU 도서관의 소장 자료를 편리하게 둘러보실 수 있도록 돕기 위한 것이며, 모든 자료를 빠짐없이 포함하고 있지는 않을 수 있음에 유의해 주십시오. 일부 자료는 해당 청구기호 범위를 벗어난 곳에 비치되어 있거나 별도로 분류되어 있을 수 있습니다. 더 폭넓은 범위의 자료를 확인하시려면 하단의 \"모든 소장 자료 탐색\" 링크나 키워드 검색 기능을 활용해 주십시오.",
       "keyword_search": "IUCAT에서 키워드 \"Korean\"으로 검색하기",
       "search_tip": "검색 팁: IUCAT의 왼쪽 사이드바를 활용하여 저자, 언어, 연도, 형식 등의 기준으로 검색 결과를 상세하게 조정해 보세요.",
+      "survey_feedback": "이 검색 도구에 대한 의견을 공유해 주세요",
       "still_looking": {
         "text": "찾으시는 자료를 여전히 찾을 수 없으신가요? 사서에게 문의하시거나 자료 구입을 신청해 주십시오.",
         "librarian_text": "사서에게 문의하십시오",
@@ -776,6 +802,7 @@
       "disclaimer": "Lūdzu, ņemiet vērā, ka šie rezultāti ir paredzēti, lai palīdzētu jums pārlūkot IU krājumus, un tie var nebūt visaptveroši. Daži materiāli var būt novietoti plauktos ārpus šiem diapazoniem vai katalogizēti atsevišķi. Lai iegūtu plašāku informāciju, izmantojiet tālāk norādītās saites \"Izpētīt visus krājumus\" un atslēgvārdu meklēšanas saites.",
       "keyword_search": "Meklējiet atslēgvārdu \"latviešu\" IUCAT",
       "search_tip": "Meklēšanas padoms: izmantojiet IUCAT kreiso sānu joslu, lai precizētu rezultātus pēc autora, valodas, gada, formāta un citiem kritērijiem.",
+      "survey_feedback": "Lūdzu, dalieties ar atsauksmēm par šo meklēšanas rīku",
       "still_looking": {
         "text": "Joprojām nevarat atrast meklēto? Sazinieties ar bibliotekāru vai iesakiet materiālu iegādi.",
         "librarian_text": "Sazinieties ar bibliotekāru",
@@ -800,6 +827,7 @@
       "disclaimer": "Notatz qu'aqueles resultats son destinats a vos ajudar a consultar las participacions d'IU e pòdon pas èsser complets. Qualques materials pòdon èsser estancats en defòra d'aquelas gammas o catalogats a despart. Utilizatz los ligams \"Explorar totas las possessions\" e de recèrca de mots claus çai-jos per una cobertura mai larga.",
       "keyword_search": "Cercar \"occitan\" coma mot clau dins IUCAT",
       "search_tip": "Conselh de recèrca: Utilizatz la barra lateral esquèrra dins IUCAT per afinar vòstres resultats per autor, lenga, annada, format, e mai.",
+      "survey_feedback": "Mercés de partejar vòstres comentaris sus aqueste eime de recèrca",
       "still_looking": {
         "text": "Trobatz pas encara çò que cercatz? Contactatz un bibliotecari o suggerissètz una crompa de materials.",
         "librarian_text": "Contactatz un bibliotecari",
@@ -830,6 +858,7 @@
       "disclaimer": "لطفاً توجه داشته باشید که این نتایج برای کمک به شما در مرور منابع IU در نظر گرفته شده است و ممکن است جامع نباشد. برخی از منابع ممکن است خارج از این محدوده‌ها قفسه‌بندی شده یا جداگانه فهرست‌بندی شده باشند. برای پوشش گسترده‌تر، از لینک‌های \"کاوش در همه منابع\" و جستجوی کلمات کلیدی در زیر استفاده کنید.",
       "keyword_search": "Persian را به عنوان کلمه کلیدی در IUCAT جستجو کنید",
       "search_tip": "نکته جستجو: از نوار کناری سمت چپ در IUCAT برای اصلاح نتایج خود بر اساس نویسنده، زبان، سال، قالب و موارد دیگر استفاده کنید.",
+      "survey_feedback": "لطفاً نظرات خود را درباره این ابزار جستجو به اشتراک بگذارید",
       "still_looking": {
         "text": "هنوز آنچه را که به دنبال آن هستید پیدا نمی‌کنید؟ با یک کتابدار تماس بگیرید یا خرید منابع را پیشنهاد دهید.",
         "librarian_text": "با یک کتابدار تماس بگیرید",
@@ -859,6 +888,7 @@
       "disclaimer": "Należy pamiętać, że powyższe wyniki mają na celu ułatwienie przeglądania zbiorów IU i mogą nie być wyczerpujące. Niektóre materiały mogą znajdować się poza wskazanymi zakresami sygnatur lub być skatalogowane oddzielnie. Aby uzyskać szerszy przegląd zbiorów, skorzystaj z poniższych linków: „Przeglądaj wszystkie zbiory” oraz wyszukiwania według słów kluczowych.",
       "keyword_search": "Wyszukaj hasło „Polish” w katalogu IUCAT",
       "search_tip": "Wskazówka dotycząca wyszukiwania: Skorzystaj z paska bocznego po lewej stronie w systemie IUCAT, aby zawęzić wyniki według autora, języka, roku, formatu i innych kryteriów.",
+      "survey_feedback": "Prosimy o podzielenie się opinią na temat tego narzędzia wyszukiwania",
       "still_looking": {
         "text": "Nadal nie możesz znaleźć tego, czego szukasz? Skontaktuj się z bibliotekarzem lub zaproponuj zakup materiałów.",
         "librarian_text": "Skontaktuj się z bibliotekarzem",
@@ -888,6 +918,7 @@
       "disclaimer": "Vă rugăm să rețineți că aceste rezultate sunt destinate să vă ajute să răsfoiți colecțiile IU și este posibil să nu fie complete. Este posibil ca unele materiale să fie depozitate în afara acestor intervale sau catalogate separat. Utilizați linkurile „Explorați toate colecțiile” și căutarea după cuvinte cheie de mai jos pentru o acoperire mai largă.",
       "keyword_search": "Căutați „română” ca cuvânt cheie în IUCAT",
       "search_tip": "Sfat de căutare: Folosește bara laterală din stânga din IUCAT pentru a rafina rezultatele după autor, limbă, an, format și alte informații.",
+      "survey_feedback": "Vă rugăm să ne împărtășiți feedback-ul despre acest instrument de căutare",
       "still_looking": {
         "text": "Încă nu găsiți ceea ce căutați? Contactați un bibliotecar sau sugerați o achiziție de materiale.",
         "librarian_text": "Contactați un bibliotecar",
@@ -912,6 +943,7 @@
       "disclaimer": "Please tak noote that thir results are intendit tae help ye browse IU's hauds an micht nae be comprehensive. Some materials micht be shelved ootside thir ranges or cataloged separately. Use the \"Explore a hauds\" an keyword seek links below for broader coverage.",
       "keyword_search": "Seek \"Scots\" as keyword in IUCAT",
       "search_tip": "Search tip: Use the left-haun sidebar in IUCAT tae refine yer results by author, leid, year, format, an mair.",
+      "survey_feedback": "Please share yer feedback on this search tuil",
       "still_looking": {
         "text": "Still cannae find whit ye're leukin for? Contact a librarian or suggest a materials purchase.",
         "librarian_text": "Contact a librarian",
@@ -938,6 +970,7 @@
       "disclaimer": "Thoir an aire gu bheil na toraidhean seo an dùil do chuideachadh le bhith a’ brobhsadh grèim IU agus is dòcha nach eil iad coileanta. Dh’ fhaodadh cuid de stuthan a bhith air an cur air sgeilpichean taobh a-muigh nan raointean sin no air an catalogadh air leth. Cleachd na ceanglaichean rannsachaidh \"Rannsaich a h-uile grèim\" agus prìomh fhacal gu h-ìosal airson còmhdach nas fharsainge.",
       "keyword_search": "Lorg \"Gàidhlig na h-Alba\" mar phrìomh fhacal ann an IUCAT",
       "search_tip": "Molaidhean rannsachaidh: Cleachd am bàr-taoibh clì ann an IUCAT gus na toraidhean agad a ghrinneachadh a rèir ùghdair, cànain, bliadhna, cruth, agus barrachd.",
+      "survey_feedback": "Roinn do bheachd air an inneal-lorg seo, mas e do thoil e",
       "still_looking": {
         "text": "Nach urrainn dhut fhathast na tha thu a’ sireadh a lorg? Cuir fios gu leabharlannaiche no molaidh ceannach stuthan.",
         "librarian_text": "Cuir fios gu leabharlannaiche",
@@ -963,6 +996,7 @@
       "disclaimer": "Имајте у виду да су ови резултати намењени да вам помогну да прегледате фондове IU и да можда нису свеобухватни. Неки материјали могу бити на полицама ван ових опсега или каталогизовани одвојено. Користите линкове „Истражите све фондове“ и претрагу кључних речи испод за шири преглед.",
       "keyword_search": "Претражите „српски“ као кључну реч у IUCAT-у",
       "search_tip": "Савет за претрагу: Користите леву бочну траку у IUCAT-у да бисте прецизирали резултате по аутору, језику, години, формату и још много тога.",
+      "survey_feedback": "Поделите своје утиске о овом алату за претрагу",
       "still_looking": {
         "text": "И даље не можете да пронађете оно што тражите? Контактирајте библиотекара или предложите куповину материјала.",
         "librarian_text": "Контактирајте библиотекара",
@@ -992,6 +1026,7 @@
       "disclaimer": "Upoštevajte, da so ti rezultati namenjeni brskanju po zbirkah IU in morda niso izčrpni. Nekatera gradiva so morda shranjena zunaj teh območij ali katalogizirana ločeno. Za širši pregled uporabite spodnje povezave »Razišči vse zbirke« in iskanje po ključnih besedah.",
       "keyword_search": "Iščite »slovenščina« kot ključno besedo v IUCAT",
       "search_tip": "Nasvet za iskanje: Za natančnejše iskanje po avtorju, jeziku, letu, obliki in drugih kriterijih uporabite levo stransko vrstico v IUCAT.",
+      "survey_feedback": "Prosimo, delite svoje povratne informacije o tem iskalniku",
       "still_looking": {
         "text": "Še vedno ne najdete, kar iščete? Obrnite se na knjižničarja ali predlagajte nakup gradiva.",
         "librarian_text": "Obrnite se na knjižničarja",
@@ -1028,6 +1063,7 @@
       "disclaimer": "Tenga en cuenta que estos resultados tienen como objetivo ayudarle a explorar los fondos de la IU y es posible que no sean exhaustivos. Algunos materiales podrían estar ubicados fuera de estos rangos o catalogados por separado. Utilice los enlaces de \"Explorar todos los fondos\" y de búsqueda por palabras clave que se encuentran abajo para obtener una cobertura más amplia.",
       "keyword_search": "Busque \"Spanish\" como palabra clave en IUCAT",
       "search_tip": "Consejo de búsqueda: Utilice la barra lateral izquierda en IUCAT para refinar sus resultados por autor, idioma, año, formato y más.",
+      "survey_feedback": "Por favor, comparta sus comentarios sobre esta herramienta de búsqueda",
       "still_looking": {
         "text": "¿Aún no encuentra lo que busca? Póngase en contacto con un bibliotecario o sugiera la compra de material.",
         "librarian_text": "Póngase en contacto con un bibliotecario",
@@ -1056,6 +1092,7 @@
       "disclaimer": "Зверніть увагу, що ці результати призначені для того, щоб допомогти вам переглянути фонди IU і можуть бути невичерпними. Деякі матеріали можуть бути розміщені поза цими діапазонами або каталогізовані окремо. Скористайтеся посиланнями «Переглянути всі фонди» та пошук за ключовими словами нижче для ширшого охоплення.",
       "keyword_search": "Пошук «українська» як ключового слова в IUCAT",
       "search_tip": "Порада щодо пошуку: скористайтеся лівою бічною панеллю в IUCAT, щоб уточнити результати за автором, мовою, роком, форматом тощо.",
+      "survey_feedback": "Будь ласка, поділіться відгуком про цей інструмент пошуку",
       "still_looking": {
         "text": "Все ще не можете знайти те, що шукаєте? Зверніться до бібліотекаря або запропонуйте придбати матеріали.",
         "librarian_text": "Зверніться до бібліотекаря",
@@ -1082,6 +1119,7 @@
       "disclaimer": "Sylwch fod y canlyniadau hyn wedi'u bwriadu i'ch helpu i bori daliadau IU ac efallai nad ydynt yn gynhwysfawr. Gall rhai deunyddiau fod wedi'u rhoi y tu allan i'r ystodau hyn neu wedi'u catalogio ar wahân. Defnyddiwch y dolenni \"Archwiliwch yr holl ddaliadau\" a chwilio am allweddair isod i gael sylw ehangach.",
       "keyword_search": "Chwiliwch am \"Cymraeg\" fel allweddair yn IUCAT",
       "search_tip": "Awgrym chwilio: Defnyddiwch y bar ochr chwith yn IUCAT i fireinio'ch canlyniadau yn ôl awdur, iaith, blwyddyn, fformat, a mwy.",
+      "survey_feedback": "Rhannwch eich adborth am yr offeryn chwilio hwn",
       "still_looking": {
         "text": "Yn dal i fethu dod o hyd i'r hyn rydych chi'n chwilio amdano? Cysylltwch â llyfrgellydd neu awgrymwch brynu deunyddiau.",
         "librarian_text": "Cysylltwch â llyfrgellydd",
@@ -1107,6 +1145,7 @@
       "disclaimer": "ביטע באַמערקן אַז די רעזולטאַטן זענען בדעה צו העלפֿן איר בלעטערן IU'ס האַלטונגען און קען נישט זיין פולשטענדיק. עטלעכע מאַטעריאַלן קען זיין געשטעלט אַרויס די קייטן אָדער קאַטאַלאָגירט באַזונדער. ניצט די \"אויספאָרשן אַלע האַלטונגען\" און שליסל-וואָרט זוכן לינקס אונטן פֿאַר ברייטערע קאַווערידזש.",
       "keyword_search": "זוכט \"ייִדיש\" ווי שליסל-וואָרט אין IUCAT",
       "search_tip": "זוכן עצה: ניצט די לינקע זייטבאַר אין IUCAT צו פֿאַרבעסערן אייערע רעזולטאַטן לויט מחבר, שפּראַך, יאָר, פֿאָרמאַט און מער.",
+      "survey_feedback": "ביטע טיילט מיט אונדז אייערע מיינונגען וועגן דעם זוך-מיטל",
       "still_looking": {
         "text": "נאָך קענט נישט געפֿינען וואָס איר זוכט? קאָנטאַקט אַ ביבליאָטעקאַר אָדער פֿאָרשלאָגן אַ מאַטעריאַל קויפן.",
         "librarian_text": "קאָנטאַקט אַ ביבליאָטעקאַר",
@@ -1135,6 +1174,7 @@
       "disclaimer": "Խնդրում ենք նկատի ունենալ, որ այս արդյունքները նախատեսված են IU-ի հավաքածուները զննելուն օգնելու համար և կարող են լիովին սպառիչ չլինել։ Որոշ նյութեր կարող են դասակարգված լինել այս միջակայքներից դուրս կամ առանձին նկարագրված լինել։ Ավելի լայն որոնման համար օգտագործեք ներքևի «Զննել բոլոր հավաքածուները» և բանալի բառով որոնման հղումները։",
       "keyword_search": "Որոնել «Armenian» որպես բանալի բառ IUCAT-ում",
       "search_tip": "Որոնման հուշում. IUCAT-ի ձախ կողային վահանակից կարող եք հստակեցնել արդյունքները ըստ հեղինակի, լեզվի, տարվա, ձևաչափի և այլ չափանիշների։",
+      "survey_feedback": "Խնդրում ենք կիսվել ձեր կարծիքով այս որոնման գործիքի մասին",
       "still_looking": {
         "text": "Դեռ չե՞ք գտնում այն, ինչ փնտրում եք։ Կապ հաստատեք գրադարանավարի հետ կամ առաջարկեք նյութի ձեռքբերում։",
         "librarian_text": "Կապ հաստատեք գրադարանավարի հետ",
@@ -1163,6 +1203,7 @@
       "search_tip": "Axtarış məsləhəti: IUCAT-da nəticələri müəllif, dil, il, format və digər meyarlara görə daraltmaq üçün sol yan paneldən istifadə edin.",
       "still_looking": {
         "text": "Axtardığınızı hələ də tapa bilmirsiniz? Kitabxanaçı ilə əlaqə saxlayın və ya material alınmasını təklif edin.",
+        "survey_feedback": "Zəhmət olmasa bu axtarış aləti haqqında rəyinizi paylaşın",
         "librarian_text": "Kitabxanaçı ilə əlaqə saxlayın",
         "purchase_text": "material alınmasını təklif edin"
       }
@@ -1190,6 +1231,7 @@
       "disclaimer": "অনুগ্রহ করে মনে রাখবেন, এই ফলাফলগুলি IU-এর সংগ্রহ ব্রাউজ করতে সহায়তা করার জন্য এবং সম্পূর্ণ নাও হতে পারে। কিছু উপকরণ এই কল নম্বর পরিসরের বাইরে থাকতে পারে বা আলাদাভাবে ক্যাটালগ করা হতে পারে। আরও বিস্তৃত অনুসন্ধানের জন্য নিচের “সব সংগ্রহ ব্রাউজ করুন” এবং কীওয়ার্ড অনুসন্ধানের লিংক ব্যবহার করুন।",
       "keyword_search": "IUCAT-এ “Bengali” কীওয়ার্ড হিসেবে অনুসন্ধান করুন",
       "search_tip": "অনুসন্ধান টিপ: IUCAT-এ লেখক, ভাষা, বছর, ফরম্যাট এবং আরও অনেক কিছু অনুযায়ী ফলাফল সীমিত করতে বাম পাশের প্যানেল ব্যবহার করুন।",
+      "survey_feedback": "এই অনুসন্ধান সরঞ্জামটি সম্পর্কে আপনার মতামত শেয়ার করুন",
       "still_looking": {
         "text": "আপনি যা খুঁজছেন তা এখনও খুঁজে পাচ্ছেন না? একজন গ্রন্থাগারিকের সঙ্গে যোগাযোগ করুন অথবা উপকরণ কেনার পরামর্শ দিন।",
         "librarian_text": "একজন গ্রন্থাগারিকের সঙ্গে যোগাযোগ করুন",
@@ -1215,6 +1257,7 @@
       "disclaimer": "ဤရလဒ်များသည် IU စုဆောင်းမှုများကို ကြည့်ရှုရာတွင် အကူအညီဖြစ်စေရန် ရည်ရွယ်ထားပြီး ပြည့်စုံမှုမရှိနိုင်ကြောင်း သတိပြုပါ။ အချို့သော ပစ္စည်းများသည် ဤအပိုင်းအခြားများ၏ အပြင်ဘက်တွင် ရှိနိုင်သည် သို့မဟုတ် သီးခြားစာရင်းသွင်းထားနိုင်သည်။ ပိုမိုကျယ်ပြန့်သော ရှာဖွေမှုအတွက် အောက်ပါ “စုဆောင်းမှုအားလုံး ကြည့်ရှုရန်” နှင့် keyword ရှာဖွေရန် လင့်များကို အသုံးပြုပါ။",
       "keyword_search": "IUCAT တွင် “Burmese” ကို keyword အဖြစ် ရှာဖွေပါ",
       "search_tip": "ရှာဖွေရေး အကြံပြုချက်: IUCAT ၏ ဘယ်ဘက် panel ကို အသုံးပြု၍ စာရေးသူ၊ ဘာသာစကား၊ နှစ်၊ format စသည်တို့အလိုက် ရလဒ်များကို စစ်ထုတ်နိုင်ပါသည်။",
+      "survey_feedback": "ဤရှာဖွေရေးကိရိယာနှင့်ပတ်သက်သော သင်၏အကြံပြုချက်များကို မျှဝေပါ",
       "still_looking": {
         "text": "သင်ရှာနေသောအရာကို မတွေ့သေးပါက စာကြည့်တိုက်မှူးနှင့် ဆက်သွယ်ပါ သို့မဟုတ် ပစ္စည်းဝယ်ယူရန် အကြံပြုပါ။",
         "librarian_text": "စာကြည့်တိုက်မှူးနှင့် ဆက်သွယ်ပါ",
@@ -1240,6 +1283,7 @@
       "disclaimer": "გთხოვთ გაითვალისწინოთ, რომ ეს შედეგები IU-ის კოლექციების დათვალიერებაში დასახმარებლად არის განკუთვნილი და შესაძლოა სრულყოფილი არ იყოს. ზოგიერთი მასალა შეიძლება ამ დიაპაზონებს გარეთ იყოს კლასიფიცირებული ან ცალკე კატალოგიზებული. უფრო ფართო ძიებისთვის გამოიყენეთ ქვემოთ მოცემული „ყველა კოლექციის დათვალიერება“ და საკვანძო სიტყვის ძიების ბმულები.",
       "keyword_search": "მოძებნეთ “Georgian” როგორც საკვანძო სიტყვა IUCAT-ში",
       "search_tip": "ძიების რჩევა: IUCAT-ის მარცხენა გვერდითი პანელი გამოიყენეთ შედეგების ავტორის, ენის, წლის, ფორმატის და სხვა კრიტერიუმებით დასაზუსტებლად.",
+      "survey_feedback": "გთხოვთ გაუზიაროთ თქვენი მოსაზრებები ამ საძიებო ინსტრუმენტის შესახებ",
       "still_looking": {
         "text": "ჯერ კიდევ ვერ პოულობთ იმას, რასაც ეძებთ? დაუკავშირდით ბიბლიოთეკარს ან შესთავაზეთ მასალის შეძენა.",
         "librarian_text": "დაუკავშირდით ბიბლიოთეკარს",
@@ -1266,6 +1310,7 @@
       "disclaimer": "કૃપા કરીને નોંધો કે આ પરિણામો IU ની સંગ્રહિત સામગ્રી બ્રાઉઝ કરવામાં મદદ કરવા માટે છે અને સંપૂર્ણ ન પણ હોઈ શકે. કેટલીક સામગ્રી આ કોલ નંબર શ્રેણી બહાર વર્ગીકૃત થયેલી હોઈ શકે છે અથવા અલગથી કેટલોગ થયેલી હોઈ શકે છે. વધુ વ્યાપક શોધ માટે નીચેની “બધી સંગ્રહિત સામગ્રી બ્રાઉઝ કરો” અને કીવર્ડ શોધ લિંક્સનો ઉપયોગ કરો.",
       "keyword_search": "IUCAT માં “Gujarati” ને કીવર્ડ તરીકે શોધો",
       "search_tip": "શોધ સૂચન: IUCAT માં લેખક, ભાષા, વર્ષ, સ્વરૂપ અને અન્ય માપદંડો મુજબ પરિણામોને સીમિત કરવા માટે ડાબી બાજુના પેનલનો ઉપયોગ કરો.",
+      "survey_feedback": "કૃપા કરી આ શોધ સાધન વિશે તમારો અભિપ્રાય શેર કરો",
       "still_looking": {
         "text": "શું તમે હજી પણ જે શોધી રહ્યા છો તે મળી રહ્યું નથી? ગ્રંથપાલનો સંપર્ક કરો અથવા સામગ્રી ખરીદવાની ભલામણ કરો.",
         "librarian_text": "ગ્રંથપાલનો સંપર્ક કરો",
@@ -1294,6 +1339,7 @@
       "search_tip": "Shawarwarin bincike: Yi amfani da gefen hagu a IUCAT don tace sakamakonku ta marubuci, harshe, shekara, tsari, da sauransu.",
       "still_looking": {
         "text": "Har yanzu ba ku sami abin da kuke nema ba? Tuntuɓi ma’aikacin ɗakin karatu ko ba da shawarar sayen kayan karatu.",
+        "survey_feedback": "Da fatan za ku raba ra'ayinku game da wannan kayan aikin bincike",
         "librarian_text": "Tuntuɓi ma’aikacin ɗakin karatu",
         "purchase_text": "ba da shawarar sayen kayan karatu"
       }
@@ -1323,6 +1369,7 @@
       "disclaimer": "לתשומת לבכם: תוצאות אלה נועדו לסייע בעיון באוספי IU ואינן בהכרח ממצות. ייתכן שחומרים מסוימים מסווגים מחוץ לטווחים אלה או מקוטלגים בנפרד. לכיסוי רחב יותר השתמשו בקישורי “עיון בכל האוספים” ובחיפוש לפי מילת מפתח להלן.",
       "keyword_search": "חפשו את “Hebrew” כמילת מפתח ב-IUCAT",
       "search_tip": "טיפ לחיפוש: השתמשו בסרגל הצד השמאלי ב-IUCAT כדי לצמצם תוצאות לפי מחבר, שפה, שנה, פורמט ועוד.",
+      "survey_feedback": "נשמח לקבל את משוביכם על כלי החיפוש הזה",
       "still_looking": {
         "text": "עדיין לא מצאתם את מה שחיפשתם? צרו קשר עם ספרן או הציעו רכישת חומר.",
         "librarian_text": "צרו קשר עם ספרן",
@@ -1347,6 +1394,7 @@
       "disclaimer": "Biko mara na ebumnuche nsonaazụ ndị a bụ inyere gị aka ịchọgharị nchịkọta IU, ma ha nwere ike ghara izu oke. Ụfọdụ ihe nwere ike ịdị n’èzí oke ndị a ma ọ bụ depụta iche. Jiri njikọ “chọgharịa nchịkọta niile” na ọchụchọ okwu isi dị n’okpuru maka mkpuchi sara mbara.",
       "keyword_search": "Chọọ “Igbo” dị ka okwu isi na IUCAT",
       "search_tip": "Ndụmọdụ ọchụchọ: Jiri panel dị n’aka ekpe na IUCAT mee ka nsonaazụ gị doo anya site na odee, asụsụ, afọ, ụdị, na ndị ọzọ.",
+      "survey_feedback": "Biko kesaa echiche gị banyere ngwa ọchụchọ a",
       "still_looking": {
         "text": "Ị ka na-ahụbeghị ihe ị na-achọ? Kpọtụrụ onye na-elekọta ọbá akwụkwọ ma ọ bụ tụọ aro ka a zụta ihe.",
         "librarian_text": "Kpọtụrụ onye na-elekọta ọbá akwụkwọ",
@@ -1372,6 +1420,7 @@
       "disclaimer": "Harap diperhatikan bahwa hasil ini dimaksudkan untuk membantu Anda menjelajahi koleksi IU dan mungkin tidak lengkap. Beberapa bahan mungkin diklasifikasikan di luar rentang ini atau dikatalogkan secara terpisah. Gunakan tautan “jelajahi semua koleksi” dan pencarian kata kunci di bawah ini untuk cakupan yang lebih luas.",
       "keyword_search": "Cari “Indonesian” sebagai kata kunci di IUCAT",
       "search_tip": "Kiat pencarian: Gunakan panel kiri di IUCAT untuk mempersempit hasil berdasarkan penulis, bahasa, tahun, format, dan lainnya.",
+      "survey_feedback": "Silakan bagikan masukan Anda tentang alat pencarian ini",
       "still_looking": {
         "text": "Masih belum menemukan yang Anda cari? Hubungi pustakawan atau sarankan pembelian bahan.",
         "librarian_text": "Hubungi pustakawan",
@@ -1396,6 +1445,7 @@
       "disclaimer": "Mangga digatekake manawa asil iki kanggo mbantu panjenengan nelusuri koleksi IU lan bisa uga durung lengkap. Sawetara bahan bisa ana ing njaba rentang iki utawa dikatalogaké kanthi kapisah. Kanggo cakupan luwih jembar, gunakna pranala “telusuri kabeh koleksi” lan panelusuran tembung kunci ing ngisor iki.",
       "keyword_search": "Goleki “Javanese” minangka tembung kunci ing IUCAT",
       "search_tip": "Tips panelusuran: Gunakna panel kiwa ing IUCAT kanggo nyaring asil miturut panganggit, basa, taun, format, lan liya-liyané.",
+      "survey_feedback": "Kawula aturi maringi tanggapan babagan piranti panelusuran iki",
       "still_looking": {
         "text": "Isih durung nemokake sing panjenengan goleki? Hubungi pustakawan utawa usulna tuku bahan.",
         "librarian_text": "Hubungi pustakawan",
@@ -1420,6 +1470,7 @@
       "disclaimer": "ದಯವಿಟ್ಟು ಗಮನಿಸಿ, ಈ ಫಲಿತಾಂಶಗಳು IU ಸಂಗ್ರಹಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಲು ಸಹಾಯ ಮಾಡುವ ಉದ್ದೇಶದವು; ಅವು ಸಂಪೂರ್ಣವಾಗಿರದೇ ಇರಬಹುದು. ಕೆಲವು ಸಾಮಗ್ರಿಗಳು ಈ ವ್ಯಾಪ್ತಿಗಳ ಹೊರಗೆ ವರ್ಗೀಕರಿಸಲಾಗಿರಬಹುದು ಅಥವಾ ಪ್ರತ್ಯೇಕವಾಗಿ ಕ್ಯಾಟಲಾಗ್ ಮಾಡಲಾಗಿರಬಹುದು. ಹೆಚ್ಚಿನ ವ್ಯಾಪ್ತಿಗಾಗಿ ಕೆಳಗಿನ “ಎಲ್ಲ ಸಂಗ್ರಹಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ” ಮತ್ತು ಕೀವರ್ಡ್ ಹುಡುಕಾಟ ಕೊಂಡಿಗಳನ್ನು ಬಳಸಿ.",
       "keyword_search": "IUCAT ನಲ್ಲಿ “Kannada” ಅನ್ನು ಕೀವರ್ಡ್ ಆಗಿ ಹುಡುಕಿ",
       "search_tip": "ಹುಡುಕಾಟ ಸಲಹೆ: IUCAT ನಲ್ಲಿ ಫಲಿತಾಂಶಗಳನ್ನು ಲೇಖಕ, ಭಾಷೆ, ವರ್ಷ, ರೂಪ ಮತ್ತು ಇನ್ನಷ್ಟು ಆಧಾರಗಳಲ್ಲಿ ಸೀಮಿತಗೊಳಿಸಲು ಎಡಭಾಗದ ಪ್ಯಾನಲ್ ಬಳಸಿ.",
+      "survey_feedback": "ಈ ಹುಡುಕಾಟ ಸಾಧನದ ಬಗ್ಗೆ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ತಿಳಿಸಿ",
       "still_looking": {
         "text": "ನೀವು ಹುಡುಕುತ್ತಿರುವುದನ್ನು ಇನ್ನೂ ಕಂಡುಕೊಳ್ಳಲಾಗುತ್ತಿಲ್ಲವೇ? ಗ್ರಂಥಪಾಲಕರನ್ನು ಸಂಪರ್ಕಿಸಿ ಅಥವಾ ಸಾಮಗ್ರಿ ಖರೀದಿಯನ್ನು ಸೂಚಿಸಿ.",
         "librarian_text": "ಗ್ರಂಥಪಾಲಕರನ್ನು ಸಂಪರ್ಕಿಸಿ",
@@ -1445,6 +1496,7 @@
       "disclaimer": "Бұл нәтижелер IU қорларын шолуға көмектесу үшін берілгенін және толық болмауы мүмкін екенін ескеріңіз. Кейбір материалдар бұл ауқымдардан тыс жіктелуі немесе бөлек каталогталуы мүмкін. Кеңірек қамту үшін төмендегі “барлық қорларды шолу” және кілтсөзбен іздеу сілтемелерін пайдаланыңыз.",
       "keyword_search": "IUCAT-та “Kazakh” сөзін кілтсөз ретінде іздеу",
       "search_tip": "Іздеу кеңесі: IUCAT-та нәтижелерді автор, тіл, жыл, формат және басқа өлшемдер бойынша нақтылау үшін сол жақ панельді пайдаланыңыз.",
+      "survey_feedback": "Осы іздеу құралы туралы пікіріңізді бөлісіңіз",
       "still_looking": {
         "text": "Іздегеніңізді әлі таба алмадыңыз ба? Кітапханашымен байланысыңыз немесе материал сатып алуды ұсыныңыз.",
         "librarian_text": "Кітапханашымен байланысыңыз",
@@ -1469,6 +1521,7 @@
       "disclaimer": "សូមចំណាំថា លទ្ធផលទាំងនេះមានគោលបំណងជួយអ្នករកមើលសម្រង់របស់ IU ហើយអាចមិនពេញលេញទេ។ សម្ភារៈខ្លះអាចត្រូវបានចាត់ថ្នាក់នៅក្រៅជួរទាំងនេះ ឬកាតាឡុកដោយឡែក។ សម្រាប់ការគ្របដណ្តប់ទូលំទូលាយ សូមប្រើតំណ “រកមើលសម្រង់ទាំងអស់” និងស្វែងរកតាមពាក្យគន្លឹះខាងក្រោម។",
       "keyword_search": "ស្វែងរក “Khmer” ជាពាក្យគន្លឹះក្នុង IUCAT",
       "search_tip": "គន្លឹះស្វែងរក៖ ប្រើផ្ទាំងខាងឆ្វេងក្នុង IUCAT ដើម្បីកំណត់លទ្ធផលតាមអ្នកនិពន្ធ ភាសា ឆ្នាំ ទ្រង់ទ្រាយ និងផ្សេងៗទៀត។",
+      "survey_feedback": "សូមចែករំលែកមតិយោបល់របស់អ្នកអំពីឧបករណ៍ស្វែងរកនេះ",
       "still_looking": {
         "text": "នៅតែមិនទាន់រកឃើញអ្វីដែលអ្នកកំពុងស្វែងរកមែនទេ? ទាក់ទងបណ្ណារក្ស ឬស្នើសុំការទិញសម្ភារៈ។",
         "librarian_text": "ទាក់ទងបណ្ណារក្ស",
@@ -1493,6 +1546,7 @@
       "disclaimer": "Ji kerema xwe bizanin ku ev encam ji bo alîkarîkirina gerandina koleksiyonên IU hatine amadekirin û dibe ku ne temam bin. Hin materyal dikarin li derveyî van navberan bin an cuda katalogkirî bin. Ji bo qada firehtir, girêdanên “hemû koleksiyanan bigerin” û lêgerîna peyva kilîtê ya jêrîn bikar bînin.",
       "keyword_search": "“Kurdish” wekî peyva kilîtê di IUCAT de bigerin",
       "search_tip": "Şîreta lêgerînê: Di IUCAT de panela çepê bikar bînin da ku encaman li gorî nivîskar, ziman, sal, form û hwd. teng bikin.",
+      "survey_feedback": "Ji kerema xwe nerîna xwe di derbarê vê amûra lêgerînê de parve bikin",
       "still_looking": {
         "text": "Hîn jî tiştê ku lê digerin nedît? Bi pirtûkxanedar re têkilî daynin an kirîna materyalekê pêşniyar bikin.",
         "librarian_text": "Bi pirtûkxanedar re têkilî daynin",
@@ -1518,6 +1572,7 @@
       "disclaimer": "Бул натыйжалар IU жыйнактарын карап чыгууга жардам берүү үчүн берилгенин жана толук болбошу мүмкүн экенин эске алыңыз. Айрым материалдар бул аралыктардан тышкары жайгашышы же өзүнчө каталогдолушу мүмкүн. Кеңири издөө үчүн төмөнкү “бардык жыйнактарды караңыз” жана ачкыч сөз менен издөө шилтемелерин колдонуңуз.",
       "keyword_search": "IUCATта “Kyrgyz” сөзүн ачкыч сөз катары издөө",
       "search_tip": "Издөө кеңеши: IUCATта натыйжаларды автор, тил, жыл, формат жана башка белгилер боюнча тактоо үчүн сол жактагы панелди колдонуңуз.",
+      "survey_feedback": "Бул издөө куралы жөнүндө пикириңизди бөлүшүңүз",
       "still_looking": {
         "text": "Издегениңизди дагы эле таба албай жатасызбы? Китепканачы менен байланышыңыз же материал сатып алууну сунуштаңыз.",
         "librarian_text": "Китепканачы менен байланышыңыз",
@@ -1542,6 +1597,7 @@
       "disclaimer": "ກະລຸນາຮັບຊາບວ່າຜົນລັບເຫຼົ່ານີ້ມີໄວ້ເພື່ອຊ່ວຍໃນການເບິ່ງຄັງສະສົມຂອງ IU ແລະອາດບໍ່ຄົບຖ້ວນ. ວັດສະດຸບາງຢ່າງອາດຖືກຈັດຢູ່ນອກຊ່ວງນີ້ ຫຼື ຖືກຈັດລາຍການແຍກຕ່າງຫາກ. ໃຊ້ລິ້ງ “ເບິ່ງຄັງສະສົມທັງໝົດ” ແລະການຄົ້ນຫາຄຳສຳຄັນຂ້າງລຸ່ມເພື່ອຄອບຄຸມກວ້າງຂຶ້ນ.",
       "keyword_search": "ຄົ້ນຫາ “Lao” ເປັນຄຳສຳຄັນໃນ IUCAT",
       "search_tip": "ຄຳແນະນຳການຄົ້ນຫາ: ໃຊ້ແຖບດ້ານຊ້າຍໃນ IUCAT ເພື່ອຈຳກັດຜົນຕາມຜູ້ຂຽນ, ພາສາ, ປີ, ຮູບແບບ ແລະອື່ນໆ.",
+      "survey_feedback": "ກະລຸນາແບ່ງປັນຄໍາຄິດເຫັນຂອງທ່ານກ່ຽວກັບເຄື່ອງມືຊອກຫານີ້",
       "still_looking": {
         "text": "ຍັງບໍ່ພົບສິ່ງທີ່ທ່ານກຳລັງຫາບໍ? ຕິດຕໍ່ບັນນາຮັກ ຫຼື ສະເໜີການຈັດຊື້ວັດສະດຸ.",
         "librarian_text": "ຕິດຕໍ່ບັນນາຮັກ",
@@ -1567,6 +1623,7 @@
       "disclaimer": "Sila ambil perhatian bahawa hasil ini bertujuan membantu anda melayari koleksi IU dan mungkin tidak menyeluruh. Sesetengah bahan mungkin diklasifikasikan di luar julat ini atau dikatalogkan secara berasingan. Gunakan pautan “layari semua koleksi” dan carian kata kunci di bawah untuk liputan yang lebih luas.",
       "keyword_search": "Cari “Malay” sebagai kata kunci dalam IUCAT",
       "search_tip": "Petua carian: Gunakan panel sebelah kiri dalam IUCAT untuk memperhalus hasil mengikut pengarang, bahasa, tahun, format dan banyak lagi.",
+      "survey_feedback": "Sila kongsikan maklum balas anda tentang alat carian ini",
       "still_looking": {
         "text": "Masih belum menemui apa yang anda cari? Hubungi pustakawan atau cadangkan pembelian bahan.",
         "librarian_text": "Hubungi pustakawan",
@@ -1591,6 +1648,7 @@
       "disclaimer": "ഈ ഫലങ്ങൾ IU ശേഖരങ്ങൾ ബ്രൗസ് ചെയ്യാൻ സഹായിക്കുന്നതിനായുള്ളതാണെന്നും പൂർണ്ണമാകണമെന്നില്ലെന്നും ദയവായി ശ്രദ്ധിക്കുക. ചില സാമഗ്രികൾ ഈ പരിധികൾക്കു പുറത്തായി വർഗ്ഗീകരിച്ചിരിക്കാം അല്ലെങ്കിൽ വേറിട്ട് കാറ്റലോഗ് ചെയ്തിരിക്കാം. കൂടുതൽ വ്യാപകമായ തിരച്ചിലിനായി താഴെയുള്ള “എല്ലാ ശേഖരങ്ങളും ബ്രൗസ് ചെയ്യുക” എന്നതും കീവേഡ് തിരച്ചിലും ഉപയോഗിക്കുക.",
       "keyword_search": "IUCAT-ൽ “Malayalam” കീവേഡായി തിരയുക",
       "search_tip": "തിരച്ചിൽ നിർദേശം: IUCAT-ൽ ഫലങ്ങൾ രചയിതാവ്, ഭാഷ, വർഷം, ഫോർമാറ്റ് എന്നിവ പ്രകാരം ചുരുക്കാൻ ഇടതു വശത്തെ പാനൽ ഉപയോഗിക്കുക.",
+      "survey_feedback": "ഈ തിരയൽ ഉപകരണത്തെക്കുറിച്ച് നിങ്ങളുടെ അഭിപ്രായം പങ്കുവെക്കൂ",
       "still_looking": {
         "text": "നിങ്ങൾ അന്വേഷിക്കുന്നത് ഇപ്പോഴും കണ്ടെത്താനായില്ലേ? ഒരു ലൈബ്രേറിയനെ ബന്ധപ്പെടുക അല്ലെങ്കിൽ സാമഗ്രി വാങ്ങൽ നിർദേശിക്കുക.",
         "librarian_text": "ഒരു ലൈബ്രേറിയനെ ബന്ധപ്പെടുക",
@@ -1615,6 +1673,7 @@
       "disclaimer": "कृपया लक्षात घ्या की हे परिणाम IU चे संग्रह ब्राउझ करण्यास मदत करण्यासाठी आहेत आणि पूर्ण असतीलच असे नाही. काही सामग्री या श्रेणींबाहेर वर्गीकृत केलेली किंवा स्वतंत्रपणे सूचीबद्ध केलेली असू शकते. अधिक व्यापक शोधासाठी खालील “सर्व संग्रह ब्राउझ करा” आणि कीवर्ड शोध दुवे वापरा.",
       "keyword_search": "IUCAT मध्ये “Marathi” हा कीवर्ड म्हणून शोधा",
       "search_tip": "शोध सूचना: IUCAT मध्ये लेखक, भाषा, वर्ष, स्वरूप आणि इतर निकषांनुसार परिणाम मर्यादित करण्यासाठी डाव्या बाजूचा पॅनेल वापरा.",
+      "survey_feedback": "कृपया या शोध साधनाविषयी आपला अभिप्राय सांगा",
       "still_looking": {
         "text": "आपण शोधत असलेली गोष्ट अजूनही सापडत नाही का? ग्रंथपालाशी संपर्क साधा किंवा सामग्री खरेदीची सूचना करा.",
         "librarian_text": "ग्रंथपालाशी संपर्क साधा",
@@ -1640,6 +1699,7 @@
       "disclaimer": "Эдгээр үр дүн нь IU-ийн цуглуулгыг үзэхэд туслах зорилготой бөгөөд бүрэн байх албагүйг анхаарна уу. Зарим материал эдгээр хүрээнээс гадуур ангилагдсан эсвэл тусад нь каталоглогдсон байж болно. Илүү өргөн хүрээнд хайхын тулд доорх “бүх цуглуулгыг үзэх” болон түлхүүр үгийн хайлтын холбоосыг ашиглана уу.",
       "keyword_search": "IUCAT-д “Mongolian” гэж түлхүүр үгээр хайх",
       "search_tip": "Хайлтын зөвлөмж: IUCAT-ын зүүн талын самбарыг ашиглан үр дүнгээ зохиогч, хэл, он, хэлбэр болон бусад үзүүлэлтээр нарийсгана уу.",
+      "survey_feedback": "Энэ хайлтын хэрэгслийн талаар санал хүсэлтээ хуваалцана уу",
       "still_looking": {
         "text": "Та хайж буй зүйлээ одоо ч олоогүй байна уу? Номын санчтай холбоо барих эсвэл материал худалдан авахыг санал болгоно уу.",
         "librarian_text": "Номын санчтай холбоо барих",
@@ -1665,6 +1725,7 @@
       "disclaimer": "कृपया ध्यान दिनुहोस्, यी परिणामहरू IU का सङ्ग्रहहरू ब्राउज गर्न सहयोग पुर्‍याउनका लागि हुन् र पूर्ण नहुन सक्छन्। केही सामग्री यी दायराहरू बाहिर वर्गीकृत वा अलग रूपमा सूचीबद्ध हुन सक्छन्। थप व्यापक खोजका लागि तलका “सबै सङ्ग्रह ब्राउज गर्नुहोस्” र कीवर्ड खोज लिंकहरू प्रयोग गर्नुहोस्।",
       "keyword_search": "IUCAT मा “Nepali” लाई कीवर्डका रूपमा खोज्नुहोस्",
       "search_tip": "खोज सुझाव: IUCAT मा लेखक, भाषा, वर्ष, ढाँचा आदि अनुसार नतिजा सीमित गर्न बायाँपट्टिको प्यानल प्रयोग गर्नुहोस्।",
+      "survey_feedback": "कृपया यस खोज उपकरणबारे आफ्नो प्रतिक्रिया साझा गर्नुहोस्",
       "still_looking": {
         "text": "तपाईंले खोजिरहनुभएको कुरा अझै भेटिएन? पुस्तकालयाध्यक्षलाई सम्पर्क गर्नुहोस् वा सामग्री खरिदको सुझाव दिनुहोस्।",
         "librarian_text": "पुस्तकालयाध्यक्षलाई सम्पर्क गर्नुहोस्",
@@ -1689,6 +1750,7 @@
       "disclaimer": "ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਦਿਓ ਕਿ ਇਹ ਨਤੀਜੇ IU ਦੇ ਸੰਗ੍ਰਹਿ ਬ੍ਰਾਉਜ਼ ਕਰਨ ਵਿੱਚ ਮਦਦ ਲਈ ਹਨ ਅਤੇ ਪੂਰੇ ਨਹੀਂ ਵੀ ਹੋ ਸਕਦੇ। ਕੁਝ ਮਾਦਾ ਇਨ੍ਹਾਂ ਸੀਮਾਵਾਂ ਤੋਂ ਬਾਹਰ ਵਰਗੀਕ੍ਰਿਤ ਹੋ ਸਕਦਾ ਹੈ ਜਾਂ ਵੱਖਰੇ ਤੌਰ ਤੇ ਕੈਟਾਲਾਗ ਕੀਤਾ ਹੋ ਸਕਦਾ ਹੈ। ਹੋਰ ਵਿਆਪਕ ਖੋਜ ਲਈ ਹੇਠਾਂ “ਸਾਰੇ ਸੰਗ੍ਰਹਿ ਬ੍ਰਾਉਜ਼ ਕਰੋ” ਅਤੇ ਕੀਵਰਡ ਖੋਜ ਲਿੰਕਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ।",
       "keyword_search": "IUCAT ਵਿੱਚ “Panjabi” ਨੂੰ ਕੀਵਰਡ ਵਜੋਂ ਖੋਜੋ",
       "search_tip": "ਖੋਜ ਸੁਝਾਅ: IUCAT ਵਿੱਚ ਨਤੀਜਿਆਂ ਨੂੰ ਲੇਖਕ, ਭਾਸ਼ਾ, ਸਾਲ, ਫਾਰਮੈਟ ਆਦਿ ਅਨੁਸਾਰ ਘਟਾਉਣ ਲਈ ਖੱਬੇ ਪੈਨਲ ਦੀ ਵਰਤੋਂ ਕਰੋ।",
+      "survey_feedback": "ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਖੋਜ ਸਾਧਨ ਬਾਰੇ ਆਪਣੀ ਰਾਇ ਸਾਂਝੀ ਕਰੋ",
       "still_looking": {
         "text": "ਹਾਲੇ ਵੀ ਉਹ ਨਹੀਂ ਲੱਭਿਆ ਜੋ ਤੁਸੀਂ ਲੱਭ ਰਹੇ ਹੋ? ਲਾਇਬ੍ਰੇਰੀਅਨ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜਾਂ ਮਾਦਾ ਖਰੀਦਣ ਦੀ ਸਿਫਾਰਸ਼ ਕਰੋ।",
         "librarian_text": "ਲਾਇਬ੍ਰੇਰੀਅਨ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
@@ -1716,6 +1778,7 @@
       "disclaimer": "مهرباني وکړئ پام وکړئ چې دا پایلې د IU د ټولګو په پلټلو کې د مرستې لپاره دي او ښايي بشپړې نه وي. ځینې مواد کېدای شي له دې لړیو بهر طبقه بندي شوي وي یا جلا کتلاګ شوي وي. د پراخې پلټنې لپاره لاندې د “ټولې ټولګې وپلټئ” او د کلیدي کلمې پلټنې تړنې وکاروئ.",
       "keyword_search": "په IUCAT کې “Pushto” د کلیدي کلمې په توګه وپلټئ",
       "search_tip": "د پلټنې لارښوونه: په IUCAT کې د لیکوال، ژبې، کال، بڼې او نورو له مخې د پایلو د محدودولو لپاره کیڼ اړخ پینل وکاروئ.",
+      "survey_feedback": "مهرباني وکړئ د دې لټون وسیلې په اړه خپل نظر شریک کړئ",
       "still_looking": {
         "text": "لا هم هغه څه نه مومئ چې لټوئ؟ له کتابتونوال سره اړیکه ونیسئ یا د موادو د پېرلو وړاندیز وکړئ.",
         "librarian_text": "له کتابتونوال سره اړیکه ونیسئ",
@@ -1742,6 +1805,7 @@
       "disclaimer": "Fadlan ogow in natiijooyinkan loogu talagalay inay kaa caawiyaan ka baadhista ururinta IU, waxaana laga yaabaa inaysan dhamaystirnayn. Agab qaarkood waxaa laga yaabaa in lagu kala saaray meel ka baxsan kala duwanaantan ama si gaar ah loo kaydiyey. Si aad u hesho daboolid ballaaran, isticmaal xiriiriyeyaasha “ka baadh dhammaan ururinta” iyo raadinta erayga muhiimka ah ee hoose.",
       "keyword_search": "Ka raadi “Somali” sida eray muhiim ah gudaha IUCAT",
       "search_tip": "Talo raadis: Isticmaal qaybta bidix ee IUCAT si aad natiijooyinka ugu koobto qoraa, luqad, sanad, qaab iyo wax ka badan.",
+      "survey_feedback": "Fadlan la wadaag ra'yigaaga ku saabsan qalabkan raadinta",
       "still_looking": {
         "text": "Weli ma helin waxaad raadinayso? La xiriir maktabad-yaqaan ama soo jeedi iibsashada agab.",
         "librarian_text": "La xiriir maktabad-yaqaan",
@@ -1768,6 +1832,7 @@
       "disclaimer": "Tafadhali kumbuka kuwa matokeo haya yanalenga kukusaidia kuvinjari makusanyo ya IU na huenda yasiwe kamili. Baadhi ya nyenzo zinaweza kuainishwa nje ya safu hizi au kuorodheshwa tofauti. Tumia viungo vya “vinjari makusanyo yote” na utafutaji wa neno kuu hapa chini kwa upeo mpana zaidi.",
       "keyword_search": "Tafuta “Swahili” kama neno kuu katika IUCAT",
       "search_tip": "Kidokezo cha utafutaji: Tumia paneli ya kushoto katika IUCAT kuchuja matokeo kwa mwandishi, lugha, mwaka, umbizo na zaidi.",
+      "survey_feedback": "Tafadhali shiriki maoni yako kuhusu zana hii ya kutafuta",
       "still_looking": {
         "text": "Bado hujapata unachotafuta? Wasiliana na mhudumu wa maktaba au pendekeza ununuzi wa nyenzo.",
         "librarian_text": "Wasiliana na mhudumu wa maktaba",
@@ -1793,6 +1858,7 @@
       "disclaimer": "Pakitandaan na ang mga resultang ito ay nilalayong makatulong sa pag-browse ng mga koleksiyon ng IU at maaaring hindi kumpleto. Maaaring may ilang materyal na nasa labas ng mga saklaw na ito o nakatalogo nang hiwalay. Gamitin ang mga link para sa “i-browse ang lahat ng koleksiyon” at paghahanap sa keyword sa ibaba para sa mas malawak na saklaw.",
       "keyword_search": "Hanapin ang “Tagalog” bilang keyword sa IUCAT",
       "search_tip": "Tip sa paghahanap: Gamitin ang kaliwang panel sa IUCAT upang paliitin ang mga resulta ayon sa may-akda, wika, taon, format at iba pa.",
+      "survey_feedback": "Mangyaring ibahagi ang inyong feedback tungkol sa search tool na ito",
       "still_looking": {
         "text": "Hindi pa rin makita ang hinahanap mo? Makipag-ugnayan sa isang librarian o magmungkahi ng pagbili ng materyal.",
         "librarian_text": "Makipag-ugnayan sa isang librarian",
@@ -1817,6 +1883,7 @@
       "disclaimer": "இந்த முடிவுகள் IU சேமிப்புகளை உலாவ உதவுவதற்காகவாகும்; அவை முழுமையானதாக இருக்க வேண்டியதில்லை. சில பொருட்கள் இந்த வரம்புகளுக்கு வெளியே வகைப்படுத்தப்பட்டிருக்கலாம் அல்லது தனியாக பட்டியலிடப்பட்டிருக்கலாம். விரிவான தேடலுக்கு கீழுள்ள “அனைத்து சேமிப்புகளையும் உலாவுக” மற்றும் முக்கியச்சொல் தேடல் இணைப்புகளைப் பயன்படுத்தவும்.",
       "keyword_search": "IUCAT-இல் “Tamil” என்பதை முக்கியச்சொல்லாகத் தேடுக",
       "search_tip": "தேடல் குறிப்பு: IUCAT-இல் முடிவுகளை ஆசிரியர், மொழி, ஆண்டு, வடிவம் போன்றவற்றால் குறைக்க இடதுபுறப் பலகையைப் பயன்படுத்தவும்.",
+      "survey_feedback": "இந்த தேடல் கருவி பற்றிய உங்கள் கருத்தை பகிரவும்",
       "still_looking": {
         "text": "நீங்கள் தேடுவது இன்னும் கிடைக்கவில்லையா? நூலகருடன் தொடர்புகொள்ளுங்கள் அல்லது பொருள் வாங்க பரிந்துரையுங்கள்.",
         "librarian_text": "நூலகருடன் தொடர்புகொள்ளுங்கள்",
@@ -1842,6 +1909,7 @@
       "disclaimer": "Зинһар, игътибар итегез: бу нәтиҗәләр IU җыелмаларын карарга ярдәм итү өчен бирелә һәм тулы булмаска мөмкин. Кайбер материаллар бу диапазоннардан читтә классификацияләнгән яки аерым каталогланган булырга мөмкин. Киңрәк эзләү өчен түбәндәге “барлык җыелмаларны карау” һәм ачкыч сүз эзләү сылтамаларын кулланыгыз.",
       "keyword_search": "IUCATта “Tatar” сүзен ачкыч сүз итеп эзләү",
       "search_tip": "Эзләү киңәше: IUCATта нәтиҗәләрне автор, тел, ел, формат һәм башкалар буенча төгәлләү өчен сул як панельне кулланыгыз.",
+      "survey_feedback": "Зинһар, бу эзләү коралы турында фикерегезне уртаклашыгыз",
       "still_looking": {
         "text": "Эзләгәнегезне һаман таба алмыйсызмы? Китапханәче белән элемтәгә керегез яки материал сатып алуны тәкъдим итегез.",
         "librarian_text": "Китапханәче белән элемтәгә керегез",
@@ -1866,6 +1934,7 @@
       "disclaimer": "దయచేసి గమనించండి: ఈ ఫలితాలు IU సేకరణలను బ్రౌజ్ చేయడంలో మీకు సహాయం చేయడానికి ఉద్దేశించినవి, అవి పూర్తిగా ఉండకపోవచ్చు. కొన్ని పదార్థాలు ఈ పరిధుల వెలుపల వర్గీకరించబడివుండవచ్చు లేదా వేరుగా కాటలాగ్ చేయబడివుండవచ్చు. విస్తృత కవరేజ్ కోసం దిగువ “అన్ని సేకరణలను బ్రౌజ్ చేయండి” మరియు కీవర్డ్ శోధన లింకులను ఉపయోగించండి.",
       "keyword_search": "IUCAT లో “Telugu” ను కీవర్డ్‌గా శోధించండి",
       "search_tip": "శోధన సూచన: IUCAT లో ఫలితాలను రచయిత, భాష, సంవత్సరం, ఫార్మాట్ మొదలైన వాటి ప్రకారం పరిమితం చేయడానికి ఎడమ వైపు ప్యానెల్‌ను ఉపయోగించండి.",
+      "survey_feedback": "ఈ శోధన సాధనంపై మీ అభిప్రాయాన్ని పంచుకోండి",
       "still_looking": {
         "text": "మీరు వెతుకుతున్నది ఇంకా కనబడలేదా? లైబ్రేరియన్‌ను సంప్రదించండి లేదా పదార్థం కొనుగోలు చేయాలని సూచించండి.",
         "librarian_text": "లైబ్రేరియన్‌ను సంప్రదించండి",
@@ -1891,6 +1960,7 @@
       "disclaimer": "โปรดทราบว่าผลลัพธ์เหล่านี้มีไว้เพื่อช่วยให้คุณเรียกดูคอลเลกชันของ IU และอาจไม่ครอบคลุมทั้งหมด วัสดุบางรายการอาจจัดอยู่ภายนอกช่วงเหล่านี้หรือทำรายการแยกต่างหาก ใช้ลิงก์ “เรียกดูคอลเลกชันทั้งหมด” และการค้นหาคำสำคัญด้านล่างเพื่อการค้นหาที่กว้างขึ้น",
       "keyword_search": "ค้นหา “Thai” เป็นคำสำคัญใน IUCAT",
       "search_tip": "เคล็ดลับการค้นหา: ใช้แผงด้านซ้ายใน IUCAT เพื่อจำกัดผลลัพธ์ตามผู้แต่ง ภาษา ปี รูปแบบ และอื่น ๆ",
+      "survey_feedback": "กรุณาแบ่งปันความคิดเห็นของคุณเกี่ยวกับเครื่องมือค้นหานี้",
       "still_looking": {
         "text": "ยังไม่พบสิ่งที่คุณต้องการหรือไม่? ติดต่อบรรณารักษ์ หรือเสนอให้จัดซื้อวัสดุ",
         "librarian_text": "ติดต่อบรรณารักษ์",
@@ -1917,6 +1987,7 @@
       "disclaimer": "འདི་དག་ནི IU ཉར་ཚགས་ལ་ལྟ་ཞིབ་བྱེད་པར་རོགས་རམ་གྱི་ཆེད་ཡིན་པས་ཆ་ཚང་མིན་སྲིད། དཔྱད་གཞི་འགའ་ཞིག་ཁྱབ་ཁོངས་འདི་དག་ལས་ཕྱི་རུ་ཡོད་སྲིད་པའམ་སོ་སོར་དཀར་ཆག་བཟོས་ཡོད་སྲིད། ཁྱབ་ཆེ་བའི་འཚོལ་ཞིབ་ལ་འོག་གི “ཉར་ཚགས་ཡོངས་ལ་ལྟ་ཞིབ” དང་གནད་ཚིག་འཚོལ་བའི་འབྲེལ་ཐག་སྤྱོད།",
       "keyword_search": "IUCAT ནང “Tibetan” གནད་ཚིག་ཏུ་འཚོལ།",
       "search_tip": "འཚོལ་ཞིབ་གསལ་བཤད། IUCAT ནང་གི་གཡོན་ཕྱོགས་པེ་ནལ་སྤྱད་ནས་རྩོམ་པ་པོ། སྐད་ཡིག ལོ། རྣམ་པ་སོགས་ལྟར་འབྲས་བུ་གསལ་བཟོ་བྱེད།",
+      "survey_feedback": "འཚོལ་བའི་ལག་ཆ་འདིའི་སྐོར་ལ་ཁྱེད་རང་གི་བསམ་འཆར་འབུལ་རོགས།",
       "still_looking": {
         "text": "ཁྱེད་རང་གིས་འཚོལ་བ་དེ་ད་དུང་མ་རྙེད་དམ། དཔེ་མཛོད་པར་འབྲེལ་བ་བྱེད་པའམ་དཔྱད་གཞི་ཉོ་སྒྲུབ་གྲོས་འདེབས་བྱེད།",
         "librarian_text": "དཔེ་མཛོད་པར་འབྲེལ་བ་བྱེད",
@@ -1944,6 +2015,7 @@
       "disclaimer": "Lütfen bu sonuçların IU koleksiyonlarında gezinmenize yardımcı olmak için sunulduğunu ve kapsamlı olmayabileceğini unutmayın. Bazı materyaller bu aralıkların dışında sınıflandırılmış veya ayrı kataloglanmış olabilir. Daha geniş kapsam için aşağıdaki “tüm koleksiyonları incele” ve anahtar kelime arama bağlantılarını kullanın.",
       "keyword_search": "IUCAT’ta “Turkish” anahtar kelimesiyle arama yapın",
       "search_tip": "Arama ipucu: IUCAT’ta sonuçları yazar, dil, yıl, format ve daha fazlasına göre daraltmak için sol paneli kullanın.",
+      "survey_feedback": "Bu arama aracı hakkındaki görüşlerinizi lütfen paylaşın",
       "still_looking": {
         "text": "Aradığınızı hâlâ bulamıyor musunuz? Bir kütüphaneciyle iletişime geçin veya materyal satın alımı önerin.",
         "librarian_text": "Bir kütüphaneciyle iletişime geçin",
@@ -1969,6 +2041,7 @@
       "disclaimer": "بۇ نەتىجىلەر IU توپلاملىرىنى كۆرۈشكە ياردەم بېرىش ئۈچۈن تەييارلانغان بولۇپ، تولۇق بولماسلىقى مۇمكىن. بەزى ماتېرىياللار بۇ دائىرىلەردىن سىرتتا تۈرلەنگەن ياكى ئايرىم كاتالوگلانغان بولۇشى مۇمكىن. كەڭراق قاپلاش ئۈچۈن تۆۋەندىكى “بارلىق توپلاملارنى كۆرۈش” ۋە ئاچقۇچلۇق سۆز ئىزدەش ئۇلانمىلىرىنى ئىشلىتىڭ.",
       "keyword_search": "IUCAT تا “Uighur” نى ئاچقۇچلۇق سۆز سۈپىتىدە ئىزدەش",
       "search_tip": "ئىزدەش كۆرسەتمىسى: IUCAT تىكى سول تەرەپتىكى تاختىنى ئىشلىتىپ نەتىجىلەرنى ئاپتور، تىل، يىل، فورمات ۋە باشقىلار بويىچە چەكلەڭ.",
+      "survey_feedback": "بۇ ئىزدەش قورالى ھەققىدە پىكىرىڭىزنى ئۈلەشىڭ",
       "still_looking": {
         "text": "ئىزدەۋاتقىنىڭىزنى تېخى تاپالمىدىڭىزمۇ؟ كۈتۈپخانىچى بىلەن ئالاقىلىشىڭ ياكى ماتېرىيال سېتىۋېلىشنى تەكلىپ قىلىڭ.",
         "librarian_text": "كۈتۈپخانىچى بىلەن ئالاقىلىشىڭ",
@@ -1997,6 +2070,7 @@
       "disclaimer": "براہ کرم نوٹ کریں کہ یہ نتائج IU کے مجموعوں کو دیکھنے میں مدد کے لیے ہیں اور مکمل نہیں بھی ہو سکتے۔ کچھ مواد ان حدود سے باہر درجہ بند یا الگ سے کیٹلاگ کیا گیا ہو سکتا ہے۔ وسیع تر تلاش کے لیے نیچے “تمام مجموعے دیکھیں” اور کلیدی لفظ کی تلاش کے روابط استعمال کریں۔",
       "keyword_search": "IUCAT میں “Urdu” کو کلیدی لفظ کے طور پر تلاش کریں",
       "search_tip": "تلاش کا مشورہ: IUCAT میں نتائج کو مصنف، زبان، سال، فارمیٹ اور دیگر معیارات کے مطابق محدود کرنے کے لیے بائیں جانب کا پینل استعمال کریں۔",
+      "survey_feedback": "براہ کرم اس تلاش کے آلے کے بارے میں اپنی رائے شیئر کریں",
       "still_looking": {
         "text": "کیا آپ کو اب بھی وہ نہیں ملا جس کی آپ تلاش کر رہے ہیں؟ کسی لائبریرین سے رابطہ کریں یا مواد خریدنے کی تجویز دیں۔",
         "librarian_text": "کسی لائبریرین سے رابطہ کریں",
@@ -2022,6 +2096,7 @@
       "disclaimer": "Iltimos, bu natijalar IU to‘plamlarini ko‘rib chiqishga yordam berish uchun berilganini va to‘liq bo‘lmasligi mumkinligini unutmang. Ayrim materiallar ushbu oraliqlardan tashqarida tasniflangan yoki alohida kataloglangan bo‘lishi mumkin. Kengroq qamrov uchun quyidagi “barcha to‘plamlarni ko‘rish” va kalit so‘z bilan qidirish havolalaridan foydalaning.",
       "keyword_search": "IUCATda “Uzbek” so‘zini kalit so‘z sifatida qidiring",
       "search_tip": "Qidiruv maslahati: IUCATda natijalarni muallif, til, yil, format va boshqa mezonlar bo‘yicha toraytirish uchun chap paneldan foydalaning.",
+      "survey_feedback": "Iltimos, bu qidiruv vositasi haqida fikr-mulohazalaringizni ulashing",
       "still_looking": {
         "text": "Hali ham izlayotgan narsangizni topa olmadingizmi? Kutubxonachi bilan bog‘laning yoki material xarid qilishni taklif qiling.",
         "librarian_text": "Kutubxonachi bilan bog‘laning",
@@ -2047,6 +2122,7 @@
       "disclaimer": "Xin lưu ý rằng các kết quả này nhằm giúp bạn duyệt bộ sưu tập của IU và có thể không đầy đủ. Một số tài liệu có thể được phân loại ngoài các khoảng này hoặc được biên mục riêng. Hãy dùng các liên kết “duyệt tất cả bộ sưu tập” và tìm kiếm từ khóa bên dưới để có phạm vi rộng hơn.",
       "keyword_search": "Tìm “Vietnamese” như một từ khóa trong IUCAT",
       "search_tip": "Mẹo tìm kiếm: Sử dụng bảng bên trái trong IUCAT để thu hẹp kết quả theo tác giả, ngôn ngữ, năm, định dạng và hơn thế nữa.",
+      "survey_feedback": "Vui lòng chia sẻ phản hồi của bạn về công cụ tìm kiếm này",
       "still_looking": {
         "text": "Vẫn chưa tìm thấy điều bạn cần? Liên hệ với thủ thư hoặc đề xuất mua tài liệu.",
         "librarian_text": "Liên hệ với thủ thư",
@@ -2071,6 +2147,7 @@
       "disclaimer": "Nceda uqaphele ukuba ezi ziphumo zenzelwe ukukunceda ukhangele iingqokelela ze-IU kwaye zisenokungaphelelanga. Ezinye izinto zisenokuhlelwa ngaphandle kwezi zithuba okanye zikatalogwe ngokwahlukeneyo. Sebenzisa amakhonkco “khangela zonke iingqokelela” kunye nophendlo lwegama elingundoqo angezantsi ukuze ufumane uluhlu olubanzi.",
       "keyword_search": "Khangela “Xhosa” njengegama elingundoqo kwi-IUCAT",
       "search_tip": "Icebiso lokukhangela: Sebenzisa ipaneli esekhohlo kwi-IUCAT ukunciphisa iziphumo ngombhali, ulwimi, unyaka, ifomathi nokunye.",
+      "survey_feedback": "Nceda wabelane ngombono wakho malunga nesi sixhobo sokukhangela",
       "still_looking": {
         "text": "Usayifumana nzima into oyifunayo? Qhagamshelana nononcwadi okanye ucebise ukuthengwa kwezinto.",
         "librarian_text": "Qhagamshelana nononcwadi",
@@ -2095,6 +2172,7 @@
       "disclaimer": "Jọ̀wọ́ ṣàkíyèsí pé àwọn abajade wọ̀nyí jẹ́ láti ràn ọ́ lọ́wọ́ láti ṣàwárí àkójọpọ̀ IU, wọ́n sì lè má pé. Diẹ̀ nínú àwọn ohun èlò lè wà níta àwọn ààlà wọ̀nyí tàbí kí a ṣe àkọsílẹ̀ wọn lọ́tọ̀. Lo àwọn ìjápọ̀ “ṣàwárí gbogbo àkójọpọ̀” àti ìwádìí ọ̀rọ̀-ìkọ̀kọ̀ ní isalẹ fún ìbòòrí tó gbooro.",
       "keyword_search": "Wá “Yoruba” gẹ́gẹ́ bí ọ̀rọ̀-ìkọ̀kọ̀ nínú IUCAT",
       "search_tip": "Ìmọ̀ràn ìwádìí: Lo pánẹ́ẹ̀lì apá òsì nínú IUCAT láti dín abajade kù nípa onkọ̀wé, èdè, ọdún, fọ́ọ̀mù àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.",
+      "survey_feedback": "Jọ̀wọ́ pín ìdáhùn rẹ nípa ohun èlò ìwádìí yìí",
       "still_looking": {
         "text": "Ṣé o ṣi kò rí ohun tí o ń wá? Kan sí olùtọ́jú ilé-ìkàwé tàbí daba rírà ohun èlò.",
         "librarian_text": "Kan sí olùtọ́jú ilé-ìkàwé",
@@ -2121,6 +2199,7 @@
       "disclaimer": "Sicela uqaphele ukuthi le miphumela ihloselwe ukukusiza uphequlule amaqoqo e-IU futhi ingase ingaphelele. Ezinye izinto zingase zihlukaniswe ngaphandle kwalezi zindawo noma zifakwe kukhathalogi ngokwehlukana. Sebenzisa izixhumanisi “phequlula wonke amaqoqo” kanye nosesho lwegama eliyisihluthulelo ngezansi ukuze uthole umkhakha obanzi.",
       "keyword_search": "Sesha “Zulu” njengegama eliyisihluthulelo ku-IUCAT",
       "search_tip": "Ithiphu lokusesha: Sebenzisa iphaneli yesobunxele ku-IUCAT ukuze unciphise imiphumela ngomlobi, ulimi, unyaka, ifomethi nokunye.",
+      "survey_feedback": "Sicela wabelane nomphumela wakho mayelana nalesi sikhali sokusesha",
       "still_looking": {
         "text": "Usangakutholi okufunayo? Xhumana nomtapo wolwazi noma uphakamise ukuthengwa kwezinto.",
         "librarian_text": "Xhumana nomtapo wolwazi",
