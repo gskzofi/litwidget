@@ -2098,9 +2098,9 @@
       },
       {
         "button_text": "Yiddish Folk Literature",
-        "call_number_ranges": "GR97.8-GR98.999",
+        "call_number_ranges": "GR97.8-GR98.ZZZZ",
         "subject_heading_or": "Folk literature, Yiddish",
-        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR97.8&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
+        "static_url": "https://iucat.iu.edu/?f%5Blanguage_facet%5D%5B%5D=Yiddish&q=GR97.8+OR+GR98&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Yiddish Children's and Juvenile Literature",
