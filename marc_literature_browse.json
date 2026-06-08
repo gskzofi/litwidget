@@ -1929,13 +1929,13 @@
         "button_text": "Spanish Folk Literature of Central America and the Caribbean",
         "call_number_ranges": "GR117-121.ZZZZ-GR117-121.ZZZZ.999",
         "subject_heading_or": "Central America--Folklore|Folklore--Caribbean Area",
-        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR117&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
+        "static_url": "https://iucat.iu.edu/?advanced_query=yes&boolean_row%5B1%5D=AND&f%5Blanguage_facet%5D%5B%5D=Spanish&omit_keys%5B%5D=page&q_row%5B%5D=GR117+OR+GR118+OR+GR119+OR+GR120+OR+GR121+OR+GR122&q_row%5B%5D=&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&search_field=advanced&search_field_row%5B%5D=callnumber&search_field_row%5B%5D=all_fields&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Spanish Folk Literature of South America",
         "call_number_ranges": "GR130-GR133.ZZZZ",
         "subject_heading_or": "South America--Folklore",
-        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR130&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
+        "static_url": "https://iucat.iu.edu/?advanced_query=yes&boolean_row%5B1%5D=OR&f%5Blanguage_facet%5D%5B%5D=Spanish&omit_keys%5B%5D=page&q_row%5B%5D=GR130&q_row%5B%5D=GR133&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&search_field=advanced&search_field_row%5B%5D=callnumber&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       },
       {
         "button_text": "Children's and Juvenile Literature in Spanish",
