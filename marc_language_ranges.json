@@ -987,7 +987,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PT5401-PT5599.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Dutch, Middle (ca. 1050-1350)"
   },
   {
     "MARC_Code": "dyu",
@@ -1086,7 +1087,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PR1490-PR1799.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "English, Old (ca. 450-1100)"
   },
   {
     "MARC_Code": "enm",
@@ -1097,7 +1099,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PR1803-PR2165.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "English, Middle (1100-1500)"
   },
   {
     "MARC_Code": "eng",
@@ -1262,7 +1265,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PQ1300-PQ1595.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "French, Middle (ca. 1300-1600)"
   },
   {
     "MARC_Code": "fro",
@@ -1273,7 +1277,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PQ1300-PQ1595.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "French, Old (ca. 842-1300)"
   },
   {
     "MARC_Code": "fre",
@@ -1290,12 +1295,13 @@
     "MARC_Code": "fri | fry | frr",
     "Language_Name": "Frisian and North Frisian",
     "Canonical_Display_Language": "Frisian",
-    "Aliases": "north frisian | nordfriisk | nordfriesisch | frisian | frysk | frisian language",
+    "Aliases": "north frisian | nordfriisk | nordfriesisch | frisian | frysk | frisian language | north frisian",
     "LCC_Subclass": "PT",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PF1513-PF1513.999 | PF1531-PF1531.999",
     "Search_Type": "range",
-    "Disambiguation": "Frisian"
+    "Disambiguation": "Frisian",
+    "language_facet": "Frisian"
   },
   {
     "MARC_Code": "fur",
@@ -1323,12 +1329,13 @@
     "MARC_Code": "gaa",
     "Language_Name": "Gã",
     "Canonical_Display_Language": "Gã",
-    "Aliases": "gã | ga | gaa",
+    "Aliases": "gã | ga | gaa | ga language",
     "LCC_Subclass": "PL",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL8191.6-PL8191.9.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Ga"
   },
   {
     "MARC_Code": "gag | glg",
@@ -1394,7 +1401,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PF3985-PF3991.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "German, Old High (ca. 750-1050)"
   },
   {
     "MARC_Code": "gmh",
@@ -1405,7 +1413,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PT1501-PT1695.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "German, Middle High (ca. 1050-1500)"
   },
   {
     "MARC_Code": "ger",
@@ -1477,23 +1486,25 @@
     "MARC_Code": "grc",
     "Language_Name": "Greek, Ancient (to 1453)",
     "Canonical_Display_Language": "Greek",
-    "Aliases": "greek | ancient greek | classical greek | Ἑλληνική | ελληνικά | ελληνική | koine greek | hellenic | hellenike",
+    "Aliases": "greek | ancient greek | classical greek | Ἑλληνική | ελληνικά | ελληνική | koine greek | hellenic | hellenike | greek ancient",
     "LCC_Subclass": "PA",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PA3300-PA3516.999.999 | PA3601-PA4505.999.999",
     "Search_Type": "subclass",
-    "Disambiguation": "Ancient Greek (to 1453)"
+    "Disambiguation": "Ancient Greek (to 1453)",
+    "language_facet": "Greek, Ancient (to 1453)"
   },
   {
     "MARC_Code": "gre",
     "Language_Name": "Greek, Modern (1453-)",
     "Canonical_Display_Language": "Greek",
-    "Aliases": "greek | modern greek | ελληνικά | ελληνική | νέα ελληνικά, byzantine greek, Ῥωμαϊκή | nea ellinika | ellinika",
+    "Aliases": "greek | modern greek | ελληνικά | ελληνική | νέα ελληνικά, byzantine greek, Ῥωμαϊκή | nea ellinika | ellinika | greek modern",
     "LCC_Subclass": "PA",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PA5050-PA5660.999.999",
     "Search_Type": "subclass",
-    "Disambiguation": "Modern Greek (1453-)"
+    "Disambiguation": "Modern Greek (1453-)",
+    "language_facet": "Greek, Modern (1453-)"
   },
   {
     "MARC_Code": "grn | gua",
@@ -1834,7 +1845,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PB1397-PB1397.999.999",
     "Search_Type": "range",
-    "Disambiguation": "Irish, Middle (ca. 1100-1550)"
+    "Disambiguation": "Irish, Middle (ca. 1100-1550)",
+    "language_facet": "Irish, Middle (ca. 1100-1550)"
   },
   {
     "MARC_Code": "sga",
@@ -1939,12 +1951,13 @@
     "MARC_Code": "kal",
     "Language_Name": "Kalâtdlisut",
     "Canonical_Display_Language": "Kalâtdlisut",
-    "Aliases": "greenlandic | kalaallit oqaasii | kalaallisut | kalaallisut oqaasii",
+    "Aliases": "greenlandic | kalaallit oqaasii | kalaallisut | kalaallisut oqaasii | kalatdlisut",
     "LCC_Subclass": "PL",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PM64.A2-PM64.Z5ZZZ",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Kalatdlisut"
   },
   {
     "MARC_Code": "kam",
@@ -2296,7 +2309,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PK2270.45-PK2270.9.999",
     "Search_Type": "subclass",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Lahnda"
   },
   {
     "MARC_Code": "lam",
@@ -2307,7 +2321,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL8431.6-PL8431.9.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Lamba (Zambia and Congo)"
   },
   {
     "MARC_Code": "lao",
@@ -2494,7 +2509,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL8375.6-PL8375.9.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Luo (Kenya and Tanzania)"
   },
   {
     "MARC_Code": "lus",
@@ -2857,7 +2873,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL8521.6-PL8521.9.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Moore"
   },
   {
     "MARC_Code": "nqo",
@@ -2912,7 +2929,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL8547.N276-PL8547.N279ZZZ",
     "Search_Type": "range",
-    "Disambiguation": "Ndebele (South Africa)"
+    "Disambiguation": "Ndebele (South Africa)",
+    "language_facet": "Ndebele (South Africa)"
   },
   {
     "MARC_Code": "nde",
@@ -2923,7 +2941,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL8547.N286-PL8547.N289Z",
     "Search_Type": "range",
-    "Disambiguation": "Ndebele (Zimbabwe)"
+    "Disambiguation": "Ndebele (Zimbabwe)",
+    "language_facet": "Ndebele (Zimbabwe)"
   },
   {
     "MARC_Code": "ndo",
@@ -2945,7 +2964,8 @@
     "Has_Literature_Range": "n",
     "LCC_Literature_Ranges": "",
     "Search_Type": "language",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Neapolitan Italian"
   },
   {
     "MARC_Code": "nep",
@@ -3044,29 +3064,32 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PT8600-PT9155.999",
     "Search_Type": "subclass",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Norwegian"
   },
   {
     "MARC_Code": "nob",
     "Language_Name": "Norwegian (Bokmål)",
     "Canonical_Display_Language": "Norwegian",
-    "Aliases": "norwegian bokmål | bokmål | bokmaal",
+    "Aliases": "norwegian bokmål | bokmål | bokmaal | norwegian bokmal",
     "LCC_Subclass": "PT",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PT8600-PT9155.999",
     "Search_Type": "subclass",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Norwegian (Bokmal)"
   },
   {
     "MARC_Code": "nno",
     "Language_Name": "Norwegian (Nynorsk)",
     "Canonical_Display_Language": "Norwegian",
-    "Aliases": "norwegian nynorsk | nynorsk | landsmål | landsmaal",
+    "Aliases": "norwegian nynorsk | nynorsk | landsmål | landsmaal | norwegian nynorsk",
     "LCC_Subclass": "PT",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PT9025-PT9094.999",
     "Search_Type": "subclass",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Norwegian (Nynorsk)"
   },
   {
     "MARC_Code": "nym",
@@ -3127,23 +3150,25 @@
     "MARC_Code": "lan",
     "Language_Name": "Occitan (post-1500)",
     "Canonical_Display_Language": "Occitan",
-    "Aliases": "occitan | langue d'oc | provençal |provencal",
+    "Aliases": "occitan | langue d'oc | provençal | provencal | occitan post-1500",
     "LCC_Subclass": "PQ",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PC3322.A1-PC3359.999",
     "Search_Type": "subclass",
-    "Disambiguation": "Occitan/Langue d'oc (1500-present)"
+    "Disambiguation": "Occitan/Langue d'oc (1500-present)",
+    "language_facet": "Occitan (post-1500)"
   },
   {
     "MARC_Code": "oci",
     "Language_Name": "Occitan (post-1500)",
     "Canonical_Display_Language": "Occitan",
-    "Aliases": "occitan | langue d'oc | provençal |provencal",
+    "Aliases": "occitan | langue d'oc | provençal | provencal | occitan post-1500",
     "LCC_Subclass": "PQ",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PC3393-PC3415.999",
     "Search_Type": "subclass",
-    "Disambiguation": "Occitan/Langue d'oc/Provençal  (to 1500)"
+    "Disambiguation": "Occitan/Langue d'oc/Provençal  (to 1500)",
+    "language_facet": "Occitan (post-1500)"
   },
   {
     "MARC_Code": "xal",
@@ -3187,7 +3212,8 @@
     "Has_Literature_Range": "n",
     "LCC_Literature_Ranges": "",
     "Search_Type": "language",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Old Persian (ca. 600-400 B.C.)"
   },
   {
     "MARC_Code": "ori",
@@ -3369,12 +3395,13 @@
     "MARC_Code": "pro",
     "Language_Name": "Provençal",
     "Canonical_Display_Language": "Provençal",
-    "Aliases": "provençal | occitan | provencal | langue d'oc",
+    "Aliases": "provençal | occitan | provencal | langue d'oc | provencal to 1500",
     "LCC_Subclass": "PQ",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PC3322.A1-PC3359.999 | PC3439",
     "Search_Type": "subclass",
-    "Disambiguation": "Modern Provençal "
+    "Disambiguation": "Modern Provençal ",
+    "language_facet": "Provencal (to 1500)"
   },
   {
     "MARC_Code": "pus",
@@ -3550,7 +3577,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL8641.6-PL8641.9.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Sango (Ubangi Creole)"
   },
   {
     "MARC_Code": "san",
@@ -3693,7 +3721,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PQ4213.A2-PQ4213.A2.999 | PQ5902.S53-PQ5902.S53.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Sicilian Italian"
   },
   {
     "MARC_Code": "sid",
@@ -3979,7 +4008,8 @@
     "Has_Literature_Range": "n",
     "LCC_Literature_Ranges": "",
     "Search_Type": "language",
-    "Disambiguation": "Modern Syriac"
+    "Disambiguation": "Modern Syriac",
+    "language_facet": "Syriac, Modern"
   },
   {
     "MARC_Code": "tag | tgl",
@@ -4133,7 +4163,8 @@
     "Has_Literature_Range": "n",
     "LCC_Literature_Ranges": "",
     "Search_Type": "language",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Tigre"
   },
   {
     "MARC_Code": "tir",
@@ -4210,7 +4241,8 @@
     "Has_Literature_Range": "n",
     "LCC_Literature_Ranges": "",
     "Search_Type": "language",
-    "Disambiguation": "Malawi/Zambia"
+    "Disambiguation": "Malawi/Zambia",
+    "language_facet": "Tonga (Nyasa)"
   },
   {
     "MARC_Code": "ton",
@@ -4298,7 +4330,8 @@
     "Has_Literature_Range": "n",
     "LCC_Literature_Ranges": "",
     "Search_Type": "language",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Turkish, Ottoman"
   },
   {
     "MARC_Code": "tuk",
@@ -4469,12 +4502,13 @@
     "MARC_Code": "vol",
     "Language_Name": "Volapük",
     "Canonical_Display_Language": "Volapük",
-    "Aliases": "volapük | volapuk | volapꞟk, volapük nulik",
+    "Aliases": "volapük | volapuk | volapꞟk | volapük nulik",
     "LCC_Subclass": "PM",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PM8958.45-PM8958.9.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Volapuk"
   },
   {
     "MARC_Code": "vot",
@@ -4584,7 +4618,8 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL8804.A2-PL8804.Z5ZZZ",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "",
+    "language_facet": "Yao (Africa)"
   },
   {
     "MARC_Code": "yap",
