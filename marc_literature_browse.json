@@ -1871,7 +1871,6 @@
       {
         "button_text": "Collections of Literature from Spain",
         "call_number_ranges": "PQ6170-PQ6269.999",
-        "subject_heading_or": "Spanish literature--Collections"
       },
       {
         "button_text": "Collections of Latin American and Caribbean Literature in Spanish",
@@ -1952,7 +1951,6 @@
       {
         "button_text": "Folk Literature of Spain",
         "call_number_ranges": "GR229-GR237.999",
-        "subject_heading_or": "Spain--Folklore",
         "static_url": "https://iucat.iu.edu/?advanced_query=yes&boolean_row%5B1%5D=OR&omit_keys%5B%5D=page&q_row%5B%5D=GR230&q_row%5B%5D=GR231&q_row%5B%5D=GR232&q_row%5B%5D=GR233&q_row%5B%5D=GR234&range%5Bpub_date_sort%5D%5Bbegin%5D=&range%5Bpub_date_sort%5D%5Bend%5D=&search_field=advanced&search_field_row%5B%5D=callnumber&search_field_row%5B%5D=callnumber&search_field_row%5B%5D=callnumber&search_field_row%5B%5D=callnumber&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&utf8=%E2%9C%93"
       },
       {
