@@ -1935,15 +1935,15 @@
       },
       {
         "button_text": "Spanish Literature of Africa and Asia",
-        "call_number_ranges": "PQ8600-PQ8619.999|PQ8651-PQ8919.999|PQ8700-PQ8897.999|PQ8900-PQ8909.999|PQ8910-PQ8919.999|PQ8920-PQ8929.999"
+        "call_number_ranges": "PQ8617-PQ8619.ZZZZ|PQ8896-PQ8898.436.ZZZZ|PQ8909-PQ8909.ZZZZ|PQ8919-PQ8919.ZZZZ|PQ8929-PQ8929.ZZZZ"
       },
       {
         "button_text": "Spanish Literature of the US and Canada",
-        "call_number_ranges": "PQ7074.5-PQ7079.3.ZZZZ"
+        "call_number_ranges": "PQ7079-PQ7079.3.ZZZZ"
       },
       {
         "button_text": "Spanish Literature of Europe (Outside of Spain)",
-        "call_number_ranges": "PQ7034-PQ7039.999|PQ7044.5-PQ7049.999|PQ7054.5-PQ7061.ZZZZ"
+        "call_number_ranges": "PQ7039-PQ7039.ZZZZ|PQ7049-PQ7049.ZZZZ|PQ7061-PQ7061.ZZZZ"
       },
       {
         "button_text": "Regional Literature of Spain",
