@@ -587,12 +587,12 @@
     "options": [
       {
         "button_text": "Collections of French Literature",
-        "call_number_ranges": "PQ801-821-PQ801-821.999|PQ1100-1297-PQ1100-1297.999",
+        "call_number_ranges": "PQ801-PQ821.999|PQ1100-PQ1297.999",
         "subject_heading_or": "French literature--Collections"
       },
       {
         "button_text": "French Literature 2001-present",
-        "call_number_ranges": "PQ2700-PQ2726.999|PQ1147-1148.ZZZZ-PQ1147-1148.ZZZZ.999|PQ1185-PQ1185.999|PQ1224-PQ1224.999"
+        "call_number_ranges": "PQ2700-PQ2726.999|PQ1147-PQ1148.ZZZZ.999|PQ1185-PQ1185.999|PQ1224-PQ1224.999"
       },
       {
         "button_text": "French Literature 1960-2000",
@@ -689,7 +689,7 @@
     "options": [
       {
         "button_text": "Collections of Ancient Greek Literature",
-        "call_number_ranges": "PA3300-3516-PA3300-3516.999",
+        "call_number_ranges": "PA3300-PA3516.999",
         "subject_heading_or": "Ancient Greek  literature--Collections"
       },
       {
@@ -1084,7 +1084,7 @@
       },
       {
         "button_text": "Korean Literature to 935CE",
-        "call_number_ranges": "PL986-986.ZZZZ-PL986-986.ZZZZ.999"
+        "call_number_ranges": "PL986-PL986.ZZZZ"
       },
       {
         "button_text": "North Korean Literature",
