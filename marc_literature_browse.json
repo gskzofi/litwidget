@@ -488,7 +488,8 @@
       },
       {
         "button_text": "19th Century American Literature",
-        "call_number_ranges": "PS991-PS3390.999"
+        "call_number_ranges": "PS991-PS3390.999",
+        "superwide_range": true
       },
       {
         "button_text": "17th and 18th Century American Literature",
@@ -508,19 +509,23 @@
       },
       {
         "button_text": "British Literature 1770-1900",
-        "call_number_ranges": "PR3991-PR5990.999"
+        "call_number_ranges": "PR3991-PR5990.999",
+        "superwide_range": true
       },
       {
         "button_text": "British Literature 1640-1770",
-        "call_number_ranges": "PR3291-PR3785.999"
+        "call_number_ranges": "PR3291-PR3785.999",
+        "superwide_range": true
       },
       {
         "button_text": "British Literature 1500-1640",
-        "call_number_ranges": "PR2199-PR3195.999"
+        "call_number_ranges": "PR2199-PR3195.999",
+        "superwide_range": true
       },
       {
         "button_text": "English Literature Outside of Great Britain and the US",
-        "call_number_ranges": "PR9080-PR9680.999"
+        "call_number_ranges": "PR9080-PR9680.999",
+        "superwide_range": true
       },
       {
         "button_text": "American Folk Literature",
@@ -659,7 +664,8 @@
       },
       {
         "button_text": "German Literature 1700-1870",
-        "call_number_ranges": "PT1799-PT2592.999"
+        "call_number_ranges": "PT1799-PT2592.999",
+        "superwide_range": true
       },
       {
         "button_text": "German Literature ca. 1500-1700",
@@ -706,7 +712,8 @@
       },
       {
         "button_text": "Ancient Greek Literature (to 600CE): Individual Authors",
-        "call_number_ranges": "PA3818-PA4500.999"
+        "call_number_ranges": "PA3818-PA4500.999",
+        "superwide_range": true
       }
     ]
   },
@@ -1134,7 +1141,8 @@
       },
       {
         "button_text": "Roman Literature",
-        "call_number_ranges": "PA6202-PA6971.999|PA6100-PA6140.A3"
+        "call_number_ranges": "PA6202-PA6971.999|PA6100-PA6140.A3",
+        "superwide_range": true
       },
       {
         "button_text": "Latin Literature in Translation",
@@ -1236,7 +1244,7 @@
       },
       {
         "button_text": "19th Century Norwegian Literature",
-        "call_number_ranges": "PT8600-PT9155.999"
+        "call_number_ranges": "PT8800-PT8942.999"
       },
       {
         "button_text": "16th-18th Century Norwegian Literature",
@@ -1640,6 +1648,11 @@
         "subject_heading_or": "Sanskrit literature--Collections"
       },
       {
+        "button_text": "Vedic Texts",
+        "call_number_ranges": "BL1112.2-BL1137.72.999|PK3000-PK3581.999",
+        "static_url": https://iucat.iu.edu/?advanced_query=yes&boolean_row%5B1%5D=AND&omit_keys%5B%5D=page&q_row%5B%5D=BL1112+OR+BL1113+OR+BL1114+OR+BL1115+OR+BL1116+OR+BL1117+OR+BL1118+OR+BL1119+OR+BL1120+OR+BL1121+OR+BL1122+OR+BL1123+OR+BL1124+OR+BL1125+OR+BL1126+OR+BL1127+OR+BL1128+OR+BL1129+OR+BL1130+OR+BL1131+OR+BL1132+OR+BL1133+OR+BL1134+OR+BL1135+OR+BL1136+OR+BL1137+OR+PK3002+OR+PK3007+OR+PK3009+OR+PK3011+OR+PK3012+OR+PK3014+OR+PK3016+OR+PK3017+OR+PK3018+OR+PK3019+OR+PK3065+OR+PK3159+OR+PK3201+OR+PK3301+OR+PK3321+OR+PK3355+OR+PK3406+OR+PK3409+OR+PK3501+OR+PK3503+OR+PK3505+OR+PK3509+OR+PK3521&q_row%5B%5D=&search_field=advanced&search_field_row%5B%5D=callnumber&search_field_row%5B%5D=all_fields&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc
+      },
+      {
         "button_text": "Mahābhārata and Bhagavadgītā",
         "call_number_ranges": "BL1138.2-BL1138.89.999|PK3631-PK3649.999"
       },
@@ -1666,10 +1679,6 @@
       {
         "button_text": "Sanskrit Poetry",
         "call_number_ranges": "PK3601-PK3621.999"
-      },
-      {
-        "button_text": "Vedic Texts",
-        "call_number_ranges": "BL1112.2-BL1137.72.999|PK3000-PK3581.999"
       },
       {
         "button_text": "Sanskrit Literature in Translation",
