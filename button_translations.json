@@ -136,7 +136,7 @@
     "ui_strings": {
       "browse_label": "Bla gjennom norsk litteratur etter kategori:",
       "explore_all": "Utforsk alle IU Libraries sine samlinger på norsk",
-      "about_heading": "Finne norsk litteratur i IUCAT",
+      "about_heading": "Fignne norsk litteratur i IUCAT",
       "about_body": "Mesteparten av norsk litteratur er katalogisert under nummerområdet PT8600-PT9155.999. Kategoriene ovenfor dekker dette området. Du kan også utforske alt IU Libraries har på eller om norsk (inkludert litteratur, kritikk, oppslagsverk og mer) ved å bruke lenkene nedenfor.",
       "language_note": "Norsk litteratur ved IU-bibliotekene er katalogisert under en generell norsk overskrift. Merk at nynorsk har sitt eget katalognummerområde for litteratur (PT9025–PT9094), men nynorske verk kan også forekomme i andre kategorier.",
       "disclaimer": "Vær oppmerksom på at disse resultatene er ment å hjelpe deg med å bla gjennom IUs samlinger og kanskje ikke er fullstendige. Noe materiale kan være plassert utenfor disse områdene eller katalogisert separat. Bruk lenkene «Utforsk alle samlinger» og nøkkelordsøk nedenfor for bredere dekning.",
@@ -541,6 +541,7 @@
       "German Children's and Juvenile Literature": "Deutsche Kinder- und Jugendliteratur",
       "German Folk Literature": "Deutsche Volksliteratur",
       "German Literature 1700-1870": "Deutsche Literatur 1700–1870",
+      "Anonymous–Görres": "Anonym–Görres",
       "German Literature 1870-1960": "Deutsche Literatur 1870–1960",
       "German Literature 1961-2000": "Deutsche Literatur 1961–2000",
       "German Literature 2001-present": "Deutsche Literatur 2001 bis heute",
@@ -556,6 +557,7 @@
       "keyword_search": "Nach dem Schlagwort „German“ in IUCAT suchen",
       "search_tip": "Suchtipp: Nutzen Sie die linke Seitenleiste in IUCAT, um Ihre Ergebnisse nach Autor, Sprache, Jahr, Format und mehr einzugrenzen.",
       "survey_feedback": "Bitte teilen Sie uns Ihr Feedback zu diesem Suchwerkzeug mit",
+      "superwide": "Diese Kategorie ist zu umfangreich, um sie vollständig auf einmal zu durchsuchen; daher sind die Ergebnisse alphabetisch nach Autoren unterteilt. Klicken Sie auf eine der untenstehenden Schaltflächen, um die Ergebnisse für einen bestimmten Bereich von Nachnamen zu durchstöbern."
       "still_looking": {
         "text": "Sie finden immer noch nicht, wonach Sie suchen? Wenden Sie sich an einen Bibliothekar oder schlagen Sie den Ankauf von Materialien vor.",
         "librarian_text": "Wenden Sie sich an einen Bibliothekar",
