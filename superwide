@@ -1,0 +1,107 @@
+[
+  {
+    "marc_code": "eng",
+    "button_text": "19th Century American Literature",
+    "user_explanation": "This category is too large to search all at once, so results are divided alphabetically by author. Click a button below to browse results within a last-name range.",
+    "subdivisions": [
+      { "label": "Anonymous–B", "call_number_ranges": "PS991-PS1238" },
+      { "label": "C", "call_number_ranges": "PS1239-PS1499" },
+      { "label": "D–G", "call_number_ranges": "PS1500-PS1769" },
+      { "label": "H", "call_number_ranges": "PS1770-PS2044" },
+      { "label": "I–K", "call_number_ranges": "PS2045-PS2197" },
+      { "label": "L–M", "call_number_ranges": "PS2198-PS2459" },
+      { "label": "N–R", "call_number_ranges": "PS2460-PS2749" },
+      { "label": "S", "call_number_ranges": "PS2750-PS2964" },
+      { "label": "T", "call_number_ranges": "PS2965-PS3112" },
+      { "label": "U–Z", "call_number_ranges": "PS3113-PS3390" }
+    ]
+  },
+  {
+    "marc_code": "eng",
+    "button_text": "British Literature 1770-1900",
+    "user_explanation": "This category is too large to search all at once, so results are divided alphabetically by author. Click a button below to browse results within a last-name range.",
+    "subdivisions": [
+      { "label": "Anonymous–Blunt", "call_number_ranges": "PR3991-PR4149" },
+      { "label": "Borrow–Byron", "call_number_ranges": "PR4150-PR4399" },
+      { "label": "C–D", "call_number_ranges": "PR4400-PR4638" },
+      { "label": "E–K", "call_number_ranges": "PR4639-PR4859" },
+      { "label": "L–M", "call_number_ranges": "PR4860-PR5101" },
+      { "label": "N–R", "call_number_ranges": "PR5102-PR5288" },
+      { "label": "S", "call_number_ranges": "PR5289-PR5534" },
+      { "label": "T", "call_number_ranges": "PR5535-PR5700" },
+      { "label": "U–Z", "call_number_ranges": "PR5701-PR5990" }
+    ]
+  },
+  {
+    "marc_code": "eng",
+    "button_text": "British Literature 1500-1640",
+    "user_explanation": "This category is too large to search all at once, so results are divided into smaller sections. Click a button below to browse results within that section.",
+    "subdivisions": [
+      { "label": "Prose & poetry by author", "call_number_ranges": "PR2199-PR2405" },
+      { "label": "Drama by author: Anonymous–I", "call_number_ranges": "PR2411-PR2610" },
+      { "label": "Drama by author: J–Z (excluding Shakespeare)", "call_number_ranges": "PR2611-PR2749|PR3135-PR3195" },
+      { "label": "Shakespeare", "call_number_ranges": "PR2750-PR2883" }
+    ]
+  },
+  {
+    "marc_code": "eng",
+    "button_text": "English Literature Outside of Great Britain and the US",
+    "user_explanation": "This category is too large to search all at once, so results are divided by region. Click a button below to browse results within that region.",
+    "subdivisions": [
+      { "label": "Europe", "call_number_ranges": "PR9091|PR9095|PR9105|PR9110|PR9115|PR9120|PR9125|PR9130|PR9135|PR9142-PR9145|PR9150|PR9155|PR9160|PR9165|PR9170" },
+      { "label": "Canada", "call_number_ranges": "PR9194-PR9199" },
+      { "label": "Latin America & the Caribbean", "call_number_ranges": "PR9200|PR9205|PR9214-PR9218|PR9220|PR9230|PR9240|PR9250|PR9260|PR9265|PR9272|PR9275|PR9280|PR9283|PR9286|PR9289|PR9292|PR9295|PR9298|PR9300|PR9303|PR9306|PR9309|PR9312|PR9315|PR9318|PR9320|PR9323|PR9325|PR9328|PR9331|PR9333" },
+      { "label": "Africa", "call_number_ranges": "PR9345-PR9348|PR9364-PR9369|PR9372|PR9375|PR9378|PR9379|PR9381|PR9384|PR9385|PR9387|PR9390|PR9393|PR9396|PR9399|PR9402|PR9405|PR9408" },
+      { "label": "Asia", "call_number_ranges": "PR9415-PR9418|PR9420|PR9424|PR9430|PR9435|PR9450|PR9460|PR9470|PR9494-PR9499|PR9500|PR9507|PR9510|PR9515|PR9520|PR9530|PR9540|PR9550|PR9560|PR9570" },
+      { "label": "Australia, New Zealand, & Pacific", "call_number_ranges": "PR9614-PR9619|PR9634-PR9639|PR9645|PR9650|PR9655|PR9660|PR9665|PR9670|PR9680" }
+    ]
+  },
+  {
+    "marc_code": "eng",
+    "button_text": "British Literature 1640-1770",
+    "user_explanation": "This category is too large to search all at once, so results are divided alphabetically by author. Click a button below to browse results within a last-name range.",
+    "subdivisions": [
+      { "label": "Anonymous–Dyer", "call_number_ranges": "PR3291-PR3431" },
+      { "label": "Etherege–Mickle", "call_number_ranges": "PR3432-PR3549" },
+      { "label": "Milton–Pye", "call_number_ranges": "PR3550-PR3649" },
+      { "label": "Quarles–Z", "call_number_ranges": "PR3650-PR3785" }
+    ]
+  },
+  {
+    "marc_code": "ger",
+    "button_text": "German Literature 1700-1870",
+    "user_explanation": "This category is too large to search all at once, so results are divided alphabetically by author. Click a button below to browse results within a last-name range.",
+    "subdivisions": [
+      { "label": "Anonymous–Görres", "call_number_ranges": "PT1799-PT1890" },
+      { "label": "Goethe", "call_number_ranges": "PT1891-PT2026" },
+      { "label": "Götz–Lessing", "call_number_ranges": "PT2250-PT2418" },
+      { "label": "Lewald–Z", "call_number_ranges": "PT2423-PT2592" }
+    ]
+  },
+  {
+    "marc_code": "grc",
+    "button_text": "Ancient Greek Literature (to 600CE): Individual Authors",
+    "user_explanation": "This category is too large to search all at once, so results are divided alphabetically by author. Click a button below to browse results within a last-name range.",
+    "subdivisions": [
+      { "label": "Aeschylus–Hippocrates", "call_number_ranges": "PA3818-PA4017" },
+      { "label": "Homer", "call_number_ranges": "PA4018-PA4209" },
+      { "label": "Hyperides–Plato", "call_number_ranges": "PA4211-PA4339" },
+      { "label": "Plato Comicus–Ptolemy", "call_number_ranges": "PA4340-PA4406" },
+      { "label": "Sappho–Xenophon", "call_number_ranges": "PA4407-PA4500" }
+    ]
+  },
+  {
+    "marc_code": "lat",
+    "button_text": "Roman Literature",
+    "user_explanation": "This category is too large to search all at once, so results are divided into smaller sections. Click a button below to browse results within that section.",
+    "subdivisions": [
+      { "label": "General collections, anonymous works, and translations", "call_number_ranges": "PA6100-PA6140|PA6155-PA6191" },
+      { "label": "Authors A–Cicero", "call_number_ranges": "PA6202-PA6245|PA6271-PA6317" },
+      { "label": "Authors Claudian–Juvenal, including Horace", "call_number_ranges": "PA6371-PA6407|PA6445-PA6447" },
+      { "label": "Authors Livy–Ovid", "call_number_ranges": "PA6451-PA6458|PA6477-PA6483|PA6497-PA6506|PA6511-PA6534" },
+      { "label": "Authors P–Seneca", "call_number_ranges": "PA6554-PA6565|PA6567-PA6582|PA6611-PA6613|PA6638-PA6639|PA6641-PA6650|PA6652-PA6673" },
+      { "label": "Authors Statius–Terence, including Tacitus", "call_number_ranges": "PA6694-PA6713|PA6754-PA6765" },
+      { "label": "Authors Tibullus–Z, including Virgil", "call_number_ranges": "PA6786-PA6817|PA6955-PA6958|PA6965-PA6971" }
+    ]
+  }
+]
