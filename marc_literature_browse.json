@@ -489,7 +489,7 @@
       {
         "button_text": "19th Century American Literature",
         "call_number_ranges": "PS991-PS3390.999",
-        "superwide_range": true
+        "superwide": "y"
       },
       {
         "button_text": "17th and 18th Century American Literature",
@@ -510,22 +510,22 @@
       {
         "button_text": "British Literature 1770-1900",
         "call_number_ranges": "PR3991-PR5990.999",
-        "superwide_range": true
+        "superwide": "y"
       },
       {
         "button_text": "British Literature 1640-1770",
         "call_number_ranges": "PR3291-PR3785.999",
-        "superwide_range": true
+        "superwide": "y"
       },
       {
         "button_text": "British Literature 1500-1640",
         "call_number_ranges": "PR2199-PR3195.999",
-        "superwide_range": true
+        "superwide": "y"
       },
       {
         "button_text": "English Literature Outside of Great Britain and the US",
         "call_number_ranges": "PR9080-PR9680.999",
-        "superwide_range": true
+        "superwide": "y"
       },
       {
         "button_text": "American Folk Literature",
@@ -665,7 +665,7 @@
       {
         "button_text": "German Literature 1700-1870",
         "call_number_ranges": "PT1799-PT2592.999",
-        "superwide_range": true
+        "superwide": "y"
       },
       {
         "button_text": "German Literature ca. 1500-1700",
@@ -713,7 +713,7 @@
       {
         "button_text": "Ancient Greek Literature (to 600CE): Individual Authors",
         "call_number_ranges": "PA3818-PA4500.999",
-        "superwide_range": true
+        "superwide": "y"
       }
     ]
   },
@@ -1142,7 +1142,7 @@
       {
         "button_text": "Roman Literature",
         "call_number_ranges": "PA6202-PA6971.999|PA6100-PA6140.A3",
-        "superwide_range": true
+        "superwide": "y"
       },
       {
         "button_text": "Latin Literature in Translation",
