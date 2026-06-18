@@ -1882,8 +1882,20 @@
         "call_number_ranges": "PQ6170-PQ6269.999"
       },
       {
-        "button_text": "Collections of Latin American and Caribbean Literature in Spanish",
-        "call_number_ranges": "PQ7082.5-PQ7085.999|PQ7230-PQ7289.999|PQ7382.5-PQ7386.5.ZZZZ|PQ7404.5-PQ7408.ZZZZ|PQ7414.5-PQ7418.ZZZZ|PQ7432.5-PQ7436.5.ZZZZ|PQ7472.5-PQ7477.ZZZZ|PQ7552.5-PQ7555.ZZZZ|PQ7730-PQ7789.ZZZZ|PQ8030-PQ8089.ZZZZ|PQ8172.5-PQ8176.5.ZZZZ|PQ8212.5-PQ8216.5.ZZZZ|PQ8234.5-PQ8238.ZZZZ|PQ8254.5-PQ8258.ZZZZ|PQ8430-PQ8489.ZZZZ|PQ8514.5-PQ8518.ZZZZ|PQ8542.5-PQ8546.5.ZZZZ"
+        "button_text": "Collections of General Latin American and Mexican Literature in Spanish",
+        "call_number_ranges": "PQ7082.5-PQ7085.999|PQ7230-PQ7289.999"
+      },
+      {
+        "button_text": "Collections of Caribbean Literature in Spanish",
+        "call_number_ranges": "PQ7382.5-PQ7386.5.ZZZZ|PQ7404.5-PQ7408.ZZZZ|PQ7414.5-PQ7418.ZZZZ|PQ7432.5-PQ7436.5.ZZZZ"
+      },
+      {
+        "button_text": "Collections of Central American Literature in Spanish",
+        "call_number_ranges": "PQ7472.5-PQ7477.ZZZZ"
+      },
+      {
+        "button_text": "Collections of South American Literature in Spanish",
+        "call_number_ranges": "PQ7552.5-PQ7555.ZZZZ|PQ7730-PQ7789.ZZZZ|PQ8030-PQ8089.ZZZZ|PQ8172.5-PQ8176.5.ZZZZ|PQ8212.5-PQ8216.5.ZZZZ|PQ8234.5-PQ8238.ZZZZ|PQ8254.5-PQ8258.ZZZZ|PQ8430-PQ8489.ZZZZ|PQ8514.5-PQ8518.ZZZZ|PQ8542.5-PQ8546.5.ZZZZ"
       },
       {
         "button_text": "Spanish Literature (Spain) 2001-present",
@@ -1906,43 +1918,55 @@
         "call_number_ranges": "PQ6271-PQ6498.999"
       },
       {
+        "button_text": "Caribbean Literature in Spanish 2001-present",
+        "call_number_ranges": "PQ7392-PQ7392.ZZZZ|PQ7409.3-PQ7409.3.ZZZZ|PQ7442-PQ7442.ZZZZ"
+      },
+      {
+        "button_text": "Central American Literature in Spanish 2001-present",
+        "call_number_ranges": "PQ7489.3-PQ7489.3.ZZZZ|PQ7499.3-PQ7499.3.ZZZZ|PQ7509.3-PQ7509.3.ZZZZ|PQ7519.3-PQ7519.3.ZZZZ|PQ7529.3-PQ7529.3.ZZZZ|PQ7539.3-PQ7539.3.ZZZZ"
+      },
+      {
         "button_text": "Mexican Literature 2001-present",
         "call_number_ranges": "PQ7298.4-PQ7298.436.ZZZZ"
       },
       {
-        "button_text": "Mexican Literature 1961-2000",
-        "call_number_ranges": "PQ7298-PQ7298.36.ZZZZ"
-      },
-      {
-        "button_text": "Mexican Literature to 1960",
-        "call_number_ranges": "PQ7296-PQ7297.ZZZZ"
-      },
-      {
-        "button_text": "Caribbean Literature in Spanish 2001-present",
-        "call_number_ranges": "PQ7392-PQ7392.ZZZZ|PQ7409.3-PQ7409.3.ZZZZ|PQ7442-PQ7442.ZZZZ"
+        "button_text": "South American Literature in Spanish 2001-present",
+        "call_number_ranges": "PQ7798.4-PQ7798.436.ZZZZ|PQ7889.3-PQ7889.3.ZZZZ|PQ8098.4-PQ8098.436.ZZZZ|PQ8180.4-PQ8180.436.ZZZZ|PQ8220.4-PQ8220.436.ZZZZ|PQ8259.3-PQ8259.3.ZZZZ|PQ8498.4-PQ8498.436.ZZZZ|PQ8520.4-PQ8520.436.ZZZZ|PQ8550.4-PQ8550.436.ZZZZ"
       },
       {
         "button_text": "Caribbean Literature in Spanish 1961-2000",
         "call_number_ranges": "PQ7390-PQ7390.ZZZZ|PQ7409.2-PQ7409.2.ZZZZ|PQ7440-PQ7440.ZZZZ"
       },
       {
+        "button_text": "Central American Literature in Spanish 1961-2000",
+        "call_number_ranges": "PQ7489.2-PQ7489.2.ZZZZ|PQ7499.2-PQ7499.2.ZZZZ|PQ7509.2-PQ7509.2.ZZZZ|PQ7519.2-PQ7519.2.ZZZZ|PQ7529.2-PQ7529.2.ZZZZ|PQ7539.2-PQ7539.2.ZZZZ"
+      },
+      {
+        "button_text": "Mexican Literature 1961-2000",
+        "call_number_ranges": "PQ7298-PQ7298.36.ZZZZ"
+      },
+      {
+        "button_text": "South American Literature in Spanish 1961-2000",
+        "call_number_ranges": "PQ7798-PQ7798.36.ZZZZ|PQ7889.2-PQ7889.2.ZZZZ|PQ8098-PQ8098.36.ZZZZ|PQ8180-PQ8180.36.ZZZZ|PQ8220-PQ8220.36.ZZZZ|PQ8259.2-PQ8259.2.ZZZZ|PQ8498-PQ8498.36.ZZZZ|PQ8520-PQ8520.36.ZZZZ|PQ8550-PQ8550.36.ZZZZ"
+      },
+      {
         "button_text": "Caribbean Literature in Spanish to 1960",
         "call_number_ranges": "PQ7389-PQ7389.ZZZZ|PQ7409-PQ7409.ZZZZ|PQ7419-PQ7419.ZZZZ|PQ7439-PQ7439.ZZZZ|PQ7451-PQ7451.ZZZZ"
       },
       {
-        "button_text": "Central and South American Literature in Spanish 2001-present",
-        "call_number_ranges": "PQ7489.3-PQ7489.3.ZZZZ|PQ7499.3-PQ7499.3.ZZZZ|PQ7509.3-PQ7509.3.ZZZZ|PQ7519.3-PQ7519.3.ZZZZ|PQ7529.3-PQ7529.3.ZZZZ|PQ7539.3-PQ7539.3.ZZZZ|PQ7798.4-PQ7798.436.ZZZZ|PQ7889.3-PQ7889.3.ZZZZ|PQ8098.4-PQ8098.436.ZZZZ|PQ8180.4-PQ8180.436.ZZZZ|PQ8220.4-PQ8220.436.ZZZZ|PQ8259.3-PQ8259.3.ZZZZ|PQ8498.4-PQ8498.436.ZZZZ|PQ8520.4-PQ8520.436.ZZZZ|PQ8550.4-PQ8550.436.ZZZZ"
+        "button_text": "Central American Literature in Spanish to 1960",
+        "call_number_ranges": "PQ7489-PQ7489.ZZZZ|PQ7499-PQ7499.ZZZZ|PQ7509-PQ7509.ZZZZ|PQ7519-PQ7519.ZZZZ|PQ7529-PQ7529.ZZZZ|PQ7539-PQ7539.ZZZZ"
       },
       {
-        "button_text": "Central and South American Literature in Spanish 1961-2000",
-        "call_number_ranges": "PQ7489.2-PQ7489.2.ZZZZ|PQ7499.2-PQ7499.2.ZZZZ|PQ7509.2-PQ7509.2.ZZZZ|PQ7519.2-PQ7519.2.ZZZZ|PQ7529.2-PQ7529.2.ZZZZ|PQ7539.2-PQ7539.2.ZZZZ|PQ7798-PQ7798.36.ZZZZ|PQ7889.2-PQ7889.2.ZZZZ|PQ8098-PQ8098.36.ZZZZ|PQ8180-PQ8180.36.ZZZZ|PQ8220-PQ8220.36.ZZZZ|PQ8259.2-PQ8259.2.ZZZZ|PQ8498-PQ8498.36.ZZZZ|PQ8520-PQ8520.36.ZZZZ|PQ8550-PQ8550.36.ZZZZ"
+        "button_text": "Mexican Literature to 1960",
+        "call_number_ranges": "PQ7296-PQ7297.ZZZZ"
       },
       {
-        "button_text": "Central and South American Literature in Spanish to 1960",
-        "call_number_ranges": "PQ7489-PQ7489.ZZZZ|PQ7499-PQ7499.ZZZZ|PQ7509-PQ7509.ZZZZ|PQ7519-PQ7519.ZZZZ|PQ7529-PQ7529.ZZZZ|PQ7539-PQ7539.ZZZZ|PQ7796-PQ7797.ZZZZ|PQ7819-PQ7819.ZZZZ|PQ7889-PQ7889.ZZZZ|PQ8096-PQ8097.ZZZZ|PQ8179-PQ8179.ZZZZ|PQ8219-PQ8219.ZZZZ|PQ8239-PQ8239.ZZZZ|PQ8259-PQ8259.ZZZZ|PQ8496-PQ8497.ZZZZ|PQ8519-PQ8519.ZZZZ|PQ8549-PQ8549.ZZZZ|PQ8560-PQ8560.ZZZZ"
+        "button_text": "South American Literature in Spanish to 1960",
+        "call_number_ranges": "PQ7796-PQ7797.ZZZZ|PQ7819-PQ7819.ZZZZ|PQ7889-PQ7889.ZZZZ|PQ8096-PQ8097.ZZZZ|PQ8179-PQ8179.ZZZZ|PQ8219-PQ8219.ZZZZ|PQ8239-PQ8239.ZZZZ|PQ8259-PQ8259.ZZZZ|PQ8496-PQ8497.ZZZZ|PQ8519-PQ8519.ZZZZ|PQ8549-PQ8549.ZZZZ|PQ8560-PQ8560.ZZZZ"
       },
       {
-        "button_text": "Spanish Literature of Africa and Asia",
+        "button_text": "Spanish Literature of Africa, Asia, and the Pacific",
         "call_number_ranges": "PQ8617-PQ8619.ZZZZ|PQ8896-PQ8898.436.ZZZZ|PQ8909-PQ8909.ZZZZ|PQ8919-PQ8919.ZZZZ|PQ8929-PQ8929.ZZZZ"
       },
       {
