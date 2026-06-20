@@ -1394,7 +1394,7 @@
         "call_number_ranges": "PK6978-PK6978.9.999|PK6427.6.T3-PK6427.6.T3.999"
       },
       {
-        "button_text": "Persian Folk Literature (includes Iran, Tajikistan, Azerbaijan, Afghanistan)",
+        "button_text": "Persian Folk Literature (includes Iran, Tajikistan, Afghanistan)",
         "call_number_ranges": "GR290-GR291.2.999|GR300.5-GR300.52.999|GR302.5-GR302.9.999|PK6599-PK6599.999",
         "subject_heading_or": "Folk Literature, Persian|Iran--Folklore|Afghanistan--Folklore|Tajikistan--Folklore",
         "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&advanced_query=yes&omit_keys%5B%5D=page&q_row%5B%5D=GR290&search_field_row%5B%5D=callnumber&boolean_row%5B1%5D=OR&q_row%5B%5D=GR300.5&search_field_row%5B%5D=callnumber&boolean_row%5B2%5D=OR&q_row%5B%5D=GR302.5&search_field_row%5B%5D=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc&search_field=advanced"
