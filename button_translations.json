@@ -928,7 +928,7 @@
       "Collections of Persian Literature": "مجموعه‌های ادبیات فارسی",
       "Dari Literature": "ادبیات دری",
       "Persian Children's and Juvenile Literature": "ادبیات کودک و نوجوان فارسی",
-      "Persian Folk Literature (includes Iran, Tajikistan, Azerbaijan, Afghanistan)": "ادبیات عامیانه فارسی (شامل ایران، تاجیکستان، آذربایجان، افغانستان)",
+      "Persian Folk Literature (includes Iran, Tajikistan, Afghanistan)": "ادبیات عامیانه فارسی (شامل ایران، تاجیکستان، افغانستان)",
       "Persian Literature 1870-2000": "ادبیات فارسی ۱۸۷۰-۲۰۰۰",
       "Persian Literature 2001-present": "ادبیات فارسی ۲۰۰۱-تاکنون",
       "Persian Literature of South Asia": "ادبیات فارسی جنوب آسیا",
@@ -1335,9 +1335,9 @@
       "disclaimer": "Nəzərə alın ki, bu nəticələr IU kolleksiyalarını nəzərdən keçirməyə kömək etmək üçün verilir və tam olmaya bilər. Bəzi materiallar bu aralıqlardan kənarda yerləşə və ya ayrıca kataloqlaşdırıla bilər. Daha geniş əhatə üçün aşağıdakı “bütün kolleksiyaları nəzərdən keçirin” və açar söz axtarışı keçidlərindən istifadə edin. Elektron kitabların çağırış nömrələri olmur və bu nəticələrdə görünməyəcək; elektron kitabları tapmaq üçün aşağıdakı “Bütün fondları araşdır” keçidindən istifadə edin və yan paneldə format üzrə süzün.",
       "keyword_search": "IUCAT-da “Azerbaijani” sözünü açar söz kimi axtarın",
       "search_tip": "Axtarış məsləhəti: IUCAT nəticələr səhifənizin sol yan panelindəki filtrlərdən istifadə edərək müəllif, dil, il, format və digər meyarlara görə nəticələri daraldın.",
+      "survey_feedback": "Zəhmət olmasa bu axtarış aləti haqqında rəyinizi paylaşın",
       "still_looking": {
         "text": "Axtardığınızı hələ də tapa bilmirsiniz? Kitabxanaçı ilə əlaqə saxlayın və ya material alınmasını təklif edin.",
-        "survey_feedback": "Zəhmət olmasa bu axtarış aləti haqqında rəyinizi paylaşın",
         "librarian_text": "Kitabxanaçı ilə əlaqə saxlayın",
         "purchase_text": "material alınmasını təklif edin"
       },
@@ -1481,9 +1481,9 @@
       "disclaimer": "Da fatan a lura cewa waɗannan sakamakon an shirya su ne don taimaka muku bincika tarin IU, kuma wataƙila ba su ƙunshi komai ba. Wasu kayan na iya kasancewa a wajen waɗannan zanguna ko kuma an tsara su daban. Don faɗaɗa bincike, yi amfani da hanyoyin “bincika duk tarin” da binciken kalmar maɓalli a ƙasa. Ba a ba littattafan e-book lambobin kira ba, kuma ba za su bayyana a cikin waɗannan sakamakon ba; don samun e-book, yi amfani da hanyar haɗin “Explore all holdings” da ke ƙasa sannan ka tace ta tsarin fayil a gefen shafi.",
       "keyword_search": "Nemi “Hausa” a matsayin kalmar maɓalli a IUCAT",
       "search_tip": "Shawarwarin bincike: Yi amfani da matatun da ke gefen hagu na shafin sakamakon IUCAT don takaita ta marubuci, harshe, shekara, tsari, da ƙari.",
+      "survey_feedback": "Da fatan za ku raba ra'ayinku game da wannan kayan aikin bincike",
       "still_looking": {
         "text": "Har yanzu ba ku sami abin da kuke nema ba? Tuntuɓi ma’aikacin ɗakin karatu ko ba da shawarar sayen kayan karatu.",
-        "survey_feedback": "Da fatan za ku raba ra'ayinku game da wannan kayan aikin bincike",
         "librarian_text": "Tuntuɓi ma’aikacin ɗakin karatu",
         "purchase_text": "ba da shawarar sayen kayan karatu"
       },
