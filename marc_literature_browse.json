@@ -2387,18 +2387,6 @@
     ]
   },
   {
-    "MARC_Code": "chg",
-    "Language_Name": "Chagatai",
-    "language_facet": "Chagatai",
-    "options": [
-      {
-        "button_text": "Chagatai Literature",
-        "call_number_ranges": "PL53.A-PL53.ZZZZ",
-        "order": 1
-      }
-    ]
-  },
-  {
     "MARC_Code": "che",
     "Language_Name": "Chechen",
     "language_facet": "Chechen",
