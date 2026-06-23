@@ -844,7 +844,7 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL66.6-PL66.9.999",
     "Search_Type": "range",
-    "Disambiguation": ""
+    "Disambiguation": "Crimean Tatar"
   },
   {
     "MARC_Code": "hrv | scr",
@@ -4067,18 +4067,7 @@
     "Disambiguation": ""
   },
   {
-    "MARC_Code": "tar",
-    "Language_Name": "Tatar",
-    "Canonical_Display_Language": "Tatar",
-    "Aliases": "tatar | татарча | татар теле | татар | tatar tele | tatarça | تاتارچا | تاتار تلی | تاتار تئلئ | tatar",
-    "LCC_Subclass": "PK",
-    "Has_Literature_Range": "y",
-    "LCC_Literature_Ranges": "PL73.6-PL73.9.999",
-    "Search_Type": "range",
-    "Disambiguation": ""
-  },
-  {
-    "MARC_Code": "tat",
+    "MARC_Code": "tar | tat",
     "Language_Name": "Tatar",
     "Canonical_Display_Language": "Tatar",
     "Aliases": "tatar | татарча | татар теле | татар | tatar tele | tatarça | تاتارچا | تاتار تلی | تاتار تئلئ | tatar",
@@ -4086,7 +4075,7 @@
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL73.6-PL73.9.999",
     "Search_Type": "subclass",
-    "Disambiguation": ""
+    "Disambiguation": "Tatar (Volga Tatar)"
   },
   {
     "MARC_Code": "tel",
