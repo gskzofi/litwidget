@@ -645,7 +645,7 @@
     "LCC_Subclass": "PK",
     "Has_Literature_Range": "y",
     "LCC_Literature_Ranges": "PL53.6-PL53.9.999",
-    "Search_Type": "subclass",
+    "Search_Type": "range",
     "Disambiguation": ""
   },
   {
