@@ -2507,8 +2507,7 @@
     "MARC_Code": "uzb",
     "Language_Name": "Uzbek",
     "button_translations": {
-      "Collections of Uzbek Literature": "Oʻzbek adabiyoti to‘plamlari",
-      "Uzbek Literature: Individual Authors or Works": "Oʻzbek adabiyoti: alohida mualliflar yoki asarlar",
+      "Uzbek Literature": "Oʻzbek adabiyoti",
       "Uzbek Folk Literature": "Oʻzbek xalq adabiyoti",
       "Uzbek Children's and Juvenile Literature": "Oʻzbek bolalar va o‘smirlar adabiyoti"
     },
