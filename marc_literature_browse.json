@@ -2387,6 +2387,18 @@
     ]
   },
   {
+    "MARC_Code": "chg",
+    "Language_Name": "Chagatai",
+    "language_facet": "Chagatai",
+    "options": [
+      {
+        "button_text": "Chagatai Literature",
+        "call_number_ranges": "PL53.A-PL53.ZZZZ",
+        "order": 1
+      }
+    ]
+  },
+  {
     "MARC_Code": "che",
     "Language_Name": "Chechen",
     "language_facet": "Chechen",
@@ -3256,7 +3268,15 @@
         "button_text": "Sami Folk Literature",
         "call_number_ranges": "GR138.5-GR138.5.999",
         "subject_heading_or": "Folk literature, Sami|Sami (European people)--Folklore",
-        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR138.5&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
+        "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR138.5&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc",
+        "language_facet": [
+          "Sami",
+          "Northern Sami",
+          "Skolt Sami",
+          "Inari Sami",
+          "Lule Sami",
+          "Southern Sami"
+        ]
       }
     ],
     "language_note": "IU Libraries holds materials in several specific varieties of Sami — including <strong>Northern Sami</strong>, <strong>Skolt Sami</strong>, and <strong>Inari Sami</strong> — which have their own MARC language codes but share the same Library of Congress call number range as Sami generally. These results include all varieties. To limit results to a specific variety, use the Language filter in the IUCAT sidebar after searching."
