@@ -3228,9 +3228,16 @@
     ]
   },
   {
-    "MARC_Code": "smi",
+    "MARC_Code": "smi|lap|sme|smn|sms|smj|sma",
     "Language_Name": "Sami",
-    "language_facet": "Sami",
+    "language_facet": [
+      "Sami",
+      "Northern Sami",
+      "Skolt Sami",
+      "Inari Sami",
+      "Lule Sami",
+      "Southern Sami"
+    ]
     "options": [
       {
         "button_text": "Collections of Sami Literature",
@@ -3251,7 +3258,8 @@
         "subject_heading_or": "Folk literature, Sami|Sami (European people)--Folklore",
         "static_url": "https://iucat.iu.edu/catalog?utf8=%E2%9C%93&q=GR138.5&search_field=callnumber&sort=score+desc%2C+pub_date_sort+desc%2C+title_sort+asc"
       }
-    ]
+    ],
+    "language_note": "IU Libraries holds materials in several specific varieties of Sami — including <strong>Northern Sami</strong>, <strong>Skolt Sami</strong>, and <strong>Inari Sami</strong> — which have their own MARC language codes but share the same Library of Congress call number range as Sami generally. These results include all varieties. To limit results to a specific variety, use the Language filter in the IUCAT sidebar after searching."
   },
   {
     "MARC_Code": "snd",
