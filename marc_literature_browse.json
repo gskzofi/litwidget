@@ -73,16 +73,8 @@
         "call_number_ranges": "PJ3781-PJ3785.999"
       },
       {
-        "button_text": "Akkadian Moral Literature",
-        "call_number_ranges": "PJ3941-PJ3941.999"
-      },
-      {
-        "button_text": "Akkadian Philological Texts",
-        "call_number_ranges": "PJ3911-PJ3911.999"
-      },
-      {
         "button_text": "Akkadian Prose",
-        "call_number_ranges": "PJ3801-PJ3801.999|PJ3811-PJ3811.999"
+        "call_number_ranges": "PJ3801-PJ3801.999|PJ3811-PJ3811.999|PJ3941-PJ3941.999"
       },
       {
         "button_text": "Akkadian Scientific Literature",
